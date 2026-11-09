@@ -30,7 +30,7 @@
   {
    "at": 0,
    "video": "footage/phone2.mp4",
-   "big": "S27 LAUNCH?",
+   "big": "S27 LAUNCH HUA?",
    "color": "gold",
    "shake": true
   },
@@ -44,29 +44,32 @@
   },
   {
    "at": "why",
-   "img": "broll/s27_foc.jpg",
+   "video": "footage/phone.mp4",
    "tag": "BIS INDIA",
-   "big": "LISTED",
-   "color": "green"
+   "headline": {
+    "source": "FlickOnClick",
+    "date": "9 Nov 2026",
+    "title": "Samsung Galaxy S27 Spotted on BIS: Specs, Pro Model, Launch"
+   }
   },
   {
    "at": "means",
-   "video": "footage/phone.mp4",
+   "video": "footage/showroom.mp4",
    "tag": "EXPECTED",
    "big": "JAN-FEB?",
    "color": "gold"
   },
   {
    "at": "leak",
-   "img": "broll/s27_foc.jpg",
-   "tag": "LEAK",
-   "big": "S27 PRO",
+   "video": "footage/datacenter.mp4",
+   "tag": "LEAK, CONFIRMED NAHI",
+   "big": "2nm CHIP + S27 PRO",
    "color": "white"
   },
   {
    "at": "price",
-   "img": "broll/s27_sp.jpg",
-   "tag": "WEBSITE KA ANDAAZA",
+   "video": "footage/market.mp4",
+   "tag": "EK WEBSITE KA ANDAAZA",
    "big": "≈ ₹95,000?",
    "color": "red"
   },
