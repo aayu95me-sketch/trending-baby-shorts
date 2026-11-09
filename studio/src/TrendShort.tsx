@@ -12,8 +12,9 @@ import { Audio, Video } from "@remotion/media";
 import { DISPLAY, FPS, GOLD, GREEN, RED, useT } from "./Kit";
 
 type W = { w: string; start: number; end: number };
-type Counter = { from: number; to: number; label?: string; prefix?: string };
-type Scene = { at: string | number; video?: string; videos?: string[]; img?: string; big?: string; color?: string; tag?: string; counter?: Counter; shake?: boolean; note?: string; mascot?: string };
+type Counter = { from: number; to: number; label?: string; prefix?: string; suffix?: string };
+type Headline = { source: string; title: string; date?: string };
+type Scene = { at: string | number; video?: string; videos?: string[]; img?: string; big?: string; color?: string; tag?: string; counter?: Counter; shake?: boolean; note?: string; headline?: Headline; bars?: [string, number][]; barUnit?: string };
 type Save = { title: string; lines: string[][]; footer?: string };
 type Spec = { mascot?: boolean; note?: string; banner?: string; loopTail?: number; save?: Save; scenes: Scene[] };
 type TL = { total: number; cues: Record<string, number>; words: W[]; caps?: string[][] | null; saveAt?: number };
@@ -80,8 +81,46 @@ const Melt: React.FC<{ c: Counter; from: number; to: number; tag?: string }> = (
   return (
     <div style={{ position: "absolute", top: 380, width: "100%", display: "flex", flexDirection: "column", alignItems: "center", gap: 26 }}>
       {tag && <div style={{ fontFamily: DISPLAY, fontSize: 80, color: "#000", background: GOLD, borderRadius: 16, padding: "4px 30px", transform: "rotate(-3deg)" }}>{tag}</div>}
-      <div style={{ fontFamily: DISPLAY, fontSize: 150, color: col, transform: `translateX(${shake}px)`, ...stroke, textShadow: `0 10px 0 #000, 0 0 50px ${col}88` }}>{c.prefix ?? "₹"}{inr(v)}</div>
+      <div style={{ fontFamily: DISPLAY, fontSize: 150, color: col, transform: `translateX(${shake}px)`, ...stroke, textShadow: `0 10px 0 #000, 0 0 50px ${col}88` }}>{c.prefix ?? "₹"}{inr(v)}{c.suffix ?? ""}</div>
       {c.label && done && <div style={{ fontFamily: DISPLAY, fontSize: 120, color: GOLD, transform: `scale(${1.6 - 0.6 * Math.min(1.1, p)})`, ...stroke }}>{c.label}</div>}
+    </div>
+  );
+};
+
+// A news headline card we draw ourselves (source + headline + date): real attribution, never a blocked page.
+const HeadlineCard: React.FC<{ h: Headline; at: number; tag?: string }> = ({ h, at, tag }) => {
+  const f = useCurrentFrame(); const { fps } = useVideoConfig();
+  const p = spring({ frame: f - Math.round(at * fps), fps, config: { damping: 12, mass: 0.6 } });
+  return (
+    <div style={{ position: "absolute", top: 300, left: 70, right: 70, transform: `translateY(${(1 - p) * 300}px) rotate(${(1 - p) * -5 - 1.5}deg)`, opacity: Math.min(1, p * 2) }}>
+      {tag && <div style={{ fontFamily: DISPLAY, fontSize: 64, color: "#000", background: GOLD, borderRadius: 14, padding: "2px 24px", display: "inline-block", marginBottom: 18 }}>{tag}</div>}
+      <div style={{ background: "#fff", borderRadius: 28, padding: "30px 36px", boxShadow: "0 30px 80px #000c", borderLeft: `16px solid ${RED}` }}>
+        <div style={{ fontFamily: DISPLAY, fontSize: 40, letterSpacing: 2, color: RED }}>{h.source.toUpperCase()}{h.date ? ` · ${h.date.toUpperCase()}` : ""}</div>
+        <div style={{ fontFamily: "Georgia, serif", fontWeight: 700, fontSize: 58, lineHeight: 1.18, color: "#111", marginTop: 12 }}>{h.title}</div>
+      </div>
+    </div>
+  );
+};
+
+// Day-by-day bars that grow one after another (stat cards get saved).
+const Bars: React.FC<{ bars: [string, number][]; unit?: string; at: number; tag?: string }> = ({ bars, unit, at, tag }) => {
+  const t = useT();
+  const max = Math.max(...bars.map((b) => b[1]));
+  return (
+    <div style={{ position: "absolute", top: 330, left: 80, right: 80 }}>
+      {tag && <div style={{ fontFamily: DISPLAY, fontSize: 64, color: "#000", background: GOLD, borderRadius: 14, padding: "2px 24px", display: "inline-block", marginBottom: 24 }}>{tag}</div>}
+      <div style={{ background: "#000b", borderRadius: 28, padding: "26px 30px" }}>
+        {bars.map(([label, v], i) => {
+          const k = interpolate(t, [at + 0.12 * i, at + 0.12 * i + 0.4], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+          const top = v === max;
+          return (
+            <div key={i} style={{ display: "flex", alignItems: "center", gap: 18, margin: "12px 0" }}>
+              <div style={{ width: 150, fontFamily: DISPLAY, fontSize: 46, color: "#fff" }}>{label}</div>
+              <div style={{ flex: 1 }}><div style={{ width: `${(v / max) * 100 * k}%`, height: 64, borderRadius: 12, background: top ? GREEN : GOLD }} /></div>
+              <div style={{ width: 170, textAlign: "right", fontFamily: DISPLAY, fontSize: 48, color: top ? GREEN : "#fff", opacity: k }}>{v}{unit ?? ""}</div>
+            </div>);
+        })}
+      </div>
     </div>
   );
 };
@@ -186,7 +225,7 @@ const TrendShort: React.FC<Props> = ({ dir, tl, spec }) => {
       </AbsoluteFill>
       <AbsoluteFill style={{ background: "linear-gradient(#0009 0%, #0000 30%, #0000 52%, #0008 68%, #000c 100%)" }} />
       {flash > 0 && <AbsoluteFill style={{ background: "#fff", opacity: 0.55 * flash }} />}
-      {s.counter ? <Melt key={`m${idx}`} c={s.counter} from={from} to={to} tag={s.tag} /> : <Big key={`b${idx}`} s={s} at={from} />}
+      {s.headline ? <HeadlineCard key={`h${idx}`} h={s.headline} at={from} tag={s.tag} /> : s.bars ? <Bars key={`r${idx}`} bars={s.bars} unit={s.barUnit} at={from} tag={s.tag} /> : s.counter ? <Melt key={`m${idx}`} c={s.counter} from={from} to={to} tag={s.tag} /> : <Big key={`b${idx}`} s={s} at={from} />}
       {t < tl.total && (tl.caps ? <PillCaptions words={tl.words} caps={tl.caps} /> : <Captions words={tl.words} />)}
       {spec.banner && <div style={{ position: "absolute", top: 64, left: 50, fontFamily: DISPLAY, fontSize: 40, letterSpacing: 2, color: "#000", background: GOLD, borderRadius: 10, padding: "2px 18px" }}>{spec.banner}</div>}
             {spec.save && tl.saveAt !== undefined && t >= tl.saveAt && t < tl.saveAt + SAVE && <SaveCard save={spec.save} at={tl.saveAt} />}
