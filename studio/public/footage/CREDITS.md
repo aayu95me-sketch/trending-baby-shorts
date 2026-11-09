@@ -1,0 +1,17 @@
+# Footage
+All clips: Mixkit (mixkit.co) free stock video licence, no attribution required.
+- ring: 5206-360.mp4
+- fireworks: 4151-1080.mp4
+- party: 48636-720.mp4
+- phone: 4915-1080.mp4
+- phone2: 14669-360.mp4
+- bags: 21331-360.mp4
+- glasses: 221-1080.mp4
+- office: 42664-360.mp4
+- laptopman: 4830-360.mp4
+- milk: 20031-720.mp4
+- milkpour: 8425-720.mp4
+- kidwrite: 50116-360.mp4
+- classroom: 36046-360.mp4
+- students: 4519-1080.mp4
+- flats: 41153-360.mp4

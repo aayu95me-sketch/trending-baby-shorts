@@ -1,0 +1,82 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCE: SACNILK VIA THE WEEK · DAY 5 TILL 7 PM, EARLY ESTIMATE",
+ "loopTail": 0.7,
+ "save": {
+  "title": "RAMAYANA BOX OFFICE",
+  "lines": [
+   [
+    "DAY 5 (TILL 7 PM)",
+    "₹81 CR NET",
+    "green"
+   ],
+   [
+    "5 DIN INDIA NET",
+    "≈ ₹320 CR"
+   ],
+   [
+    "4 DIN WORLDWIDE",
+    "₹507 CR GROSS"
+   ],
+   [
+    "BUDGET (2 PARTS)",
+    "₹4,000 CR",
+    "red"
+   ]
+  ],
+  "footer": "SACNILK VIA THE WEEK · FOLLOW: DOUBT CLEAR"
+ },
+ "scenes": [
+  {
+   "at": 0,
+   "video": "footage/party.mp4",
+   "big": "₹4,000 CR?",
+   "color": "gold",
+   "shake": true
+  },
+  {
+   "at": "day5",
+   "img": "broll/ram_week.jpg",
+   "tag": "DAY 5 · MONDAY",
+   "big": "₹81 CR",
+   "color": "green"
+  },
+  {
+   "at": "total",
+   "video": "footage/market.mp4",
+   "tag": "5 DIN INDIA NET",
+   "counter": {
+    "from": 0,
+    "to": 3200000000,
+    "label": "≈ ₹320 CR"
+   }
+  },
+  {
+   "at": "world",
+   "img": "broll/ram_fb.jpg",
+   "tag": "4 DIN WORLDWIDE",
+   "big": "₹507 CR",
+   "color": "gold"
+  },
+  {
+   "at": "budget",
+   "video": "footage/speed.mp4",
+   "tag": "SACH",
+   "big": "2 PARTS KA BUDGET",
+   "color": "red",
+   "shake": true
+  },
+  {
+   "at": "end",
+   "video": "footage/party.mp4",
+   "big": "RATING DO",
+   "color": "gold"
+  },
+  {
+   "at": "end",
+   "video": "footage/party.mp4",
+   "big": "₹4,000 CR?",
+   "color": "gold"
+  }
+ ]
+}

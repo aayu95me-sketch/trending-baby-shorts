@@ -1,0 +1,91 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCE: CPCB, DPCC VIA BUSINESS STANDARD · 9 NOV 2026",
+ "loopTail": 0.7,
+ "save": {
+  "title": "DELHI AQI · 9 NOV",
+  "lines": [
+   [
+    "CPCB MAX SCALE",
+    "500"
+   ],
+   [
+    "DELHI, 7 AM",
+    "368 VERY POOR",
+    "red"
+   ],
+   [
+    "SEVERE STATIONS",
+    "15",
+    "red"
+   ],
+   [
+    "APPS SHOWING 1700",
+    "ALAG FORMULA"
+   ]
+  ],
+  "footer": "SOURCE: CPCB VIA BUSINESS STANDARD · FOLLOW: DOUBT CLEAR"
+ },
+ "scenes": [
+  {
+   "at": 0,
+   "video": "footage/fireworks.mp4",
+   "big": "AQI 1700?",
+   "color": "red",
+   "shake": true
+  },
+  {
+   "at": "truth",
+   "img": "broll/aqi_bs.jpg",
+   "tag": "SACH",
+   "big": "MAX 500",
+   "color": "green"
+  },
+  {
+   "at": "apps",
+   "video": "footage/phone.mp4",
+   "tag": "1700 = PRIVATE APPS",
+   "big": "ALAG FORMULA",
+   "color": "white"
+  },
+  {
+   "at": "real",
+   "img": "broll/aqi_bs.jpg",
+   "tag": "CPCB · 7 AM",
+   "counter": {
+    "from": 0,
+    "to": 368,
+    "prefix": "AQI ",
+    "label": "VERY POOR"
+   }
+  },
+  {
+   "at": "but",
+   "video": "footage/worried.mp4",
+   "tag": "SEVERE 400+",
+   "big": "15 JAGAH",
+   "color": "red",
+   "shake": true
+  },
+  {
+   "at": "pm",
+   "video": "footage/hospital.mp4",
+   "tag": "PM2.5 AKSHARDHAM",
+   "big": "50x WHO",
+   "color": "red",
+   "note": "HOURLY READING VS WHO 24-HOUR LIMIT"
+  },
+  {
+   "at": "end",
+   "video": "footage/stress.mp4",
+   "big": "MASK PEHNO",
+   "color": "gold"
+  },
+  {
+   "at": "end",
+   "video": "footage/fireworks.mp4",
+   "big": "AQI 1700?",
+   "color": "red"
+  }
+ ]
+}

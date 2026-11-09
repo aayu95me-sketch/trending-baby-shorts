@@ -1,0 +1,93 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: NYT, FT, BLOOMBERG VIA TECHCRUNCH · NVIDIA BOARD STATEMENT 8 NOV",
+ "loopTail": 0.7,
+ "save": {
+  "title": "ALICE HUANG CASE",
+  "lines": [
+   [
+    "JASOOSI",
+    "SIRF DAAWA",
+    "red"
+   ],
+   [
+    "AFFAIR",
+    "MAANA (REPORTS)"
+   ],
+   [
+    "NVIDIA BOARD",
+    "JAANCH SHURU",
+    "green"
+   ],
+   [
+    "RAAZ LEAK?",
+    "SABUT NAHI"
+   ]
+  ],
+  "footer": "AS OF 9 NOV 2026 · FOLLOW: DOUBT CLEAR"
+ },
+ "scenes": [
+  {
+   "at": 0,
+   "video": "footage/laptopman.mp4",
+   "big": "JASOOS?",
+   "color": "red",
+   "shake": true
+  },
+  {
+   "at": "who",
+   "img": "broll/huang_tc.jpg",
+   "tag": "ALICE HUANG",
+   "big": "MEGASPEED",
+   "color": "gold"
+  },
+  {
+   "at": "memo",
+   "video": "footage/typing.mp4",
+   "tag": "MEMO KA DAAWA",
+   "big": "CHINA?",
+   "color": "red"
+  },
+  {
+   "at": "claim",
+   "video": "footage/office.mp4",
+   "tag": "SACH",
+   "big": "SAABIT NAHI",
+   "color": "green",
+   "shake": true
+  },
+  {
+   "at": "affair",
+   "img": "broll/huang_tc2.jpg",
+   "tag": "REPORTS",
+   "big": "AFFAIR MAANA",
+   "color": "white"
+  },
+  {
+   "at": "probe",
+   "img": "broll/huang_tc2.jpg",
+   "tag": "NVIDIA BOARD",
+   "big": "JAANCH",
+   "color": "gold"
+  },
+  {
+   "at": "board",
+   "video": "footage/laptopman.mp4",
+   "tag": "BOARD",
+   "big": "KOI SABUT NAHI",
+   "color": "green"
+  },
+  {
+   "at": "end",
+   "video": "footage/office.mp4",
+   "big": "SIRF ILZAAM",
+   "color": "gold"
+  },
+  {
+   "at": "end",
+   "video": "footage/laptopman.mp4",
+   "big": "JASOOS?",
+   "color": "red"
+  }
+ ]
+}

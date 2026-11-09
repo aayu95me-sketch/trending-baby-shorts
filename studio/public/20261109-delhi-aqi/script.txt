@@ -1,0 +1,7 @@
+AQI@hook [1700|satrah sau]? Dilli ki hawa sach mein itni kharab hai?
+Sach@truth yeh hai... sarkari CPCB ka AQI [500|paanch sau] se upar jaata hi nahi.
+Satrah@apps sau wale number private apps ke hain, alag formula se.
+Asli@real AQI, nau November subah saat baje, [368|teen sau adsath]. Very poor.
+Lekin@but darna zaroori hai. [15|pandrah] jagah severe, chaar sau se upar.
+Akshardham@pm mein [PM2.5|PM two point five], WHO limit se [50 guna|pachaas guna] zyada.
+Number@end fake, khatra asli. Mask pehno, aur apne shehar ka AQI comment karo.

@@ -1,0 +1,86 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "OFFICIAL: NOTHING YET · LEAKS VIA FLICKONCLICK, SMARTPRIX · 9 NOV 2026",
+ "loopTail": 0.7,
+ "save": {
+  "title": "GALAXY S27 STATUS",
+  "lines": [
+   [
+    "LAUNCH",
+    "ABHI NAHI",
+    "red"
+   ],
+   [
+    "BIS INDIA",
+    "LISTED",
+    "green"
+   ],
+   [
+    "EXPECTED",
+    "JAN-FEB 2027"
+   ],
+   [
+    "₹94,990",
+    "SIRF ANDAAZA"
+   ]
+  ],
+  "footer": "AS OF 9 NOV 2026 · FOLLOW: DOUBT CLEAR"
+ },
+ "scenes": [
+  {
+   "at": 0,
+   "video": "footage/phone2.mp4",
+   "big": "S27 LAUNCH?",
+   "color": "gold",
+   "shake": true
+  },
+  {
+   "at": "truth",
+   "video": "footage/showroom.mp4",
+   "tag": "SACH",
+   "big": "ABHI NAHI",
+   "color": "red",
+   "shake": true
+  },
+  {
+   "at": "why",
+   "img": "broll/s27_foc.jpg",
+   "tag": "BIS INDIA",
+   "big": "LISTED",
+   "color": "green"
+  },
+  {
+   "at": "means",
+   "video": "footage/phone.mp4",
+   "tag": "EXPECTED",
+   "big": "JAN-FEB?",
+   "color": "gold"
+  },
+  {
+   "at": "leak",
+   "img": "broll/s27_foc.jpg",
+   "tag": "LEAK",
+   "big": "S27 PRO",
+   "color": "white"
+  },
+  {
+   "at": "price",
+   "img": "broll/s27_sp.jpg",
+   "tag": "WEBSITE KA ANDAAZA",
+   "big": "₹94,990?",
+   "color": "red"
+  },
+  {
+   "at": "end",
+   "video": "footage/phone2.mp4",
+   "big": "FOLLOW KARO",
+   "color": "gold"
+  },
+  {
+   "at": "end",
+   "video": "footage/phone2.mp4",
+   "big": "S27 LAUNCH?",
+   "color": "gold"
+  }
+ ]
+}
