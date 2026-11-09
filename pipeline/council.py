@@ -56,6 +56,15 @@ FORMAT = """Answer in this exact shape:
 ## Viral chance after your fixes: Y%"""
 
 
+def safe(fn):
+    """Run one member's call; a failure is logged and the other member still runs."""
+    try:
+        return fn()
+    except SystemExit as e:
+        print("member failed:", e, flush=True)
+        return None, None
+
+
 def save(name, served, text):
     (d / name).write_text(f"<!-- raw reply, unedited. model: {served}; {stamp()} -->\n\n{text.strip()}\n", encoding="utf-8")
 
@@ -71,8 +80,11 @@ def gemini(parts):
     last = ""
     for model in gmodels():
         for attempt in range(3):
-            r = requests.post(f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent", headers={"x-goog-api-key": GK},
-                              json={"contents": [{"parts": parts}], "generationConfig": {"temperature": 0.4}}, timeout=600)
+            try:
+                r = requests.post(f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent", headers={"x-goog-api-key": GK},
+                                  json={"contents": [{"parts": parts}], "generationConfig": {"temperature": 0.4}}, timeout=600)
+            except requests.RequestException as e:
+                last = f"{model} {e}"; print(last, flush=True); time.sleep(15 * (attempt + 1)); continue
             if r.status_code == 200:
                 ps = r.json()["candidates"][0]["content"]["parts"]
                 return model, "".join(p.get("text", "") for p in ps if not p.get("thought"))
@@ -84,8 +96,11 @@ def groq(text):
     last = ""
     for model in ("openai/gpt-oss-120b", "llama-3.3-70b-versatile", "openai/gpt-oss-20b"):
         for attempt in range(3):
-            r = requests.post("https://api.groq.com/openai/v1/chat/completions", headers={"Authorization": "Bearer " + QK},
-                              json={"model": model, "temperature": 0.4, "max_completion_tokens": 3500, "messages": [{"role": "user", "content": text}]}, timeout=300)
+            try:
+                r = requests.post("https://api.groq.com/openai/v1/chat/completions", headers={"Authorization": "Bearer " + QK},
+                                  json={"model": model, "temperature": 0.4, "max_completion_tokens": 3500, "messages": [{"role": "user", "content": text}]}, timeout=300)
+            except requests.RequestException as e:
+                last = f"{model} {e}"; print(last, flush=True); time.sleep(20 * (attempt + 1)); continue
             if r.status_code == 200:
                 return model, r.json()["choices"][0]["message"]["content"]
             if r.status_code in (400, 404):
@@ -102,13 +117,14 @@ if not f.exists():
     parts = [{"text": "--- THE REEL (watch and listen) ---"}, {"inline_data": {"mime_type": "video/mp4", "data": base64.b64encode(video.read_bytes()).decode()}}] if video.exists() else []
     parts.append({"text": BASE + "\n\nYou watched and heard the reel above. Listen closely to the accent, the numbers, names and currency words. "
                   "Score alone; you have not seen anyone else's scores. Under 900 words."})
-    served, text = gemini(parts); save(f.name, served, text); print("gemini r1", served, flush=True)
+    served, text = safe(lambda: gemini(parts))
+    if text: save(f.name, served, text); print("gemini r1", served, flush=True)
 
 f = d / "round1-gptoss.md"
 if not f.exists():
-    served, text = groq(BASE + "\n\nYou cannot watch the video; judge voice from the transcript and timing, visuals from the scene list. "
-                        "Score alone; you have not seen anyone else's scores. Under 800 words.")
-    save(f.name, served, text); print("gptoss r1", served, flush=True)
+    served, text = safe(lambda: groq(BASE + "\n\nYou cannot watch the video; judge voice from the transcript and timing, visuals from the scene list. "
+                        "Score alone; you have not seen anyone else's scores. Under 800 words."))
+    if text: save(f.name, served, text); print("gptoss r1", served, flush=True)
 
 g1, o1, c0 = read(d / "round1-gemini.md"), read(d / "round1-gptoss.md"), read(d / "claude-brief.md")
 R2 = (f"{GOAL}\n{CONCEPT}\n{RULES}\n\n{PACK}\n\nRound 2 (rebuttal). Below are the other member's round 1 and Claude's brief (written before seeing any reply). "
