@@ -93,7 +93,7 @@ const Melt: React.FC<{ c: Counter; from: number; to: number; tag?: string }> = (
   const col = `rgb(255, ${Math.round(255 - 178 * red)}, ${Math.round(255 - 178 * red)})`;
   const colour = c.to > c.from ? GOLD : col; // a number that grows stays gold; one that melts turns red
   return (
-    <div style={{ position: "absolute", top: s.low ? 860 : 380, width: "100%", display: "flex", flexDirection: "column", alignItems: "center", gap: 26 }}>
+    <div style={{ position: "absolute", top: 380, width: "100%", display: "flex", flexDirection: "column", alignItems: "center", gap: 26 }}>
       {tag && <div style={{ fontFamily: DISPLAY, fontSize: 80, color: "#000", background: GOLD, borderRadius: 16, padding: "4px 30px", transform: "rotate(-3deg)" }}>{tag}</div>}
       <div style={{ fontFamily: DISPLAY, fontSize: 150, color: colour, transform: `translateX(${shake}px)`, ...stroke, textShadow: `0 10px 0 #000, 0 0 50px ${colour}88` }}>{c.prefix ?? "₹"}{inr(v)}{c.suffix ?? ""}</div>
       {c.label && done && <div style={{ fontFamily: DISPLAY, fontSize: 120, color: GOLD, transform: `scale(${1.6 - 0.6 * Math.min(1.1, p)})`, ...stroke }}>{c.label}</div>}
