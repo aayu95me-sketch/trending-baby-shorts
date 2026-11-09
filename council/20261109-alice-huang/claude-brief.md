@@ -1,17 +1,10 @@
-# Claude (leader), round 0: Alice Huang reel (30.3 s). Written before any council reply.
+# Claude (leader), round 0, v3: new visuals. Written before any council reply.
+Ayush's feedback on v2 (9 Nov): "I don't like the visuals in the background. I want realistic visuals of the topic that sync with the script. And effects must be eye pleasant."
 
-| Part | Score | Viral-help % | Reason |
-|---|---|---|---|
-| Script | 6 | 30% | "Jasoos?" + "who is she" matches the searches (alice huang age, jensen huang wife). Safe wording (allegation vs confirmed). But Indian viewers may not know Jensen Huang: the hook needs "duniya ki sabse badi chip company ka boss". |
-| Voice | 6 | 25% | Names Jensen/Alice/Megaspeed need checking. |
-| Visuals | 4 | 15% | Stock laptop/hair footage repeats, no face or real image of the people, both headline screenshots failed so the fallback footage repeats. Low visual payoff. |
-| Whole reel | 5 | 20% | Gossip + spy angle is clickable, but visuals are flat and 30 s is long. |
+What changed in v3 (script and voice same as the version the council agreed on):
+- Every line now shows the real subject of that line: real photos of the people, places and products (news lead photos and Wikimedia Commons), no generic stock.
+- Effects: slow smooth zoom/pan, 0.4 s crossfades; removed jump crops every 0.9 s, white flash, shake, click sounds; softer text entrance.
+- Faces kept clear: big text moves low when a face is in the photo. Photo credits shown small at the bottom.
 
-Viral chance as is: about 10%.
-
-My fixes:
-1. Hook: "Duniya ki sabse valuable company Nvidia ke boss, aur ek jasoos?" (adds stakes for Indian viewers).
-2. Headline cards we draw (TechCrunch, Nvidia board statement) instead of failed screenshots.
-3. Add a 3-row "SACH / DAAWA / JAANCH" card mid-reel (confirmed vs alleged), keeps the honesty visual.
-4. Cut to about 24 s (merge "memo" and "sirf daawa" lines).
-Viral chance after fixes: about 18%.
+My scores: Script 7 (unchanged), Voice 6, Visuals 7 (was 4-5), Whole reel 6.
+Judge mainly the VISUALS: does each line show the right real thing at the right moment, is anything off-topic, ugly, blurry or covering a face, and is frame 1 strong enough to stop a scroll?
