@@ -1,17 +1,10 @@
-# Claude (leader), round 0: Ramayana box office reel (24.7 s). Written before any council reply.
+# Claude (leader), round 0, v3: new visuals. Written before any council reply.
+Ayush's feedback on v2 (9 Nov): "I don't like the visuals in the background. I want realistic visuals of the topic that sync with the script. And effects must be eye pleasant."
 
-| Part | Score | Viral-help % | Reason |
-|---|---|---|---|
-| Script | 7 | 35% | "₹4,000 crore wapas aayenge?" is a strong doubt; the reveal (that is the 2-part combined budget) is genuinely new for most viewers. Length good (25 s). |
-| Voice | 6 | 25% | Check numbers: ikyaasi crore, teen sau bees crore, paanch sau saat crore. |
-| Visuals | 4 | 15% | BROKEN: day-5 screenshot is an "Access Denied" page. Counter shows "₹3,20,00,00,000" which is unreadable; tomatoes footage is unrelated; no film imagery at all. |
-| Whole reel | 5 | 25% | Hot topic (100K+), good angle, but visuals look generic, not "Ramayana". |
+What changed in v3 (script and voice same as the version the council agreed on):
+- Every line now shows the real subject of that line: real photos of the people, places and products (news lead photos and Wikimedia Commons), no generic stock.
+- Effects: slow smooth zoom/pan, 0.4 s crossfades; removed jump crops every 0.9 s, white flash, shake, click sounds; softer text entrance.
+- Faces kept clear: big text moves low when a face is in the photo. Photo credits shown small at the bottom.
 
-Viral chance as is: about 12%.
-
-My fixes:
-1. Headline cards instead of screenshots.
-2. Counter in crore ("₹0 CR -> ₹320 CR"), not the full rupee figure.
-3. Replace tomatoes/champagne with cinema/crowd/epic-looking footage (temple, fire, crowd) from free stock.
-4. Add a day-by-day bar card (64.9, 48.1, 69.8, 56.2, 81 cr) for 1.5 s: people save stat cards.
-Viral chance after fixes: about 22%.
+My scores: Script 7 (unchanged), Voice 6, Visuals 7 (was 4-5), Whole reel 6.
+Judge mainly the VISUALS: does each line show the right real thing at the right moment, is anything off-topic, ugly, blurry or covering a face, and is frame 1 strong enough to stop a scroll?
