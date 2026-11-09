@@ -29,74 +29,94 @@
  "scenes": [
   {
    "at": 0,
-   "video": "footage/datacenter.mp4",
    "tag": "NVIDIA CEO",
    "big": "JASOOS?",
    "color": "red",
-   "shake": true
+   "videos": [
+    "20261109-alice-huang/real/hook-3.jpg",
+    "20261109-alice-huang/real/who-1.jpg"
+   ],
+   "focus": "35% 30%",
+   "credit": "JENSEN HUANG: A. EIDESVIK CC BY-SA · WIKIMEDIA / HNGN",
+   "low": true
   },
   {
    "at": "who",
-   "video": "footage/datacenter2.mp4",
    "tag": "ALICE HUANG · MEGASPEED",
    "headline": {
     "source": "TechCrunch",
     "date": "7 Nov 2026",
     "title": "Chinese exec was recruited to spy on Nvidia CEO, according to US intelligence memo"
-   }
+   },
+   "img": "20261109-alice-huang/real/who-4.jpg",
+   "credit": "SINGAPORE: B. MORIN CC BY-SA · WIKIMEDIA"
   },
   {
    "at": "memo",
-   "video": "footage/typing.mp4",
    "tag": "MEMO KA DAAWA",
    "big": "CHINA?",
-   "color": "red"
+   "color": "red",
+   "img": "20261109-alice-huang/real/memo-0.jpg",
+   "credit": "PHOTO: TECHCRUNCH",
+   "low": true
   },
   {
    "at": "claim",
-   "video": "footage/datacenter.mp4",
    "tag": "SACH",
    "big": "SAABIT NAHI",
-   "color": "green"
+   "color": "green",
+   "img": "20261109-alice-huang/real/hook-1.jpg",
+   "focus": "50% 30%",
+   "credit": "A. EIDESVIK CC BY-SA · WIKIMEDIA",
+   "low": true
   },
   {
    "at": "affair",
-   "video": "footage/office.mp4",
    "tag": "REPORTS",
    "headline": {
     "source": "TechCrunch",
     "date": "8 Nov 2026",
     "title": "Nvidia says it's investigating CEO Jensen Huang's relationship with possible Chinese spy"
-   }
+   },
+   "img": "20261109-alice-huang/real/probe-3.jpg",
+   "credit": "NVIDIA HQ: COOLCAESAR CC BY-SA · WIKIMEDIA"
   },
   {
    "at": "probe",
-   "video": "footage/datacenter2.mp4",
    "tag": "SACH vs DAAWA",
    "headline": {
     "source": "Doubt Clear",
     "title": "Jasoosi: sirf daawa. Affair: maana (reports). Board ki jaanch: shuru."
-   }
+   },
+   "img": "20261109-alice-huang/real/probe-2.jpg",
+   "credit": "W. BUCKNER CC BY · WIKIMEDIA"
   },
   {
    "at": "board",
-   "video": "footage/datacenter.mp4",
    "tag": "NVIDIA BOARD",
    "big": "KOI SABUT NAHI",
-   "color": "green"
+   "color": "green",
+   "img": "20261109-alice-huang/real/board-0.jpg",
+   "fit": "blur",
+   "credit": "NVIDIA"
   },
   {
    "at": "end",
-   "video": "footage/datacenter2.mp4",
    "big": "SHARE KARO",
-   "color": "gold"
+   "color": "gold",
+   "img": "20261109-alice-huang/real/hook-0.jpg",
+   "focus": "50% 25%",
+   "credit": "PMO INDIA, GODL · WIKIMEDIA",
+   "low": true
   },
   {
    "at": "end",
-   "video": "footage/datacenter.mp4",
    "tag": "NVIDIA CEO",
    "big": "JASOOS?",
-   "color": "red"
+   "color": "red",
+   "img": "20261109-alice-huang/real/hook-3.jpg",
+   "focus": "35% 30%",
+   "low": true
   }
  ]
 }

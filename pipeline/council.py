@@ -46,7 +46,8 @@ PARTS = """Judge 4 parts, each 0-10 (10 = best possible for going viral) with th
 5x a typical new-channel view count, and the single highest-impact fix:
 1 SCRIPT (hook in the first 1.5 s, the doubt, the truth/reveal, pace, one idea per line, ending/CTA, accuracy)
 2 VOICE (Indian accent, energy, clarity, numbers and names said right, speed)
-3 VISUALS (frame 1 scroll-stop, cut pace, caption readability on a phone, text size and time on screen >= 1.5 s, footage relevance)
+3 VISUALS (Ayush, 9 Nov: realistic visuals OF THE TOPIC that sync with each line, no generic stock; effects must be eye-pleasing.
+  Judge: does every line show the real person/place/thing being said, frame 1 scroll-stop, smoothness, captions readable, faces not covered by text)
 4 WHOLE REEL (would a stranger watch to the end, comment, share, follow?)"""
 FORMAT = """Answer in this exact shape:
 ## Goal (restated)

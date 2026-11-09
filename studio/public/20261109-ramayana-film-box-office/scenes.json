@@ -29,15 +29,15 @@
  "scenes": [
   {
    "at": 0,
-   "video": "footage/temple.mp4",
    "tag": "RAMAYANA BOX OFFICE",
    "big": "₹4,000 CR?",
    "color": "gold",
-   "shake": true
+   "img": "20261109-ramayana-film-box-office/real/hook-0.jpg",
+   "fit": "blur",
+   "credit": "POSTER VIA GULF NEWS"
   },
   {
    "at": "day5",
-   "video": "footage/cinema.mp4",
    "tag": "INDIA NET (₹ CR) · D5 TILL 7 PM",
    "bars": [
     [
@@ -60,11 +60,12 @@
      "DAY 5",
      81
     ]
-   ]
+   ],
+   "img": "20261109-ramayana-film-box-office/real/day5-1.jpg",
+   "credit": "STILL VIA OUTLOOK"
   },
   {
    "at": "total",
-   "video": "footage/cinema2.mp4",
    "tag": "5 DIN INDIA NET",
    "counter": {
     "from": 0,
@@ -72,34 +73,46 @@
     "prefix": "₹",
     "suffix": " CR",
     "label": "≈ ₹320 CR"
-   }
+   },
+   "img": "20261109-ramayana-film-box-office/real/day5-0.jpg",
+   "credit": "STILL VIA SACNILK"
   },
   {
    "at": "world",
-   "video": "footage/crowd.mp4",
    "tag": "4 DIN WORLDWIDE GROSS",
    "big": "₹507 CR",
-   "color": "gold"
+   "color": "gold",
+   "img": "20261109-ramayana-film-box-office/real/total-2.jpg",
+   "fit": "blur",
+   "credit": "STILL VIA FILMIBEAT"
   },
   {
    "at": "budget",
-   "video": "footage/temple.mp4",
    "tag": "SACH",
    "big": "2 PARTS KA BUDGET",
-   "color": "red"
+   "color": "red",
+   "videos": [
+    "20261109-ramayana-film-box-office/real/budget-0.jpg",
+    "20261109-ramayana-film-box-office/real/budget-2.jpg"
+   ],
+   "focus": "50% 25%",
+   "credit": "BOLLYWOOD HUNGAMA CC BY / RAGALAHARI CC BY-SA · WIKIMEDIA",
+   "low": true
   },
   {
    "at": "end",
-   "video": "footage/cinema.mp4",
    "big": "HAAN YA NAA?",
-   "color": "gold"
+   "color": "gold",
+   "img": "20261109-ramayana-film-box-office/real/total-0.jpg",
+   "credit": "POSTER VIA KOIMOI"
   },
   {
    "at": "end",
-   "video": "footage/temple.mp4",
    "tag": "RAMAYANA BOX OFFICE",
    "big": "₹4,000 CR?",
-   "color": "gold"
+   "color": "gold",
+   "img": "20261109-ramayana-film-box-office/real/hook-0.jpg",
+   "fit": "blur"
   }
  ]
 }

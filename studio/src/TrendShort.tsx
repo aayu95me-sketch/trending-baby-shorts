@@ -1,11 +1,15 @@
 // Doubt Clear Short: one trending topic, one doubt, one true answer with the source on screen.
 // Built from Chunav Diary's "Paisa ka Sach" template: real footage or a real headline screenshot under every beat,
-// a jump cut every ~0.9 s, a flash + impact on scene changes, 1-3 word captions synced to the voice, a save card, a loop tail.
+// real photos/clips of the topic under every line, slow smooth zoom/pan, soft crossfades between shots (Ayush 9 Nov: "effects must be
+// eye pleasant": no jump crops, no white flash, no shake), captions synced to the voice, a save card, a loop tail.
 // Scenes live in public/<dir>/scenes.json, timing in timeline.json. Render with --props='{"dir":"<dir>"}'.
 //
 // scene: { at: cue|seconds, video?: "footage/x.mp4", videos?: [...] (montage), img?: "broll/x.jpg",
 //          big?: "SACH KYA HAI?", color?: "gold"|"red"|"green"|"white", tag?: "CPCB DATA",
-//          counter?: { from: 0, to: 368, label: "AQI 368" }, shake?: true, note?: "SOURCE: ..." }
+//          counter?: { from: 0, to: 368, label: "AQI 368" }, note?: "SOURCE: ..." ,
+//          fit?: "blur" (whole photo shown on a blurred copy of itself, for landscape news photos), focus?: "30% 40%" (crop centre),
+//          credit?: "PHOTO: ..." (small, bottom-left), low?: true (big text sits low so a face in the photo stays visible) }
+// videos[] may mix .mp4 and .jpg; the scene's time is split evenly between them.
 import React from "react";
 import { AbsoluteFill, CalculateMetadataFunction, Composition, Img, Sequence, interpolate, spring, staticFile, useCurrentFrame, useVideoConfig } from "remotion";
 import { Audio, Video } from "@remotion/media";
@@ -14,7 +18,7 @@ import { DISPLAY, FPS, GOLD, GREEN, RED, useT } from "./Kit";
 type W = { w: string; start: number; end: number };
 type Counter = { from: number; to: number; label?: string; prefix?: string; suffix?: string };
 type Headline = { source: string; title: string; date?: string };
-type Scene = { at: string | number; video?: string; videos?: string[]; img?: string; big?: string; color?: string; tag?: string; counter?: Counter; shake?: boolean; note?: string; headline?: Headline; bars?: [string, number][]; barUnit?: string };
+type Scene = { at: string | number; video?: string; videos?: string[]; img?: string; big?: string; color?: string; tag?: string; counter?: Counter; shake?: boolean; note?: string; fit?: "blur" | "cover"; focus?: string; low?: boolean; credit?: string; headline?: Headline; bars?: [string, number][]; barUnit?: string };
 type Save = { title: string; lines: string[][]; footer?: string };
 type Spec = { mascot?: boolean; note?: string; banner?: string; loopTail?: number; save?: Save; scenes: Scene[] };
 type TL = { total: number; cues: Record<string, number>; words: W[]; caps?: string[][] | null; saveAt?: number };
@@ -25,7 +29,7 @@ const fontCss = `@font-face{font-family:Anton;src:url(${staticFile("fonts/Anton.
 const HINDI = "Baloo, Anton, sans-serif";
 const BLUE = "#4db8ff";
 const stroke: React.CSSProperties = { WebkitTextStroke: "14px #000", paintOrder: "stroke fill", textShadow: "0 10px 0 #000" };
-const JUMP = 0.9; // jump cut (crop change) inside a shot
+const XF = 0.4; // crossfade between shots, seconds
 const SAVE = 2.4; // seconds the save card stays (council 9 Nov: long enough to screenshot)
 
 const inr = (n: number) => {
@@ -35,34 +39,43 @@ const inr = (n: number) => {
   return rest.replace(/\B(?=(\d{2})+(?!\d))/g, ",") + "," + last3;
 };
 
-// One moving shot: real footage, punched-in crops that jump every 0.9 s (alternating framing), slight push.
-const Shot: React.FC<{ src?: string; img?: string; from: number; to: number; i: number }> = ({ src, img, from, to, i }) => {
+// One moving shot: a slow, smooth push in or pull out with a gentle drift (direction alternates by shot), never a jump.
+const isImg = (x?: string) => !!x && /\.(jpe?g|png|webp)$/i.test(x);
+const Shot: React.FC<{ src?: string; from: number; to: number; i: number; fit?: string; focus?: string }> = ({ src, from, to, i, fit, focus }) => {
   const t = useT();
-  const k = interpolate(t, [from, to], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
-  const j = Math.floor(Math.max(0, t - from) / JUMP);
-  const crops = [[1.0, "50% 50%"], [1.22, "35% 40%"], [1.12, "65% 55%"], [1.3, "50% 35%"]] as const;
-  const [z, o] = crops[(j + i) % crops.length];
-  const style: React.CSSProperties = { width: "100%", height: "100%", objectFit: "cover", transformOrigin: o, transform: `scale(${(z + 0.06 * k) * 1.02})` };
+  const k = interpolate(t, [from, to + XF], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp", easing: (x) => x * x * (3 - 2 * x) * 0.5 + x * 0.5 });
+  const zin = i % 2 === 0;
+  const z = zin ? 1.04 + 0.1 * k : 1.14 - 0.1 * k;
+  const dx = (i % 3 === 0 ? -1 : i % 3 === 1 ? 1 : 0) * 18 * (k - 0.5);
+  const media = (style: React.CSSProperties) => (src ? (isImg(src) ? <Img src={staticFile(src)} style={style} /> : <Video src={staticFile(src)} muted style={style} />) : null);
+  const move = `translateX(${dx}px) scale(${z})`;
+  if (fit === "blur") {
+    return (
+      <AbsoluteFill style={{ overflow: "hidden", background: "#000" }}>
+        {media({ width: "100%", height: "100%", objectFit: "cover", filter: "blur(40px) brightness(0.55)", transform: "scale(1.2)" })}
+        <AbsoluteFill style={{ justifyContent: "center", alignItems: "center", transform: move }}>
+          {media({ width: "100%", height: "auto", maxHeight: "62%", objectFit: "contain", borderRadius: 18, boxShadow: "0 20px 60px #000c" })}
+        </AbsoluteFill>
+      </AbsoluteFill>
+    );
+  }
   return (
     <AbsoluteFill style={{ overflow: "hidden", background: "#000" }}>
-      {src ? <Video src={staticFile(src)} muted style={style} /> : img ? <Img src={staticFile(img)} style={style} /> : null}
+      {media({ width: "100%", height: "100%", objectFit: "cover", objectPosition: focus ?? "50% 50%", transformOrigin: focus ?? "50% 50%", transform: move })}
     </AbsoluteFill>
   );
 };
 
 const Big: React.FC<{ s: Scene; at: number }> = ({ s, at }) => {
   const f = useCurrentFrame(); const { fps } = useVideoConfig();
-  const p = spring({ frame: f - Math.round(at * fps), fps, config: { damping: 8, mass: 0.5 } });
+  const p = spring({ frame: f - Math.round(at * fps), fps, config: { damping: 16, mass: 0.6 } });
   const c = COLORS[s.color ?? "gold"] ?? GOLD;
   const big = s.big ?? "";
   const size = big.length <= 6 ? 230 : big.length <= 10 ? 180 : 140;
   return (
-    <div style={{ position: "absolute", top: 380, width: "100%", display: "flex", flexDirection: "column", alignItems: "center", gap: 20, padding: "0 50px", boxSizing: "border-box", textAlign: "center" }}>
-      {s.tag && <div style={{ fontFamily: DISPLAY, fontSize: 70, color: "#000", background: GOLD, borderRadius: 16, padding: "4px 28px", transform: `scale(${Math.min(1, p)}) rotate(-3deg)` }}>{s.tag}</div>}
-      {big && /[\d₹]/.test(big) && p < 0.98 && [0.55, 0.3].map((g, gi) => (
-        <div key={gi} style={{ position: "absolute", top: s.tag ? 110 : 0, fontFamily: DISPLAY, fontSize: size, color: c, opacity: g * (1 - p), lineHeight: 0.95,
-          transform: `scale(${(4 - 3 * Math.min(1, p)) * (1 + 0.35 * (gi + 1) * (1 - p))}) rotate(${-18 * (1 - p)}deg)`, filter: "blur(6px)" }}>{big}</div>))}
-      {big && <div style={{ fontFamily: DISPLAY, fontSize: size, color: c, lineHeight: 0.95, transform: /[\d₹]/.test(big) ? `scale(${4 - 3 * Math.min(1.08, p)}) rotate(${-18 * Math.max(0, 1 - p)}deg)` : `scale(${1.8 - 0.8 * Math.min(1.1, p)})`, opacity: Math.min(1, p * 2), ...stroke, textShadow: `0 10px 0 #000, 0 0 60px ${c}aa` }}>{big}</div>}
+    <div style={{ position: "absolute", top: s.low ? 860 : 380, width: "100%", display: "flex", flexDirection: "column", alignItems: "center", gap: 20, padding: "0 50px", boxSizing: "border-box", textAlign: "center" }}>
+      {s.tag && <div style={{ fontFamily: DISPLAY, fontSize: 70, color: "#000", background: GOLD, borderRadius: 16, padding: "4px 28px", opacity: Math.min(1, p * 1.5), transform: `translateY(${(1 - Math.min(1, p)) * 30}px)` }}>{s.tag}</div>}
+      {big && <div style={{ fontFamily: DISPLAY, fontSize: size, color: c, lineHeight: 0.95, transform: `scale(${1.18 - 0.18 * Math.min(1, p)})`, opacity: Math.min(1, p * 1.6), ...stroke, textShadow: `0 10px 0 #000, 0 0 60px ${c}aa` }}>{big}</div>}
     </div>
   );
 };
@@ -74,13 +87,13 @@ const Melt: React.FC<{ c: Counter; from: number; to: number; tag?: string }> = (
   const k = interpolate(t, [from + 0.15, runEnd], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp", easing: (x) => 1 - Math.pow(1 - x, 3) });
   const v = c.from + (c.to - c.from) * k;
   const done = t >= runEnd;
-  const shake = !done && k > 0 ? Math.sin(f * 2.3) * 6 : 0;
+  const shake = !done && k > 0 ? 0 : 0;
   const p = spring({ frame: f - Math.round(runEnd * fps), fps, config: { damping: 8, mass: 0.5 } });
   const red = interpolate(k, [0, 1], [0, 1]);
   const col = `rgb(255, ${Math.round(255 - 178 * red)}, ${Math.round(255 - 178 * red)})`;
   const colour = c.to > c.from ? GOLD : col; // a number that grows stays gold; one that melts turns red
   return (
-    <div style={{ position: "absolute", top: 380, width: "100%", display: "flex", flexDirection: "column", alignItems: "center", gap: 26 }}>
+    <div style={{ position: "absolute", top: s.low ? 860 : 380, width: "100%", display: "flex", flexDirection: "column", alignItems: "center", gap: 26 }}>
       {tag && <div style={{ fontFamily: DISPLAY, fontSize: 80, color: "#000", background: GOLD, borderRadius: 16, padding: "4px 30px", transform: "rotate(-3deg)" }}>{tag}</div>}
       <div style={{ fontFamily: DISPLAY, fontSize: 150, color: colour, transform: `translateX(${shake}px)`, ...stroke, textShadow: `0 10px 0 #000, 0 0 50px ${colour}88` }}>{c.prefix ?? "₹"}{inr(v)}{c.suffix ?? ""}</div>
       {c.label && done && <div style={{ fontFamily: DISPLAY, fontSize: 120, color: GOLD, transform: `scale(${1.6 - 0.6 * Math.min(1.1, p)})`, ...stroke }}>{c.label}</div>}
@@ -199,7 +212,7 @@ const SaveCard: React.FC<{ save: Save; at: number }> = ({ save, at }) => {
 };
 
 const TrendShort: React.FC<Props> = ({ dir, tl, spec }) => {
-  const t = useT(); const f = useCurrentFrame();
+  const t = useT();
   if (!tl || !spec) return null;
   const end = tl.total + (spec.save ? SAVE : 0) + (spec.loopTail ?? 0.6);
   const at = (x: string | number) => (typeof x === "number" ? x : tl.cues[x] ?? 0);
@@ -209,23 +222,30 @@ const TrendShort: React.FC<Props> = ({ dir, tl, spec }) => {
   const s = spec.scenes[idx]; const from = starts[idx]; const to = starts[idx + 1] ?? end;
   let src = s.video; let sub = 0;
   if (s.videos && s.videos.length) { const n = s.videos.length; sub = Math.min(n - 1, Math.floor(((t - from) / Math.max(0.01, to - from)) * n)); src = s.videos[sub]; }
-  const sinceCut = Math.min(t - from, s.videos ? (t - from) - (sub * (to - from)) / (s.videos?.length || 1) : 99);
-  const flash = sinceCut < 0.12 && t > 0.05 ? 1 - sinceCut / 0.12 : 0;
-  const shake = s.shake && t - from < 0.5 ? Math.sin(f * 3.1) * 26 * (1 - (t - from) / 0.5) : 0;
+  const n = s.videos?.length || 1;
+  const subFrom = from + (sub * (to - from)) / n;
+  // the shot before this one (previous montage item, or the previous scene's last one), faded out under the new shot
+  const prevScene = sub > 0 ? s : idx > 0 ? spec.scenes[idx - 1] : null;
+  const prevSrc = sub > 0 ? s.videos![sub - 1] : prevScene ? (prevScene.videos?.length ? prevScene.videos[prevScene.videos.length - 1] : prevScene.video ?? prevScene.img) : undefined;
+  const prevFrom = sub > 0 ? from + ((sub - 1) * (to - from)) / n : idx > 0 ? starts[idx - 1] : 0;
+  const fade = interpolate(t - subFrom, [0, XF], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
   // every spoken number punches the frame
   const hits = tl.words.filter((w) => /\d|lakh|crore/i.test(w.w)).map((w) => w.start);
-  const punch = hits.reduce((m, h) => (t >= h && t < h + 0.22 ? Math.max(m, 1 - (t - h) / 0.22) : m), 0);
-  // frame 1: start zoomed hard and snap out, so the very first frame already moves
-  const open = t < 0.45 ? 1 - t / 0.45 : 0;
+  const punch = hits.reduce((m, h) => (t >= h && t < h + 0.3 ? Math.max(m, Math.sin(Math.PI * (t - h) / 0.3)) : m), 0);
+  // frame 1: a short, gentle settle so the very first frame already moves
+  const open = t < 0.6 ? Math.pow(1 - t / 0.6, 2) : 0;
   const note = s.note ?? spec.note;
   return (
     <AbsoluteFill style={{ background: "#000" }}>
       <style>{fontCss}</style>
-      <AbsoluteFill style={{ transform: `scale(${1 + 0.05 * punch + 0.45 * open}) translate(${shake}px, ${-shake * 0.6}px) rotate(${-4 * open}deg)` }}>
-        <Shot key={`${idx}-${sub}`} src={src} img={s.img} from={from} to={to} i={idx + sub} />
+      <AbsoluteFill style={{ transform: `scale(${1 + 0.015 * punch + 0.08 * open})` }}>
+        {fade < 1 && prevSrc && prevScene && <Shot key={`p${idx}-${sub}`} src={prevSrc} from={prevFrom} to={subFrom} i={idx + sub - 1} fit={prevScene.fit} focus={prevScene.focus} />}
+        <AbsoluteFill style={{ opacity: idx === 0 && sub === 0 ? 1 : fade }}>
+          <Shot key={`${idx}-${sub}`} src={src ?? s.img} from={subFrom} to={to} i={idx + sub} fit={s.fit} focus={s.focus} />
+        </AbsoluteFill>
       </AbsoluteFill>
       <AbsoluteFill style={{ background: "linear-gradient(#0009 0%, #0000 30%, #0000 52%, #0008 68%, #000c 100%)" }} />
-      {flash > 0 && <AbsoluteFill style={{ background: "#fff", opacity: 0.55 * flash }} />}
+      {s.credit && <div style={{ position: "absolute", top: 1700, left: 60, right: 60, fontFamily: DISPLAY, fontSize: 24, letterSpacing: 1, color: "#fff9", textShadow: "0 2px 4px #000" }}>{s.credit}</div>}
       {s.headline ? <HeadlineCard key={`h${idx}`} h={s.headline} at={from} tag={s.tag} /> : s.bars ? <Bars key={`r${idx}`} bars={s.bars} unit={s.barUnit} at={from} tag={s.tag} /> : s.counter ? <Melt key={`m${idx}`} c={s.counter} from={from} to={to} tag={s.tag} /> : <Big key={`b${idx}`} s={s} at={from} />}
       {t < tl.total && (tl.caps ? <PillCaptions words={tl.words} caps={tl.caps} /> : <Captions words={tl.words} />)}
       {spec.banner && <div style={{ position: "absolute", top: 64, left: 50, fontFamily: DISPLAY, fontSize: 40, letterSpacing: 2, color: "#000", background: GOLD, borderRadius: 10, padding: "2px 18px" }}>{spec.banner}</div>}
@@ -235,12 +255,10 @@ const TrendShort: React.FC<Props> = ({ dir, tl, spec }) => {
       {note && !(tl.saveAt !== undefined && t >= tl.saveAt) && <div style={{ position: "absolute", top: 1560, left: 60, right: 60, textAlign: "center", fontFamily: DISPLAY, fontSize: 34, letterSpacing: 1, color: "#fffd", textShadow: "0 2px 6px #000" }}>{note}</div>}
       <Audio src={staticFile(`${dir}/voice.wav`)} />
       <Audio src={staticFile("music/tension1.mp3")} volume={(fr) => interpolate(fr, [0, 4, Math.max(5, tl.total * FPS - 10), end * FPS], [0.15, 0.15, 0.15, 0.08], { extrapolateLeft: "clamp", extrapolateRight: "clamp" })} />
-      <Sequence from={0} durationInFrames={30}><Audio src={staticFile("sfx/impact.wav")} volume={0.6} /></Sequence>
-      {Array.from({ length: Math.floor(tl.total / JUMP) }, (_, k) => (k + 1) * JUMP).map((x) => (
-        <Sequence key={`c${x}`} from={Math.round(x * FPS)} durationInFrames={6}><Audio src={staticFile("sfx/click.wav")} volume={0.25} /></Sequence>))}
+      <Sequence from={0} durationInFrames={30}><Audio src={staticFile("sfx/impact.wav")} volume={0.3} /></Sequence>
       {starts.map((x, i) => i === 0 ? null : (
         <Sequence key={i} from={Math.max(0, Math.round(x * FPS) - 8)} durationInFrames={24}>
-          <Audio src={staticFile(spec.scenes[i].shake || spec.scenes[i].counter ? "sfx/impact.wav" : "sfx/whoosh.wav")} volume={spec.scenes[i].shake || spec.scenes[i].counter ? 0.5 : 0.4} />
+          <Audio src={staticFile("sfx/whoosh.wav")} volume={0.18} />
         </Sequence>))}
     </AbsoluteFill>
   );

@@ -29,63 +29,82 @@
  "scenes": [
   {
    "at": 0,
-   "video": "footage/fireworks.mp4",
    "tag": "APPS vs SARKAR",
    "big": "1700 YA 500?",
    "color": "red",
-   "shake": true
+   "videos": [
+    "20261109-delhi-aqi/real/hook-0.jpg",
+    "20261109-delhi-aqi/real/hook-1.jpg"
+   ],
+   "credit": "PHOTOS: B. POUSMAN CC BY / MIN. OF CULTURE GODL · WIKIMEDIA"
   },
   {
    "at": "truth",
-   "video": "footage/smog.mp4",
    "tag": "CPCB SCALE",
    "big": "MAX 500",
-   "color": "green"
+   "color": "green",
+   "img": "20261109-delhi-aqi/real/apps-1.jpg",
+   "credit": "NAQI LAUNCH: MOEFCC, GODL-INDIA · WIKIMEDIA"
   },
   {
    "at": "apps",
-   "video": "footage/phone.mp4",
    "tag": "1700 = PRIVATE APPS",
    "big": "ALAG FORMULA",
-   "color": "white"
+   "color": "white",
+   "img": "20261109-delhi-aqi/real/apps-0.jpg",
+   "credit": "PHOTO: NEWSGRAM"
   },
   {
    "at": "real",
-   "video": "footage/smog2.mp4",
    "tag": "9 NOV, 7 AM",
    "headline": {
     "source": "Business Standard",
     "date": "9 Nov 2026",
     "title": "Delhi's post-Diwali air remains 'very poor'; 15 locations record severe AQI"
-   }
+   },
+   "img": "20261109-delhi-aqi/real/real-0.jpg",
+   "credit": "PHOTO: BUSINESS STANDARD"
   },
   {
    "at": "but",
-   "video": "footage/worried.mp4",
    "tag": "SEVERE 400+",
    "big": "15 JAGAH",
-   "color": "red"
+   "color": "red",
+   "videos": [
+    "20261109-delhi-aqi/real/but-0.jpg",
+    "20261109-delhi-aqi/real/real-2.jpg"
+   ],
+   "credit": "PHOTOS: THE NEWS MINUTE / DOWN TO EARTH"
   },
   {
    "at": "pm",
-   "video": "footage/hospital.mp4",
    "tag": "PM2.5 · WHO 24H LIMIT 15",
    "big": "50x",
    "color": "red",
-   "note": "DPCC HOURLY READING, AKSHARDHAM, 11 PM 8 NOV"
+   "note": "DPCC HOURLY READING, AKSHARDHAM, 11 PM 8 NOV",
+   "videos": [
+    "20261109-delhi-aqi/real/pm-0.jpg",
+    "20261109-delhi-aqi/real/pm-3.jpg"
+   ],
+   "fit": "blur",
+   "credit": "AKSHARDHAM CC BY-SA / NOAA SATELLITE · WIKIMEDIA"
   },
   {
    "at": "end",
-   "video": "footage/smog.mp4",
    "big": "AAPKA AQI?",
-   "color": "gold"
+   "color": "gold",
+   "videos": [
+    "20261109-delhi-aqi/real/end-0.jpg",
+    "20261109-delhi-aqi/real/real-1.jpg"
+   ],
+   "credit": "PHOTOS: OUTLOOK"
   },
   {
    "at": "end",
-   "video": "footage/fireworks.mp4",
    "tag": "APPS vs SARKAR",
    "big": "1700 YA 500?",
-   "color": "red"
+   "color": "red",
+   "img": "20261109-delhi-aqi/real/hook-0.jpg"
   }
  ]
 }
