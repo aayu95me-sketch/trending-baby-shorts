@@ -29,17 +29,21 @@
  "scenes": [
   {
    "at": 0,
-   "video": "footage/laptopman.mp4",
+   "video": "footage/datacenter.mp4",
+   "tag": "NVIDIA CEO",
    "big": "JASOOS?",
    "color": "red",
    "shake": true
   },
   {
    "at": "who",
-   "img": "broll/huang_tc.jpg",
-   "tag": "ALICE HUANG",
-   "big": "MEGASPEED",
-   "color": "gold"
+   "video": "footage/datacenter2.mp4",
+   "tag": "ALICE HUANG · MEGASPEED",
+   "headline": {
+    "source": "TechCrunch",
+    "date": "7 Nov 2026",
+    "title": "Chinese exec was recruited to spy on Nvidia CEO, according to US intelligence memo"
+   }
   },
   {
    "at": "memo",
@@ -50,42 +54,47 @@
   },
   {
    "at": "claim",
-   "video": "footage/office.mp4",
+   "video": "footage/datacenter.mp4",
    "tag": "SACH",
    "big": "SAABIT NAHI",
-   "color": "green",
-   "shake": true
+   "color": "green"
   },
   {
    "at": "affair",
-   "img": "broll/huang_tc2.jpg",
+   "video": "footage/office.mp4",
    "tag": "REPORTS",
-   "big": "AFFAIR MAANA",
-   "color": "white"
+   "headline": {
+    "source": "TechCrunch",
+    "date": "8 Nov 2026",
+    "title": "Nvidia says it's investigating CEO Jensen Huang's relationship with possible Chinese spy"
+   }
   },
   {
    "at": "probe",
-   "img": "broll/huang_tc2.jpg",
-   "tag": "NVIDIA BOARD",
-   "big": "JAANCH",
-   "color": "gold"
+   "video": "footage/datacenter2.mp4",
+   "tag": "SACH vs DAAWA",
+   "headline": {
+    "source": "Doubt Clear",
+    "title": "Jasoosi: sirf daawa. Affair: maana (reports). Board ki jaanch: shuru."
+   }
   },
   {
    "at": "board",
-   "video": "footage/laptopman.mp4",
-   "tag": "BOARD",
+   "video": "footage/datacenter.mp4",
+   "tag": "NVIDIA BOARD",
    "big": "KOI SABUT NAHI",
    "color": "green"
   },
   {
    "at": "end",
-   "video": "footage/office.mp4",
-   "big": "SIRF ILZAAM",
+   "video": "footage/datacenter2.mp4",
+   "big": "SHARE KARO",
    "color": "gold"
   },
   {
    "at": "end",
-   "video": "footage/laptopman.mp4",
+   "video": "footage/datacenter.mp4",
+   "tag": "NVIDIA CEO",
    "big": "JASOOS?",
    "color": "red"
   }

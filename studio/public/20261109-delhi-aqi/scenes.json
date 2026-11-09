@@ -30,14 +30,15 @@
   {
    "at": 0,
    "video": "footage/fireworks.mp4",
-   "big": "AQI 1700?",
+   "tag": "APPS vs SARKAR",
+   "big": "1700 YA 500?",
    "color": "red",
    "shake": true
   },
   {
    "at": "truth",
-   "img": "broll/aqi_bs.jpg",
-   "tag": "SACH",
+   "video": "footage/smog.mp4",
+   "tag": "CPCB SCALE",
    "big": "MAX 500",
    "color": "green"
   },
@@ -50,13 +51,12 @@
   },
   {
    "at": "real",
-   "img": "broll/aqi_bs.jpg",
-   "tag": "CPCB · 7 AM",
-   "counter": {
-    "from": 0,
-    "to": 368,
-    "prefix": "AQI ",
-    "label": "VERY POOR"
+   "video": "footage/smog2.mp4",
+   "tag": "9 NOV, 7 AM",
+   "headline": {
+    "source": "Business Standard",
+    "date": "9 Nov 2026",
+    "title": "Delhi's post-Diwali air remains 'very poor'; 15 locations record severe AQI"
    }
   },
   {
@@ -64,27 +64,27 @@
    "video": "footage/worried.mp4",
    "tag": "SEVERE 400+",
    "big": "15 JAGAH",
-   "color": "red",
-   "shake": true
+   "color": "red"
   },
   {
    "at": "pm",
    "video": "footage/hospital.mp4",
-   "tag": "PM2.5 AKSHARDHAM",
-   "big": "50x WHO",
+   "tag": "PM2.5 · WHO 24H LIMIT 15",
+   "big": "50x",
    "color": "red",
-   "note": "HOURLY READING VS WHO 24-HOUR LIMIT"
+   "note": "DPCC HOURLY READING, AKSHARDHAM, 11 PM 8 NOV"
   },
   {
    "at": "end",
-   "video": "footage/stress.mp4",
-   "big": "MASK PEHNO",
+   "video": "footage/smog.mp4",
+   "big": "AAPKA AQI?",
    "color": "gold"
   },
   {
    "at": "end",
    "video": "footage/fireworks.mp4",
-   "big": "AQI 1700?",
+   "tag": "APPS vs SARKAR",
+   "big": "1700 YA 500?",
    "color": "red"
   }
  ]

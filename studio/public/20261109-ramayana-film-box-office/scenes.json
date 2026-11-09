@@ -29,52 +29,75 @@
  "scenes": [
   {
    "at": 0,
-   "video": "footage/party.mp4",
+   "video": "footage/temple.mp4",
+   "tag": "RAMAYANA BOX OFFICE",
    "big": "₹4,000 CR?",
    "color": "gold",
    "shake": true
   },
   {
    "at": "day5",
-   "img": "broll/ram_week.jpg",
-   "tag": "DAY 5 · MONDAY",
-   "big": "₹81 CR",
-   "color": "green"
+   "video": "footage/cinema.mp4",
+   "tag": "INDIA NET (₹ CR) · D5 TILL 7 PM",
+   "bars": [
+    [
+     "DAY 1",
+     64.9
+    ],
+    [
+     "DAY 2",
+     48.1
+    ],
+    [
+     "DAY 3",
+     69.8
+    ],
+    [
+     "DAY 4",
+     56.2
+    ],
+    [
+     "DAY 5",
+     81
+    ]
+   ]
   },
   {
    "at": "total",
-   "video": "footage/market.mp4",
+   "video": "footage/cinema2.mp4",
    "tag": "5 DIN INDIA NET",
    "counter": {
     "from": 0,
-    "to": 3200000000,
+    "to": 320,
+    "prefix": "₹",
+    "suffix": " CR",
     "label": "≈ ₹320 CR"
    }
   },
   {
    "at": "world",
-   "img": "broll/ram_fb.jpg",
-   "tag": "4 DIN WORLDWIDE",
+   "video": "footage/crowd.mp4",
+   "tag": "4 DIN WORLDWIDE GROSS",
    "big": "₹507 CR",
    "color": "gold"
   },
   {
    "at": "budget",
-   "video": "footage/speed.mp4",
+   "video": "footage/temple.mp4",
    "tag": "SACH",
    "big": "2 PARTS KA BUDGET",
-   "color": "red",
-   "shake": true
+   "color": "red"
   },
   {
    "at": "end",
-   "video": "footage/party.mp4",
-   "big": "RATING DO",
+   "video": "footage/cinema.mp4",
+   "big": "HAAN YA NAA?",
    "color": "gold"
   },
   {
    "at": "end",
-   "video": "footage/party.mp4",
+   "video": "footage/temple.mp4",
+   "tag": "RAMAYANA BOX OFFICE",
    "big": "₹4,000 CR?",
    "color": "gold"
   }
