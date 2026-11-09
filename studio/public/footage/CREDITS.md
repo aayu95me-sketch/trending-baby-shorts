@@ -15,3 +15,11 @@ All clips: Mixkit (mixkit.co) free stock video licence, no attribution required.
 - classroom: 36046-360.mp4
 - students: 4519-1080.mp4
 - flats: 41153-360.mp4
+- smog: 4360-360.mp4
+- smog2: 47741-720.mp4
+- cinema: 33312-360.mp4
+- cinema2: 25478-720.mp4
+- crowd: 14084-360.mp4
+- datacenter: 23282-360.mp4
+- datacenter2: 22966-360.mp4
+- temple: 11072-720.mp4
