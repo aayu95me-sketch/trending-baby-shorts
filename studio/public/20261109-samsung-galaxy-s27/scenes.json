@@ -1,6 +1,6 @@
 {
  "banner": "DOUBT CLEAR",
- "note": "OFFICIAL: NOTHING YET · LEAKS VIA FLICKONCLICK, SMARTPRIX · 9 NOV 2026",
+ "note": "OFFICIAL: NOTHING YET · LEAKS: FLICKONCLICK · PRICE GUESS: SMARTPRIX · 9 NOV 2026",
  "loopTail": 0.7,
  "save": {
   "title": "GALAXY S27 STATUS",
@@ -30,17 +30,17 @@
   {
    "at": 0,
    "video": "footage/phone2.mp4",
-   "big": "S27 LAUNCH HUA?",
-   "color": "gold",
+   "tag": "S27 LAUNCH HUA?",
+   "big": "NAHI!",
+   "color": "red",
    "shake": true
   },
   {
    "at": "truth",
-   "video": "footage/showroom.mp4",
+   "video": "footage/typing.mp4",
    "tag": "SACH",
-   "big": "ABHI NAHI",
-   "color": "red",
-   "shake": true
+   "big": "NA DATE, NA PRICE",
+   "color": "red"
   },
   {
    "at": "why",
@@ -53,22 +53,15 @@
    }
   },
   {
-   "at": "means",
-   "video": "footage/showroom.mp4",
-   "tag": "EXPECTED",
-   "big": "JAN-FEB?",
+   "at": "leak",
+   "video": "footage/datacenter.mp4",
+   "tag": "LEAK · EVENT JAN-FEB?",
+   "big": "S27 PRO BHI?",
    "color": "gold"
   },
   {
-   "at": "leak",
-   "video": "footage/datacenter.mp4",
-   "tag": "LEAK, CONFIRMED NAHI",
-   "big": "2nm CHIP + S27 PRO",
-   "color": "white"
-  },
-  {
    "at": "price",
-   "video": "footage/market.mp4",
+   "video": "footage/laptopman.mp4",
    "tag": "EK WEBSITE KA ANDAAZA",
    "big": "≈ ₹95,000?",
    "color": "red"
@@ -76,14 +69,15 @@
   {
    "at": "end",
    "video": "footage/phone2.mp4",
-   "big": "FOLLOW KARO",
+   "big": "S26 YA S27? COMMENT",
    "color": "gold"
   },
   {
    "at": "end",
    "video": "footage/phone2.mp4",
-   "big": "S27 LAUNCH?",
-   "color": "gold"
+   "tag": "S27 LAUNCH HUA?",
+   "big": "NAHI!",
+   "color": "red"
   }
  ]
 }
