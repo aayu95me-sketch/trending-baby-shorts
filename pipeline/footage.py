@@ -75,7 +75,8 @@ def get():
         subprocess.run(["ffmpeg", "-v", "error", "-y", "-ss", str(p.get("start", 0)), "-i", str(tmp), "-t", str(p.get("dur", 6)), "-an", "-vf", vf,
                         "-c:v", "libx264", "-crf", "23", "-preset", "veryfast", "-pix_fmt", "yuv420p", "-movflags", "+faststart", str(D / f"{slot}.mp4")], check=True, timeout=600)
         print("got", slot, u, flush=True)
-    (D / "CREDITS.md").write_text("# Footage\nAll clips: Mixkit (mixkit.co) free stock video licence, no attribution required.\n" +
+    old = (D / "CREDITS.md").read_text() if (D / "CREDITS.md").exists() else "# Footage\nAll clips: Mixkit (mixkit.co) free stock video licence, no attribution required.\n"
+    (D / "CREDITS.md").write_text(old +
                                   "\n".join(f"- {s}: {p['title']}" for s, p in picks.items()) + "\n")
 
 
