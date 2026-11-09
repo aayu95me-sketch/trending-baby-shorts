@@ -26,7 +26,7 @@ const HINDI = "Baloo, Anton, sans-serif";
 const BLUE = "#4db8ff";
 const stroke: React.CSSProperties = { WebkitTextStroke: "14px #000", paintOrder: "stroke fill", textShadow: "0 10px 0 #000" };
 const JUMP = 0.9; // jump cut (crop change) inside a shot
-const SAVE = 1.6; // seconds the save card stays
+const SAVE = 2.4; // seconds the save card stays (council 9 Nov: long enough to screenshot)
 
 const inr = (n: number) => {
   const s = Math.round(n).toString();
