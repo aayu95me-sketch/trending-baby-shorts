@@ -1,0 +1,41 @@
+# Real visuals for each reel: push studio/public/<folder>/visuals.json -> pipeline/real.py downloads the candidates
+# (article lead photos, Wikimedia Commons photos, news/trailer clips) into studio/public/<folder>/real/ with a labelled
+# contact sheet, and commits them back to the same branch. Claude checks the sheet, then points scenes.json at the right files.
+name: Real visuals
+
+on:
+  push:
+    branches: ["claude/**", "main"]
+    paths: ["studio/public/*/visuals.json"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: visuals-${{ github.ref_name }}
+
+jobs:
+  visuals:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 2
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: "3.11"
+      - name: Fetch candidates
+        run: |
+          sudo apt-get -qq update >/dev/null && sudo apt-get -qq install -y ffmpeg >/dev/null
+          pip install -q requests "pillow==11.0.0" yt-dlp
+          for n in $(git diff --name-only HEAD~1 HEAD | grep -E '^studio/public/[^/]+/visuals.json$' | cut -d/ -f3 | sort -u); do
+            echo "::group::$n"; python pipeline/real.py "$n" || echo "::warning::visuals failed for $n"; echo "::endgroup::"
+          done
+      - name: Commit
+        run: |
+          git config user.name "visuals-bot" && git config user.email "visuals-bot@users.noreply.github.com"
+          git add studio/public/*/real 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git commit -qm "Real visuals: $(git diff --cached --name-only | wc -l) files"
+          git pull -q --rebase origin "${GITHUB_REF_NAME}" && git push -q origin "HEAD:${GITHUB_REF_NAME}"
