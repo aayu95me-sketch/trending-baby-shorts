@@ -1,3 +1,4 @@
+# run 2: the Gemini key is saved as GOOGLE_API_KEY
 20261109-delhi-aqi
 20261109-alice-huang
 20261109-ramayana-film-box-office

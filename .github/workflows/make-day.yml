@@ -2,7 +2,7 @@
 # Trigger: push daily/<date>/make.txt (one studio/public folder name per line) on a claude/ branch, or run it from the Actions tab.
 # Each topic: headline screenshots -> auto-review -> Gemini voice (Orus) -> Whisper timing + number check -> render.
 # Output: Actions artifact + branch render-<folder> holding the mp4, so Claude can fetch and check it.
-# Secrets (Settings > Secrets and variables > Actions): GEMINI_API_KEY, GROQ_API_KEY.
+# Secrets (Settings > Secrets and variables > Actions): GEMINI_API_KEY (or GOOGLE_API_KEY), GROQ_API_KEY.
 name: Make the day's Shorts
 
 on:
@@ -49,7 +49,7 @@ jobs:
       matrix:
         name: ${{ fromJson(needs.list.outputs.names) }}
     env:
-      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY || secrets.GOOGLE_API_KEY }}
       GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
       NAME: ${{ matrix.name }}
     steps:
