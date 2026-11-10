@@ -1,0 +1,35 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCE: ANTHROPIC VIA MACRUMORS, INFOTECHLEAD · 9-10 NOV 2026",
+ "loopTail": 0.7,
+ "save": {
+  "title": "CLAUDE FABLE 5.2",
+  "lines": [
+   ["LAUNCH", "9 NOV 2026"],
+   ["CODING (ANTHROPIC KA TEST)", "FABLE 49.1%", "gold"],
+   ["INDEPENDENT TEST", "ABHI BAAKI", "red"],
+   ["KAHAN", "PAID PLANS + API"]
+  ],
+  "footer": "FRONTIERCODE 2.0 · FOLLOW: DOUBT CLEAR"
+ },
+ "scenes": [
+  {"at": 0, "tag": "CLAUDE FABLE 5.2", "big": "GPT SE AAGE?", "color": "gold",
+   "videos": ["20261110-claude-fable-5-2/real/hook-1.jpg", "20261110-claude-fable-5-2/real/hook-0.jpg"], "fit": "blur",
+   "credit": "IMAGES VIA TECHSTARTUPS / MACRUMORS"},
+  {"at": "what", "tag": "MYTHOS 5.2 = SIRF VERIFIED LABS",
+   "headline": {"source": "MacRumors", "date": "9 Nov 2026", "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2"},
+   "img": "20261110-claude-fable-5-2/real/xa-0.jpg", "credit": "PHOTO VIA WIKIPEDIA"},
+  {"at": "test", "tag": "CODING TEST · FRONTIERCODE 2.0",
+   "bars": [["FABLE 5.2", 49.1], ["GPT-6 ASTRA", 42.8], ["GEMINI 4 CARBON", 41.1]], "barUnit": "%",
+   "img": "20261110-claude-fable-5-2/real/test-0.jpg", "fit": "blur", "credit": "IMAGE VIA INFOTECHLEAD"},
+  {"at": "but", "tag": "INDEPENDENT TEST ABHI BAAKI", "big": "APNE HI NUMBER", "color": "red",
+   "img": "20261110-claude-fable-5-2/real/but-0.jpg", "credit": "BALTICSERVERS CC BY-SA · WIKIMEDIA"},
+  {"at": "use", "tag": "PAID PLANS + API", "big": "API 20% SASTA", "color": "green",
+   "img": "20261110-claude-fable-5-2/real/use-0.jpg", "credit": "CC0 · WIKIMEDIA"},
+  {"at": "end", "big": "AAPKA AI?", "color": "gold",
+   "videos": ["20261110-claude-fable-5-2/real/xa-2.jpg", "20261110-claude-fable-5-2/real/hook-2.jpg"], "fit": "blur",
+   "credit": "IMAGES VIA WIKIPEDIA / MAC OBSERVER"},
+  {"at": "end", "tag": "CLAUDE FABLE 5.2", "big": "GPT SE AAGE?", "color": "gold",
+   "img": "20261110-claude-fable-5-2/real/hook-1.jpg", "fit": "blur"}
+ ]
+}
