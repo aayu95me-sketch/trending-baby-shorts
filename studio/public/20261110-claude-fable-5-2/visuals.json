@@ -1,10 +1,4 @@
 {
- "hook": [{"og": "https://www.macrumors.com/2026/11/09/anthropic-launches-claude-fable-5-2/"},
-          {"og": "https://techstartups.com/2026/11/10/anthropic-launches-claude-fable-5-2-and-mythos-5-2-its-most-advanced-ai-models-for-coding-science-and-cybersecurity/"},
-          {"og": "https://www.macobserver.com/news/anthropic-launches-claude-fable-5-2-and-mythos-5-2/"}],
- "what": [{"og": "https://www.resultsense.com/news/2026-11-10-claude-fable-mythos-5-2-launch/"}, {"wiki": "Anthropic", "n": 3}],
- "test": [{"og": "https://infotechlead.com/artificial-intelligence/anthropic-launches-claude-fable-5-2-and-mythos-5-2-with-49-1-coding-score-89-6-vulnerability-detection-and-20-price-cut-99523"}, {"wiki": "Dario Amodei", "n": 2}],
- "but": [{"wiki": "data center servers", "n": 3}],
- "use": [{"wiki": "laptop coding programmer", "n": 3}],
- "end": [{"wiki": "smartphone apps India", "n": 2}]
+ "xa": [{"og": "https://en.wikipedia.org/wiki/Claude_(language_model)"}, {"og": "https://en.wikipedia.org/wiki/Anthropic"}, {"og": "https://en.wikipedia.org/wiki/Claude_Mythos"},
+        {"og": "https://en.wikipedia.org/wiki/ChatGPT"}, {"og": "https://en.wikipedia.org/wiki/Google_Gemini"}, {"og": "https://en.wikipedia.org/wiki/Dario_Amodei"}]
 }

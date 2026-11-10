@@ -1,10 +1,10 @@
 {
- "hook": [{"og": "https://www.india.com/sports/cricket/aaryavir-sehwags-brilliant-knock-guides-india-to-70-run-win-over-uae-in-the-acc-mens-u19-asia-cup-2026-8543707/"},
-          {"img": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20261110130228.jpg", "lic": "X/@ACCMedia1 via ANI"},
-          {"wiki": "Virender Sehwag", "n": 3}],
- "truth": [{"og": "https://sundayguardianlive.com/sports/cricket-ind-u19-vs-uae-u19-aaryavir-sehwags-160-ishan-soods-four-wicket-haul-seal-70-run-win-as-india-reach-acc-mens-u19-asia-cup-semifinals-320346/"},
-           {"wiki": "Aaryavir Sehwag", "n": 2}],
- "team": [{"wiki": "Al Amerat Cricket Ground", "n": 3}, {"wiki": "India under-19 cricket team", "n": 3}],
- "win": [{"wiki": "Afghanistan under-19 cricket team", "n": 2}, {"wiki": "cricket bowler celebration wicket", "n": 2}],
- "end": [{"wiki": "Virender Sehwag batting", "n": 3}]
+ "xa": [{"og": "https://www.wisden.com/cricket-news/124-out-of-173-in-boundaries-virender-sehwag-son-aaryavir-sehwag-smashes-massive-u19-ton"},
+        {"og": "https://www.outlookindia.com/sports/cricket/aaryavir-sehwag-fiery-send-off-pakistan-bowler-u19-asia-cup-india-vs-pakistan"},
+        {"og": "https://gulfnews.com/sport/cricket/watch-virender-sehwags-son-aaryavir-recreates-his-dads-trademark-shots-1.500651115"},
+        {"og": "https://www.wisden.com/cricket-news/watch-17-year-old-son-of-india-legend-virender-sehwag-hits-consecutive-boundaries-off-former-test-quick-on-delhi-premier-league-debut"},
+        {"og": "https://sportskeeda.com/cricket/news-virender-sehwag-s-son-aaryavir-smashes-consecutive-boundaries-ex-rcb-bowler-2025-dpl-watch"},
+        {"og": "https://www.cricket.com/news/after-debut-cameo-aaryavir-sehwag-wants-to-bat-longer-and-create-more-impact-8282025-1756358086298"}],
+ "xb": [{"og": "https://thenationalnews.com/sport/sehwag-stars-for-gemini-arabians-in-masters-champions-league-win-over-sagittarius-strikers-1.220944"},
+        {"og": "https://en.wikipedia.org/wiki/Virender_Sehwag"}, {"og": "https://en.wikipedia.org/wiki/Afghanistan_national_under-19_cricket_team"}]
 }
