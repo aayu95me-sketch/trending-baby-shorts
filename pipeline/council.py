@@ -35,7 +35,9 @@ SCENES (what is on screen per beat):
 SPOKEN WORDS WITH START TIMES (Whisper on the final voice), total {tl.get('total', '?')} s:
 {spoken}
 SOURCES:
-{read(src / 'sources.txt')}"""
+{read(src / 'sources.txt')}
+VIEWER-MOMENT CARD (who, the doubt, second-1 feeling, the ONE ask line, swipe risk):
+{read(src / 'viewer.md')}"""
 
 GOAL = 'GOAL (restate it first): "Make the Doubt Clear accounts (YouTube Shorts + Facebook Reels, India, Hinglish) go viral."'
 CONCEPT = ("CONCEPT: for each Google Trends topic, answer the doubt people have about it (the truth, the logic, the purpose or the solution) "
@@ -44,14 +46,18 @@ RULES = ("RULES: Rs 0 spend (free tools only). Faceless, AI voice labelled. Tren
          "Do not invent numbers, view counts or algorithm facts; write 'verify' when unsure. Be blunt, flattery is useless.")
 PARTS = """Judge 4 parts, each 0-10 (10 = best possible for going viral) with the probability (rough %) that THIS part helps the reel get
 5x a typical new-channel view count, and the single highest-impact fix:
-1 SCRIPT (hook in the first 1.5 s, the doubt, the truth/reveal, pace, one idea per line, ending/CTA, accuracy)
+1 SCRIPT (hook in the first 1.5 s, the doubt, the truth/reveal, pace, one idea per line, ending/CTA, accuracy). Also score the
+  viewer-moment card 0-10 (does the reel make THAT viewer feel THAT feeling and do THAT one action?). Playbook rules: high-arousal hook,
+  loss in the hook and gain in the payoff, one specific gap answered in the middle (never in second 1), make the sharer look right
+  ("send this to the friend who said X"), surprise early with no flat middle, one ask only, no branding early.
 2 VOICE (Indian accent, energy, clarity, numbers and names said right, speed)
 3 VISUALS (Ayush, 9 Nov: realistic visuals OF THE TOPIC that sync with each line, no generic stock; effects must be eye-pleasing.
   Judge: does every line show the real person/place/thing being said, frame 1 scroll-stop, smoothness, captions readable, faces not covered by text; no word captions (Ayush 10 Nov: removed; beat text sits low so photos stay clean), small photo credits + a beat progress bar at the bottom)
-4 WHOLE REEL (would a stranger watch to the end, comment, share, follow?)"""
+4 WHOLE REEL (would a stranger watch to the end, comment, share, follow?). Give a FIRST-SECOND STOP score 0-10.
+PASS BARS (playbook gates): script 7+ with zero fact issues and viewer card 8+; visuals 7+; stop score 8+. Say PASS or FAIL per gate."""
 FORMAT = """Answer in this exact shape:
 ## Goal (restated)
-## Scores (table: part | score /10 | viral-help % | one-line reason)
+## Scores (table: part | score /10 | viral-help % | one-line reason), then viewer card /10 and first-second stop /10, PASS/FAIL per gate
 ## Viral chance of the whole reel as it is: X% (rough guess, say why)
 ## Fixes (ranked, max 6, each doable tonight for free; say exactly what to change: line, word, scene, timing)
 ## Viral chance after your fixes: Y%"""
