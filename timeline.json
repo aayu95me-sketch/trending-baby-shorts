@@ -1,0 +1,565 @@
+{
+ "total": 30.346,
+ "voice": "20261110-smog/voice.wav",
+ "lines": [
+  {
+   "start": 0.171,
+   "text": "Yeh kohra hai ya zeher? Har November Dilli mein hi kyun?",
+   "end": 3.535
+  },
+  {
+   "start": 3.932,
+   "text": "Smog yaani smoke aur fog. Dhuaan aur kohra, ek saath.",
+   "end": 7.615
+  },
+  {
+   "start": 7.625,
+   "text": "Sardi mein thandi hawa zameen ke paas phans jaati hai. Upar garam hawa dhakkan ban jaati hai, dhuaan bahar nahi nikalta.",
+   "end": 13.804
+  },
+  {
+   "start": 14.2,
+   "text": "Aur Diwali ke din 1248 jagah parali jali. Pichhle saal sirf 135 .",
+   "end": 19.712
+  },
+  {
+   "start": 20.092,
+   "text": "London mein ek baar smog ne kareeb 12000 jaanein li thi. Tab jaakar kanoon bana.",
+   "end": 24.398
+  },
+  {
+   "start": 24.788,
+   "text": "Dilli mein 15 November tak baarish nahi. Jo bole sirf kohra hai, use bhejo.",
+   "end": 28.993
+  }
+ ],
+ "words": [
+  {
+   "w": "Yeh",
+   "start": 0.171,
+   "end": 0.484
+  },
+  {
+   "w": "kohra",
+   "start": 0.504,
+   "end": 0.8
+  },
+  {
+   "w": "hai",
+   "start": 0.82,
+   "end": 0.98
+  },
+  {
+   "w": "ya",
+   "start": 1.0,
+   "end": 1.12
+  },
+  {
+   "w": "zeher?",
+   "start": 1.14,
+   "end": 1.94
+  },
+  {
+   "w": "Har",
+   "start": 1.964,
+   "end": 2.18
+  },
+  {
+   "w": "November",
+   "start": 2.2,
+   "end": 2.66
+  },
+  {
+   "w": "Dilli",
+   "start": 2.68,
+   "end": 2.86
+  },
+  {
+   "w": "mein",
+   "start": 2.88,
+   "end": 3.06
+  },
+  {
+   "w": "hi",
+   "start": 3.08,
+   "end": 3.32
+  },
+  {
+   "w": "kyun?",
+   "start": 3.34,
+   "end": 3.912
+  },
+  {
+   "w": "Smog",
+   "start": 3.932,
+   "end": 4.44
+  },
+  {
+   "w": "yaani",
+   "start": 4.46,
+   "end": 4.7
+  },
+  {
+   "w": "smoke",
+   "start": 4.72,
+   "end": 5.14
+  },
+  {
+   "w": "aur",
+   "start": 5.16,
+   "end": 5.3
+  },
+  {
+   "w": "fog.",
+   "start": 5.32,
+   "end": 5.88
+  },
+  {
+   "w": "Dhuaan",
+   "start": 5.9,
+   "end": 6.24
+  },
+  {
+   "w": "aur",
+   "start": 6.26,
+   "end": 6.38
+  },
+  {
+   "w": "kohra,",
+   "start": 6.4,
+   "end": 7.081
+  },
+  {
+   "w": "ek",
+   "start": 7.101,
+   "end": 7.3
+  },
+  {
+   "w": "saath.",
+   "start": 7.32,
+   "end": 7.605
+  },
+  {
+   "w": "Sardi",
+   "start": 7.625,
+   "end": 7.911
+  },
+  {
+   "w": "mein",
+   "start": 7.931,
+   "end": 8.216
+  },
+  {
+   "w": "thandi",
+   "start": 8.236,
+   "end": 8.522
+  },
+  {
+   "w": "hawa",
+   "start": 8.542,
+   "end": 8.827
+  },
+  {
+   "w": "zameen",
+   "start": 8.847,
+   "end": 9.133
+  },
+  {
+   "w": "ke",
+   "start": 9.153,
+   "end": 9.438
+  },
+  {
+   "w": "paas",
+   "start": 9.458,
+   "end": 9.744
+  },
+  {
+   "w": "phans",
+   "start": 9.764,
+   "end": 10.049
+  },
+  {
+   "w": "jaati",
+   "start": 10.069,
+   "end": 10.355
+  },
+  {
+   "w": "hai.",
+   "start": 10.375,
+   "end": 10.66
+  },
+  {
+   "w": "Upar",
+   "start": 10.68,
+   "end": 11.12
+  },
+  {
+   "w": "garam",
+   "start": 11.14,
+   "end": 11.38
+  },
+  {
+   "w": "hawa",
+   "start": 11.4,
+   "end": 11.58
+  },
+  {
+   "w": "dhakkan",
+   "start": 11.6,
+   "end": 11.94
+  },
+  {
+   "w": "ban",
+   "start": 11.96,
+   "end": 12.06
+  },
+  {
+   "w": "jaati",
+   "start": 12.08,
+   "end": 12.34
+  },
+  {
+   "w": "hai,",
+   "start": 12.36,
+   "end": 12.796
+  },
+  {
+   "w": "dhuaan",
+   "start": 12.816,
+   "end": 13.1
+  },
+  {
+   "w": "bahar",
+   "start": 13.12,
+   "end": 13.3
+  },
+  {
+   "w": "nahi",
+   "start": 13.32,
+   "end": 13.4
+  },
+  {
+   "w": "nikalta.",
+   "start": 13.42,
+   "end": 14.18
+  },
+  {
+   "w": "Aur",
+   "start": 14.2,
+   "end": 14.32
+  },
+  {
+   "w": "Diwali",
+   "start": 14.34,
+   "end": 14.78
+  },
+  {
+   "w": "ke",
+   "start": 14.8,
+   "end": 14.84
+  },
+  {
+   "w": "din",
+   "start": 14.86,
+   "end": 14.9
+  },
+  {
+   "w": "1248",
+   "start": 14.92,
+   "end": 15.72
+  },
+  {
+   "w": "jagah",
+   "start": 16.64,
+   "end": 17.2
+  },
+  {
+   "w": "parali",
+   "start": 17.22,
+   "end": 17.56
+  },
+  {
+   "w": "jali.",
+   "start": 17.58,
+   "end": 18.17
+  },
+  {
+   "w": "Pichhle",
+   "start": 18.19,
+   "end": 18.46
+  },
+  {
+   "w": "saal",
+   "start": 18.48,
+   "end": 18.68
+  },
+  {
+   "w": "sirf",
+   "start": 18.7,
+   "end": 19.02
+  },
+  {
+   "w": "135",
+   "start": 19.04,
+   "end": 19.676
+  },
+  {
+   "w": ".",
+   "start": 19.696,
+   "end": 20.072
+  },
+  {
+   "w": "London",
+   "start": 20.092,
+   "end": 20.48
+  },
+  {
+   "w": "mein",
+   "start": 20.5,
+   "end": 20.68
+  },
+  {
+   "w": "ek",
+   "start": 20.7,
+   "end": 20.86
+  },
+  {
+   "w": "baar",
+   "start": 20.88,
+   "end": 21.08
+  },
+  {
+   "w": "smog",
+   "start": 21.1,
+   "end": 21.29
+  },
+  {
+   "w": "ne",
+   "start": 21.31,
+   "end": 21.5
+  },
+  {
+   "w": "kareeb",
+   "start": 21.52,
+   "end": 21.72
+  },
+  {
+   "w": "12000",
+   "start": 21.74,
+   "end": 22.152
+  },
+  {
+   "w": "jaanein",
+   "start": 22.172,
+   "end": 22.368
+  },
+  {
+   "w": "li",
+   "start": 22.388,
+   "end": 22.584
+  },
+  {
+   "w": "thi.",
+   "start": 22.604,
+   "end": 22.8
+  },
+  {
+   "w": "Tab",
+   "start": 22.82,
+   "end": 23.46
+  },
+  {
+   "w": "jaakar",
+   "start": 23.48,
+   "end": 23.82
+  },
+  {
+   "w": "kanoon",
+   "start": 23.84,
+   "end": 24.16
+  },
+  {
+   "w": "bana.",
+   "start": 24.18,
+   "end": 24.768
+  },
+  {
+   "w": "Dilli",
+   "start": 24.788,
+   "end": 25.1
+  },
+  {
+   "w": "mein",
+   "start": 25.12,
+   "end": 25.393
+  },
+  {
+   "w": "15",
+   "start": 25.413,
+   "end": 25.7
+  },
+  {
+   "w": "November",
+   "start": 25.72,
+   "end": 26.06
+  },
+  {
+   "w": "tak",
+   "start": 26.08,
+   "end": 26.22
+  },
+  {
+   "w": "baarish",
+   "start": 26.24,
+   "end": 26.48
+  },
+  {
+   "w": "nahi.",
+   "start": 26.5,
+   "end": 27.06
+  },
+  {
+   "w": "Jo",
+   "start": 27.08,
+   "end": 27.28
+  },
+  {
+   "w": "bole",
+   "start": 27.3,
+   "end": 27.54
+  },
+  {
+   "w": "sirf",
+   "start": 27.56,
+   "end": 27.9
+  },
+  {
+   "w": "kohra",
+   "start": 27.92,
+   "end": 28.16
+  },
+  {
+   "w": "hai,",
+   "start": 28.18,
+   "end": 28.429
+  },
+  {
+   "w": "use",
+   "start": 28.449,
+   "end": 28.68
+  },
+  {
+   "w": "bhejo.",
+   "start": 28.7,
+   "end": 29.346
+  }
+ ],
+ "cues": {
+  "hook": 0.171,
+  "word": 3.932,
+  "lid": 7.625,
+  "fire": 14.2,
+  "london": 20.092,
+  "end": 24.788
+ },
+ "numbers": [
+  {
+   "show": "1248",
+   "spoken": "baarah sau adtaalees",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "135",
+   "spoken": "ek sau paintees",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "12000",
+   "spoken": "baarah hazaar",
+   "heard": 0.5,
+   "digit_diff": 3
+  },
+  {
+   "show": "15",
+   "spoken": "pandrah",
+   "heard": 1.0,
+   "digit_diff": null
+  }
+ ],
+ "heard": [
+  "ये",
+  "कोरा",
+  "है",
+  "या",
+  "जेहर",
+  "हर",
+  "नवेंबर",
+  "दिल्ली",
+  "मेही",
+  "किय।",
+  "स्मोग",
+  "यानी",
+  "स्मोग",
+  "और",
+  "फोग,",
+  "दूवा",
+  "और",
+  "कोरा",
+  "एक",
+  "साथ",
+  "उपर",
+  "गरम",
+  "हवा",
+  "दखन",
+  "बन",
+  "जाती",
+  "है,",
+  "दूमा",
+  "बार",
+  "नी",
+  "निकलता।",
+  "और",
+  "दीवाली",
+  "के",
+  "दिवाली",
+  "के",
+  "1248",
+  "जगा",
+  "पराली",
+  "जली",
+  "पिछले",
+  "साल",
+  "सर्फ",
+  "एक",
+  "सो",
+  "पैंटीस",
+  "लन्दन",
+  "में",
+  "एक",
+  "बार",
+  "स्मोगने",
+  "करी",
+  "बार...",
+  "तब",
+  "जाकर",
+  "कानुन",
+  "बना",
+  "दिल्ली",
+  "में",
+  "पन्ड़ा",
+  "नवमबर",
+  "तक",
+  "बारिष",
+  "नहीं",
+  "जो",
+  "बोले",
+  "सर्फ",
+  "कोरा",
+  "है",
+  "उसे",
+  "बेजों"
+ ]
+}

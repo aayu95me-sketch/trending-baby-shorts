@@ -1,0 +1,28 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent"
+  },
+  "groq": {
+   "number_mismatches": [
+    "1248 shown vs baarah sau adtaalees spoken (1245)",
+    "135 shown vs ek sau paintees spoken (115)"
+   ],
+   "compliance_flags": [
+    "Unverified claim that London smog caused a law without source",
+    "Unverified claim that Delhi will have no rain until 15 Nov without source"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "lid",
+    "end",
+    "jaanein li thi"
+   ],
+   "one_line_verdict": "Script has two numeric mismatches, contains unverified factual claims, lacks a hook, and includes a few unnatural Hinglish terms."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}
