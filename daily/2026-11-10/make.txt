@@ -1,2 +1,2 @@
-# U19 layout fixes
-20261110-ind-u19-vs-uae-u19
+# Fable frame 1 back to full title
+20261110-claude-fable-5-2
