@@ -130,6 +130,8 @@ No blog stats like "X% swipe in 3 seconds": no peer-reviewed source.
 
 ### 5.3 Measuring when engagement is near zero
 - **Now:** viewed vs swiped away, retention drop-off second matched to the line, traffic source (search vs feed), views at 1/4/24/72 h (`analysis/`).
+- **Two reads per reel:** the 72 h read spots a feed spike; a 7-day total catches search views that keep arriving.
+- **Emotion tag per reel** (the Feeling column in `LESSONS.md`) against the stop rate, so we learn which feeling stops our viewer.
 - **Once there's data:** share vs comment ratio by topic type, predicted action vs actual action per 1,000 views, loop rate.
 - Every pattern is a hint until it repeats in the next batch.
 
@@ -148,6 +150,37 @@ No blog stats like "X% swipe in 3 seconds": no peer-reviewed source.
 - **Voice:** Gemini TTS Orus with Devanagari TTS text for the Indian accent; numbers written as spoken words; every spoken number checked against the screen.
 - **Sync:** time visuals from Whisper word timestamps of the final audio, never estimates.
 - **Readable on a phone:** any text holds at least 1.2-1.5 s.
+
+---
+
+## 6b. YouTube levers (adopted 10 Nov from the Chunav Diary "Real Proof" plan, rounds 8-11)
+
+Free, and they don't touch Ayush's decisions (no captions, real visuals, speed first). Scores are that council's Gemini / gpt-oss.
+
+**At gate 1 (script):**
+- **Comment mining before the script.** Read the comments on the top 2-3 Shorts/videos already out on the topic. They show the exact
+  doubt and the argument people are having, in their words; use it for the hook and the "send it to" line. Treat claims in comments as rumours to check, never as facts.
+  Free AI can tag the feelings; Claude spot-checks 1 in 10, since standard sentiment tools misread Hinglish.
+- **Twist in the last 3 s** where the facts allow one: "Lekin ek catch hai..." keeps people to the end.
+- **Enforced loop:** the last line runs into the first, and the last frame matches frame 1 (already in section 6; the council checks it).
+- **Fairness anger is allowed** in the hook only on verified facts. Never "sab jhooth / dhokha" claims.
+
+**At upload (`youtube.md` + Mac session):**
+- **Related video:** set each Short's "Related video" to another Doubt Clear Short (same category, or yesterday's reel on the same story).
+  Gemini rated this the single biggest YouTube lever.
+- **Series + playlists:** each reel belongs to a named series by category (e.g. "Box Office Sach", "AQI Check", "Launch Sach", "Cricket Sach"),
+  with a matching public playlist. Gives viewers a reason to subscribe.
+- **Cover frame + hashtags:** pick a cover frame with the subject and the key number; 2-3 exact hashtags only (the search phrase), no spam.
+- **Pinned question** in the comments (part of the batch Ayush approves): a one-line question with a personal answer, e.g.
+  "Aapke hisaab se asli kamai kitni?". Most-asked answers can become the next reel.
+
+**To test (one test at a time, council decides):**
+- **Spoken subscribe line** at about 85%: "Har trending doubt ka sach, roz. Subscribe karo." Test against reels without it on subs per 1,000 views.
+- **Audio identity, no face:** the same half-second sound sting under every frame 1.
+- **2-part story** for a running story (box office day count, AQI week): part 1 ends on an open question, part 2 next day, linked.
+
+**Not adopted here:** caption pills A/B (Ayush: no captions), a phone shoot of props (topics change daily), finance segments and
+posting-by-segment slots, trending audio on YouTube, remixing other Shorts ("reused content" risk).
 
 ---
 
@@ -178,7 +211,7 @@ or medical advice; verify every claim at gate 1.
 4. Near-zero views can mean "not shown". Check impressions, viewed-vs-swiped, made-for-kids and copyright claims (news clips!) before killing a format.
 5. Search drove views. Put the exact Trend breakdown search phrase in the title and frame 1.
 6. Views didn't become subscribers. Give a reason to follow ("har trending doubt ka sach, roz").
-7. When a reel hits (about 5x the median), make follow-ups on the same topic within hours, not 48 h, since trends fade fast.
+7. When a reel hits (3x our median views, lowered from 5x on 10 Nov), make 1-2 follow-ups on the same topic within hours, not 48 h, since trends fade fast. Its hook goes into the hook bank.
 
 Never repeat: wrong-accent voice; foreign currency words; text on flat colour cards; blurred frame 1; cuts too fast or out of sync;
 giving the answer in second 1; generic stock that doesn't match the line; shake/flash effects; captions covering the visual.
@@ -191,7 +224,7 @@ giving the answer in second 1; generic stock that doesn't match the line; shake/
 2. Per topic: research, script, `viewer.md`, `visuals.json` -> real visuals -> render (`make-day.yml`).
 3. Council (`council.yml`) on each reel -> apply fixes -> re-render.
 4. Ayush approves the batch -> `youtube.md` committed -> Mac session schedules in YouTube Studio.
-5. Add each scheduled video to `analysis/videos.csv` -> `stats.yml` snapshots views.
+5. Add each scheduled video to `analysis/videos.csv` -> `stats.yml` snapshots views. Set related video, playlist and pinned question (section 6b).
 6. At 72 h and weekly: update `LESSONS.md`; log mistakes in `ERRORS.md`.
 
 Targets (guesses, re-test): hit = 5,000+ views in 7 days; viral = 50,000+.
