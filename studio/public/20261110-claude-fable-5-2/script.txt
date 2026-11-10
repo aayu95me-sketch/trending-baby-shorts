@@ -1,6 +1,6 @@
-Claude@hook Fable [5.2|five point two], naya AI. Kya yeh sach mein GPT aur Gemini se aage hai?
+Claude@hook Fable [5.2|paanch point do], naya AI. Kya yeh sach mein GPT aur Gemini se aage hai?
 Anthropic@what ne nau November ko launch kiya. Saath mein Mythos, wahi model, par sirf verified security aur science labs ke liye.
-Coding@test test mein Fable [49%|unchaas percent], GPT-6 Astra [43%|taintaalees], Gemini [41%|iktaalees].
+Coding@test test mein Fable [49%|unchaas percent], GPT [43%|taintaalees], Gemini [41%|iktaalees].
 Lekin@but yeh number Anthropic ke apne hain. Independent test abhi baaki hain.
 Paid@use plans aur API par mil raha hai, aur API [20%|bees percent] sasta.
 Aap@end kaunsa AI use karte ho? Comment karo.
