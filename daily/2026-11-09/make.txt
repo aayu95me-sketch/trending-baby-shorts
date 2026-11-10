@@ -1,3 +1,2 @@
-# no captions: redo Delhi + Samsung (voice check failed last run)
+# Delhi retry (voice)
 20261109-delhi-aqi
-20261109-samsung-galaxy-s27
