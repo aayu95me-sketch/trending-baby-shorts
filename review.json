@@ -1,0 +1,24 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "unverified claim about Pawan Kalyan and Anna's statement; potential defamation if false"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "Andhra@hook",
+    "Nau@truth",
+    "Afwah@end"
+   ],
+   "one_line_verdict": "Script lacks explicit [shown|spoken] pairs, contains an unverified claim about Pawan Kalyan’s divorce and uses odd Hinglish tokens that sound unnatural for a young Delhi audience."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}
