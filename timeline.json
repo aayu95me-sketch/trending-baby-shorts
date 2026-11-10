@@ -1,0 +1,432 @@
+{
+ "total": 20.758,
+ "voice": "20261110-ind-vs-nz-3rd-odi/voice.wav",
+ "lines": [
+  {
+   "start": 0.312,
+   "text": "India New Zealand teesra ODI. Live score kyun nahi aa raha?",
+   "end": 3.144
+  },
+  {
+   "start": 3.526,
+   "text": "Kyunki Hamilton mein baarish ne ek bhi gend nahi hone di. Match abandoned.",
+   "end": 7.213
+  },
+  {
+   "start": 7.61,
+   "text": "Toh kya India series jeet gaya? Nahi. Yeh 5 match ki series hai, India 2-0 se aage.",
+   "end": 12.531
+  },
+  {
+   "start": 12.904,
+   "text": "India ko bas ek jeet chahiye. New Zealand ko barabari ke liye dono match jeetne honge.",
+   "end": 15.96
+  },
+  {
+   "start": 15.96,
+   "text": "Jo bole series khatam, use yeh bhejo.",
+   "end": 19.375
+  }
+ ],
+ "words": [
+  {
+   "w": "India",
+   "start": 0.312,
+   "end": 0.476
+  },
+  {
+   "w": "New",
+   "start": 0.496,
+   "end": 0.66
+  },
+  {
+   "w": "Zealand",
+   "start": 0.68,
+   "end": 1.18
+  },
+  {
+   "w": "teesra",
+   "start": 1.2,
+   "end": 1.5
+  },
+  {
+   "w": "ODI.",
+   "start": 1.52,
+   "end": 2.105
+  },
+  {
+   "w": "Live",
+   "start": 2.125,
+   "end": 2.38
+  },
+  {
+   "w": "score",
+   "start": 2.4,
+   "end": 2.62
+  },
+  {
+   "w": "kyun",
+   "start": 2.64,
+   "end": 2.78
+  },
+  {
+   "w": "nahi",
+   "start": 2.8,
+   "end": 2.86
+  },
+  {
+   "w": "aa",
+   "start": 2.88,
+   "end": 2.94
+  },
+  {
+   "w": "raha?",
+   "start": 2.96,
+   "end": 3.506
+  },
+  {
+   "w": "Kyunki",
+   "start": 3.526,
+   "end": 3.72
+  },
+  {
+   "w": "Hamilton",
+   "start": 3.74,
+   "end": 4.16
+  },
+  {
+   "w": "mein",
+   "start": 4.18,
+   "end": 4.32
+  },
+  {
+   "w": "baarish",
+   "start": 4.34,
+   "end": 4.62
+  },
+  {
+   "w": "ne",
+   "start": 4.64,
+   "end": 4.78
+  },
+  {
+   "w": "ek",
+   "start": 4.8,
+   "end": 5.0
+  },
+  {
+   "w": "bhi",
+   "start": 5.02,
+   "end": 5.12
+  },
+  {
+   "w": "gend",
+   "start": 5.14,
+   "end": 5.34
+  },
+  {
+   "w": "nahi",
+   "start": 5.36,
+   "end": 5.5
+  },
+  {
+   "w": "hone",
+   "start": 5.52,
+   "end": 5.68
+  },
+  {
+   "w": "di.",
+   "start": 5.7,
+   "end": 6.144
+  },
+  {
+   "w": "Match",
+   "start": 6.164,
+   "end": 6.46
+  },
+  {
+   "w": "abandoned.",
+   "start": 6.48,
+   "end": 7.28
+  },
+  {
+   "w": "Toh",
+   "start": 7.61,
+   "end": 7.68
+  },
+  {
+   "w": "kya",
+   "start": 7.7,
+   "end": 7.78
+  },
+  {
+   "w": "India",
+   "start": 7.8,
+   "end": 8.06
+  },
+  {
+   "w": "series",
+   "start": 8.08,
+   "end": 8.34
+  },
+  {
+   "w": "jeet",
+   "start": 8.36,
+   "end": 8.54
+  },
+  {
+   "w": "gaya?",
+   "start": 8.56,
+   "end": 9.22
+  },
+  {
+   "w": "Nahi.",
+   "start": 9.24,
+   "end": 9.68
+  },
+  {
+   "w": "Yeh",
+   "start": 9.7,
+   "end": 9.82
+  },
+  {
+   "w": "5",
+   "start": 9.84,
+   "end": 10.14
+  },
+  {
+   "w": "match",
+   "start": 10.16,
+   "end": 10.36
+  },
+  {
+   "w": "ki",
+   "start": 10.38,
+   "end": 10.52
+  },
+  {
+   "w": "series",
+   "start": 10.54,
+   "end": 10.9
+  },
+  {
+   "w": "hai,",
+   "start": 10.92,
+   "end": 11.0
+  },
+  {
+   "w": "India",
+   "start": 11.02,
+   "end": 11.353
+  },
+  {
+   "w": "2-0",
+   "start": 11.373,
+   "end": 12.06
+  },
+  {
+   "w": "se",
+   "start": 12.08,
+   "end": 12.26
+  },
+  {
+   "w": "aage.",
+   "start": 12.28,
+   "end": 12.884
+  },
+  {
+   "w": "India",
+   "start": 12.904,
+   "end": 13.16
+  },
+  {
+   "w": "ko",
+   "start": 13.18,
+   "end": 13.28
+  },
+  {
+   "w": "bas",
+   "start": 13.3,
+   "end": 13.44
+  },
+  {
+   "w": "ek",
+   "start": 13.46,
+   "end": 13.72
+  },
+  {
+   "w": "jeet",
+   "start": 13.74,
+   "end": 13.96
+  },
+  {
+   "w": "chahiye.",
+   "start": 13.98,
+   "end": 14.565
+  },
+  {
+   "w": "New",
+   "start": 14.585,
+   "end": 14.84
+  },
+  {
+   "w": "Zealand",
+   "start": 14.86,
+   "end": 14.962
+  },
+  {
+   "w": "ko",
+   "start": 14.982,
+   "end": 15.084
+  },
+  {
+   "w": "barabari",
+   "start": 15.104,
+   "end": 15.207
+  },
+  {
+   "w": "ke",
+   "start": 15.227,
+   "end": 15.329
+  },
+  {
+   "w": "liye",
+   "start": 15.349,
+   "end": 15.451
+  },
+  {
+   "w": "dono",
+   "start": 15.471,
+   "end": 15.573
+  },
+  {
+   "w": "match",
+   "start": 15.593,
+   "end": 15.696
+  },
+  {
+   "w": "jeetne",
+   "start": 15.716,
+   "end": 15.818
+  },
+  {
+   "w": "honge.",
+   "start": 15.838,
+   "end": 15.94
+  },
+  {
+   "w": "Jo",
+   "start": 15.96,
+   "end": 16.76
+  },
+  {
+   "w": "bole",
+   "start": 17.19,
+   "end": 17.62
+  },
+  {
+   "w": "series",
+   "start": 17.64,
+   "end": 17.98
+  },
+  {
+   "w": "khatam,",
+   "start": 18.0,
+   "end": 18.34
+  },
+  {
+   "w": "use",
+   "start": 18.36,
+   "end": 18.86
+  },
+  {
+   "w": "yeh",
+   "start": 18.88,
+   "end": 19.06
+  },
+  {
+   "w": "bhejo.",
+   "start": 19.08,
+   "end": 19.758
+  }
+ ],
+ "cues": {
+  "hook": 0.312,
+  "rain": 3.526,
+  "series": 7.61,
+  "need": 12.904,
+  "end": 15.96
+ },
+ "numbers": [
+  {
+   "show": "5",
+   "spoken": "paanch",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "2-0",
+   "spoken": "do zero",
+   "heard": 1.0,
+   "digit_diff": 0
+  }
+ ],
+ "heard": [
+  "अदिया",
+  "नुजिलिन्त",
+  "थिस्रा",
+  "वन्दे",
+  "लाईव",
+  "स्कोर",
+  "क्यो",
+  "निया",
+  "रा?",
+  "क्योंकि",
+  "हमेल्टन",
+  "में",
+  "बारिष",
+  "ने",
+  "एक",
+  "भी",
+  "गें",
+  "नहीं",
+  "नहीं",
+  "ती.",
+  "मैच",
+  "अबआन्ट्ण्ट.",
+  "तो",
+  "क्या",
+  "अदिया",
+  "नुजिलिन्त",
+  "सीरीज",
+  "जीद",
+  "क्या?",
+  "नहीं",
+  "ये",
+  "पाच",
+  "मैज",
+  "की",
+  "सीरीज",
+  "है",
+  "इंट्या",
+  "2",
+  "-0",
+  "से",
+  "आगे",
+  "इंट्या",
+  "को",
+  "बस",
+  "एक",
+  "जीच",
+  "चहीए,",
+  "नूजी",
+  "लें...",
+  "ज़ो",
+  "बोले",
+  "सीरीस",
+  "ख़तम",
+  "उसे",
+  "ये",
+  "बेज़ों।"
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "reviewers": {
+  "gemini": {
+   "number_mismatches": [],
+   "compliance_flags": [],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    {
+     "original": "gend",
+     "suggestion": "ball",
+     "reason": "Young Delhi speakers almost exclusively say 'ball' instead of 'gend' when discussing cricket."
+    }
+   ],
+   "one_line_verdict": "Clear, concise script with accurate numbers; replacing 'gend' with 'ball' will make it sound more natural."
+  },
+  "groq": {
+   "number_mismatches": [
+    {
+     "shown": "5",
+     "spoken": "paanch"
+    },
+    {
+     "shown": "2-0",
+     "spoken": "do zero"
+    }
+   ],
+   "compliance_flags": [],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "need ko (should be \"India ko\")",
+    "Jo@end bole (awkward phrasing)"
+   ],
+   "one_line_verdict": "Two number mismatches and a couple of unnatural Hinglish phrases, but otherwise compliance‑clear."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}
