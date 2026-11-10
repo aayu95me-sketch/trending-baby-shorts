@@ -1,0 +1,533 @@
+{
+ "total": 30.856,
+ "voice": "20261110-ind-u19-vs-uae-u19/voice.wav",
+ "lines": [
+  {
+   "start": 0.294,
+   "text": "Virender Sehwag ka beta, aur 160 run? Sach hai ya sirf naam ka hype?",
+   "end": 5.826
+  },
+  {
+   "start": 6.194,
+   "text": "Sach hai. Aaryavir Sehwag ne UAE ke khilaaf 168 gendon par 160 banaye, 17 chauke, 7 chhakke.",
+   "end": 14.371
+  },
+  {
+   "start": 14.672,
+   "text": "India ne 309 run banaye, aur UAE ki poori team all out.",
+   "end": 18.026
+  },
+  {
+   "start": 18.62,
+   "text": "India 70 run se jeeta, Ishan Sood ke 4 wicket. Semi-final mein ab Afghanistan.",
+   "end": 23.963
+  },
+  {
+   "start": 24.53,
+   "text": "Aaryavir bole, papa ko sirf bade sau pasand hain. Jo bole sirf naam hai, use bhejo.",
+   "end": 29.483
+  }
+ ],
+ "words": [
+  {
+   "w": "Virender",
+   "start": 0.294,
+   "end": 0.8
+  },
+  {
+   "w": "Sehwag",
+   "start": 0.82,
+   "end": 1.28
+  },
+  {
+   "w": "ka",
+   "start": 1.3,
+   "end": 1.42
+  },
+  {
+   "w": "beta,",
+   "start": 1.44,
+   "end": 1.72
+  },
+  {
+   "w": "aur",
+   "start": 1.74,
+   "end": 2.3
+  },
+  {
+   "w": "160",
+   "start": 2.32,
+   "end": 3.12
+  },
+  {
+   "w": "run?",
+   "start": 3.33,
+   "end": 3.82
+  },
+  {
+   "w": "Sach",
+   "start": 3.84,
+   "end": 4.14
+  },
+  {
+   "w": "hai",
+   "start": 4.16,
+   "end": 4.32
+  },
+  {
+   "w": "ya",
+   "start": 4.34,
+   "end": 4.5
+  },
+  {
+   "w": "sirf",
+   "start": 4.52,
+   "end": 5.0
+  },
+  {
+   "w": "naam",
+   "start": 5.02,
+   "end": 5.28
+  },
+  {
+   "w": "ka",
+   "start": 5.3,
+   "end": 5.44
+  },
+  {
+   "w": "hype?",
+   "start": 5.46,
+   "end": 6.174
+  },
+  {
+   "w": "Sach",
+   "start": 6.194,
+   "end": 6.48
+  },
+  {
+   "w": "hai.",
+   "start": 6.5,
+   "end": 6.864
+  },
+  {
+   "w": "Aaryavir",
+   "start": 6.884,
+   "end": 7.62
+  },
+  {
+   "w": "Sehwag",
+   "start": 7.64,
+   "end": 7.82
+  },
+  {
+   "w": "ne",
+   "start": 7.84,
+   "end": 8.02
+  },
+  {
+   "w": "UAE",
+   "start": 8.04,
+   "end": 8.16
+  },
+  {
+   "w": "ke",
+   "start": 8.18,
+   "end": 8.74
+  },
+  {
+   "w": "khilaaf",
+   "start": 8.76,
+   "end": 9.1
+  },
+  {
+   "w": "168",
+   "start": 9.12,
+   "end": 9.92
+  },
+  {
+   "w": "gendon",
+   "start": 10.34,
+   "end": 10.72
+  },
+  {
+   "w": "par",
+   "start": 10.74,
+   "end": 10.94
+  },
+  {
+   "w": "160",
+   "start": 10.96,
+   "end": 11.76
+  },
+  {
+   "w": "banaye,",
+   "start": 11.86,
+   "end": 12.417
+  },
+  {
+   "w": "17",
+   "start": 12.437,
+   "end": 12.98
+  },
+  {
+   "w": "chauke,",
+   "start": 13.0,
+   "end": 13.32
+  },
+  {
+   "w": "7",
+   "start": 13.34,
+   "end": 13.974
+  },
+  {
+   "w": "chhakke.",
+   "start": 13.994,
+   "end": 14.652
+  },
+  {
+   "w": "India",
+   "start": 14.672,
+   "end": 14.85
+  },
+  {
+   "w": "ne",
+   "start": 14.87,
+   "end": 15.047
+  },
+  {
+   "w": "309",
+   "start": 15.067,
+   "end": 15.64
+  },
+  {
+   "w": "run",
+   "start": 15.66,
+   "end": 15.8
+  },
+  {
+   "w": "banaye,",
+   "start": 15.82,
+   "end": 16.12
+  },
+  {
+   "w": "aur",
+   "start": 16.14,
+   "end": 16.48
+  },
+  {
+   "w": "UAE",
+   "start": 16.5,
+   "end": 16.96
+  },
+  {
+   "w": "ki",
+   "start": 16.98,
+   "end": 17.265
+  },
+  {
+   "w": "poori",
+   "start": 17.285,
+   "end": 17.704
+  },
+  {
+   "w": "team",
+   "start": 17.724,
+   "end": 17.923
+  },
+  {
+   "w": "all",
+   "start": 17.943,
+   "end": 18.141
+  },
+  {
+   "w": "out.",
+   "start": 18.161,
+   "end": 18.6
+  },
+  {
+   "w": "India",
+   "start": 18.62,
+   "end": 19.28
+  },
+  {
+   "w": "70",
+   "start": 19.3,
+   "end": 19.82
+  },
+  {
+   "w": "run",
+   "start": 19.84,
+   "end": 20.0
+  },
+  {
+   "w": "se",
+   "start": 20.02,
+   "end": 20.16
+  },
+  {
+   "w": "jeeta,",
+   "start": 20.18,
+   "end": 20.794
+  },
+  {
+   "w": "Ishan",
+   "start": 20.814,
+   "end": 21.1
+  },
+  {
+   "w": "Sood",
+   "start": 21.12,
+   "end": 21.32
+  },
+  {
+   "w": "ke",
+   "start": 21.34,
+   "end": 21.5
+  },
+  {
+   "w": "4",
+   "start": 21.52,
+   "end": 21.78
+  },
+  {
+   "w": "wicket.",
+   "start": 21.8,
+   "end": 22.44
+  },
+  {
+   "w": "Semi-final",
+   "start": 22.46,
+   "end": 23.0
+  },
+  {
+   "w": "mein",
+   "start": 23.02,
+   "end": 23.2
+  },
+  {
+   "w": "ab",
+   "start": 23.22,
+   "end": 23.855
+  },
+  {
+   "w": "Afghanistan.",
+   "start": 23.875,
+   "end": 24.51
+  },
+  {
+   "w": "Aaryavir",
+   "start": 24.53,
+   "end": 24.86
+  },
+  {
+   "w": "bole,",
+   "start": 24.88,
+   "end": 25.12
+  },
+  {
+   "w": "papa",
+   "start": 25.14,
+   "end": 25.72
+  },
+  {
+   "w": "ko",
+   "start": 25.74,
+   "end": 25.78
+  },
+  {
+   "w": "sirf",
+   "start": 25.8,
+   "end": 26.12
+  },
+  {
+   "w": "bade",
+   "start": 26.14,
+   "end": 26.54
+  },
+  {
+   "w": "sau",
+   "start": 26.56,
+   "end": 26.7
+  },
+  {
+   "w": "pasand",
+   "start": 26.72,
+   "end": 27.12
+  },
+  {
+   "w": "hain.",
+   "start": 27.14,
+   "end": 27.6
+  },
+  {
+   "w": "Jo",
+   "start": 27.62,
+   "end": 27.76
+  },
+  {
+   "w": "bole",
+   "start": 27.78,
+   "end": 27.94
+  },
+  {
+   "w": "sirf",
+   "start": 27.96,
+   "end": 28.16
+  },
+  {
+   "w": "naam",
+   "start": 28.18,
+   "end": 28.56
+  },
+  {
+   "w": "hai,",
+   "start": 28.58,
+   "end": 29.019
+  },
+  {
+   "w": "use",
+   "start": 29.039,
+   "end": 29.22
+  },
+  {
+   "w": "bhejo.",
+   "start": 29.24,
+   "end": 29.856
+  }
+ ],
+ "cues": {
+  "hook": 0.294,
+  "truth": 6.194,
+  "team": 14.672,
+  "win": 18.62,
+  "end": 24.53
+ },
+ "numbers": [
+  {
+   "show": "160",
+   "spoken": "ek sau saath",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "168",
+   "spoken": "ek sau adsath",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "160",
+   "spoken": "ek sau saath",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "17",
+   "spoken": "satrah",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "7",
+   "spoken": "saat",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "309",
+   "spoken": "teen sau nau",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "70",
+   "spoken": "sattar",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "4",
+   "spoken": "chaar",
+   "heard": 1.0,
+   "digit_diff": null
+  }
+ ],
+ "heard": [
+  "विरेंद्र",
+  "सेवाग",
+  "का",
+  "बेटा",
+  "और",
+  "एक",
+  "सो",
+  "साट्रन",
+  "सच",
+  "है",
+  "या",
+  "सर्फ",
+  "नाम",
+  "का",
+  "हाईप",
+  "सच",
+  "है",
+  "आरेविर",
+  "सेवाग",
+  "ले",
+  "यूईके",
+  "किलाफ",
+  "एक",
+  "सो",
+  "अद",
+  "सद",
+  "गिन्दों",
+  "पर",
+  "एक",
+  "सो",
+  "साथ",
+  "बनाएं",
+  "सत्रा",
+  "चोके",
+  "साथ",
+  "चखके",
+  "इंट्यर",
+  "309",
+  "रन",
+  "बनाए",
+  "और",
+  "यूईए",
+  "की",
+  "पूरी",
+  "तीम",
+  "अलाउट",
+  "इंदिया",
+  "सतर",
+  "रन",
+  "से",
+  "जीता",
+  "इशान",
+  "सुद",
+  "के",
+  "चार",
+  "विके",
+  "सेमी",
+  "फािल",
+  "में",
+  "अब",
+  "आरेवीर",
+  "बोले",
+  "पापा",
+  "को",
+  "सिर्फ",
+  "बड़े",
+  "सो",
+  "पसन्द",
+  "है.",
+  "जो",
+  "बोले",
+  "सिर्फ",
+  "नाम",
+  "है।",
+  "उसे",
+  "बेजो."
+ ]
+}

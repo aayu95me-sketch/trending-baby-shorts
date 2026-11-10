@@ -1,0 +1,34 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent"
+  },
+  "groq": {
+   "number_mismatches": [
+    {
+     "shown": 168,
+     "spoken": "ek sau adsath",
+     "issue": "spoken number does not match Hindi for 168"
+    }
+   ],
+   "compliance_flags": [
+    "Unverified claim: Sehwag scored 168 runs against UAE presented as fact without source",
+    "Unverified claim: India scored 309 runs and bowled out UAE presented as fact without source",
+    "Unverified claim: India won by 70 runs with Ishan Sood taking 4 wickets presented as fact without source"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "Virender@hook (unnatural phrasing)",
+    "Aaryavir (uncommon name)",
+    "ek sau adsath (typo, not natural Hindi)",
+    "bade sau pasand hain (awkward phrasing)",
+    "Aaryavir@end (unnatural tag)"
+   ],
+   "one_line_verdict": "One number mismatch, multiple unverified cricket claims, no hook options, and several Hinglish phrasing issues."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}
