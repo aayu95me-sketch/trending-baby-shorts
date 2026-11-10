@@ -1,0 +1,480 @@
+{
+ "total": 26.255,
+ "voice": "20261109-delhi-aqi/voice.wav",
+ "lines": [
+  {
+   "start": 0.224,
+   "text": "AQI 1700 ? Ya 500 ? Dilli ki hawa ka sach kya hai?",
+   "end": 4.147
+  },
+  {
+   "start": 4.357,
+   "text": "Sarkari CPCB scale 500 par ruk jaata hai. Satrah sau private apps ka alag formula hai.",
+   "end": 9.69
+  },
+  {
+   "start": 9.85,
+   "text": "Nau November subah ka asli AQI, 368 . Very poor.",
+   "end": 13.977
+  },
+  {
+   "start": 14.356,
+   "text": "Lekin 15 jagah severe. Aur Akshardham mein PM2.5 , WHO limit se 50 guna .",
+   "end": 20.303
+  },
+  {
+   "start": 20.686,
+   "text": "Number fake, khatra asli. Aapke area ka AQI kitna hai? Comment karo.",
+   "end": 24.808
+  }
+ ],
+ "words": [
+  {
+   "w": "AQI",
+   "start": 0.224,
+   "end": 0.68
+  },
+  {
+   "w": "1700",
+   "start": 0.7,
+   "end": 1.33
+  },
+  {
+   "w": "?",
+   "start": 1.35,
+   "end": 1.48
+  },
+  {
+   "w": "Ya",
+   "start": 1.5,
+   "end": 2.02
+  },
+  {
+   "w": "500",
+   "start": 2.04,
+   "end": 2.384
+  },
+  {
+   "w": "?",
+   "start": 2.404,
+   "end": 2.567
+  },
+  {
+   "w": "Dilli",
+   "start": 2.587,
+   "end": 3.12
+  },
+  {
+   "w": "ki",
+   "start": 3.14,
+   "end": 3.24
+  },
+  {
+   "w": "hawa",
+   "start": 3.26,
+   "end": 3.4
+  },
+  {
+   "w": "ka",
+   "start": 3.42,
+   "end": 3.56
+  },
+  {
+   "w": "sach",
+   "start": 3.58,
+   "end": 3.82
+  },
+  {
+   "w": "kya",
+   "start": 3.84,
+   "end": 4.04
+  },
+  {
+   "w": "hai?",
+   "start": 4.06,
+   "end": 4.337
+  },
+  {
+   "w": "Sarkari",
+   "start": 4.357,
+   "end": 4.849
+  },
+  {
+   "w": "CPCB",
+   "start": 4.869,
+   "end": 5.36
+  },
+  {
+   "w": "scale",
+   "start": 5.38,
+   "end": 5.684
+  },
+  {
+   "w": "500",
+   "start": 5.704,
+   "end": 6.44
+  },
+  {
+   "w": "par",
+   "start": 6.46,
+   "end": 6.6
+  },
+  {
+   "w": "ruk",
+   "start": 6.62,
+   "end": 6.78
+  },
+  {
+   "w": "jaata",
+   "start": 6.8,
+   "end": 7.411
+  },
+  {
+   "w": "hai.",
+   "start": 7.431,
+   "end": 7.411
+  },
+  {
+   "w": "Satrah",
+   "start": 7.431,
+   "end": 7.96
+  },
+  {
+   "w": "sau",
+   "start": 7.98,
+   "end": 8.22
+  },
+  {
+   "w": "private",
+   "start": 8.24,
+   "end": 8.6
+  },
+  {
+   "w": "apps",
+   "start": 8.62,
+   "end": 8.9
+  },
+  {
+   "w": "ka",
+   "start": 8.92,
+   "end": 9.02
+  },
+  {
+   "w": "alag",
+   "start": 9.04,
+   "end": 9.26
+  },
+  {
+   "w": "formula",
+   "start": 9.28,
+   "end": 9.83
+  },
+  {
+   "w": "hai.",
+   "start": 9.85,
+   "end": 9.83
+  },
+  {
+   "w": "Nau",
+   "start": 9.85,
+   "end": 10.38
+  },
+  {
+   "w": "November",
+   "start": 10.4,
+   "end": 10.66
+  },
+  {
+   "w": "subah",
+   "start": 10.68,
+   "end": 10.79
+  },
+  {
+   "w": "ka",
+   "start": 10.81,
+   "end": 10.92
+  },
+  {
+   "w": "asli",
+   "start": 10.94,
+   "end": 11.32
+  },
+  {
+   "w": "AQI,",
+   "start": 11.34,
+   "end": 11.78
+  },
+  {
+   "w": "368",
+   "start": 11.8,
+   "end": 12.6
+  },
+  {
+   "w": ".",
+   "start": 13.055,
+   "end": 13.429
+  },
+  {
+   "w": "Very",
+   "start": 13.449,
+   "end": 13.68
+  },
+  {
+   "w": "poor.",
+   "start": 13.7,
+   "end": 14.336
+  },
+  {
+   "w": "Lekin",
+   "start": 14.356,
+   "end": 14.56
+  },
+  {
+   "w": "15",
+   "start": 14.58,
+   "end": 14.88
+  },
+  {
+   "w": "jagah",
+   "start": 14.9,
+   "end": 15.12
+  },
+  {
+   "w": "severe.",
+   "start": 15.14,
+   "end": 15.94
+  },
+  {
+   "w": "Aur",
+   "start": 15.975,
+   "end": 16.14
+  },
+  {
+   "w": "Akshardham",
+   "start": 16.16,
+   "end": 16.8
+  },
+  {
+   "w": "mein",
+   "start": 16.82,
+   "end": 17.127
+  },
+  {
+   "w": "PM2.5",
+   "start": 17.147,
+   "end": 17.947
+  },
+  {
+   "w": ",",
+   "start": 18.405,
+   "end": 18.7
+  },
+  {
+   "w": "WHO",
+   "start": 18.72,
+   "end": 18.98
+  },
+  {
+   "w": "limit",
+   "start": 19.0,
+   "end": 19.34
+  },
+  {
+   "w": "se",
+   "start": 19.36,
+   "end": 19.56
+  },
+  {
+   "w": "50 guna",
+   "start": 19.58,
+   "end": 20.323
+  },
+  {
+   "w": ".",
+   "start": 20.343,
+   "end": 20.666
+  },
+  {
+   "w": "Number",
+   "start": 20.686,
+   "end": 21.06
+  },
+  {
+   "w": "fake,",
+   "start": 21.08,
+   "end": 21.66
+  },
+  {
+   "w": "khatra",
+   "start": 21.68,
+   "end": 22.158
+  },
+  {
+   "w": "asli.",
+   "start": 22.178,
+   "end": 22.656
+  },
+  {
+   "w": "Aapke",
+   "start": 22.676,
+   "end": 22.98
+  },
+  {
+   "w": "area",
+   "start": 23.0,
+   "end": 23.24
+  },
+  {
+   "w": "ka",
+   "start": 23.26,
+   "end": 23.47
+  },
+  {
+   "w": "AQI",
+   "start": 23.49,
+   "end": 23.7
+  },
+  {
+   "w": "kitna",
+   "start": 23.72,
+   "end": 24.227
+  },
+  {
+   "w": "hai?",
+   "start": 24.247,
+   "end": 24.357
+  },
+  {
+   "w": "Comment",
+   "start": 24.377,
+   "end": 24.62
+  },
+  {
+   "w": "karo.",
+   "start": 24.64,
+   "end": 25.255
+  }
+ ],
+ "cues": {
+  "hook": 0.224,
+  "truth": 4.357,
+  "apps": 7.431,
+  "real": 9.85,
+  "but": 14.356,
+  "pm": 16.16,
+  "end": 20.686
+ },
+ "numbers": [
+  {
+   "show": "1700",
+   "spoken": "satrah sau",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "500",
+   "spoken": "paanch sau",
+   "heard": 0.5,
+   "digit_diff": null
+  },
+  {
+   "show": "500",
+   "spoken": "paanch sau",
+   "heard": 0.5,
+   "digit_diff": null
+  },
+  {
+   "show": "368",
+   "spoken": "teen sau adsath",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "15",
+   "spoken": "pandrah",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "PM2.5",
+   "spoken": "PM two point five",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "50 guna",
+   "spoken": "pachaas guna",
+   "heard": 1.0,
+   "digit_diff": null
+  }
+ ],
+ "heard": [
+  "एक",
+  "यह",
+  "सत्रा",
+  "सो",
+  "यह",
+  "पान्सो",
+  "दिली",
+  "के",
+  "हवागा",
+  "सच",
+  "क्या",
+  "है",
+  "सरकारी",
+  "सीपी",
+  "सीबी",
+  "सकेल",
+  "पान्सो",
+  "पर",
+  "रुग",
+  "जाता",
+  "है",
+  "सत्रा",
+  "सो",
+  "प्राइवे",
+  "टाप्स",
+  "का",
+  "अलग",
+  "फर्मिला",
+  "है",
+  "नोन",
+  "अवमवर",
+  "सुभे",
+  "कासली",
+  "एक्वाई",
+  "तीन",
+  "सो",
+  "अदसेट",
+  "वेरी",
+  "पुर",
+  "लिकें",
+  "पन्द्राज़़।",
+  "जगे",
+  "सिविर",
+  "और",
+  "अक्षर",
+  "दहाम",
+  "में",
+  "Pm",
+  "2",
+  ".5",
+  "W",
+  ".H",
+  ".Olimit",
+  "से",
+  "पच्चास",
+  "गुना",
+  "नंबर",
+  "फेख,",
+  "खत्रा",
+  "आपकी",
+  "इर्या",
+  "के",
+  "एक्योडि",
+  "कितना",
+  "है,",
+  "कमेंट",
+  "करो"
+ ]
+}

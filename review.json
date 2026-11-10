@@ -1,0 +1,25 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "Unsourced specific AQI value (368) for a November morning",
+    "Claim that private apps use a different AQI formula without citation",
+    "Statement that PM2.5 at Akshardham is 50 times WHO limit without source"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "\"adsadh\" is not a common Hindi numeral (should be \"adh\" or \"adsath\")",
+    "Formatting like \"Satrah@apps\" and \"Number@end\" looks unnatural for spoken Hindi"
+   ],
+   "one_line_verdict": "No numeric mismatches, but the script contains several unsourced health claims and a few awkward Hinglish expressions."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}
