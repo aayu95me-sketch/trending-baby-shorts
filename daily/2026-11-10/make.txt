@@ -1,3 +1,2 @@
-# council fixes: frame 1 for smog and Fable
-20261110-smog
-20261110-claude-fable-5-2
+# U19 layout fixes
+20261110-ind-u19-vs-uae-u19

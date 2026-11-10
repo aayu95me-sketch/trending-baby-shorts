@@ -5,30 +5,104 @@
  "save": {
   "title": "IND U19 vs UAE U19",
   "lines": [
-   ["AARYAVIR SEHWAG", "160 (168)", "gold"],
-   ["INDIA", "309/7"],
-   ["UAE", "239 ALL OUT"],
-   ["RESULT", "INDIA 70 RUN SE", "green"]
+   [
+    "AARYAVIR SEHWAG",
+    "160 (168)",
+    "gold"
+   ],
+   [
+    "INDIA",
+    "309/7"
+   ],
+   [
+    "UAE",
+    "239 ALL OUT"
+   ],
+   [
+    "RESULT",
+    "INDIA 70 RUN SE",
+    "green"
+   ]
   ],
   "footer": "U19 ASIA CUP · SEMI: AFGHANISTAN · FOLLOW: DOUBT CLEAR"
  },
  "scenes": [
-  {"at": 0, "tag": "SEHWAG KA BETA", "big": "160?", "color": "gold",
-   "videos": ["20261110-ind-u19-vs-uae-u19/real/hook-0.jpg", "20261110-ind-u19-vs-uae-u19/real/xb-1.jpg"], "focus": "50% 25%", "low": true,
-   "credit": "PHOTOS VIA INDIA.COM / WIKIPEDIA"},
-  {"at": "truth", "tag": "168 GENDEIN · 17 CHAUKE · 7 CHHAKKE",
-   "counter": {"from": 0, "to": 160, "prefix": "", "suffix": " RUN", "label": "AARYAVIR SEHWAG vs UAE"},
-   "img": "20261110-ind-u19-vs-uae-u19/real/truth-0.jpg", "focus": "60% 30%", "credit": "PHOTO VIA SUNDAY GUARDIAN"},
-  {"at": "team", "tag": "50 OVER · AL AMERAT",
-   "bars": [["INDIA 309/7", 309], ["UAE ALL OUT", 239]],
-   "img": "20261110-ind-u19-vs-uae-u19/real/xa-0.jpg", "fit": "blur", "credit": "PHOTO VIA WISDEN"},
-  {"at": "win", "tag": "ISHAN SOOD 4/37 · SEMI: AFGHANISTAN", "big": "70 RUN SE JEET", "color": "green",
-   "videos": ["20261110-ind-u19-vs-uae-u19/real/truth-0.jpg", "20261110-ind-u19-vs-uae-u19/real/xb-2.jpg"], "focus": "50% 30%", "low": true,
-   "credit": "PHOTO VIA SUNDAY GUARDIAN / WIKIPEDIA"},
-  {"at": "end", "tag": "PAPA KO BADE SAU PASAND", "big": "SIRF NAAM?", "color": "gold",
-   "videos": ["20261110-ind-u19-vs-uae-u19/real/xa-2.jpg", "20261110-ind-u19-vs-uae-u19/real/hook-0.jpg"], "focus": "50% 25%", "low": true,
-   "credit": "PHOTOS VIA GULF NEWS / INDIA.COM"},
-  {"at": "end", "tag": "SEHWAG KA BETA", "big": "160?", "color": "gold",
-   "img": "20261110-ind-u19-vs-uae-u19/real/hook-0.jpg", "focus": "50% 25%", "low": true}
+  {
+   "at": 0,
+   "tag": "SEHWAG KA BETA",
+   "big": "160?",
+   "color": "gold",
+   "videos": [
+    "20261110-ind-u19-vs-uae-u19/real/hook-0.jpg",
+    "20261110-ind-u19-vs-uae-u19/real/xb-1.jpg"
+   ],
+   "focus": "50% 25%",
+   "low": true,
+   "credit": "PHOTOS VIA INDIA.COM / WIKIPEDIA"
+  },
+  {
+   "at": "truth",
+   "tag": "168 GEND · 7 CHHAKKE",
+   "counter": {
+    "from": 0,
+    "to": 160,
+    "prefix": "",
+    "suffix": " RUN",
+    "label": "vs UAE"
+   },
+   "img": "20261110-ind-u19-vs-uae-u19/real/truth-0.jpg",
+   "focus": "60% 30%",
+   "credit": "PHOTO VIA SUNDAY GUARDIAN"
+  },
+  {
+   "at": "team",
+   "tag": "50 OVER · AL AMERAT",
+   "bars": [
+    [
+     "INDIA 309/7",
+     309
+    ],
+    [
+     "UAE ALL OUT",
+     239
+    ]
+   ],
+   "img": "20261110-ind-u19-vs-uae-u19/real/xa-0.jpg",
+   "fit": "blur",
+   "credit": "PHOTO VIA WISDEN"
+  },
+  {
+   "at": "win",
+   "tag": "ISHAN SOOD 4/37",
+   "big": "70 RUN SE JEET",
+   "color": "green",
+   "focus": "50% 30%",
+   "low": true,
+   "credit": "PHOTO VIA SUNDAY GUARDIAN",
+   "img": "20261110-ind-u19-vs-uae-u19/real/truth-0.jpg",
+   "note": "SEMI-FINAL: AFGHANISTAN"
+  },
+  {
+   "at": "end",
+   "tag": "PAPA KO BADE SAU PASAND",
+   "big": "SIRF NAAM?",
+   "color": "gold",
+   "videos": [
+    "20261110-ind-u19-vs-uae-u19/real/xa-2.jpg",
+    "20261110-ind-u19-vs-uae-u19/real/hook-0.jpg"
+   ],
+   "focus": "50% 25%",
+   "low": true,
+   "credit": "PHOTOS VIA GULF NEWS / INDIA.COM"
+  },
+  {
+   "at": "end",
+   "tag": "SEHWAG KA BETA",
+   "big": "160?",
+   "color": "gold",
+   "img": "20261110-ind-u19-vs-uae-u19/real/hook-0.jpg",
+   "focus": "50% 25%",
+   "low": true
+  }
  ]
 }
