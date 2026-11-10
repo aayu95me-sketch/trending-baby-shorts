@@ -29,14 +29,14 @@
  "scenes": [
   {
    "at": 0,
-   "tag": "DILLI · 10 NOV",
+   "tag": "DILLI · NOVEMBER",
    "big": "KOHRA YA ZEHER?",
    "color": "red",
    "videos": [
-    "20261110-smog/real/hook-0.jpg",
-    "20261110-smog/real/hook-2.jpg"
+    "20261110-smog/real/hook-3.jpg",
+    "20261110-smog/real/hook-0.jpg"
    ],
-   "credit": "PHOTOS VIA OUTLOOK / SOCIALNEWS.XYZ"
+   "credit": "S. ROY DUTTA CC BY-SA · WIKIMEDIA / OUTLOOK"
   },
   {
    "at": "word",
@@ -98,10 +98,10 @@
   },
   {
    "at": "end",
-   "tag": "DILLI · 10 NOV",
+   "tag": "DILLI · NOVEMBER",
    "big": "KOHRA YA ZEHER?",
    "color": "red",
-   "img": "20261110-smog/real/hook-0.jpg"
+   "img": "20261110-smog/real/hook-3.jpg"
   }
  ]
 }
