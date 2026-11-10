@@ -1,0 +1,495 @@
+{
+ "total": 27.514,
+ "voice": "20261109-alice-huang/voice.wav",
+ "lines": [
+  {
+   "start": 0.293,
+   "text": "Duniya ki sabse badi chip company Nvidia ke boss, aur ek jasoos? Alice Huang kaun hai?",
+   "end": 6.315
+  },
+  {
+   "start": 6.719,
+   "text": "Alice Huang, Singapore ki chip company Megaspeed ki executive.",
+   "end": 10.424
+  },
+  {
+   "start": 10.747,
+   "text": "Ek memo ka daawa, China ne unhe Jensen Huang par nazar rakhne bheja. Lekin yeh saabit nahi hua.",
+   "end": 16.135
+  },
+  {
+   "start": 16.526,
+   "text": "Reports ke mutabik Jensen ne affair maana, aur Nvidia board ne jaanch shuru ki.",
+   "end": 20.799
+  },
+  {
+   "start": 21.199,
+   "text": "Board kehta hai, raaz leak hone ka koi sabut nahi. Sach share karo, update ke liye follow karo.",
+   "end": 26.04
+  }
+ ],
+ "words": [
+  {
+   "w": "Duniya",
+   "start": 0.293,
+   "end": 0.72
+  },
+  {
+   "w": "ki",
+   "start": 0.74,
+   "end": 0.88
+  },
+  {
+   "w": "sabse",
+   "start": 0.9,
+   "end": 1.24
+  },
+  {
+   "w": "badi",
+   "start": 1.26,
+   "end": 1.46
+  },
+  {
+   "w": "chip",
+   "start": 1.48,
+   "end": 1.68
+  },
+  {
+   "w": "company",
+   "start": 1.7,
+   "end": 2.14
+  },
+  {
+   "w": "Nvidia",
+   "start": 2.16,
+   "end": 2.72
+  },
+  {
+   "w": "ke",
+   "start": 2.74,
+   "end": 2.82
+  },
+  {
+   "w": "boss,",
+   "start": 2.84,
+   "end": 3.2
+  },
+  {
+   "w": "aur",
+   "start": 3.22,
+   "end": 3.44
+  },
+  {
+   "w": "ek",
+   "start": 3.46,
+   "end": 3.58
+  },
+  {
+   "w": "jasoos?",
+   "start": 3.6,
+   "end": 4.4
+  },
+  {
+   "w": "Alice",
+   "start": 4.649,
+   "end": 4.98
+  },
+  {
+   "w": "Huang",
+   "start": 5.0,
+   "end": 5.715
+  },
+  {
+   "w": "kaun",
+   "start": 5.735,
+   "end": 6.02
+  },
+  {
+   "w": "hai?",
+   "start": 6.04,
+   "end": 6.699
+  },
+  {
+   "w": "Alice",
+   "start": 6.719,
+   "end": 7.02
+  },
+  {
+   "w": "Huang,",
+   "start": 7.04,
+   "end": 7.56
+  },
+  {
+   "w": "Singapore",
+   "start": 7.58,
+   "end": 8.1
+  },
+  {
+   "w": "ki",
+   "start": 8.12,
+   "end": 8.28
+  },
+  {
+   "w": "chip",
+   "start": 8.3,
+   "end": 8.44
+  },
+  {
+   "w": "company",
+   "start": 8.46,
+   "end": 8.88
+  },
+  {
+   "w": "Megaspeed",
+   "start": 8.9,
+   "end": 9.56
+  },
+  {
+   "w": "ki",
+   "start": 9.58,
+   "end": 9.72
+  },
+  {
+   "w": "executive.",
+   "start": 9.74,
+   "end": 10.54
+  },
+  {
+   "w": "Ek",
+   "start": 10.747,
+   "end": 10.88
+  },
+  {
+   "w": "memo",
+   "start": 10.9,
+   "end": 11.16
+  },
+  {
+   "w": "ka",
+   "start": 11.18,
+   "end": 11.32
+  },
+  {
+   "w": "daawa,",
+   "start": 11.34,
+   "end": 11.64
+  },
+  {
+   "w": "China",
+   "start": 11.66,
+   "end": 12.26
+  },
+  {
+   "w": "ne",
+   "start": 12.28,
+   "end": 12.44
+  },
+  {
+   "w": "unhe",
+   "start": 12.46,
+   "end": 12.66
+  },
+  {
+   "w": "Jensen",
+   "start": 12.68,
+   "end": 13.14
+  },
+  {
+   "w": "Huang",
+   "start": 13.16,
+   "end": 13.56
+  },
+  {
+   "w": "par",
+   "start": 13.58,
+   "end": 13.98
+  },
+  {
+   "w": "nazar",
+   "start": 14.0,
+   "end": 14.15
+  },
+  {
+   "w": "rakhne",
+   "start": 14.17,
+   "end": 14.32
+  },
+  {
+   "w": "bheja.",
+   "start": 14.34,
+   "end": 14.989
+  },
+  {
+   "w": "Lekin",
+   "start": 15.009,
+   "end": 15.2
+  },
+  {
+   "w": "yeh",
+   "start": 15.22,
+   "end": 15.32
+  },
+  {
+   "w": "saabit",
+   "start": 15.34,
+   "end": 15.76
+  },
+  {
+   "w": "nahi",
+   "start": 15.78,
+   "end": 15.96
+  },
+  {
+   "w": "hua.",
+   "start": 15.98,
+   "end": 16.506
+  },
+  {
+   "w": "Reports",
+   "start": 16.526,
+   "end": 16.88
+  },
+  {
+   "w": "ke",
+   "start": 16.9,
+   "end": 16.98
+  },
+  {
+   "w": "mutabik",
+   "start": 17.0,
+   "end": 17.42
+  },
+  {
+   "w": "Jensen",
+   "start": 17.44,
+   "end": 17.84
+  },
+  {
+   "w": "ne",
+   "start": 17.86,
+   "end": 17.96
+  },
+  {
+   "w": "affair",
+   "start": 17.98,
+   "end": 18.24
+  },
+  {
+   "w": "maana,",
+   "start": 18.26,
+   "end": 18.64
+  },
+  {
+   "w": "aur",
+   "start": 18.66,
+   "end": 19.08
+  },
+  {
+   "w": "Nvidia",
+   "start": 19.1,
+   "end": 19.64
+  },
+  {
+   "w": "board",
+   "start": 19.66,
+   "end": 19.84
+  },
+  {
+   "w": "ne",
+   "start": 19.86,
+   "end": 20.0
+  },
+  {
+   "w": "jaanch",
+   "start": 20.02,
+   "end": 20.28
+  },
+  {
+   "w": "shuru",
+   "start": 20.3,
+   "end": 20.58
+  },
+  {
+   "w": "ki.",
+   "start": 20.6,
+   "end": 21.179
+  },
+  {
+   "w": "Board",
+   "start": 21.199,
+   "end": 21.38
+  },
+  {
+   "w": "kehta",
+   "start": 21.4,
+   "end": 21.7
+  },
+  {
+   "w": "hai,",
+   "start": 21.72,
+   "end": 21.96
+  },
+  {
+   "w": "raaz",
+   "start": 21.98,
+   "end": 22.26
+  },
+  {
+   "w": "leak",
+   "start": 22.28,
+   "end": 22.5
+  },
+  {
+   "w": "hone",
+   "start": 22.52,
+   "end": 22.7
+  },
+  {
+   "w": "ka",
+   "start": 22.72,
+   "end": 22.82
+  },
+  {
+   "w": "koi",
+   "start": 22.84,
+   "end": 23.04
+  },
+  {
+   "w": "sabut",
+   "start": 23.06,
+   "end": 23.36
+  },
+  {
+   "w": "nahi.",
+   "start": 23.38,
+   "end": 23.991
+  },
+  {
+   "w": "Sach",
+   "start": 24.011,
+   "end": 24.2
+  },
+  {
+   "w": "share",
+   "start": 24.22,
+   "end": 24.46
+  },
+  {
+   "w": "karo,",
+   "start": 24.48,
+   "end": 24.7
+  },
+  {
+   "w": "update",
+   "start": 24.72,
+   "end": 25.18
+  },
+  {
+   "w": "ke",
+   "start": 25.2,
+   "end": 25.34
+  },
+  {
+   "w": "liye",
+   "start": 25.36,
+   "end": 25.5
+  },
+  {
+   "w": "follow",
+   "start": 25.52,
+   "end": 25.82
+  },
+  {
+   "w": "karo.",
+   "start": 25.84,
+   "end": 26.514
+  }
+ ],
+ "cues": {
+  "hook": 0.293,
+  "who": 6.719,
+  "memo": 10.747,
+  "claim": 15.009,
+  "affair": 16.526,
+  "probe": 19.1,
+  "board": 21.199,
+  "end": 24.011
+ },
+ "numbers": [],
+ "heard": [
+  "दुन्या",
+  "की",
+  "सबसे",
+  "भरी",
+  "चिप",
+  "कम्पनी",
+  "एन्वीदिया",
+  "के",
+  "बास",
+  "और",
+  "एक",
+  "जासूस",
+  "आलिस",
+  "हूँँँँँँँँ...",
+  "कान",
+  "है?",
+  "आलिस",
+  "हुँँँँँँँँ...",
+  "की",
+  "चिप",
+  "कमपनी",
+  "मेगा",
+  "स्पीट",
+  "की",
+  "अग्जेक्टिव.",
+  "एक",
+  "मैमो",
+  "का",
+  "दावा",
+  "चीन",
+  "ने",
+  "उने",
+  "जेंसन",
+  "हुवाँँँँँँँँँँँँँँँँ.",
+  "भीटार",
+  "बेजा.",
+  "लेगन",
+  "ये",
+  "सावित",
+  "नहीं",
+  "हूँ.",
+  "रेपोट्स",
+  "के",
+  "मुताभिक",
+  "जैंसन",
+  "ने",
+  "अफ़र",
+  "माना",
+  "और",
+  "उन्वीडिया",
+  "बोड",
+  "ने",
+  "जाज",
+  "शुरू",
+  "की.",
+  "बोट",
+  "कहता",
+  "है",
+  "रखनुई",
+  "रशा.",
+  "लिएक",
+  "होने",
+  "का",
+  "कोई",
+  "सबूत",
+  "नहीं,",
+  "सच",
+  "शेझर",
+  "करो",
+  "अब्टेट",
+  "के",
+  "लिए",
+  "फोलो",
+  "करो."
+ ]
+}

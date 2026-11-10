@@ -1,0 +1,31 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "Alice Huang is described as executive of Megaspeed without any source attribution",
+    "Claim that China sent someone to spy on Jensen Huang is presented without attribution",
+    "Statement that Jensen Huang admitted an affair is presented as fact without source",
+    "Claim that Nvidia board launched an investigation is presented as fact without source"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "hook (English word used unnaturally)",
+    "who (English word in Hindi sentence)",
+    "memo memo (redundant phrasing)",
+    "affair (repeated English term)",
+    "probe (English term used oddly)",
+    "board (repeated English term)",
+    "Sach@end (mixed Hindi‑English token)"
+   ],
+   "one_line_verdict": "The script contains several unverified claims presented as facts and uses several awkward Hinglish expressions that may sound unnatural to a young Delhi audience."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}
