@@ -8,7 +8,7 @@
 //          big?: "SACH KYA HAI?", color?: "gold"|"red"|"green"|"white", tag?: "CPCB DATA",
 //          counter?: { from: 0, to: 368, label: "AQI 368" }, note?: "SOURCE: ..." ,
 //          fit?: "blur" (whole photo shown on a blurred copy of itself, for landscape news photos), focus?: "30% 40%" (crop centre),
-//          credit?: "PHOTO: ..." (small, bottom-left), low?: true (big text sits low so a face in the photo stays visible) }
+//          credit?: "PHOTO: ..." (goes to the post description, not on screen), low?: true (big text sits low so a face in the photo stays visible) }
 // videos[] may mix .mp4 and .jpg; the scene's time is split evenly between them.
 import React from "react";
 import { AbsoluteFill, CalculateMetadataFunction, Composition, Img, Sequence, interpolate, spring, staticFile, useCurrentFrame, useVideoConfig } from "remotion";
@@ -245,7 +245,12 @@ const TrendShort: React.FC<Props> = ({ dir, tl, spec }) => {
         </AbsoluteFill>
       </AbsoluteFill>
       <AbsoluteFill style={{ background: "linear-gradient(#0009 0%, #0000 30%, #0000 52%, #0008 68%, #000c 100%)" }} />
-      {s.credit && <div style={{ position: "absolute", top: 1700, left: 60, right: 60, fontFamily: DISPLAY, fontSize: 24, letterSpacing: 1, color: "#fff9", textShadow: "0 2px 4px #000" }}>{s.credit}</div>}
+      {/* story-style progress bar, one segment per beat: shows how much is left so viewers stay to the reveal (Ayush 10 Nov: credits out, something that helps virality in) */}
+      {t < tl.total && <div style={{ position: "absolute", top: 1712, left: 60, right: 60, display: "flex", gap: 10 }}>
+        {starts.slice(0, -1).map((a, i) => { const b = i + 1 < starts.length - 1 ? starts[i + 1] : tl.total; const k = Math.max(0, Math.min(1, (t - a) / Math.max(0.01, b - a)));
+          return <div key={i} style={{ flex: Math.max(0.5, b - a), height: 12, borderRadius: 6, background: "#ffffff40", overflow: "hidden", boxShadow: "0 2px 6px #0008" }}>
+            <div style={{ width: `${k * 100}%`, height: "100%", background: GOLD }} /></div>; })}
+      </div>}
       {s.headline ? <HeadlineCard key={`h${idx}`} h={s.headline} at={from} tag={s.tag} /> : s.bars ? <Bars key={`r${idx}`} bars={s.bars} unit={s.barUnit} at={from} tag={s.tag} /> : s.counter ? <Melt key={`m${idx}`} c={s.counter} from={from} to={to} tag={s.tag} /> : <Big key={`b${idx}`} s={s} at={from} />}
       {t < tl.total && (tl.caps ? <PillCaptions words={tl.words} caps={tl.caps} /> : <Captions words={tl.words} />)}
       {spec.banner && <div style={{ position: "absolute", top: 64, left: 50, fontFamily: DISPLAY, fontSize: 40, letterSpacing: 2, color: "#000", background: GOLD, borderRadius: 10, padding: "2px 18px" }}>{spec.banner}</div>}
