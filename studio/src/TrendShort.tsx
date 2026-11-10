@@ -8,7 +8,7 @@
 //          big?: "SACH KYA HAI?", color?: "gold"|"red"|"green"|"white", tag?: "CPCB DATA",
 //          counter?: { from: 0, to: 368, label: "AQI 368" }, note?: "SOURCE: ..." ,
 //          fit?: "blur" (whole photo shown on a blurred copy of itself, for landscape news photos), focus?: "30% 40%" (crop centre),
-//          credit?: "PHOTO: ..." (goes to the post description, not on screen), low?: true (big text sits low so a face in the photo stays visible) }
+//          credit?: "PHOTO: ..." (small, above the progress bar), low? (unused now: big text always sits low): true (big text sits low so a face in the photo stays visible) }
 // videos[] may mix .mp4 and .jpg; the scene's time is split evenly between them.
 import React from "react";
 import { AbsoluteFill, CalculateMetadataFunction, Composition, Img, Sequence, interpolate, spring, staticFile, useCurrentFrame, useVideoConfig } from "remotion";
@@ -73,7 +73,7 @@ const Big: React.FC<{ s: Scene; at: number }> = ({ s, at }) => {
   const big = s.big ?? "";
   const size = big.length <= 6 ? 230 : big.length <= 10 ? 180 : 140;
   return (
-    <div style={{ position: "absolute", top: s.low ? 860 : 380, width: "100%", display: "flex", flexDirection: "column", alignItems: "center", gap: 20, padding: "0 50px", boxSizing: "border-box", textAlign: "center" }}>
+    <div style={{ position: "absolute", top: 1020, width: "100%", display: "flex", flexDirection: "column", alignItems: "center", gap: 20, padding: "0 50px", boxSizing: "border-box", textAlign: "center" }}>
       {s.tag && <div style={{ fontFamily: DISPLAY, fontSize: 70, color: "#000", background: GOLD, borderRadius: 16, padding: "4px 28px", opacity: Math.min(1, p * 1.5), transform: `translateY(${(1 - Math.min(1, p)) * 30}px)` }}>{s.tag}</div>}
       {big && <div style={{ fontFamily: DISPLAY, fontSize: size, color: c, lineHeight: 0.95, transform: `scale(${1.18 - 0.18 * Math.min(1, p)})`, opacity: Math.min(1, p * 1.6), ...stroke, textShadow: `0 10px 0 #000, 0 0 60px ${c}aa` }}>{big}</div>}
     </div>
@@ -211,6 +211,9 @@ const SaveCard: React.FC<{ save: Save; at: number }> = ({ save, at }) => {
   );
 };
 
+// word captions kept for later use but switched off (Ayush 10 Nov)
+void Captions; void PillCaptions;
+
 const TrendShort: React.FC<Props> = ({ dir, tl, spec }) => {
   const t = useT();
   if (!tl || !spec) return null;
@@ -245,14 +248,15 @@ const TrendShort: React.FC<Props> = ({ dir, tl, spec }) => {
         </AbsoluteFill>
       </AbsoluteFill>
       <AbsoluteFill style={{ background: "linear-gradient(#0009 0%, #0000 30%, #0000 52%, #0008 68%, #000c 100%)" }} />
-      {/* story-style progress bar, one segment per beat: shows how much is left so viewers stay to the reveal (Ayush 10 Nov: credits out, something that helps virality in) */}
+      {s.credit && <div style={{ position: "absolute", top: 1660, left: 60, right: 60, fontFamily: DISPLAY, fontSize: 24, letterSpacing: 1, color: "#fff9", textShadow: "0 2px 4px #000" }}>{s.credit}</div>}
+      {/* story-style progress bar, one segment per beat: shows how much is left so viewers stay to the reveal  */}
       {t < tl.total && <div style={{ position: "absolute", top: 1712, left: 60, right: 60, display: "flex", gap: 10 }}>
         {starts.slice(0, -1).map((a, i) => { const b = i + 1 < starts.length - 1 ? starts[i + 1] : tl.total; const k = Math.max(0, Math.min(1, (t - a) / Math.max(0.01, b - a)));
           return <div key={i} style={{ flex: Math.max(0.5, b - a), height: 12, borderRadius: 6, background: "#ffffff40", overflow: "hidden", boxShadow: "0 2px 6px #0008" }}>
             <div style={{ width: `${k * 100}%`, height: "100%", background: GOLD }} /></div>; })}
       </div>}
       {s.headline ? <HeadlineCard key={`h${idx}`} h={s.headline} at={from} tag={s.tag} /> : s.bars ? <Bars key={`r${idx}`} bars={s.bars} unit={s.barUnit} at={from} tag={s.tag} /> : s.counter ? <Melt key={`m${idx}`} c={s.counter} from={from} to={to} tag={s.tag} /> : <Big key={`b${idx}`} s={s} at={from} />}
-      {t < tl.total && (tl.caps ? <PillCaptions words={tl.words} caps={tl.caps} /> : <Captions words={tl.words} />)}
+      {/* no word captions (Ayush 10 Nov): the big beat text sits low where captions were, so the photo above stays clean */}
       {spec.banner && <div style={{ position: "absolute", top: 64, left: 50, fontFamily: DISPLAY, fontSize: 40, letterSpacing: 2, color: "#000", background: GOLD, borderRadius: 10, padding: "2px 18px" }}>{spec.banner}</div>}
             {spec.save && tl.saveAt !== undefined && t >= tl.saveAt && t < tl.saveAt + SAVE && <SaveCard save={spec.save} at={tl.saveAt} />}
       {/* honest labels, small and out of the way */}

@@ -47,7 +47,7 @@ PARTS = """Judge 4 parts, each 0-10 (10 = best possible for going viral) with th
 1 SCRIPT (hook in the first 1.5 s, the doubt, the truth/reveal, pace, one idea per line, ending/CTA, accuracy)
 2 VOICE (Indian accent, energy, clarity, numbers and names said right, speed)
 3 VISUALS (Ayush, 9 Nov: realistic visuals OF THE TOPIC that sync with each line, no generic stock; effects must be eye-pleasing.
-  Judge: does every line show the real person/place/thing being said, frame 1 scroll-stop, smoothness, captions readable, faces not covered by text; no photo credits on screen (Ayush 10 Nov: they go in the post description), bottom space used for a beat progress bar)
+  Judge: does every line show the real person/place/thing being said, frame 1 scroll-stop, smoothness, captions readable, faces not covered by text; no word captions (Ayush 10 Nov: removed; beat text sits low so photos stay clean), small photo credits + a beat progress bar at the bottom)
 4 WHOLE REEL (would a stranger watch to the end, comment, share, follow?)"""
 FORMAT = """Answer in this exact shape:
 ## Goal (restated)
