@@ -1,0 +1,78 @@
+{
+ "hook-0.jpg": {
+  "page": "https://www.macrumors.com/2026/11/09/anthropic-launches-claude-fable-5-2/",
+  "lic": "news photo (copyright of the publisher; used as news clip, Ayush's risk)",
+  "url": "https://images.macrumors.com/t/miP5cemYnLJaXuUhVtW0LMDZCJQ=/1782x/article-new/2025/09/anthopic-claude.jpg"
+ },
+ "hook-1.jpg": {
+  "page": "https://techstartups.com/2026/11/10/anthropic-launches-claude-fable-5-2-and-mythos-5-2-its-most-advanced-ai-models-for-coding-science-and-cybersecurity/",
+  "lic": "news photo (copyright of the publisher; used as news clip, Ayush's risk)",
+  "url": "https://techstartups.com/wp-content/uploads/2026/11/Anthropic-Launches-Claude-Fable-5.2-and-Mythos-5.2-960x630.jpg"
+ },
+ "hook-2.jpg": {
+  "page": "https://www.macobserver.com/news/anthropic-launches-claude-fable-5-2-and-mythos-5-2/",
+  "lic": "news photo (copyright of the publisher; used as news clip, Ayush's risk)",
+  "url": "https://www.macobserver.com/wp-content/uploads/2026/10/Anthropic.jpg"
+ },
+ "what-0.jpg": {
+  "page": "https://commons.wikimedia.org/wiki/File:Secretary_of_State_Peter_Kyle_visits_Anthropic_in_San_Francisco._(54098999333).jpg",
+  "title": "File:Secretary of State Peter Kyle visits Anthropic in San Francisco. (54098999333).jpg",
+  "lic": "CC BY 2.0",
+  "author": "Department for Science, Innovation and Technology",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Secretary_of_State_Peter_Kyle_visits_Anthropic_in_San_Francisco._%2854098999333%29.jpg/1920px-Secretary_of_State_Peter_Kyle_visits_Anthropic_in_San_Francisco._%2854098999333%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
+ "what-1.jpg": {
+  "page": "https://commons.wikimedia.org/wiki/File:Fragment_of_an_Egyptian_Textile,_circa_700-1000_CE,_depicting_the_anthropic_figure_of_Anthousa,_a_rarely_depicted_divinity,_considered_to_be_the_deity_of_blossoming_plants._Fitzwilliam_Museum,_Cambridge.jpg",
+  "title": "File:Fragment of an Egyptian Textile, circa 700-1000 CE, depicting the anthropic figure of Anthousa, a rarely depicted divinity, considered to be the deity of blossoming plants. Fitzwilliam Museum, Cambridge.jpg",
+  "lic": "CC BY-SA 4.0",
+  "author": "SpeakingArch",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Fragment_of_an_Egyptian_Textile%2C_circa_700-1000_CE%2C_depicting_the_anthropic_figure_of_Anthousa%2C_a_rarely_depicted_divinity%2C_considered_to_be_the_deity_of_blossoming_plants._Fitzwilliam_Museum%2C_Cambridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+ },
+ "test-0.jpg": {
+  "page": "https://infotechlead.com/artificial-intelligence/anthropic-launches-claude-fable-5-2-and-mythos-5-2-with-49-1-coding-score-89-6-vulnerability-detection-and-20-price-cut-99523",
+  "lic": "news photo (copyright of the publisher; used as news clip, Ayush's risk)",
+  "url": "https://infotechlead.com/wp-content/uploads/2026/11/Anthropic-Claude-Fable-5.2-and-Mythos-5.2-features.jpg"
+ },
+ "test-1.jpg": {
+  "page": "https://commons.wikimedia.org/wiki/File:Dario_Amodei_in_2023.jpg",
+  "title": "File:Dario Amodei in 2023.jpg",
+  "lic": "CC BY 2.0",
+  "author": "UK Prime Minister",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Dario_Amodei_in_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+ },
+ "test-2.jpg": {
+  "page": "https://commons.wikimedia.org/wiki/File:Dario_Amodei_at_TechCrunch_Disrupt_2023_06.jpg",
+  "title": "File:Dario Amodei at TechCrunch Disrupt 2023 06.jpg",
+  "lic": "CC BY 2.0",
+  "author": "TechCrunch",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Dario_Amodei_at_TechCrunch_Disrupt_2023_06.jpg/1920px-Dario_Amodei_at_TechCrunch_Disrupt_2023_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
+ "but-0.jpg": {
+  "page": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg",
+  "title": "File:BalticServers data center.jpg",
+  "lic": "CC BY-SA 3.0",
+  "author": "BalticServers.com",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/1920px-BalticServers_data_center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
+ "but-1.jpg": {
+  "page": "https://commons.wikimedia.org/wiki/File:Data_Center_3_(UNC).jpg",
+  "title": "File:Data Center 3 (UNC).jpg",
+  "lic": "CC BY-SA 4.0",
+  "author": "Ana Las Heras",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Data_Center_3_%28UNC%29.jpg/1920px-Data_Center_3_%28UNC%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
+ "use-0.jpg": {
+  "page": "https://commons.wikimedia.org/wiki/File:Programmer_at_work_(Unsplash).jpg",
+  "title": "File:Programmer at work (Unsplash).jpg",
+  "lic": "CC0",
+  "author": "Crew crew",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Programmer_at_work_%28Unsplash%29.jpg/1920px-Programmer_at_work_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
+ "end-0.jpg": {
+  "page": "https://commons.wikimedia.org/wiki/File:OnePlus_Nord_smartphone_displaying_Android_home_screen.jpg",
+  "title": "File:OnePlus Nord smartphone displaying Android home screen.jpg",
+  "lic": "CC BY-SA 4.0",
+  "author": "Gannu03",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/OnePlus_Nord_smartphone_displaying_Android_home_screen.jpg/1920px-OnePlus_Nord_smartphone_displaying_Android_home_screen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ }
+}
