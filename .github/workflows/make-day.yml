@@ -105,10 +105,24 @@ jobs:
         continue-on-error: true
         run: python pipeline/review.py "$NAME"
 
+      - name: Reuse the last voice if the spoken text did not change
+        id: reuse
+        run: |
+          git fetch -q --depth 1 origin "render-$NAME" 2>/dev/null || exit 0
+          # only a finished render (mp4 present) has a voice that passed the number check
+          git show "FETCH_HEAD:$NAME.mp4" >/dev/null 2>&1 && git show FETCH_HEAD:voice.wav >/dev/null 2>&1 || exit 0
+          # older render branches have no tts.txt: their voice matches the current text (9-10 Nov), so reuse them too
+          if git show FETCH_HEAD:tts.txt > /tmp/old_tts.txt 2>/dev/null && ! cmp -s /tmp/old_tts.txt "studio/public/$NAME/tts.txt"; then echo "text changed, new voice"; exit 0; fi
+          git show FETCH_HEAD:voice.wav > "studio/public/$NAME/voice.wav"
+          git show FETCH_HEAD:timeline.json > "studio/public/$NAME/timeline.json"
+          echo "reuse=1" >> "$GITHUB_OUTPUT"; echo "reusing voice and timing from render-$NAME"
+
       - name: Voice (Gemini, Orus)
+        if: steps.reuse.outputs.reuse != '1'
         run: python pipeline/tts.py "$NAME"
 
       - name: Timing and number check (Whisper)
+        if: steps.reuse.outputs.reuse != '1'
         env:
           NUMCHECK_STRICT: "1"
           KEEP_PAUSES: "0.2"
@@ -133,11 +147,11 @@ jobs:
             studio/public/${{ matrix.name }}/review.json
 
       - name: Publish render to branch render-<name>
-        if: always()
+        if: success()
         continue-on-error: true
         run: |
           rm -rf /tmp/pub && mkdir -p /tmp/pub
-          for f in "out/$NAME.mp4" "studio/public/$NAME/timeline.json" "studio/public/$NAME/review.json" "studio/public/$NAME/voice.wav"; do cp "$f" /tmp/pub/ 2>/dev/null || true; done
+          for f in "out/$NAME.mp4" "studio/public/$NAME/timeline.json" "studio/public/$NAME/review.json" "studio/public/$NAME/voice.wav" "studio/public/$NAME/tts.txt"; do cp "$f" /tmp/pub/ 2>/dev/null || true; done
           cp studio/public/broll/*.jpg /tmp/pub/ 2>/dev/null || true
           cd /tmp/pub && git init -q && git config user.name "render-bot" && git config user.email "render-bot@users.noreply.github.com"
           git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
