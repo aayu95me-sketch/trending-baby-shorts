@@ -1,6 +1,6 @@
 # Doubt Clear: Studio numbers
 
-Updated 10 Nov 2026 21:50 IST from the YouTube Analytics API (2026-11-10 to 2026-11-10). Analytics lags 1-2 days, so the newest reels may show nothing yet.
+Updated 10 Nov 2026 22:07 IST from the YouTube Analytics API (2026-11-10 to 2026-11-10). Analytics lags 1-2 days, so the newest reels may show nothing yet.
 
 | Video | Views | Avg % viewed | Avg s viewed | Subs gained | Shares | Likes | Comments | Top traffic sources |
 |---|---|---|---|---|---|---|---|---|
