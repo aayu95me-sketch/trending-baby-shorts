@@ -127,7 +127,9 @@ jobs:
           NUMCHECK_STRICT: "1"
           KEEP_PAUSES: "0.2"
           ALIGN_MODEL: small
-        run: python pipeline/align.py "$NAME" 1.0
+        # Whisper small sometimes loops on a window and loses words (10 Nov), so a failed check gets one more listen with medium.
+        run: |
+          python pipeline/align.py "$NAME" 1.0 || { echo "::warning::check failed with whisper small, listening again with medium"; ALIGN_MODEL=medium python pipeline/align.py "$NAME" 1.0; }
 
       - name: Render
         working-directory: studio
