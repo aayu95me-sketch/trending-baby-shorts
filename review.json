@@ -1,0 +1,27 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "Box office earnings figures (₹4,000 crore, ₹81 crore, ₹320 crore, ₹507 crore) presented without any source or attribution",
+    "Budget claim of ₹4,000 crore for both parts presented without source"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "use of \"hook\" as a Hindi word (\"hook ne\") sounds unnatural",
+    "mixing English day name with Hindi tag \"Monday@day5\"",
+    "phrase \"Paanch@total din ka India net\" is awkward",
+    "redundant \"Duniya@world\" and mixing Hindi‑English unnecessarily",
+    "verb phrase \"paar karegi\" for a box‑office target sounds odd for a young Delhi speaker"
+   ],
+   "one_line_verdict": "No number mismatches, but the script makes unverified financial claims and contains several awkward Hinglish constructions; no hook options provided."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}

@@ -1,0 +1,439 @@
+{
+ "total": 24.67,
+ "voice": "20261109-ramayana-film-box-office/voice.wav",
+ "lines": [
+  {
+   "start": 0.323,
+   "text": "Ramayana ne paanch din mein kitna kamaaya? Kya ₹4,000 crore wapas aayenge?",
+   "end": 4.356
+  },
+  {
+   "start": 4.75,
+   "text": "Monday sabse bada din, shaam saat baje tak ₹81 crore net.",
+   "end": 8.54
+  },
+  {
+   "start": 8.54,
+   "text": "Paanch din ka India net, lagbhag ₹320 crore . Duniya bhar mein chaar din mein ₹507 crore gross.",
+   "end": 14.1
+  },
+  {
+   "start": 14.1,
+   "text": "Lekin... sach yeh hai, chaar hazaar crore dono parts ka combined budget hai.",
+   "end": 18.24
+  },
+  {
+   "start": 18.24,
+   "text": "Toh kya Ramayana chaar hazaar crore paar karegi? Haan ya naa, comment karo.",
+   "end": 23.224
+  }
+ ],
+ "words": [
+  {
+   "w": "Ramayana",
+   "start": 0.323,
+   "end": 0.65
+  },
+  {
+   "w": "ne",
+   "start": 0.67,
+   "end": 0.998
+  },
+  {
+   "w": "paanch",
+   "start": 1.018,
+   "end": 1.26
+  },
+  {
+   "w": "din",
+   "start": 1.28,
+   "end": 1.46
+  },
+  {
+   "w": "mein",
+   "start": 1.48,
+   "end": 1.62
+  },
+  {
+   "w": "kitna",
+   "start": 1.64,
+   "end": 1.9
+  },
+  {
+   "w": "kamaaya?",
+   "start": 1.92,
+   "end": 2.61
+  },
+  {
+   "w": "Kya",
+   "start": 2.63,
+   "end": 2.755
+  },
+  {
+   "w": "₹4,000 crore",
+   "start": 2.775,
+   "end": 3.575
+  },
+  {
+   "w": "wapas",
+   "start": 3.72,
+   "end": 4.02
+  },
+  {
+   "w": "aayenge?",
+   "start": 4.04,
+   "end": 4.73
+  },
+  {
+   "w": "Monday",
+   "start": 4.75,
+   "end": 5.16
+  },
+  {
+   "w": "sabse",
+   "start": 5.18,
+   "end": 5.52
+  },
+  {
+   "w": "bada",
+   "start": 5.54,
+   "end": 5.78
+  },
+  {
+   "w": "din,",
+   "start": 5.8,
+   "end": 6.231
+  },
+  {
+   "w": "shaam",
+   "start": 6.251,
+   "end": 6.56
+  },
+  {
+   "w": "saat",
+   "start": 6.58,
+   "end": 6.96
+  },
+  {
+   "w": "baje",
+   "start": 6.98,
+   "end": 7.24
+  },
+  {
+   "w": "tak",
+   "start": 7.26,
+   "end": 7.72
+  },
+  {
+   "w": "₹81 crore",
+   "start": 7.74,
+   "end": 8.3
+  },
+  {
+   "w": "net.",
+   "start": 8.32,
+   "end": 8.52
+  },
+  {
+   "w": "Paanch",
+   "start": 8.54,
+   "end": 9.2
+  },
+  {
+   "w": "din",
+   "start": 9.22,
+   "end": 9.36
+  },
+  {
+   "w": "ka",
+   "start": 9.38,
+   "end": 9.52
+  },
+  {
+   "w": "India",
+   "start": 9.54,
+   "end": 9.86
+  },
+  {
+   "w": "net,",
+   "start": 9.88,
+   "end": 9.98
+  },
+  {
+   "w": "lagbhag",
+   "start": 10.0,
+   "end": 10.408
+  },
+  {
+   "w": "₹320 crore",
+   "start": 10.428,
+   "end": 11.228
+  },
+  {
+   "w": ".",
+   "start": 11.311,
+   "end": 11.621
+  },
+  {
+   "w": "Duniya",
+   "start": 11.641,
+   "end": 11.98
+  },
+  {
+   "w": "bhar",
+   "start": 12.0,
+   "end": 12.12
+  },
+  {
+   "w": "mein",
+   "start": 12.14,
+   "end": 12.32
+  },
+  {
+   "w": "chaar",
+   "start": 12.34,
+   "end": 12.58
+  },
+  {
+   "w": "din",
+   "start": 12.6,
+   "end": 12.72
+  },
+  {
+   "w": "mein",
+   "start": 12.74,
+   "end": 12.915
+  },
+  {
+   "w": "₹507 crore",
+   "start": 12.935,
+   "end": 13.735
+  },
+  {
+   "w": "gross.",
+   "start": 13.8,
+   "end": 14.08
+  },
+  {
+   "w": "Lekin...",
+   "start": 14.1,
+   "end": 14.398
+  },
+  {
+   "w": "sach",
+   "start": 14.418,
+   "end": 14.717
+  },
+  {
+   "w": "yeh",
+   "start": 14.737,
+   "end": 15.035
+  },
+  {
+   "w": "hai,",
+   "start": 15.055,
+   "end": 15.354
+  },
+  {
+   "w": "chaar",
+   "start": 15.374,
+   "end": 15.672
+  },
+  {
+   "w": "hazaar",
+   "start": 15.692,
+   "end": 15.991
+  },
+  {
+   "w": "crore",
+   "start": 16.011,
+   "end": 16.309
+  },
+  {
+   "w": "dono",
+   "start": 16.329,
+   "end": 16.628
+  },
+  {
+   "w": "parts",
+   "start": 16.648,
+   "end": 16.946
+  },
+  {
+   "w": "ka",
+   "start": 16.966,
+   "end": 17.265
+  },
+  {
+   "w": "combined",
+   "start": 17.285,
+   "end": 17.583
+  },
+  {
+   "w": "budget",
+   "start": 17.603,
+   "end": 17.902
+  },
+  {
+   "w": "hai.",
+   "start": 17.922,
+   "end": 18.22
+  },
+  {
+   "w": "Toh",
+   "start": 18.24,
+   "end": 19.04
+  },
+  {
+   "w": "kya",
+   "start": 19.349,
+   "end": 19.78
+  },
+  {
+   "w": "Ramayana",
+   "start": 19.8,
+   "end": 19.99
+  },
+  {
+   "w": "chaar",
+   "start": 20.01,
+   "end": 20.2
+  },
+  {
+   "w": "hazaar",
+   "start": 20.22,
+   "end": 20.64
+  },
+  {
+   "w": "crore",
+   "start": 20.66,
+   "end": 20.82
+  },
+  {
+   "w": "paar",
+   "start": 20.84,
+   "end": 21.06
+  },
+  {
+   "w": "karegi?",
+   "start": 21.08,
+   "end": 21.439
+  },
+  {
+   "w": "Haan",
+   "start": 21.459,
+   "end": 21.819
+  },
+  {
+   "w": "ya",
+   "start": 21.839,
+   "end": 22.16
+  },
+  {
+   "w": "naa,",
+   "start": 22.18,
+   "end": 22.7
+  },
+  {
+   "w": "comment",
+   "start": 22.72,
+   "end": 23.02
+  },
+  {
+   "w": "karo.",
+   "start": 23.04,
+   "end": 23.67
+  }
+ ],
+ "cues": {
+  "hook": 0.323,
+  "day5": 4.75,
+  "total": 8.54,
+  "world": 11.641,
+  "budget": 14.418,
+  "end": 18.24
+ },
+ "numbers": [
+  {
+   "show": "₹4,000 crore",
+   "spoken": "chaar hazaar crore",
+   "heard": 0.67,
+   "digit_diff": null
+  },
+  {
+   "show": "₹81 crore",
+   "spoken": "ikyaasi crore",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "₹320 crore",
+   "spoken": "teen sau bees crore",
+   "heard": 0.75,
+   "digit_diff": null
+  },
+  {
+   "show": "₹507 crore",
+   "spoken": "paanch sau saat crore",
+   "heard": 1.0,
+   "digit_diff": 0
+  }
+ ],
+ "heard": [
+  "रामायने",
+  "पाज",
+  "दिन",
+  "में",
+  "कितना",
+  "कमाया",
+  "कै",
+  "आप",
+  "चारेजार",
+  "करोड",
+  "वापस",
+  "आएंगे",
+  "मुअड़े",
+  "सब",
+  "से",
+  "बड़ा",
+  "दिन",
+  "शाम",
+  "साथ",
+  "बजेग",
+  "तक",
+  "इखी",
+  "आसी",
+  "ऱ़िक",
+  "नेट",
+  "पाच",
+  "दिन",
+  "का",
+  "अंटेया",
+  "नेट",
+  "लक्बक",
+  "तींसो",
+  "बीस",
+  "करोड",
+  "दूनिया",
+  "बहर",
+  "में",
+  "चार",
+  "दिन",
+  "में",
+  "507",
+  "करोड",
+  "ग्रोस",
+  "लेकिन",
+  "तो",
+  "क्या",
+  "रामायन",
+  "चाराजार",
+  "करोड",
+  "पार",
+  "करेगी?",
+  "हाया",
+  "ना?",
+  "कोमेंट",
+  "करो?"
+ ]
+}
