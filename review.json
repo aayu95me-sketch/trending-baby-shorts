@@ -1,0 +1,20 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "Unverified claim: \"Phone India ki BIS certification site par dikha hai\" without source attribution"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [],
+   "one_line_verdict": "Script has no number mismatches, one unverified claim flag, no hook options, and no notable Hinglish issues."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}

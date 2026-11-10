@@ -1,0 +1,501 @@
+{
+ "total": 26.917,
+ "voice": "20261109-samsung-galaxy-s27/voice.wav",
+ "lines": [
+  {
+   "start": 0.38,
+   "text": "Galaxy S27 launch ho gaya? Price kitna hai?",
+   "end": 3.142
+  },
+  {
+   "start": 3.527,
+   "text": "Sach yeh hai, abhi launch nahi hua. Samsung ne na date di, na price.",
+   "end": 8.026
+  },
+  {
+   "start": 8.416,
+   "text": "Trend kyun? Phone India ki BIS certification site par dikha hai.",
+   "end": 11.985
+  },
+  {
+   "start": 12.301,
+   "text": "Leak mein ek S27 Pro bhi hai. Samsung ka bada event aksar January ya February mein hota hai.",
+   "end": 17.668
+  },
+  {
+   "start": 18.047,
+   "text": "Aur ₹95,000 wala price? Sirf ek website ka andaaza.",
+   "end": 21.44
+  },
+  {
+   "start": 21.802,
+   "text": "Tum S26 abhi loge, ya S27 ka wait karoge? Comment karo.",
+   "end": 25.587
+  }
+ ],
+ "words": [
+  {
+   "w": "Galaxy",
+   "start": 0.38,
+   "end": 0.74
+  },
+  {
+   "w": "S27",
+   "start": 0.76,
+   "end": 1.24
+  },
+  {
+   "w": "launch",
+   "start": 1.26,
+   "end": 1.45
+  },
+  {
+   "w": "ho",
+   "start": 1.47,
+   "end": 1.66
+  },
+  {
+   "w": "gaya?",
+   "start": 1.68,
+   "end": 2.38
+  },
+  {
+   "w": "Price",
+   "start": 2.4,
+   "end": 2.72
+  },
+  {
+   "w": "kitna",
+   "start": 2.74,
+   "end": 3.04
+  },
+  {
+   "w": "hai?",
+   "start": 3.06,
+   "end": 3.507
+  },
+  {
+   "w": "Sach",
+   "start": 3.527,
+   "end": 3.72
+  },
+  {
+   "w": "yeh",
+   "start": 3.74,
+   "end": 4.0
+  },
+  {
+   "w": "hai,",
+   "start": 4.02,
+   "end": 4.26
+  },
+  {
+   "w": "abhi",
+   "start": 4.28,
+   "end": 4.72
+  },
+  {
+   "w": "launch",
+   "start": 4.74,
+   "end": 5.08
+  },
+  {
+   "w": "nahi",
+   "start": 5.1,
+   "end": 5.52
+  },
+  {
+   "w": "hua.",
+   "start": 5.54,
+   "end": 6.136
+  },
+  {
+   "w": "Samsung",
+   "start": 6.156,
+   "end": 6.6
+  },
+  {
+   "w": "ne",
+   "start": 6.62,
+   "end": 6.72
+  },
+  {
+   "w": "na",
+   "start": 6.74,
+   "end": 6.9
+  },
+  {
+   "w": "date",
+   "start": 6.92,
+   "end": 7.22
+  },
+  {
+   "w": "di,",
+   "start": 7.24,
+   "end": 7.38
+  },
+  {
+   "w": "na",
+   "start": 7.4,
+   "end": 7.64
+  },
+  {
+   "w": "price.",
+   "start": 7.66,
+   "end": 8.396
+  },
+  {
+   "w": "Trend",
+   "start": 8.416,
+   "end": 8.66
+  },
+  {
+   "w": "kyun?",
+   "start": 8.68,
+   "end": 9.315
+  },
+  {
+   "w": "Phone",
+   "start": 9.335,
+   "end": 9.54
+  },
+  {
+   "w": "India",
+   "start": 9.56,
+   "end": 9.88
+  },
+  {
+   "w": "ki",
+   "start": 9.9,
+   "end": 10.04
+  },
+  {
+   "w": "BIS",
+   "start": 10.06,
+   "end": 10.58
+  },
+  {
+   "w": "certification",
+   "start": 10.6,
+   "end": 11.12
+  },
+  {
+   "w": "site",
+   "start": 11.14,
+   "end": 11.48
+  },
+  {
+   "w": "par",
+   "start": 11.5,
+   "end": 11.62
+  },
+  {
+   "w": "dikha",
+   "start": 11.64,
+   "end": 11.95
+  },
+  {
+   "w": "hai.",
+   "start": 11.97,
+   "end": 12.281
+  },
+  {
+   "w": "Leak",
+   "start": 12.301,
+   "end": 12.56
+  },
+  {
+   "w": "mein",
+   "start": 12.58,
+   "end": 12.72
+  },
+  {
+   "w": "ek",
+   "start": 12.74,
+   "end": 12.9
+  },
+  {
+   "w": "S27 Pro",
+   "start": 12.92,
+   "end": 13.72
+  },
+  {
+   "w": "bhi",
+   "start": 13.92,
+   "end": 14.06
+  },
+  {
+   "w": "hai.",
+   "start": 14.08,
+   "end": 14.535
+  },
+  {
+   "w": "Samsung",
+   "start": 14.555,
+   "end": 15.06
+  },
+  {
+   "w": "ka",
+   "start": 15.08,
+   "end": 15.18
+  },
+  {
+   "w": "bada",
+   "start": 15.2,
+   "end": 15.5
+  },
+  {
+   "w": "event",
+   "start": 15.52,
+   "end": 15.68
+  },
+  {
+   "w": "aksar",
+   "start": 15.7,
+   "end": 15.96
+  },
+  {
+   "w": "January",
+   "start": 15.98,
+   "end": 16.7
+  },
+  {
+   "w": "ya",
+   "start": 16.72,
+   "end": 16.92
+  },
+  {
+   "w": "February",
+   "start": 16.94,
+   "end": 17.26
+  },
+  {
+   "w": "mein",
+   "start": 17.28,
+   "end": 17.38
+  },
+  {
+   "w": "hota",
+   "start": 17.4,
+   "end": 17.704
+  },
+  {
+   "w": "hai.",
+   "start": 17.724,
+   "end": 18.027
+  },
+  {
+   "w": "Aur",
+   "start": 18.047,
+   "end": 18.296
+  },
+  {
+   "w": "₹95,000",
+   "start": 18.316,
+   "end": 18.98
+  },
+  {
+   "w": "wala",
+   "start": 19.0,
+   "end": 19.2
+  },
+  {
+   "w": "price?",
+   "start": 19.22,
+   "end": 19.929
+  },
+  {
+   "w": "Sirf",
+   "start": 19.949,
+   "end": 20.361
+  },
+  {
+   "w": "ek",
+   "start": 20.381,
+   "end": 20.6
+  },
+  {
+   "w": "website",
+   "start": 20.62,
+   "end": 20.79
+  },
+  {
+   "w": "ka",
+   "start": 20.81,
+   "end": 20.98
+  },
+  {
+   "w": "andaaza.",
+   "start": 21.0,
+   "end": 21.782
+  },
+  {
+   "w": "Tum",
+   "start": 21.802,
+   "end": 22.02
+  },
+  {
+   "w": "S26",
+   "start": 22.04,
+   "end": 22.7
+  },
+  {
+   "w": "abhi",
+   "start": 22.72,
+   "end": 22.94
+  },
+  {
+   "w": "loge,",
+   "start": 22.96,
+   "end": 23.26
+  },
+  {
+   "w": "ya",
+   "start": 23.28,
+   "end": 23.56
+  },
+  {
+   "w": "S27",
+   "start": 23.58,
+   "end": 24.0
+  },
+  {
+   "w": "ka",
+   "start": 24.02,
+   "end": 24.2
+  },
+  {
+   "w": "wait",
+   "start": 24.22,
+   "end": 24.38
+  },
+  {
+   "w": "karoge?",
+   "start": 24.4,
+   "end": 25.087
+  },
+  {
+   "w": "Comment",
+   "start": 25.107,
+   "end": 25.3
+  },
+  {
+   "w": "karo.",
+   "start": 25.32,
+   "end": 25.917
+  }
+ ],
+ "cues": {
+  "hook": 0.38,
+  "truth": 3.527,
+  "why": 8.416,
+  "leak": 12.301,
+  "price": 18.047,
+  "end": 21.802
+ },
+ "numbers": [
+  {
+   "show": "S27",
+   "spoken": "S sattaais",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "S27 Pro",
+   "spoken": "S sattaais Pro",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "₹95,000",
+   "spoken": "pachaanve hazaar",
+   "heard": 1.0,
+   "digit_diff": 5
+  },
+  {
+   "show": "S26",
+   "spoken": "S chhabbees",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "S27",
+   "spoken": "S sattaais",
+   "heard": 1.0,
+   "digit_diff": 0
+  }
+ ],
+ "heard": [
+  "जलिक्सी",
+  "S27",
+  "लाँच",
+  "होगया?",
+  "प्राईस",
+  "कितना",
+  "है?",
+  "सच",
+  "ये",
+  "है",
+  "अभी",
+  "लाँच",
+  "नहीं",
+  "हूँँ.",
+  "सम्संग",
+  "ने",
+  "ना",
+  "देट",
+  "दी",
+  "ना",
+  "प्राईस.",
+  "त्रेंद",
+  "क्यों?",
+  "फोँ",
+  "निन्दिया",
+  "की",
+  "ब्या",
+  "या",
+  "साईट",
+  "पर",
+  "दिखाई.",
+  "लिक",
+  "में",
+  "एक",
+  "S27",
+  "Pro",
+  "भी",
+  "है.",
+  "सामसाईट.",
+  "का",
+  "बड़ाई",
+  "बेंट",
+  "अकसर",
+  "जन्वरी",
+  "या",
+  "फरवरी",
+  "में",
+  "होताए",
+  "और",
+  "पचानवे",
+  "हजार",
+  "वाला",
+  "प्राईस",
+  "सर्फ",
+  "एक",
+  "वेबसाइट",
+  "कंडाजा",
+  "तुम",
+  "एस",
+  "चब",
+  "भी",
+  "सबी",
+  "लोगे",
+  "या",
+  "एस",
+  "सता",
+  "इसका",
+  "वेट",
+  "करोगे",
+  "कमेंट",
+  "करो"
+ ]
+}
