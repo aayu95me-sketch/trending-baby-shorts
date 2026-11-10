@@ -28,7 +28,8 @@ for i in range(0, len(ids), 50):
                      params={"part": "statistics,status", "id": ",".join(ids[i:i + 50]), "key": KEY}, timeout=60)
     if r.status_code != 200:
         sys.exit(f"YouTube Data API {r.status_code}: {r.text[:300]}\n"
-                 "Fix: enable 'YouTube Data API v3' on the key's Google Cloud project, or add a YOUTUBE_API_KEY repo secret.")
+                 "Fix: add a YOUTUBE_API_KEY repo secret (a plain Google Cloud API key with YouTube Data API v3 enabled; free). "
+                 "The Gemini key is refused by YouTube (401, 'API keys are not supported').")
     for it in r.json().get("items", []):
         stats[it["id"]] = it
 
