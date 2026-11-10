@@ -53,13 +53,13 @@ rows = list(csv.DictReader(snap.open(encoding="utf-8")))
 
 
 def nearest(vid, target):
-    """Views from the snapshot closest to <target> hours after posting (within 40% of the target, min 0.5 h)."""
+    """Views from the snapshot closest to <target> hours after posting (within 25% of the target, min 0.5 h)."""
     best = None
     for r in rows:
         if r["id"] != vid or not r["views"]:
             continue
         gap = abs(float(r["hours_since_post"]) - target)
-        if gap <= max(0.5, target * 0.4) and (best is None or gap < best[0]):
+        if gap <= max(0.5, target * 0.25) and (best is None or gap < best[0]):
             best = (gap, r["views"])
     return best[1] if best else "-"
 
