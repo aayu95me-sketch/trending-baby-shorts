@@ -1,0 +1,10 @@
+{
+ "hook": [{"og": "https://www.india.com/sports/cricket/india-vs-new-zealand-2026-live-score-3rd-odi-match-10-nov-ind-vs-nz-squad-players-list-shubman-gill-mitchell-santner-rohit-sharma-virat-kohli-seddon-park-hamilton-8543537/"},
+          {"wiki": "Seddon Park Hamilton", "n": 4}],
+ "rain": [{"og": "https://www.prameyanews.com/india-vs-new-zealand-3rd-odi-abandoned-due-to-rain-visitors-retain-2-0-series-lead"},
+          {"og": "https://www.cricketworld.com/india-vs-new-zealand-3rd-odi-hamilton-rain-disrupts-play-as-match-ends-without-a-result/114280.htm"},
+          {"wiki": "cricket rain covers ground", "n": 3}],
+ "series": [{"wiki": "Shubman Gill", "n": 3}, {"wiki": "Virat Kohli", "n": 3}],
+ "need": [{"wiki": "Mitchell Santner", "n": 2}, {"wiki": "New Zealand cricket team", "n": 2}, {"wiki": "Shreyas Iyer", "n": 2}],
+ "end": [{"wiki": "India national cricket team celebration", "n": 3}]
+}

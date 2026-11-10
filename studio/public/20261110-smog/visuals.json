@@ -1,0 +1,11 @@
+{
+ "hook": [{"og": "https://www.outlookindia.com/national/in-photos-delhi-ncr-chokes-under-a-blanket-of-toxic-smog-as-air-quality-remains-very-poor"},
+          {"og": "https://www.outlookindia.com/national/delhi-smog-after-diwali-aqi-371-severe-air-pollution-stubble-burning-grap-stage-3"},
+          {"og": "https://www.socialnews.xyz/2026/11/10/new-delhi-delhi-ncr-blanketed-by-air-pollution-gallery/"},
+          {"wiki": "Delhi smog", "n": 4}],
+ "word": [{"wiki": "smog city", "n": 3}, {"wiki": "fog morning road India", "n": 2}],
+ "lid": [{"wiki": "temperature inversion smog", "n": 4}],
+ "fire": [{"wiki": "stubble burning Punjab", "n": 4}],
+ "london": [{"wiki": "Great Smog of London 1952", "n": 4}],
+ "end": [{"og": "https://en.sedaily.com/world/2026/11/10/new-delhi-chokes-in-thick-smog-after-diwali-fireworks"}, {"wiki": "India Gate smog", "n": 3}]
+}

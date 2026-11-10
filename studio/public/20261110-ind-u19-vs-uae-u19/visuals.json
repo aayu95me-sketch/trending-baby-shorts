@@ -1,0 +1,10 @@
+{
+ "hook": [{"og": "https://www.india.com/sports/cricket/aaryavir-sehwags-brilliant-knock-guides-india-to-70-run-win-over-uae-in-the-acc-mens-u19-asia-cup-2026-8543707/"},
+          {"img": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20261110130228.jpg", "lic": "X/@ACCMedia1 via ANI"},
+          {"wiki": "Virender Sehwag", "n": 3}],
+ "truth": [{"og": "https://sundayguardianlive.com/sports/cricket-ind-u19-vs-uae-u19-aaryavir-sehwags-160-ishan-soods-four-wicket-haul-seal-70-run-win-as-india-reach-acc-mens-u19-asia-cup-semifinals-320346/"},
+           {"wiki": "Aaryavir Sehwag", "n": 2}],
+ "team": [{"wiki": "Al Amerat Cricket Ground", "n": 3}, {"wiki": "India under-19 cricket team", "n": 3}],
+ "win": [{"wiki": "Afghanistan under-19 cricket team", "n": 2}, {"wiki": "cricket bowler celebration wicket", "n": 2}],
+ "end": [{"wiki": "Virender Sehwag batting", "n": 3}]
+}
