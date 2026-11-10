@@ -17,7 +17,7 @@
    "videos": ["20261110-ind-u19-vs-uae-u19/real/hook-0.jpg", "20261110-ind-u19-vs-uae-u19/real/xb-1.jpg"], "focus": "50% 25%", "low": true,
    "credit": "PHOTOS VIA INDIA.COM / WIKIPEDIA"},
   {"at": "truth", "tag": "168 GENDEIN · 17 CHAUKE · 7 CHHAKKE",
-   "counter": {"from": 0, "to": 160, "suffix": " RUN", "label": "AARYAVIR SEHWAG vs UAE"},
+   "counter": {"from": 0, "to": 160, "prefix": "", "suffix": " RUN", "label": "AARYAVIR SEHWAG vs UAE"},
    "img": "20261110-ind-u19-vs-uae-u19/real/truth-0.jpg", "focus": "60% 30%", "credit": "PHOTO VIA SUNDAY GUARDIAN"},
   {"at": "team", "tag": "50 OVER · AL AMERAT",
    "bars": [["INDIA 309/7", 309], ["UAE ALL OUT", 239]],
