@@ -1,0 +1,619 @@
+{
+ "total": 32.151,
+ "voice": "20261110-claude-fable-5-2/voice.wav",
+ "lines": [
+  {
+   "start": 0.113,
+   "text": "Naya AI aaya, Claude Fable 5.2 . Kya yeh sach mein GPT aur Gemini se aage hai?",
+   "end": 5.9
+  },
+  {
+   "start": 6.32,
+   "text": "Anthropic ne nau November ko launch kiya. Saath mein Mythos, wahi model, par sirf verified security aur science labs ke liye.",
+   "end": 13.536
+  },
+  {
+   "start": 13.636,
+   "text": "Coding test mein Fable ko 49% mile. GPT ko 43% . Aur Gemini ko 41% .",
+   "end": 19.574
+  },
+  {
+   "start": 19.898,
+   "text": "Lekin dhyan do, yeh number Anthropic ne khud diye hain. Bahar ki jaanch abhi baaki hai.",
+   "end": 24.343
+  },
+  {
+   "start": 24.68,
+   "text": "Paid plans aur API par mil raha hai, aur API 20% sasta.",
+   "end": 28.492
+  },
+  {
+   "start": 28.819,
+   "text": "Aap kaunsa AI use karte ho? Comment karo.",
+   "end": 30.74
+  }
+ ],
+ "words": [
+  {
+   "w": "Naya",
+   "start": 0.113,
+   "end": 0.6
+  },
+  {
+   "w": "AI",
+   "start": 0.62,
+   "end": 0.78
+  },
+  {
+   "w": "aaya,",
+   "start": 0.8,
+   "end": 1.46
+  },
+  {
+   "w": "Claude",
+   "start": 1.48,
+   "end": 1.74
+  },
+  {
+   "w": "Fable",
+   "start": 1.76,
+   "end": 1.988
+  },
+  {
+   "w": "5.2",
+   "start": 2.008,
+   "end": 2.732
+  },
+  {
+   "w": ".",
+   "start": 2.752,
+   "end": 2.98
+  },
+  {
+   "w": "Kya",
+   "start": 3.0,
+   "end": 3.58
+  },
+  {
+   "w": "yeh",
+   "start": 3.6,
+   "end": 3.76
+  },
+  {
+   "w": "sach",
+   "start": 3.78,
+   "end": 4.03
+  },
+  {
+   "w": "mein",
+   "start": 4.05,
+   "end": 4.3
+  },
+  {
+   "w": "GPT",
+   "start": 4.32,
+   "end": 4.84
+  },
+  {
+   "w": "aur",
+   "start": 4.86,
+   "end": 4.96
+  },
+  {
+   "w": "Gemini",
+   "start": 4.98,
+   "end": 5.28
+  },
+  {
+   "w": "se",
+   "start": 5.3,
+   "end": 5.48
+  },
+  {
+   "w": "aage",
+   "start": 5.5,
+   "end": 5.74
+  },
+  {
+   "w": "hai?",
+   "start": 5.76,
+   "end": 6.3
+  },
+  {
+   "w": "Anthropic",
+   "start": 6.32,
+   "end": 6.74
+  },
+  {
+   "w": "ne",
+   "start": 6.76,
+   "end": 6.93
+  },
+  {
+   "w": "nau",
+   "start": 6.95,
+   "end": 7.12
+  },
+  {
+   "w": "November",
+   "start": 7.14,
+   "end": 7.5
+  },
+  {
+   "w": "ko",
+   "start": 7.52,
+   "end": 7.62
+  },
+  {
+   "w": "launch",
+   "start": 7.64,
+   "end": 7.9
+  },
+  {
+   "w": "kiya.",
+   "start": 7.92,
+   "end": 8.518
+  },
+  {
+   "w": "Saath",
+   "start": 8.538,
+   "end": 8.82
+  },
+  {
+   "w": "mein",
+   "start": 8.84,
+   "end": 8.98
+  },
+  {
+   "w": "Mythos,",
+   "start": 9.0,
+   "end": 9.699
+  },
+  {
+   "w": "wahi",
+   "start": 9.719,
+   "end": 9.92
+  },
+  {
+   "w": "model,",
+   "start": 9.94,
+   "end": 10.52
+  },
+  {
+   "w": "par",
+   "start": 10.54,
+   "end": 10.78
+  },
+  {
+   "w": "sirf",
+   "start": 10.8,
+   "end": 11.08
+  },
+  {
+   "w": "verified",
+   "start": 11.1,
+   "end": 11.54
+  },
+  {
+   "w": "security",
+   "start": 11.56,
+   "end": 12.04
+  },
+  {
+   "w": "aur",
+   "start": 12.06,
+   "end": 12.14
+  },
+  {
+   "w": "science",
+   "start": 12.16,
+   "end": 12.46
+  },
+  {
+   "w": "labs",
+   "start": 12.48,
+   "end": 12.72
+  },
+  {
+   "w": "ke",
+   "start": 12.74,
+   "end": 12.86
+  },
+  {
+   "w": "liye.",
+   "start": 12.88,
+   "end": 13.616
+  },
+  {
+   "w": "Coding",
+   "start": 13.636,
+   "end": 14.0
+  },
+  {
+   "w": "test",
+   "start": 14.02,
+   "end": 14.22
+  },
+  {
+   "w": "mein",
+   "start": 14.24,
+   "end": 14.4
+  },
+  {
+   "w": "Fable",
+   "start": 14.42,
+   "end": 14.68
+  },
+  {
+   "w": "ko",
+   "start": 14.7,
+   "end": 14.8
+  },
+  {
+   "w": "49%",
+   "start": 14.82,
+   "end": 15.48
+  },
+  {
+   "w": "mile.",
+   "start": 15.5,
+   "end": 15.99
+  },
+  {
+   "w": "GPT",
+   "start": 16.01,
+   "end": 16.5
+  },
+  {
+   "w": "ko",
+   "start": 16.52,
+   "end": 16.76
+  },
+  {
+   "w": "43%",
+   "start": 16.78,
+   "end": 17.28
+  },
+  {
+   "w": ".",
+   "start": 17.3,
+   "end": 17.54
+  },
+  {
+   "w": "Aur",
+   "start": 17.56,
+   "end": 17.92
+  },
+  {
+   "w": "Gemini",
+   "start": 17.94,
+   "end": 18.28
+  },
+  {
+   "w": "ko",
+   "start": 18.3,
+   "end": 18.68
+  },
+  {
+   "w": "41%",
+   "start": 18.7,
+   "end": 19.479
+  },
+  {
+   "w": ".",
+   "start": 19.499,
+   "end": 19.878
+  },
+  {
+   "w": "Lekin",
+   "start": 19.898,
+   "end": 20.12
+  },
+  {
+   "w": "dhyan",
+   "start": 20.14,
+   "end": 20.54
+  },
+  {
+   "w": "do,",
+   "start": 20.56,
+   "end": 20.96
+  },
+  {
+   "w": "yeh",
+   "start": 20.98,
+   "end": 21.1
+  },
+  {
+   "w": "number",
+   "start": 21.12,
+   "end": 21.42
+  },
+  {
+   "w": "Anthropic",
+   "start": 21.44,
+   "end": 21.96
+  },
+  {
+   "w": "ne",
+   "start": 21.98,
+   "end": 22.04
+  },
+  {
+   "w": "khud",
+   "start": 22.06,
+   "end": 22.36
+  },
+  {
+   "w": "diye",
+   "start": 22.38,
+   "end": 22.52
+  },
+  {
+   "w": "hain.",
+   "start": 22.54,
+   "end": 23.04
+  },
+  {
+   "w": "Bahar",
+   "start": 23.06,
+   "end": 23.32
+  },
+  {
+   "w": "ki",
+   "start": 23.34,
+   "end": 23.44
+  },
+  {
+   "w": "jaanch",
+   "start": 23.46,
+   "end": 23.68
+  },
+  {
+   "w": "abhi",
+   "start": 23.7,
+   "end": 23.86
+  },
+  {
+   "w": "baaki",
+   "start": 23.88,
+   "end": 24.24
+  },
+  {
+   "w": "hai.",
+   "start": 24.26,
+   "end": 24.66
+  },
+  {
+   "w": "Paid",
+   "start": 24.68,
+   "end": 24.96
+  },
+  {
+   "w": "plans",
+   "start": 24.98,
+   "end": 25.28
+  },
+  {
+   "w": "aur",
+   "start": 25.3,
+   "end": 25.36
+  },
+  {
+   "w": "API",
+   "start": 25.38,
+   "end": 25.76
+  },
+  {
+   "w": "par",
+   "start": 25.78,
+   "end": 25.92
+  },
+  {
+   "w": "mil",
+   "start": 25.94,
+   "end": 26.14
+  },
+  {
+   "w": "raha",
+   "start": 26.16,
+   "end": 26.554
+  },
+  {
+   "w": "hai,",
+   "start": 26.574,
+   "end": 26.62
+  },
+  {
+   "w": "aur",
+   "start": 26.64,
+   "end": 26.78
+  },
+  {
+   "w": "API",
+   "start": 26.8,
+   "end": 27.38
+  },
+  {
+   "w": "20%",
+   "start": 27.4,
+   "end": 28.0
+  },
+  {
+   "w": "sasta.",
+   "start": 28.02,
+   "end": 28.799
+  },
+  {
+   "w": "Aap",
+   "start": 28.819,
+   "end": 29.02
+  },
+  {
+   "w": "kaunsa",
+   "start": 29.04,
+   "end": 29.3
+  },
+  {
+   "w": "AI",
+   "start": 29.32,
+   "end": 29.46
+  },
+  {
+   "w": "use",
+   "start": 29.48,
+   "end": 29.62
+  },
+  {
+   "w": "karte",
+   "start": 29.64,
+   "end": 30.262
+  },
+  {
+   "w": "ho?",
+   "start": 30.282,
+   "end": 30.28
+  },
+  {
+   "w": "Comment",
+   "start": 30.3,
+   "end": 30.58
+  },
+  {
+   "w": "karo.",
+   "start": 30.6,
+   "end": 31.151
+  }
+ ],
+ "cues": {
+  "hook": 0.113,
+  "what": 6.32,
+  "test": 13.636,
+  "but": 19.898,
+  "use": 24.68,
+  "end": 28.819
+ },
+ "numbers": [
+  {
+   "show": "5.2",
+   "spoken": "paanch point do",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "49%",
+   "spoken": "unchaas percent",
+   "heard": 0.5,
+   "digit_diff": null
+  },
+  {
+   "show": "43%",
+   "spoken": "taintaalees percent",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "41%",
+   "spoken": "iktaalees percent",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "20%",
+   "spoken": "bees percent",
+   "heard": 1.0,
+   "digit_diff": null
+  }
+ ],
+ "heard": [
+  "नया",
+  "AI",
+  "आया,",
+  "Claude",
+  "Fable",
+  "5",
+  ".2",
+  "क्या",
+  "ये",
+  "सचमे",
+  "GPT",
+  "और",
+  "Gemini",
+  "से",
+  "आगे",
+  "हैं?",
+  "Anthropic",
+  "ने",
+  "9",
+  "नवमबर",
+  "को",
+  "लाँज",
+  "की",
+  "साथ",
+  "में",
+  "मीथास",
+  "वही",
+  "मौडल",
+  "पर",
+  "सिर्फ",
+  "वेरिफाईट",
+  "सेक्यूरिटी",
+  "और",
+  "साइन्स",
+  "लैब्स",
+  "के",
+  "लिए",
+  "कोडिंग",
+  "टेस्ट",
+  "में",
+  "फेबल",
+  "को",
+  "उंचार",
+  "रहे",
+  "मिले",
+  "जीपीटी",
+  "को",
+  "43",
+  "और",
+  "जेमिनी",
+  "को",
+  "41",
+  "लेकिन",
+  "दहांदो,",
+  "ये",
+  "नमबर",
+  "अन्थ्रोपिक",
+  "ने",
+  "खुद",
+  "दिये",
+  "हैं,",
+  "बाहर",
+  "की",
+  "जांच",
+  "अभी",
+  "बाकी",
+  "है,",
+  "पेट",
+  "प्लान्स",
+  "और",
+  "एपियाइ",
+  "पर",
+  "मिल",
+  "रहे",
+  "है,",
+  "और",
+  "एपियाइ",
+  "बीस",
+  "परसंट",
+  "सस्ता.",
+  "आप",
+  "कौनसा",
+  "AI",
+  "या",
+  "यूस",
+  "करते",
+  "हो?",
+  "कौमेंट",
+  "करो"
+ ]
+}

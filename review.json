@@ -1,0 +1,24 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "Anthropic's launch date \"nau November\" is stated without any source",
+    "Performance percentages (49%, 43%, 41%) are self‑reported by Anthropic and lack independent verification",
+    "Claim that the API is 20% cheaper is presented without any source"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "\"nau November\" is unnatural; a Delhi speaker would say \"9 November\""
+   ],
+   "one_line_verdict": "No number mismatches, but the script contains unverified claims about launch date, performance numbers and pricing, and a minor Hinglish phrasing issue."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}
