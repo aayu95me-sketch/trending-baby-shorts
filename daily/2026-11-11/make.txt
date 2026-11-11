@@ -1,3 +1,2 @@
-# fix: hook scene skipped (marker had punctuation)
-20261111-india-vs-maldives
-20261111-air-india-kolkata
+# Kavya trim after council
+20261111-kavya-anirudh-wedding
