@@ -1,0 +1,26 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "Unverified claim that an Air India flight was hijacked",
+    "Statement that officials declared the threat a hoax without source",
+    "Claim of two previous false threats at Kolkata airport without attribution"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "use of 'no nahi' mixing English and Hindi",
+    "'bay' instead of 'by' in 'Sabhi@bay'",
+    "use of 'hook' as noun in 'Kolkata@hook' may sound odd"
+   ],
+   "one_line_verdict": "Script is free of number mismatches but contains unverified rumors and a few unnatural Hinglish phrases; no hook options provided."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}

@@ -1,0 +1,432 @@
+{
+ "total": 20.431,
+ "voice": "20261111-air-india-kolkata/voice.wav",
+ "lines": [
+  {
+   "start": 0.275,
+   "text": "Kolkata se Mumbai ja rahi Air India flight hijack ho gayi?",
+   "end": 3.007
+  },
+  {
+   "start": 3.406,
+   "text": "Bilkul nahi. Take off se pehle flight ke toilet mein ek hijack ki dhamki wala note mila.",
+   "end": 7.674
+  },
+  {
+   "start": 8.02,
+   "text": "Sabhi 105 yatri utaare gaye.",
+   "end": 9.393
+  },
+  {
+   "start": 9.68,
+   "text": "Jaanch ke baad officials ne bataya, yeh dhamki jhoothi thi. Hoax.",
+   "end": 13.357
+  },
+  {
+   "start": 13.748,
+   "text": "Lekin pichhle mahine bhi Kolkata airport par do jhoothi dhamkiyan aayi thi.",
+   "end": 16.65
+  },
+  {
+   "start": 17.052,
+   "text": "Jo bole hijack hua, use yeh bhejo.",
+   "end": 18.904
+  }
+ ],
+ "words": [
+  {
+   "w": "Kolkata",
+   "start": 0.275,
+   "end": 0.66
+  },
+  {
+   "w": "se",
+   "start": 0.68,
+   "end": 0.8
+  },
+  {
+   "w": "Mumbai",
+   "start": 0.82,
+   "end": 1.14
+  },
+  {
+   "w": "ja",
+   "start": 1.16,
+   "end": 1.28
+  },
+  {
+   "w": "rahi",
+   "start": 1.3,
+   "end": 1.42
+  },
+  {
+   "w": "Air",
+   "start": 1.44,
+   "end": 1.66
+  },
+  {
+   "w": "India",
+   "start": 1.68,
+   "end": 1.96
+  },
+  {
+   "w": "flight",
+   "start": 1.98,
+   "end": 2.22
+  },
+  {
+   "w": "hijack",
+   "start": 2.24,
+   "end": 2.46
+  },
+  {
+   "w": "ho",
+   "start": 2.48,
+   "end": 2.7
+  },
+  {
+   "w": "gayi?",
+   "start": 2.72,
+   "end": 3.386
+  },
+  {
+   "w": "Bilkul",
+   "start": 3.406,
+   "end": 3.76
+  },
+  {
+   "w": "nahi.",
+   "start": 3.78,
+   "end": 4.28
+  },
+  {
+   "w": "Take",
+   "start": 4.3,
+   "end": 4.56
+  },
+  {
+   "w": "off",
+   "start": 4.58,
+   "end": 4.7
+  },
+  {
+   "w": "se",
+   "start": 4.72,
+   "end": 4.88
+  },
+  {
+   "w": "pehle",
+   "start": 4.9,
+   "end": 5.1
+  },
+  {
+   "w": "flight",
+   "start": 5.12,
+   "end": 5.4
+  },
+  {
+   "w": "ke",
+   "start": 5.42,
+   "end": 5.54
+  },
+  {
+   "w": "toilet",
+   "start": 5.56,
+   "end": 5.8
+  },
+  {
+   "w": "mein",
+   "start": 5.82,
+   "end": 6.06
+  },
+  {
+   "w": "ek",
+   "start": 6.08,
+   "end": 6.12
+  },
+  {
+   "w": "hijack",
+   "start": 6.14,
+   "end": 6.5
+  },
+  {
+   "w": "ki",
+   "start": 6.52,
+   "end": 6.64
+  },
+  {
+   "w": "dhamki",
+   "start": 6.66,
+   "end": 7.0
+  },
+  {
+   "w": "wala",
+   "start": 7.02,
+   "end": 7.2
+  },
+  {
+   "w": "note",
+   "start": 7.22,
+   "end": 7.38
+  },
+  {
+   "w": "mila.",
+   "start": 7.4,
+   "end": 8.0
+  },
+  {
+   "w": "Sabhi",
+   "start": 8.02,
+   "end": 8.22
+  },
+  {
+   "w": "105",
+   "start": 8.24,
+   "end": 8.64
+  },
+  {
+   "w": "yatri",
+   "start": 8.66,
+   "end": 8.9
+  },
+  {
+   "w": "utaare",
+   "start": 8.92,
+   "end": 9.2
+  },
+  {
+   "w": "gaye.",
+   "start": 9.22,
+   "end": 9.66
+  },
+  {
+   "w": "Jaanch",
+   "start": 9.68,
+   "end": 9.84
+  },
+  {
+   "w": "ke",
+   "start": 9.86,
+   "end": 10.02
+  },
+  {
+   "w": "baad",
+   "start": 10.04,
+   "end": 10.273
+  },
+  {
+   "w": "officials",
+   "start": 10.293,
+   "end": 10.527
+  },
+  {
+   "w": "ne",
+   "start": 10.547,
+   "end": 10.78
+  },
+  {
+   "w": "bataya,",
+   "start": 10.8,
+   "end": 11.52
+  },
+  {
+   "w": "yeh",
+   "start": 11.54,
+   "end": 11.64
+  },
+  {
+   "w": "dhamki",
+   "start": 11.66,
+   "end": 12.0
+  },
+  {
+   "w": "jhoothi",
+   "start": 12.02,
+   "end": 12.42
+  },
+  {
+   "w": "thi.",
+   "start": 12.44,
+   "end": 13.074
+  },
+  {
+   "w": "Hoax.",
+   "start": 13.094,
+   "end": 13.728
+  },
+  {
+   "w": "Lekin",
+   "start": 13.748,
+   "end": 14.04
+  },
+  {
+   "w": "pichhle",
+   "start": 14.06,
+   "end": 14.36
+  },
+  {
+   "w": "mahine",
+   "start": 14.38,
+   "end": 14.6
+  },
+  {
+   "w": "bhi",
+   "start": 14.62,
+   "end": 14.7
+  },
+  {
+   "w": "Kolkata",
+   "start": 14.72,
+   "end": 15.14
+  },
+  {
+   "w": "airport",
+   "start": 15.16,
+   "end": 15.46
+  },
+  {
+   "w": "par",
+   "start": 15.48,
+   "end": 15.62
+  },
+  {
+   "w": "do",
+   "start": 15.64,
+   "end": 15.76
+  },
+  {
+   "w": "jhoothi",
+   "start": 15.78,
+   "end": 16.0
+  },
+  {
+   "w": "dhamkiyan",
+   "start": 16.02,
+   "end": 16.3
+  },
+  {
+   "w": "aayi",
+   "start": 16.32,
+   "end": 16.48
+  },
+  {
+   "w": "thi.",
+   "start": 16.5,
+   "end": 17.032
+  },
+  {
+   "w": "Jo",
+   "start": 17.052,
+   "end": 17.2
+  },
+  {
+   "w": "bole",
+   "start": 17.22,
+   "end": 17.42
+  },
+  {
+   "w": "hijack",
+   "start": 17.44,
+   "end": 17.84
+  },
+  {
+   "w": "hua,",
+   "start": 17.86,
+   "end": 18.26
+  },
+  {
+   "w": "use",
+   "start": 18.28,
+   "end": 18.56
+  },
+  {
+   "w": "yeh",
+   "start": 18.58,
+   "end": 18.64
+  },
+  {
+   "w": "bhejo.",
+   "start": 18.66,
+   "end": 19.431
+  }
+ ],
+ "cues": {
+  "hook": 0.275,
+  "no": 3.406,
+  "bay": 8.02,
+  "hoax": 9.68,
+  "twist": 13.748,
+  "end": 17.052
+ },
+ "numbers": [
+  {
+   "show": "105",
+   "spoken": "ek sau paanch",
+   "heard": 0.67,
+   "digit_diff": null
+  }
+ ],
+ "heard": [
+  "कुलकता",
+  "से",
+  "मुमबे",
+  "जारे",
+  "यार",
+  "इंटिया",
+  "फलाइत",
+  "हाईजाग",
+  "होगगग?",
+  "विलकुल",
+  "नहीं",
+  "तेख",
+  "अफ",
+  "से",
+  "पहले",
+  "फलाइत",
+  "के",
+  "तोलिट",
+  "में",
+  "एक",
+  "हाईजाग",
+  "की",
+  "दमकी",
+  "वाला",
+  "नोट",
+  "मिला",
+  "सभी",
+  "एक",
+  "सुपाच",
+  "यात्री",
+  "उतारे",
+  "गए,",
+  "जाज",
+  "किबाद",
+  "अदिकारियोने",
+  "बताया,",
+  "ये",
+  "दमकी",
+  "जूटी",
+  "ती,",
+  "खूख्स.",
+  "लेकिन",
+  "पिछले",
+  "मैंने",
+  "भी",
+  "खुलका,",
+  "आर्पोट",
+  "पर",
+  "दो",
+  "जूटी",
+  "दम",
+  "कि",
+  "आई",
+  "ती",
+  "जो",
+  "बोले",
+  "हाईजैक",
+  "वौवा",
+  "उसे",
+  "ये",
+  "बहिजो"
+ ]
+}
