@@ -1,0 +1,496 @@
+{
+ "total": 26.128,
+ "voice": "20261111-india-vs-maldives/voice.wav",
+ "lines": [
+  {
+   "start": 0.155,
+   "text": "India Maldives se jeet gaya, par kya semi final pakka hua?",
+   "end": 3.281
+  },
+  {
+   "start": 3.871,
+   "text": "Bilkul pakka. SAFF Championship mein India ne Maldives ko 1-0 se haraya.",
+   "end": 8.774
+  },
+  {
+   "start": 9.078,
+   "text": "Goal penalty se aaya. Suhail Bhat ka is tournament mein teesra goal.",
+   "end": 12.232
+  },
+  {
+   "start": 12.232,
+   "text": "India apne group mein top par, poore 6 points ke saath.",
+   "end": 15.8
+  },
+  {
+   "start": 15.8,
+   "text": "Aakhri minuton mein Maldives ne poora zor lagaya, par goalkeeper Priyansh Dubey ne jeet bacha li.",
+   "end": 20.552
+  },
+  {
+   "start": 20.922,
+   "text": "Semi final 14 NOV ko. Jo bole India bahar hai, use yeh bhejo.",
+   "end": 24.665
+  }
+ ],
+ "words": [
+  {
+   "w": "India",
+   "start": 0.155,
+   "end": 0.86
+  },
+  {
+   "w": "Maldives",
+   "start": 0.88,
+   "end": 1.18
+  },
+  {
+   "w": "se",
+   "start": 1.2,
+   "end": 1.36
+  },
+  {
+   "w": "jeet",
+   "start": 1.38,
+   "end": 1.66
+  },
+  {
+   "w": "gaya,",
+   "start": 1.68,
+   "end": 2.119
+  },
+  {
+   "w": "par",
+   "start": 2.139,
+   "end": 2.26
+  },
+  {
+   "w": "kya",
+   "start": 2.28,
+   "end": 2.44
+  },
+  {
+   "w": "semi",
+   "start": 2.46,
+   "end": 2.84
+  },
+  {
+   "w": "final",
+   "start": 2.86,
+   "end": 3.14
+  },
+  {
+   "w": "pakka",
+   "start": 3.16,
+   "end": 3.46
+  },
+  {
+   "w": "hua?",
+   "start": 3.48,
+   "end": 3.851
+  },
+  {
+   "w": "Bilkul",
+   "start": 3.871,
+   "end": 4.242
+  },
+  {
+   "w": "pakka.",
+   "start": 4.262,
+   "end": 4.633
+  },
+  {
+   "w": "SAFF",
+   "start": 4.653,
+   "end": 5.024
+  },
+  {
+   "w": "Championship",
+   "start": 5.044,
+   "end": 5.416
+  },
+  {
+   "w": "mein",
+   "start": 5.436,
+   "end": 5.807
+  },
+  {
+   "w": "India",
+   "start": 5.827,
+   "end": 6.198
+  },
+  {
+   "w": "ne",
+   "start": 6.218,
+   "end": 6.589
+  },
+  {
+   "w": "Maldives",
+   "start": 6.609,
+   "end": 6.98
+  },
+  {
+   "w": "ko",
+   "start": 7.0,
+   "end": 7.413
+  },
+  {
+   "w": "1-0",
+   "start": 7.433,
+   "end": 8.233
+  },
+  {
+   "w": "se",
+   "start": 8.3,
+   "end": 8.5
+  },
+  {
+   "w": "haraya.",
+   "start": 8.52,
+   "end": 9.058
+  },
+  {
+   "w": "Goal",
+   "start": 9.078,
+   "end": 9.3
+  },
+  {
+   "w": "penalty",
+   "start": 9.32,
+   "end": 9.68
+  },
+  {
+   "w": "se",
+   "start": 9.7,
+   "end": 9.84
+  },
+  {
+   "w": "aaya.",
+   "start": 9.86,
+   "end": 10.06
+  },
+  {
+   "w": "Suhail",
+   "start": 10.08,
+   "end": 10.72
+  },
+  {
+   "w": "Bhat",
+   "start": 10.74,
+   "end": 10.92
+  },
+  {
+   "w": "ka",
+   "start": 10.94,
+   "end": 11.06
+  },
+  {
+   "w": "is",
+   "start": 11.08,
+   "end": 11.18
+  },
+  {
+   "w": "tournament",
+   "start": 11.2,
+   "end": 11.438
+  },
+  {
+   "w": "mein",
+   "start": 11.458,
+   "end": 11.696
+  },
+  {
+   "w": "teesra",
+   "start": 11.716,
+   "end": 11.954
+  },
+  {
+   "w": "goal.",
+   "start": 11.974,
+   "end": 12.212
+  },
+  {
+   "w": "India",
+   "start": 12.232,
+   "end": 12.47
+  },
+  {
+   "w": "apne",
+   "start": 12.49,
+   "end": 12.728
+  },
+  {
+   "w": "group",
+   "start": 12.748,
+   "end": 12.986
+  },
+  {
+   "w": "mein",
+   "start": 13.006,
+   "end": 13.244
+  },
+  {
+   "w": "top",
+   "start": 13.264,
+   "end": 13.502
+  },
+  {
+   "w": "par,",
+   "start": 13.522,
+   "end": 13.76
+  },
+  {
+   "w": "poore",
+   "start": 13.78,
+   "end": 14.538
+  },
+  {
+   "w": "6",
+   "start": 14.558,
+   "end": 14.819
+  },
+  {
+   "w": "points",
+   "start": 14.839,
+   "end": 15.1
+  },
+  {
+   "w": "ke",
+   "start": 15.12,
+   "end": 15.24
+  },
+  {
+   "w": "saath.",
+   "start": 15.26,
+   "end": 15.78
+  },
+  {
+   "w": "Aakhri",
+   "start": 15.8,
+   "end": 16.12
+  },
+  {
+   "w": "minuton",
+   "start": 16.14,
+   "end": 16.36
+  },
+  {
+   "w": "mein",
+   "start": 16.38,
+   "end": 16.52
+  },
+  {
+   "w": "Maldives",
+   "start": 16.54,
+   "end": 16.92
+  },
+  {
+   "w": "ne",
+   "start": 16.94,
+   "end": 17.167
+  },
+  {
+   "w": "poora",
+   "start": 17.187,
+   "end": 17.5
+  },
+  {
+   "w": "zor",
+   "start": 17.52,
+   "end": 17.7
+  },
+  {
+   "w": "lagaya,",
+   "start": 17.72,
+   "end": 17.9
+  },
+  {
+   "w": "par",
+   "start": 17.92,
+   "end": 18.18
+  },
+  {
+   "w": "goalkeeper",
+   "start": 18.2,
+   "end": 18.573
+  },
+  {
+   "w": "Priyansh",
+   "start": 18.593,
+   "end": 18.967
+  },
+  {
+   "w": "Dubey",
+   "start": 18.987,
+   "end": 19.36
+  },
+  {
+   "w": "ne",
+   "start": 19.38,
+   "end": 19.78
+  },
+  {
+   "w": "jeet",
+   "start": 19.8,
+   "end": 20.04
+  },
+  {
+   "w": "bacha",
+   "start": 20.06,
+   "end": 20.471
+  },
+  {
+   "w": "li.",
+   "start": 20.491,
+   "end": 20.902
+  },
+  {
+   "w": "Semi",
+   "start": 20.922,
+   "end": 21.16
+  },
+  {
+   "w": "final",
+   "start": 21.18,
+   "end": 21.42
+  },
+  {
+   "w": "14 NOV",
+   "start": 21.44,
+   "end": 21.91
+  },
+  {
+   "w": "ko.",
+   "start": 21.93,
+   "end": 22.1
+  },
+  {
+   "w": "Jo",
+   "start": 22.12,
+   "end": 22.66
+  },
+  {
+   "w": "bole",
+   "start": 22.68,
+   "end": 22.94
+  },
+  {
+   "w": "India",
+   "start": 22.96,
+   "end": 23.24
+  },
+  {
+   "w": "bahar",
+   "start": 23.26,
+   "end": 23.5
+  },
+  {
+   "w": "hai,",
+   "start": 23.52,
+   "end": 23.94
+  },
+  {
+   "w": "use",
+   "start": 23.96,
+   "end": 24.12
+  },
+  {
+   "w": "yeh",
+   "start": 24.14,
+   "end": 24.3
+  },
+  {
+   "w": "bhejo.",
+   "start": 24.32,
+   "end": 25.128
+  }
+ ],
+ "cues": {
+  "hook": 0.155,
+  "yes": 3.871,
+  "goal": 9.078,
+  "table": 12.232,
+  "twist": 15.8,
+  "semi": 20.922
+ },
+ "numbers": [
+  {
+   "show": "1-0",
+   "spoken": "ek zero",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "6",
+   "spoken": "chhe",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "14 NOV",
+   "spoken": "chaudah November",
+   "heard": 1.0,
+   "digit_diff": null
+  }
+ ],
+ "heard": [
+  "इंदिया",
+  "माल",
+  "दीवस",
+  "से",
+  "जीद",
+  "किया.",
+  "पर",
+  "क्या",
+  "सेमी",
+  "फाइनल",
+  "पक्का",
+  "हूँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँ",
+  "को",
+  "1",
+  "-0",
+  "से",
+  "हराया",
+  "गोल",
+  "पनेल्टी",
+  "से",
+  "आया",
+  "सोहेल",
+  "बहत",
+  "का",
+  "इस",
+  "तोनमें",
+  "पूरे",
+  "चे",
+  "पुर",
+  "के",
+  "साथ।",
+  "आक्री",
+  "मिन्तो",
+  "में",
+  "माल्दीव्स",
+  "ने",
+  "पूडा",
+  "जोर",
+  "लगा",
+  "आपर",
+  "गोल",
+  "कीपर",
+  "प्र्यांच",
+  "तूभेने",
+  "जीट",
+  "बचाली",
+  "सेमी",
+  "फाइनल",
+  "चोडा",
+  "नममर",
+  "यो",
+  "बोले",
+  "अंदिया",
+  "बाहर",
+  "है,",
+  "उसे",
+  "ये",
+  "बहीजो।"
+ ]
+}

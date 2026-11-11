@@ -1,0 +1,18 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [],
+   "one_line_verdict": "Script passes all checks: no number mismatches, compliant content, no hinglish issues, and no hook options provided."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}
