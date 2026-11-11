@@ -1,0 +1,103 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: KHEL NOW, THE AWAY END, FLICKONCLICK · 11 NOV 2026",
+ "loopTail": 0.7,
+ "save": {
+  "title": "INDIA vs MALDIVES · SAFF",
+  "lines": [
+   [
+    "RESULT",
+    "1-0 INDIA",
+    "green"
+   ],
+   [
+    "GOAL",
+    "SUHAIL BHAT (PEN)"
+   ],
+   [
+    "GROUP B",
+    "TOP, 6 POINTS",
+    "green"
+   ],
+   [
+    "SEMI FINAL",
+    "14 NOV"
+   ]
+  ],
+  "footer": "AS OF 11 NOV 2026 · FOLLOW: DOUBT CLEAR"
+ },
+ "scenes": [
+  {
+   "at": 0,
+   "tag": "INDIA vs MALDIVES · SAFF",
+   "big": "SEMI FINAL?",
+   "color": "gold",
+   "videos": [
+    "20261111-india-vs-maldives/real/match-1.jpg",
+    "20261111-india-vs-maldives/real/match-3.jpg"
+   ],
+   "focus": "50% 30%",
+   "credit": "PHOTOS VIA FLICKONCLICK · DAILY JAGRAN"
+  },
+  {
+   "at": "yes",
+   "tag": "SAFF CHAMPIONSHIP · DHAKA",
+   "big": "1-0 INDIA",
+   "color": "green",
+   "img": "20261111-india-vs-maldives/real/match-0.jpg",
+   "focus": "60% 30%",
+   "low": true,
+   "credit": "PHOTO VIA KHEL NOW"
+  },
+  {
+   "at": "goal",
+   "tag": "SUHAIL BHAT · PENALTY",
+   "big": "3RA GOAL",
+   "color": "gold",
+   "img": "20261111-india-vs-maldives/real/match-3.jpg",
+   "fit": "blur",
+   "low": true,
+   "credit": "PHOTO VIA DAILY JAGRAN"
+  },
+  {
+   "at": "table",
+   "tag": "GROUP B · TOP",
+   "big": "6 POINTS",
+   "color": "green",
+   "videos": [
+    "20261111-india-vs-maldives/real/match-1.jpg",
+    "20261111-india-vs-maldives/real/wk-0.jpg"
+   ],
+   "fit": "blur",
+   "low": true,
+   "credit": "PHOTO VIA FLICKONCLICK · AIFF LOGO VIA WIKIPEDIA"
+  },
+  {
+   "at": "twist",
+   "tag": "GOALKEEPER PRIYANSH DUBEY",
+   "big": "JEET BACHAYI",
+   "color": "white",
+   "img": "20261111-india-vs-maldives/real/wk-1.jpg",
+   "low": true,
+   "credit": "NATIONAL STADIUM, DHAKA · FILE PHOTO VIA WIKIPEDIA"
+  },
+  {
+   "at": "semi",
+   "tag": "SEMI FINAL",
+   "big": "14 NOV",
+   "color": "gold",
+   "img": "20261111-india-vs-maldives/real/match-0.jpg",
+   "focus": "70% 30%",
+   "low": true,
+   "credit": "PHOTO VIA KHEL NOW"
+  },
+  {
+   "at": "semi",
+   "tag": "INDIA vs MALDIVES · SAFF",
+   "big": "SEMI FINAL?",
+   "color": "gold",
+   "img": "20261111-india-vs-maldives/real/match-1.jpg",
+   "focus": "50% 30%"
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: ANIRUDH (INSTAGRAM), SRH (X) VIA THE FEDERAL · 11 NOV 2026",
+ "loopTail": 0.7,
+ "save": {
+  "title": "KAVYA + ANIRUDH",
+  "lines": [
+   [
+    "SHAADI",
+    "HO GAYI",
+    "green"
+   ],
+   [
+    "KAHAN",
+    "GREECE, 11 NOV"
+   ],
+   [
+    "PROOF",
+    "ANIRUDH KI POST + SRH"
+   ],
+   [
+    "JUNE 2025",
+    "'AFWAAH' BOLA THA",
+    "red"
+   ]
+  ],
+  "footer": "AS OF 11 NOV 2026 · FOLLOW: DOUBT CLEAR"
+ },
+ "scenes": [
+  {
+   "at": 0,
+   "tag": "KAVYA MARAN + ANIRUDH",
+   "big": "SHAADI SACH?",
+   "color": "gold",
+   "videos": [
+    "20261111-kavya-anirudh-wedding/real/wed-0.jpg",
+    "20261111-kavya-anirudh-wedding/real/wed-3.jpg"
+   ],
+   "focus": "50% 25%",
+   "credit": "PHOTOS: INSTAGRAM/ANIRUDH VIA THE FEDERAL · GULF NEWS"
+  },
+  {
+   "at": "yes",
+   "tag": "ANIRUDH KI INSTAGRAM POST",
+   "big": "PAKKA",
+   "color": "green",
+   "img": "20261111-kavya-anirudh-wedding/real/wed-0.jpg",
+   "focus": "35% 20%",
+   "low": true,
+   "credit": "PHOTO: INSTAGRAM/ANIRUDH VIA THE FEDERAL"
+  },
+  {
+   "at": "greece",
+   "tag": "GREECE · 11 NOV",
+   "big": "\"11.11\"",
+   "color": "gold",
+   "img": "20261111-kavya-anirudh-wedding/real/wed-0.jpg",
+   "focus": "70% 25%",
+   "low": true,
+   "credit": "PHOTO: INSTAGRAM/ANIRUDH VIA THE FEDERAL"
+  },
+  {
+   "at": "srh",
+   "tag": "SRH CEO KAVYA",
+   "big": "BADHAAI",
+   "color": "white",
+   "videos": [
+    "20261111-kavya-anirudh-wedding/real/wed-3.jpg",
+    "20261111-kavya-anirudh-wedding/real/ppl-1.jpg"
+   ],
+   "fit": "blur",
+   "focus": "20% 30%",
+   "low": true,
+   "credit": "FILE PHOTO VIA GULF NEWS · SRH LOGO VIA WIKIPEDIA"
+  },
+  {
+   "at": "twist",
+   "tag": "JUNE 2025",
+   "big": "\"AFWAAH\" BOLA THA",
+   "color": "red",
+   "img": "20261111-kavya-anirudh-wedding/real/ppl-0.jpg",
+   "focus": "50% 25%",
+   "low": true,
+   "credit": "FILE PHOTO VIA WIKIPEDIA"
+  },
+  {
+   "at": "end",
+   "big": "FAKE NEWS?",
+   "color": "gold",
+   "img": "20261111-kavya-anirudh-wedding/real/wed-0.jpg",
+   "focus": "50% 25%",
+   "low": true,
+   "credit": "PHOTO: INSTAGRAM/ANIRUDH VIA THE FEDERAL"
+  },
+  {
+   "at": "end",
+   "tag": "KAVYA MARAN + ANIRUDH",
+   "big": "SHAADI SACH?",
+   "color": "gold",
+   "img": "20261111-kavya-anirudh-wedding/real/wed-0.jpg",
+   "focus": "50% 25%"
+  }
+ ]
+}
