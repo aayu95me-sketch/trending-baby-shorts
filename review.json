@@ -1,0 +1,21 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "Unverified claim: Anirudh posted wedding photo on Instagram on 11 Nov in Greece without source.",
+    "Potentially false statement: Sunrisers Hyderabad CEO is Kavya, no source and could be defamatory."
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [],
+   "one_line_verdict": "Script is clear but contains unverified factual claims and lacks a defined hook."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}

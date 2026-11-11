@@ -1,0 +1,443 @@
+{
+ "total": 23.346,
+ "voice": "20261111-kavya-anirudh-wedding/voice.wav",
+ "lines": [
+  {
+   "start": 0.283,
+   "text": "Kavya Maran aur Anirudh ki shaadi sach mein ho gayi? Ya phir se afwaah?",
+   "end": 3.672
+  },
+  {
+   "start": 4.067,
+   "text": "Is baar pakka. Anirudh ne khud Instagram par shaadi ki photo daali. Greece mein, 11 NOV ko.",
+   "end": 10.7
+  },
+  {
+   "start": 10.7,
+   "text": "Sunrisers Hyderabad ne bhi badhaai di. Wahi IPL team jiski CEO Kavya hain.",
+   "end": 14.864
+  },
+  {
+   "start": 15.22,
+   "text": "Lekin mazedaar baat. Pichhle saal Anirudh ne isi shaadi ko afwaah bataya tha.",
+   "end": 19.088
+  },
+  {
+   "start": 19.5,
+   "text": "Jo ab bhi bole fake news hai, use yeh bhejo.",
+   "end": 21.854
+  }
+ ],
+ "words": [
+  {
+   "w": "Kavya",
+   "start": 0.283,
+   "end": 0.68
+  },
+  {
+   "w": "Maran",
+   "start": 0.7,
+   "end": 0.9
+  },
+  {
+   "w": "aur",
+   "start": 0.92,
+   "end": 1.12
+  },
+  {
+   "w": "Anirudh",
+   "start": 1.14,
+   "end": 1.42
+  },
+  {
+   "w": "ki",
+   "start": 1.44,
+   "end": 1.58
+  },
+  {
+   "w": "shaadi",
+   "start": 1.6,
+   "end": 1.81
+  },
+  {
+   "w": "sach",
+   "start": 1.83,
+   "end": 2.04
+  },
+  {
+   "w": "mein",
+   "start": 2.06,
+   "end": 2.2
+  },
+  {
+   "w": "ho",
+   "start": 2.22,
+   "end": 2.528
+  },
+  {
+   "w": "gayi?",
+   "start": 2.548,
+   "end": 2.856
+  },
+  {
+   "w": "Ya",
+   "start": 2.876,
+   "end": 3.0
+  },
+  {
+   "w": "phir",
+   "start": 3.02,
+   "end": 3.18
+  },
+  {
+   "w": "se",
+   "start": 3.2,
+   "end": 3.36
+  },
+  {
+   "w": "afwaah?",
+   "start": 3.38,
+   "end": 4.047
+  },
+  {
+   "w": "Is",
+   "start": 4.067,
+   "end": 4.24
+  },
+  {
+   "w": "baar",
+   "start": 4.26,
+   "end": 4.52
+  },
+  {
+   "w": "pakka.",
+   "start": 4.54,
+   "end": 5.225
+  },
+  {
+   "w": "Anirudh",
+   "start": 5.245,
+   "end": 5.96
+  },
+  {
+   "w": "ne",
+   "start": 5.98,
+   "end": 6.1
+  },
+  {
+   "w": "khud",
+   "start": 6.12,
+   "end": 6.38
+  },
+  {
+   "w": "Instagram",
+   "start": 6.4,
+   "end": 6.82
+  },
+  {
+   "w": "par",
+   "start": 6.84,
+   "end": 7.0
+  },
+  {
+   "w": "shaadi",
+   "start": 7.02,
+   "end": 7.22
+  },
+  {
+   "w": "ki",
+   "start": 7.24,
+   "end": 7.36
+  },
+  {
+   "w": "photo",
+   "start": 7.38,
+   "end": 7.58
+  },
+  {
+   "w": "daali.",
+   "start": 7.6,
+   "end": 8.2
+  },
+  {
+   "w": "Greece",
+   "start": 8.22,
+   "end": 8.62
+  },
+  {
+   "w": "mein,",
+   "start": 8.64,
+   "end": 9.2
+  },
+  {
+   "w": "11 NOV",
+   "start": 9.22,
+   "end": 9.82
+  },
+  {
+   "w": "ko.",
+   "start": 9.84,
+   "end": 10.64
+  },
+  {
+   "w": "Sunrisers",
+   "start": 10.7,
+   "end": 11.24
+  },
+  {
+   "w": "Hyderabad",
+   "start": 11.26,
+   "end": 11.74
+  },
+  {
+   "w": "ne",
+   "start": 11.76,
+   "end": 11.84
+  },
+  {
+   "w": "bhi",
+   "start": 11.86,
+   "end": 11.94
+  },
+  {
+   "w": "badhaai",
+   "start": 11.96,
+   "end": 12.22
+  },
+  {
+   "w": "di.",
+   "start": 12.24,
+   "end": 12.731
+  },
+  {
+   "w": "Wahi",
+   "start": 12.751,
+   "end": 12.92
+  },
+  {
+   "w": "IPL",
+   "start": 12.94,
+   "end": 13.34
+  },
+  {
+   "w": "team",
+   "start": 13.36,
+   "end": 13.8
+  },
+  {
+   "w": "jiski",
+   "start": 13.82,
+   "end": 14.04
+  },
+  {
+   "w": "CEO",
+   "start": 14.06,
+   "end": 14.4
+  },
+  {
+   "w": "Kavya",
+   "start": 14.42,
+   "end": 14.74
+  },
+  {
+   "w": "hain.",
+   "start": 14.76,
+   "end": 15.2
+  },
+  {
+   "w": "Lekin",
+   "start": 15.22,
+   "end": 15.46
+  },
+  {
+   "w": "mazedaar",
+   "start": 15.48,
+   "end": 15.82
+  },
+  {
+   "w": "baat.",
+   "start": 15.84,
+   "end": 16.44
+  },
+  {
+   "w": "Pichhle",
+   "start": 16.46,
+   "end": 16.76
+  },
+  {
+   "w": "saal",
+   "start": 16.78,
+   "end": 17.04
+  },
+  {
+   "w": "Anirudh",
+   "start": 17.06,
+   "end": 17.31
+  },
+  {
+   "w": "ne",
+   "start": 17.33,
+   "end": 17.58
+  },
+  {
+   "w": "isi",
+   "start": 17.6,
+   "end": 17.88
+  },
+  {
+   "w": "shaadi",
+   "start": 17.9,
+   "end": 18.18
+  },
+  {
+   "w": "ko",
+   "start": 18.2,
+   "end": 18.34
+  },
+  {
+   "w": "afwaah",
+   "start": 18.36,
+   "end": 18.62
+  },
+  {
+   "w": "bataya",
+   "start": 18.64,
+   "end": 18.94
+  },
+  {
+   "w": "tha.",
+   "start": 18.96,
+   "end": 19.48
+  },
+  {
+   "w": "Jo",
+   "start": 19.5,
+   "end": 19.64
+  },
+  {
+   "w": "ab",
+   "start": 19.66,
+   "end": 19.86
+  },
+  {
+   "w": "bhi",
+   "start": 19.88,
+   "end": 19.96
+  },
+  {
+   "w": "bole",
+   "start": 19.98,
+   "end": 20.26
+  },
+  {
+   "w": "fake",
+   "start": 20.28,
+   "end": 20.51
+  },
+  {
+   "w": "news",
+   "start": 20.53,
+   "end": 20.76
+  },
+  {
+   "w": "hai,",
+   "start": 20.78,
+   "end": 21.22
+  },
+  {
+   "w": "use",
+   "start": 21.24,
+   "end": 21.44
+  },
+  {
+   "w": "yeh",
+   "start": 21.46,
+   "end": 21.54
+  },
+  {
+   "w": "bhejo.",
+   "start": 21.56,
+   "end": 22.346
+  }
+ ],
+ "cues": {
+  "hook": 0.283,
+  "yes": 4.067,
+  "srh": 10.7,
+  "twist": 15.22,
+  "end": 19.5
+ },
+ "numbers": [
+  {
+   "show": "11 NOV",
+   "spoken": "gyarah November",
+   "heard": 1.0,
+   "digit_diff": null
+  }
+ ],
+ "heard": [
+  "काविया",
+  "मारेनोर",
+  "अनिरुद",
+  "की",
+  "शाथ",
+  "में",
+  "होग़ाई",
+  "या",
+  "फिर",
+  "से",
+  "अफवा,",
+  "इस",
+  "बार",
+  "पक्का",
+  "अनिरुद",
+  "ने",
+  "खुद",
+  "अन्स्टक्राम",
+  "पर",
+  "शादी",
+  "की",
+  "फुटो",
+  "डालीं",
+  "ग्रीस",
+  "में,",
+  "ग्यारा",
+  "नवंवर",
+  "को.",
+  "सन्राइज़ज",
+  "एद्राबाद",
+  "ने",
+  "भी",
+  "बदाए",
+  "दी.",
+  "वही",
+  "अईप्यल",
+  "तीम,",
+  "जिसकी",
+  "सीएो",
+  "काविया",
+  "है।",
+  "लिकिन",
+  "मजदार",
+  "बात,",
+  "पिछले",
+  "साल",
+  "आनिरुधने",
+  "इसी",
+  "शादी",
+  "को",
+  "आव्वा",
+  "बताया",
+  "था,",
+  "जो",
+  "अब",
+  "भी",
+  "बोले",
+  "फेख",
+  "न्यूज",
+  "है,",
+  "उसे",
+  "ये",
+  "बहेजो."
+ ]
+}
