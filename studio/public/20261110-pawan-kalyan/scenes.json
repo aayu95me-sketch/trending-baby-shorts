@@ -1,0 +1,101 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCE: JOINT STATEMENT 9 NOV 2026 VIA WION, INDIA.COM",
+ "loopTail": 0.7,
+ "save": {
+  "title": "PAWAN KALYAN · SACH",
+  "lines": [
+   [
+    "ALAG HONE KA STATEMENT",
+    "CONFIRMED",
+    "green"
+   ],
+   [
+    "KAISE",
+    "AAPSI SAMAJH SE"
+   ],
+   [
+    "BACHCHE",
+    "SAANJHI ZIMMEDARI"
+   ],
+   [
+    "COURT PETITION",
+    "UNCONFIRMED",
+    "red"
+   ]
+  ],
+  "footer": "AS OF 10 NOV 2026 · FOLLOW: DOUBT CLEAR"
+ },
+ "scenes": [
+  {
+   "at": 0,
+   "tag": "ANDHRA DEPUTY CM",
+   "big": "DIVORCE?",
+   "color": "red",
+   "videos": [
+    "20261110-pawan-kalyan/real/court-2.jpg",
+    "20261110-pawan-kalyan/real/court-4.jpg"
+   ],
+   "focus": "50% 25%",
+   "low": true,
+   "credit": "PHOTOS: PMO INDIA, GODL · WIKIMEDIA"
+  },
+  {
+   "at": "truth",
+   "tag": "9 NOV · JOINT STATEMENT",
+   "headline": {
+    "source": "WION",
+    "date": "10 Nov 2026",
+    "title": "Pawan Kalyan and Anna Lezhneva announce separation after 13 years of marriage"
+   },
+   "img": "20261110-pawan-kalyan/real/truth-2.jpg",
+   "focus": "50% 25%",
+   "credit": "PHOTO VIA RATOPATI"
+  },
+  {
+   "at": "kids",
+   "tag": "STATEMENT MEIN",
+   "big": "BACHCHE PEHLE",
+   "color": "green",
+   "videos": [
+    "20261110-pawan-kalyan/real/truth-1.jpg",
+    "20261110-pawan-kalyan/real/kids-0.jpg"
+   ],
+   "focus": "50% 25%",
+   "low": true,
+   "credit": "PHOTOS VIA DECCAN HERALD / SIASAT"
+  },
+  {
+   "at": "court",
+   "tag": "COURT PETITION?",
+   "img": "20261110-pawan-kalyan/real/court-3.jpg",
+   "focus": "50% 25%",
+   "credit": "PHOTO: PMO INDIA, GODL · WIKIMEDIA",
+   "headline": {
+    "source": "Doubt Clear",
+    "title": "Alag hone ka statement: CONFIRMED. Court mein divorce petition: sirf ek source ki report, UNCONFIRMED."
+   }
+  },
+  {
+   "at": "end",
+   "big": "SACH SHARE KARO",
+   "color": "gold",
+   "videos": [
+    "20261110-pawan-kalyan/real/truth-0.jpg",
+    "20261110-pawan-kalyan/real/end-0.jpg"
+   ],
+   "focus": "50% 25%",
+   "low": true,
+   "credit": "PHOTOS VIA WION / READY 2 RELEASE CC BY · WIKIMEDIA"
+  },
+  {
+   "at": "end",
+   "tag": "ANDHRA DEPUTY CM",
+   "big": "DIVORCE?",
+   "color": "red",
+   "img": "20261110-pawan-kalyan/real/court-2.jpg",
+   "focus": "50% 25%",
+   "low": true
+  }
+ ]
+}

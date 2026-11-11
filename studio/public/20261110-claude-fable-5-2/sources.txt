@@ -1,0 +1,4 @@
+https://www.macrumors.com/2026/11/09/anthropic-launches-claude-fable-5-2/
+https://infotechlead.com/artificial-intelligence/anthropic-launches-claude-fable-5-2-and-mythos-5-2-with-49-1-coding-score-89-6-vulnerability-detection-and-20-price-cut-99523
+https://www.resultsense.com/news/2026-11-10-claude-fable-mythos-5-2-launch/
+Notes: FrontierCode 2.0 (Anthropic-published): Fable 5.2 49.1%, GPT-6 Astra 42.8%, Gemini 4 Carbon 41.1%. API input/output price 20% lower than 5.1. Free-tier access not confirmed, so the reel says paid plans + API.

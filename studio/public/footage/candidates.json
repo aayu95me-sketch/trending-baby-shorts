@@ -1,0 +1,658 @@
+{
+ "smog": [
+  {
+   "url": "https://assets.mixkit.co/videos/4362/4362-1080.mp4",
+   "title": "4362-1080.mp4",
+   "tag": "pollution",
+   "lic": "Mixkit free licence",
+   "dur": "29.680000",
+   "sheet": "smog-0.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/13886/13886-720.mp4",
+   "title": "13886-720.mp4",
+   "tag": "pollution",
+   "lic": "Mixkit free licence",
+   "dur": "27.433333",
+   "sheet": "smog-1.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/14049/14049-720.mp4",
+   "title": "14049-720.mp4",
+   "tag": "pollution",
+   "lic": "Mixkit free licence",
+   "dur": "20.680000",
+   "sheet": "smog-2.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/47741/47741-720.mp4",
+   "title": "47741-720.mp4",
+   "tag": "pollution",
+   "lic": "Mixkit free licence",
+   "dur": "16.300000",
+   "sheet": "smog-3.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/45279/45279-720.mp4",
+   "title": "45279-720.mp4",
+   "tag": "pollution",
+   "lic": "Mixkit free licence",
+   "dur": "7.760000",
+   "sheet": "smog-4.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/25554/25554-360.mp4",
+   "title": "25554-360.mp4",
+   "tag": "pollution",
+   "lic": "Mixkit free licence",
+   "dur": "15.000000",
+   "sheet": "smog-5.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/25556/25556-360.mp4",
+   "title": "25556-360.mp4",
+   "tag": "pollution",
+   "lic": "Mixkit free licence",
+   "dur": "10.791667",
+   "sheet": "smog-6.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/13887/13887-360.mp4",
+   "title": "13887-360.mp4",
+   "tag": "pollution",
+   "lic": "Mixkit free licence",
+   "dur": "16.533333",
+   "sheet": "smog-7.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/25119/25119-360.mp4",
+   "title": "25119-360.mp4",
+   "tag": "pollution",
+   "lic": "Mixkit free licence",
+   "dur": "14.000000",
+   "sheet": "smog-8.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/4360/4360-360.mp4",
+   "title": "4360-360.mp4",
+   "tag": "pollution",
+   "lic": "Mixkit free licence",
+   "dur": "17.033333",
+   "sheet": "smog-9.jpg"
+  }
+ ],
+ "citynight": [
+  {
+   "url": "https://assets.mixkit.co/videos/11/11-360.mp4",
+   "title": "11-360.mp4",
+   "tag": "city-traffic",
+   "lic": "Mixkit free licence",
+   "dur": "12.512500",
+   "sheet": "citynight-0.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/13/13-360.mp4",
+   "title": "13-360.mp4",
+   "tag": "city-traffic",
+   "lic": "Mixkit free licence",
+   "dur": "20.020000",
+   "sheet": "citynight-1.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/1146/1146-360.mp4",
+   "title": "1146-360.mp4",
+   "tag": "city-traffic",
+   "lic": "Mixkit free licence",
+   "dur": "14.347667",
+   "sheet": "citynight-2.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/1151/1151-360.mp4",
+   "title": "1151-360.mp4",
+   "tag": "city-traffic",
+   "lic": "Mixkit free licence",
+   "dur": "27.110417",
+   "sheet": "citynight-3.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/42357/42357-360.mp4",
+   "title": "42357-360.mp4",
+   "tag": "city-traffic",
+   "lic": "Mixkit free licence",
+   "dur": "25.025000",
+   "sheet": "citynight-4.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/56/56-360.mp4",
+   "title": "56-360.mp4",
+   "tag": "city-traffic",
+   "lic": "Mixkit free licence",
+   "dur": "13.263250",
+   "sheet": "citynight-5.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/6754/6754-360.mp4",
+   "title": "6754-360.mp4",
+   "tag": "city-traffic",
+   "lic": "Mixkit free licence",
+   "dur": "25.433333",
+   "sheet": "citynight-6.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/34565/34565-360.mp4",
+   "title": "34565-360.mp4",
+   "tag": "city-traffic",
+   "lic": "Mixkit free licence",
+   "dur": "10.010000",
+   "sheet": "citynight-7.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/1755/1755-360.mp4",
+   "title": "1755-360.mp4",
+   "tag": "city-traffic",
+   "lic": "Mixkit free licence",
+   "dur": "20.020000",
+   "sheet": "citynight-8.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/42/42-360.mp4",
+   "title": "42-360.mp4",
+   "tag": "city-traffic",
+   "lic": "Mixkit free licence",
+   "dur": "19.936583",
+   "sheet": "citynight-9.jpg"
+  }
+ ],
+ "cinema": [
+  {
+   "url": "https://assets.mixkit.co/videos/2860/2860-1080.mp4",
+   "title": "2860-1080.mp4",
+   "tag": "cinema",
+   "lic": "Mixkit free licence",
+   "dur": "12.145467",
+   "sheet": "cinema-0.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/49326/49326-720.mp4",
+   "title": "49326-720.mp4",
+   "tag": "cinema",
+   "lic": "Mixkit free licence",
+   "dur": "18.251567",
+   "sheet": "cinema-1.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/25478/25478-720.mp4",
+   "title": "25478-720.mp4",
+   "tag": "cinema",
+   "lic": "Mixkit free licence",
+   "dur": "14.314300",
+   "sheet": "cinema-2.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/28418/28418-720.mp4",
+   "title": "28418-720.mp4",
+   "tag": "cinema",
+   "lic": "Mixkit free licence",
+   "dur": "22.022000",
+   "sheet": "cinema-3.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/28422/28422-360.mp4",
+   "title": "28422-360.mp4",
+   "tag": "cinema",
+   "lic": "Mixkit free licence",
+   "dur": "21.604917",
+   "sheet": "cinema-4.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/46353/46353-360.mp4",
+   "title": "46353-360.mp4",
+   "tag": "cinema",
+   "lic": "Mixkit free licence",
+   "dur": "18.251567",
+   "sheet": "cinema-5.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/40676/40676-360.mp4",
+   "title": "40676-360.mp4",
+   "tag": "cinema",
+   "lic": "Mixkit free licence",
+   "dur": "14.806458",
+   "sheet": "cinema-6.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/28417/28417-360.mp4",
+   "title": "28417-360.mp4",
+   "tag": "cinema",
+   "lic": "Mixkit free licence",
+   "dur": "8.216542",
+   "sheet": "cinema-7.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/33312/33312-360.mp4",
+   "title": "33312-360.mp4",
+   "tag": "cinema",
+   "lic": "Mixkit free licence",
+   "dur": "7.760000",
+   "sheet": "cinema-8.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/13241/13241-360.mp4",
+   "title": "13241-360.mp4",
+   "tag": "cinema",
+   "lic": "Mixkit free licence",
+   "dur": "19.240000",
+   "sheet": "cinema-9.jpg"
+  }
+ ],
+ "crowd": [
+  {
+   "url": "https://assets.mixkit.co/videos/4401/4401-1080.mp4",
+   "title": "4401-1080.mp4",
+   "tag": "crowd",
+   "lic": "Mixkit free licence",
+   "dur": "19.800000",
+   "sheet": "crowd-0.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/4437/4437-1080.mp4",
+   "title": "4437-1080.mp4",
+   "tag": "crowd",
+   "lic": "Mixkit free licence",
+   "dur": "37.480000",
+   "sheet": "crowd-1.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/15997/15997-720.mp4",
+   "title": "15997-720.mp4",
+   "tag": "crowd",
+   "lic": "Mixkit free licence",
+   "dur": "23.757067",
+   "sheet": "crowd-2.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/4390/4390-1080.mp4",
+   "title": "4390-1080.mp4",
+   "tag": "crowd",
+   "lic": "Mixkit free licence",
+   "dur": "5.000000",
+   "sheet": "crowd-3.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/4154/4154-1080.mp4",
+   "title": "4154-1080.mp4",
+   "tag": "crowd",
+   "lic": "Mixkit free licence",
+   "dur": "6.250000",
+   "sheet": "crowd-4.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/28616/28616-360.mp4",
+   "title": "28616-360.mp4",
+   "tag": "crowd",
+   "lic": "Mixkit free licence",
+   "dur": "6.080000",
+   "sheet": "crowd-5.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/17630/17630-360.mp4",
+   "title": "17630-360.mp4",
+   "tag": "crowd",
+   "lic": "Mixkit free licence",
+   "dur": "11.280000",
+   "sheet": "crowd-6.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/14084/14084-360.mp4",
+   "title": "14084-360.mp4",
+   "tag": "crowd",
+   "lic": "Mixkit free licence",
+   "dur": "10.200000",
+   "sheet": "crowd-7.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/13192/13192-360.mp4",
+   "title": "13192-360.mp4",
+   "tag": "crowd",
+   "lic": "Mixkit free licence",
+   "dur": "12.721042",
+   "sheet": "crowd-8.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/4185/4185-360.mp4",
+   "title": "4185-360.mp4",
+   "tag": "crowd",
+   "lic": "Mixkit free licence",
+   "dur": "5.200000",
+   "sheet": "crowd-9.jpg"
+  }
+ ],
+ "temple": [
+  {
+   "url": "https://assets.mixkit.co/videos/11072/11072-720.mp4",
+   "title": "11072-720.mp4",
+   "tag": "temple",
+   "lic": "Mixkit free licence",
+   "dur": "14.000000",
+   "sheet": "temple-0.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/4403/4403-1080.mp4",
+   "title": "4403-1080.mp4",
+   "tag": "temple",
+   "lic": "Mixkit free licence",
+   "dur": "8.233333",
+   "sheet": "temple-1.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/20076/20076-720.mp4",
+   "title": "20076-720.mp4",
+   "tag": "temple",
+   "lic": "Mixkit free licence",
+   "dur": "6.080000",
+   "sheet": "temple-2.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/22708/22708-1080.mp4",
+   "title": "22708-1080.mp4",
+   "tag": "temple",
+   "lic": "Mixkit free licence",
+   "dur": "9.926583",
+   "sheet": "temple-3.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/22711/22711-1080.mp4",
+   "title": "22711-1080.mp4",
+   "tag": "temple",
+   "lic": "Mixkit free licence",
+   "dur": "11.916667",
+   "sheet": "temple-4.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/4439/4439-360.mp4",
+   "title": "4439-360.mp4",
+   "tag": "temple",
+   "lic": "Mixkit free licence",
+   "dur": "12.833333",
+   "sheet": "temple-5.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/22712/22712-360.mp4",
+   "title": "22712-360.mp4",
+   "tag": "temple",
+   "lic": "Mixkit free licence",
+   "dur": "13.916667",
+   "sheet": "temple-6.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/22707/22707-360.mp4",
+   "title": "22707-360.mp4",
+   "tag": "temple",
+   "lic": "Mixkit free licence",
+   "dur": "8.708333",
+   "sheet": "temple-7.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/4405/4405-360.mp4",
+   "title": "4405-360.mp4",
+   "tag": "temple",
+   "lic": "Mixkit free licence",
+   "dur": "7.766667",
+   "sheet": "temple-8.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/46229/46229-360.mp4",
+   "title": "46229-360.mp4",
+   "tag": "temple",
+   "lic": "Mixkit free licence",
+   "dur": "10.033333",
+   "sheet": "temple-9.jpg"
+  }
+ ],
+ "chip": [
+  {
+   "url": "https://assets.mixkit.co/videos/47051/47051-360.mp4",
+   "title": "47051-360.mp4",
+   "tag": "circuit-board",
+   "lic": "Mixkit free licence",
+   "dur": "10.333333",
+   "sheet": "chip-0.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/29994/29994-360.mp4",
+   "title": "29994-360.mp4",
+   "tag": "circuit-board",
+   "lic": "Mixkit free licence",
+   "dur": "15.181833",
+   "sheet": "chip-1.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/2381/2381-360.mp4",
+   "title": "2381-360.mp4",
+   "tag": "circuit-board",
+   "lic": "Mixkit free licence",
+   "dur": "14.180833",
+   "sheet": "chip-2.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/47048/47048-360.mp4",
+   "title": "47048-360.mp4",
+   "tag": "circuit-board",
+   "lic": "Mixkit free licence",
+   "dur": "18.000000",
+   "sheet": "chip-3.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/47799/47799-360.mp4",
+   "title": "47799-360.mp4",
+   "tag": "circuit-board",
+   "lic": "Mixkit free licence",
+   "dur": "14.720000",
+   "sheet": "chip-4.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/46965/46965-360.mp4",
+   "title": "46965-360.mp4",
+   "tag": "circuit-board",
+   "lic": "Mixkit free licence",
+   "dur": "22.360000",
+   "sheet": "chip-5.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/14713/14713-360.mp4",
+   "title": "14713-360.mp4",
+   "tag": "circuit-board",
+   "lic": "Mixkit free licence",
+   "dur": "22.640000",
+   "sheet": "chip-6.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/47267/47267-360.mp4",
+   "title": "47267-360.mp4",
+   "tag": "circuit-board",
+   "lic": "Mixkit free licence",
+   "dur": "14.640000",
+   "sheet": "chip-7.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/46964/46964-360.mp4",
+   "title": "46964-360.mp4",
+   "tag": "circuit-board",
+   "lic": "Mixkit free licence",
+   "dur": "7.040000",
+   "sheet": "chip-8.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/46962/46962-360.mp4",
+   "title": "46962-360.mp4",
+   "tag": "circuit-board",
+   "lic": "Mixkit free licence",
+   "dur": "8.000000",
+   "sheet": "chip-9.jpg"
+  }
+ ],
+ "server": [
+  {
+   "url": "https://assets.mixkit.co/videos/23219/23219-360.mp4",
+   "title": "23219-360.mp4",
+   "tag": "data-center",
+   "lic": "Mixkit free licence",
+   "dur": "15.440000",
+   "sheet": "server-0.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/23374/23374-360.mp4",
+   "title": "23374-360.mp4",
+   "tag": "data-center",
+   "lic": "Mixkit free licence",
+   "dur": "14.880000",
+   "sheet": "server-1.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/20822/20822-360.mp4",
+   "title": "20822-360.mp4",
+   "tag": "data-center",
+   "lic": "Mixkit free licence",
+   "dur": "5.040000",
+   "sheet": "server-2.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/23282/23282-360.mp4",
+   "title": "23282-360.mp4",
+   "tag": "data-center",
+   "lic": "Mixkit free licence",
+   "dur": "14.320000",
+   "sheet": "server-3.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/23030/23030-360.mp4",
+   "title": "23030-360.mp4",
+   "tag": "data-center",
+   "lic": "Mixkit free licence",
+   "dur": "20.240000",
+   "sheet": "server-4.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/23215/23215-360.mp4",
+   "title": "23215-360.mp4",
+   "tag": "data-center",
+   "lic": "Mixkit free licence",
+   "dur": "11.920000",
+   "sheet": "server-5.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/22966/22966-360.mp4",
+   "title": "22966-360.mp4",
+   "tag": "data-center",
+   "lic": "Mixkit free licence",
+   "dur": "48.400000",
+   "sheet": "server-6.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/7887/7887-360.mp4",
+   "title": "7887-360.mp4",
+   "tag": "data-center",
+   "lic": "Mixkit free licence",
+   "dur": "11.041667",
+   "sheet": "server-7.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/7870/7870-360.mp4",
+   "title": "7870-360.mp4",
+   "tag": "data-center",
+   "lic": "Mixkit free licence",
+   "dur": "8.760000",
+   "sheet": "server-8.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/23379/23379-360.mp4",
+   "title": "23379-360.mp4",
+   "tag": "data-center",
+   "lic": "Mixkit free licence",
+   "dur": "34.000000",
+   "sheet": "server-9.jpg"
+  }
+ ],
+ "newspaper": [
+  {
+   "url": "https://assets.mixkit.co/videos/41192/41192-1080.mp4",
+   "title": "41192-1080.mp4",
+   "tag": "newspaper",
+   "lic": "Mixkit free licence",
+   "dur": "9.041667",
+   "sheet": "newspaper-0.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/34190/34190-720.mp4",
+   "title": "34190-720.mp4",
+   "tag": "newspaper",
+   "lic": "Mixkit free licence",
+   "dur": "14.040000",
+   "sheet": "newspaper-1.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/34175/34175-720.mp4",
+   "title": "34175-720.mp4",
+   "tag": "newspaper",
+   "lic": "Mixkit free licence",
+   "dur": "14.080000",
+   "sheet": "newspaper-2.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/41199/41199-1080.mp4",
+   "title": "41199-1080.mp4",
+   "tag": "newspaper",
+   "lic": "Mixkit free licence",
+   "dur": "13.875000",
+   "sheet": "newspaper-3.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/41191/41191-1080.mp4",
+   "title": "41191-1080.mp4",
+   "tag": "newspaper",
+   "lic": "Mixkit free licence",
+   "dur": "14.708333",
+   "sheet": "newspaper-4.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/41204/41204-360.mp4",
+   "title": "41204-360.mp4",
+   "tag": "newspaper",
+   "lic": "Mixkit free licence",
+   "dur": "10.083333",
+   "sheet": "newspaper-5.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/41201/41201-360.mp4",
+   "title": "41201-360.mp4",
+   "tag": "newspaper",
+   "lic": "Mixkit free licence",
+   "dur": "16.333333",
+   "sheet": "newspaper-6.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/41188/41188-360.mp4",
+   "title": "41188-360.mp4",
+   "tag": "newspaper",
+   "lic": "Mixkit free licence",
+   "dur": "17.333333",
+   "sheet": "newspaper-7.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/41210/41210-360.mp4",
+   "title": "41210-360.mp4",
+   "tag": "newspaper",
+   "lic": "Mixkit free licence",
+   "dur": "14.583333",
+   "sheet": "newspaper-8.jpg"
+  },
+  {
+   "url": "https://assets.mixkit.co/videos/41190/41190-360.mp4",
+   "title": "41190-360.mp4",
+   "tag": "newspaper",
+   "lic": "Mixkit free licence",
+   "dur": "12.958333",
+   "sheet": "newspaper-9.jpg"
+  }
+ ]
+}
