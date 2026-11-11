@@ -2,7 +2,7 @@
 Every description ends with the channel footer from the upload defaults (AI voice disclosure). "Altered content" answer: No (AI narration only).
 Related video: pick another Doubt Clear Short of the same category where one exists (cricket -> cricket, civic -> Delhi AQI).
 
-## 1. Smog, 08:00 IST
+## 1. Smog, 13:00 IST (moved from 08:00, slot passed before the OK)
 Title: Smog kohra hai ya zeher? Har November Dilli mein hi kyun 😷 #shorts
 Description:
 Smog = smoke + fog. Sardi mein hawa ka dhakkan, Diwali din 1248 jagah parali, aur London 1952 ka sabak.
