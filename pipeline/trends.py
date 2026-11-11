@@ -54,7 +54,7 @@ def main(path: str):
             terms = [t.strip() for t in (row.get("Trend breakdown") or "").split(",") if t.strip()]
             terms = list(dict.fromkeys(t for t in terms if len(t) > 3))
             doubts = [t for t in terms if DOUBT.search(t) and t.lower() != name.lower()]
-            s = slug(name)
+            s = slug(name) or f"t{len(topics) + 1}"  # non-Latin names (e.g. Devanagari) give an empty slug
             earlier = [h for h in past.get(s, []) if h["date"] != day]
             topics.append({
                 "slug": s, "dir": f"{day.replace('-', '')}-{s[:24].strip('-')}", "topic": name,
