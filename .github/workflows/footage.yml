@@ -1,0 +1,41 @@
+# Free real video footage (Wikimedia Commons, CC0/PD/CC-BY) for the Doubt Clear Shorts. No keys, no cost.
+# queries.json pushed -> candidate contact sheets; picks.json pushed -> clips cut to 1080x1920. Commits back to the same branch.
+name: Find footage
+
+on:
+  push:
+    branches: ["claude/**", "main"]
+    paths: ["studio/public/footage/queries.json", "studio/public/footage/picks.json", "studio/public/footage/mascot.json"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: footage-${{ github.ref_name }}
+
+jobs:
+  footage:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 2
+      - name: Install tools
+        run: |
+          sudo apt-get -qq update >/dev/null && sudo apt-get -qq install -y ffmpeg >/dev/null
+          true
+      - name: Find or fetch
+        run: |
+          CH=$(git diff --name-only HEAD~1 HEAD)
+          if echo "$CH" | grep -q footage/mascot.json; then python pipeline/footage.py mascot; fi
+          if echo "$CH" | grep -q footage/picks.json; then python pipeline/footage.py get; fi
+          if echo "$CH" | grep -q footage/queries.json; then python pipeline/footage.py find; fi
+      - name: Commit
+        run: |
+          git config user.name "footage-bot" && git config user.email "footage-bot@users.noreply.github.com"
+          git add studio/public/footage studio/public/mascot 2>/dev/null || git add studio/public/footage
+          if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
+          git commit -qm "Footage: $(git diff --cached --name-only | wc -l) files"
+          git pull -q --rebase origin "${{ github.ref_name }}" && git push -q origin "HEAD:${{ github.ref_name }}"

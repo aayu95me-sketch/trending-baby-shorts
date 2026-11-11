@@ -1,0 +1,93 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "OFFICIAL: NOTHING YET · LEAKS: FLICKONCLICK · PRICE GUESS: SMARTPRIX · 9 NOV 2026",
+ "loopTail": 0.7,
+ "save": {
+  "title": "GALAXY S27 STATUS",
+  "lines": [
+   [
+    "LAUNCH",
+    "ABHI NAHI",
+    "red"
+   ],
+   [
+    "BIS INDIA",
+    "LISTED",
+    "green"
+   ],
+   [
+    "EXPECTED",
+    "JAN-FEB 2027"
+   ],
+   [
+    "≈ ₹95,000",
+    "SIRF ANDAAZA"
+   ]
+  ],
+  "footer": "AS OF 9 NOV 2026 · FOLLOW: DOUBT CLEAR"
+ },
+ "scenes": [
+  {
+   "at": 0,
+   "tag": "S27 LAUNCH HUA?",
+   "big": "NAHI!",
+   "color": "red",
+   "img": "20261109-samsung-galaxy-s27/real/hook-1.jpg",
+   "credit": "PHOTO: 91MOBILES"
+  },
+  {
+   "at": "truth",
+   "tag": "SACH",
+   "big": "NA DATE, NA PRICE",
+   "color": "red",
+   "img": "20261109-samsung-galaxy-s27/real/end-3.jpg",
+   "credit": "UNPACKED: C. CRUZ CC BY · WIKIMEDIA"
+  },
+  {
+   "at": "why",
+   "tag": "BIS INDIA",
+   "headline": {
+    "source": "FlickOnClick",
+    "date": "9 Nov 2026",
+    "title": "Samsung Galaxy S27 Spotted on BIS: Specs, Pro Model, Launch"
+   },
+   "img": "20261109-samsung-galaxy-s27/real/why-2.jpg",
+   "credit": "IMAGE: ASCENDANTS"
+  },
+  {
+   "at": "leak",
+   "tag": "LEAK · EVENT JAN-FEB?",
+   "big": "S27 PRO BHI?",
+   "color": "gold",
+   "videos": [
+    "20261109-samsung-galaxy-s27/real/leak-1.jpg",
+    "20261109-samsung-galaxy-s27/real/leak-0.jpg"
+   ],
+   "fit": "blur",
+   "credit": "LEAKED RENDERS: ONLEAKS/ANDROID HEADLINES, GULF NEWS"
+  },
+  {
+   "at": "price",
+   "tag": "EK WEBSITE KA ANDAAZA",
+   "big": "≈ ₹95,000?",
+   "color": "red",
+   "img": "20261109-samsung-galaxy-s27/real/price-0.jpg",
+   "focus": "50% 40%",
+   "credit": "S25 ULTRA: A. JEAN CC BY-SA · WIKIMEDIA"
+  },
+  {
+   "at": "end",
+   "big": "S26 YA S27? COMMENT",
+   "color": "gold",
+   "img": "20261109-samsung-galaxy-s27/real/end-0.jpg",
+   "credit": "S26 ULTRA: D. CHEN CC BY-SA · WIKIMEDIA"
+  },
+  {
+   "at": "end",
+   "tag": "S27 LAUNCH HUA?",
+   "big": "NAHI!",
+   "color": "red",
+   "img": "20261109-samsung-galaxy-s27/real/hook-1.jpg"
+  }
+ ]
+}
