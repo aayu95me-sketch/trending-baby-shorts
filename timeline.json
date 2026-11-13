@@ -1,0 +1,465 @@
+{
+ "total": 22.801,
+ "voice": "20261113-outlook-outage/voice.wav",
+ "lines": [
+  {
+   "start": 0.227,
+   "text": "Outlook sirf aapka down hai, ya poori duniya ka?",
+   "end": 2.43
+  },
+  {
+   "start": 2.809,
+   "text": "Poori duniya ka. 74 DESH se shikayat aayi, India se bhi.",
+   "end": 6.328
+  },
+  {
+   "start": 6.6,
+   "text": "Microsoft ne kaha, hacking ka koi sabut nahi. Kuch servers achanak band ho gaye, baaki par load badh gaya.",
+   "end": 11.306
+  },
+  {
+   "start": 11.306,
+   "text": "Lekin pehla fix tika nahi. Servers chalu hote hi phir atak gaye.",
+   "end": 15.423
+  },
+  {
+   "start": 15.597,
+   "text": "Toh password mat badlo. Galti aapke laptop ki nahi hai.",
+   "end": 18.938
+  },
+  {
+   "start": 19.194,
+   "text": "Jo bole tumhara system kharab hai, use yeh bhejo.",
+   "end": 21.4
+  }
+ ],
+ "words": [
+  {
+   "w": "Outlook",
+   "start": 0.227,
+   "end": 0.6
+  },
+  {
+   "w": "sirf",
+   "start": 0.62,
+   "end": 0.86
+  },
+  {
+   "w": "aapka",
+   "start": 0.88,
+   "end": 1.12
+  },
+  {
+   "w": "down",
+   "start": 1.14,
+   "end": 1.44
+  },
+  {
+   "w": "hai,",
+   "start": 1.46,
+   "end": 1.52
+  },
+  {
+   "w": "ya",
+   "start": 1.54,
+   "end": 1.719
+  },
+  {
+   "w": "poori",
+   "start": 1.739,
+   "end": 1.94
+  },
+  {
+   "w": "duniya",
+   "start": 1.96,
+   "end": 2.26
+  },
+  {
+   "w": "ka?",
+   "start": 2.28,
+   "end": 2.789
+  },
+  {
+   "w": "Poori",
+   "start": 2.809,
+   "end": 3.12
+  },
+  {
+   "w": "duniya",
+   "start": 3.14,
+   "end": 3.44
+  },
+  {
+   "w": "ka.",
+   "start": 3.46,
+   "end": 3.968
+  },
+  {
+   "w": "74 DESH",
+   "start": 3.988,
+   "end": 4.68
+  },
+  {
+   "w": "se",
+   "start": 4.7,
+   "end": 4.8
+  },
+  {
+   "w": "shikayat",
+   "start": 4.82,
+   "end": 5.22
+  },
+  {
+   "w": "aayi,",
+   "start": 5.24,
+   "end": 5.64
+  },
+  {
+   "w": "India",
+   "start": 5.66,
+   "end": 6.06
+  },
+  {
+   "w": "se",
+   "start": 6.08,
+   "end": 6.18
+  },
+  {
+   "w": "bhi.",
+   "start": 6.2,
+   "end": 6.58
+  },
+  {
+   "w": "Microsoft",
+   "start": 6.6,
+   "end": 6.98
+  },
+  {
+   "w": "ne",
+   "start": 7.0,
+   "end": 7.06
+  },
+  {
+   "w": "kaha,",
+   "start": 7.08,
+   "end": 7.14
+  },
+  {
+   "w": "hacking",
+   "start": 7.16,
+   "end": 7.22
+  },
+  {
+   "w": "ka",
+   "start": 7.24,
+   "end": 7.32
+  },
+  {
+   "w": "koi",
+   "start": 7.34,
+   "end": 7.489
+  },
+  {
+   "w": "sabut",
+   "start": 7.509,
+   "end": 7.657
+  },
+  {
+   "w": "nahi.",
+   "start": 7.677,
+   "end": 7.826
+  },
+  {
+   "w": "Kuch",
+   "start": 7.846,
+   "end": 7.994
+  },
+  {
+   "w": "servers",
+   "start": 8.014,
+   "end": 8.163
+  },
+  {
+   "w": "achanak",
+   "start": 8.183,
+   "end": 8.331
+  },
+  {
+   "w": "band",
+   "start": 8.351,
+   "end": 8.5
+  },
+  {
+   "w": "ho",
+   "start": 8.52,
+   "end": 8.898
+  },
+  {
+   "w": "gaye,",
+   "start": 8.918,
+   "end": 9.296
+  },
+  {
+   "w": "baaki",
+   "start": 9.316,
+   "end": 9.694
+  },
+  {
+   "w": "par",
+   "start": 9.714,
+   "end": 10.092
+  },
+  {
+   "w": "load",
+   "start": 10.112,
+   "end": 10.49
+  },
+  {
+   "w": "badh",
+   "start": 10.51,
+   "end": 10.888
+  },
+  {
+   "w": "gaya.",
+   "start": 10.908,
+   "end": 11.286
+  },
+  {
+   "w": "Lekin",
+   "start": 11.306,
+   "end": 11.684
+  },
+  {
+   "w": "pehla",
+   "start": 11.704,
+   "end": 12.082
+  },
+  {
+   "w": "fix",
+   "start": 12.102,
+   "end": 12.48
+  },
+  {
+   "w": "tika",
+   "start": 12.5,
+   "end": 12.89
+  },
+  {
+   "w": "nahi.",
+   "start": 12.91,
+   "end": 13.3
+  },
+  {
+   "w": "Servers",
+   "start": 13.32,
+   "end": 13.71
+  },
+  {
+   "w": "chalu",
+   "start": 13.73,
+   "end": 14.12
+  },
+  {
+   "w": "hote",
+   "start": 14.14,
+   "end": 14.38
+  },
+  {
+   "w": "hi",
+   "start": 14.4,
+   "end": 14.52
+  },
+  {
+   "w": "phir",
+   "start": 14.54,
+   "end": 14.66
+  },
+  {
+   "w": "atak",
+   "start": 14.68,
+   "end": 15.119
+  },
+  {
+   "w": "gaye.",
+   "start": 15.139,
+   "end": 15.577
+  },
+  {
+   "w": "Toh",
+   "start": 15.597,
+   "end": 16.247
+  },
+  {
+   "w": "password",
+   "start": 16.267,
+   "end": 16.504
+  },
+  {
+   "w": "mat",
+   "start": 16.524,
+   "end": 16.76
+  },
+  {
+   "w": "badlo.",
+   "start": 16.78,
+   "end": 17.46
+  },
+  {
+   "w": "Galti",
+   "start": 17.48,
+   "end": 17.88
+  },
+  {
+   "w": "aapke",
+   "start": 17.9,
+   "end": 18.14
+  },
+  {
+   "w": "laptop",
+   "start": 18.16,
+   "end": 18.52
+  },
+  {
+   "w": "ki",
+   "start": 18.54,
+   "end": 18.64
+  },
+  {
+   "w": "nahi",
+   "start": 18.66,
+   "end": 19.174
+  },
+  {
+   "w": "hai.",
+   "start": 19.194,
+   "end": 19.174
+  },
+  {
+   "w": "Jo",
+   "start": 19.194,
+   "end": 19.46
+  },
+  {
+   "w": "bole",
+   "start": 19.48,
+   "end": 19.7
+  },
+  {
+   "w": "tumhara",
+   "start": 19.72,
+   "end": 20.02
+  },
+  {
+   "w": "system",
+   "start": 20.04,
+   "end": 20.28
+  },
+  {
+   "w": "kharab",
+   "start": 20.3,
+   "end": 20.58
+  },
+  {
+   "w": "hai,",
+   "start": 20.6,
+   "end": 20.7
+  },
+  {
+   "w": "use",
+   "start": 20.72,
+   "end": 20.92
+  },
+  {
+   "w": "yeh",
+   "start": 20.94,
+   "end": 21.06
+  },
+  {
+   "w": "bhejo.",
+   "start": 21.08,
+   "end": 21.801
+  }
+ ],
+ "cues": {
+  "hook": 0.227,
+  "world": 2.809,
+  "cause": 6.6,
+  "twist": 11.306,
+  "tip": 15.597,
+  "end": 19.194
+ },
+ "numbers": [
+  {
+   "show": "74 DESH",
+   "spoken": "chauhattar deshon",
+   "heard": 1.0,
+   "digit_diff": null
+  }
+ ],
+ "heard": [
+  "अुट्लुक",
+  "सेर्फ",
+  "आप",
+  "का",
+  "डावना",
+  "है",
+  "या",
+  "पुरी",
+  "दुन्या",
+  "का",
+  "पुरी",
+  "दुन्या",
+  "का",
+  "चोबतर",
+  "देशो",
+  "से",
+  "चिकाईता",
+  "है",
+  "ता",
+  "ही",
+  "से",
+  "भी",
+  "तो",
+  "तो",
+  "तो",
+  "तो",
+  "तो",
+  "तो",
+  "तो",
+  "तो",
+  "तो",
+  "तो",
+  "तो",
+  "तो",
+  "तो",
+  "तो",
+  "तो",
+  "तो",
+  "तो",
+  "तो",
+  "तो",
+  "तो",
+  "तो",
+  "तो",
+  "तो",
+  "तो",
+  "तो",
+  "पास्वर्द",
+  "मदबदलो",
+  "गलती",
+  "आपके",
+  "लैप्टोप",
+  "की",
+  "नहीं",
+  "हैं",
+  "जो",
+  "बोले",
+  "तुमारा",
+  "सिस्टम",
+  "खराब",
+  "हैं",
+  "उसे",
+  "ये",
+  "बेजों"
+ ]
+}

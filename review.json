@@ -1,0 +1,29 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)"
+  },
+  "groq": {
+   "number_mismatches": [
+    "74 DESH shown vs spoken \"chauhattar deshon\" (84)"
+   ],
+   "compliance_flags": [
+    "Claim that Outlook is down globally without source",
+    "Claim that Microsoft said no evidence of hacking without source",
+    "Statement that servers suddenly stopped and load increased without source"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "Outlook@hook (unnatural phrasing)",
+    "Poori@world (unnatural)",
+    "Microsoft@cause (unnatural)",
+    "Jo@end (unnatural)"
+   ],
+   "one_line_verdict": "Script has a numeric mismatch, several unverified claims, no hook options, and contains awkward Hinglish phrasing."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}
