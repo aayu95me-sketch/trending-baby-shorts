@@ -13,3 +13,14 @@ Photos: Tom's Guide, Open Magazine, The National, ABC News; Wikimedia Commons (P
 Tags: outlook down, outlook outage, microsoft outage today, is outlook down, outlook not working, microsoft 365 outage, teams down, outlook down in india today
 Pinned comment: Aapke office mein bhi kisi ne laptop restart karwaya? 👇
 Related video: Claude Fable 5.2 Short (tech).
+
+## 2. Navi Mumbai cleanest city, 16:30 IST
+Title: Indore ab sabse saaf shehar nahi? Navi Mumbai ka sach 🏙️ #shorts
+Description:
+Swachh Survekshan 2025-26 mein Navi Mumbai Super Swachh League mein number one (Rashtrapati Droupadi Murmu ne 11 November ko Vigyan Bhavan mein award diya). Indore haara nahi: is baar use nayi Swachh Shehar Jodi (mentor city) category mein rakha gaya, jahan Indore + Depalpur doosre number par rahe. Navi Mumbai ka tareeka: ghar ghar kachra alag alag.
+Sources: ANI, PTC News, Dainik Jagran, Free Press Journal (11-12 Nov 2026).
+Photos: Free Press Journal, Pune Pulse; Wikipedia (Rajwada, Indore); Wikimedia Commons (Bernard Gagnon CC BY-SA 3.0, Raman Patel CC BY 3.0, Merimumbai CC BY-SA 4.0).
+#navimumbai #indore #swachhsurvekshan
+Tags: navi mumbai cleanest city, navi mumbai cleanest city in india, swachh survekshan 2025-26, cleanest city in india 2026, indore cleanest city, indore depalpur, swachh shehar jodi
+Pinned comment: Indore ya Navi Mumbai, aapke hisaab se asli number one kaun? 👇
+Related video: Delhi AQI Short (civic).
