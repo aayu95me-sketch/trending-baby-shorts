@@ -33,10 +33,10 @@
    "color": "gold",
    "tag": "SABSE SAAF SHEHAR · SWACHH SURVEKSHAN",
    "videos": [
-    "20261113-navi-mumbai-cleanest/real/wk-4.jpg",
-    "20261113-navi-mumbai-cleanest/real/wk-7.jpg"
+    "20261113-navi-mumbai-cleanest/real/wk-1.jpg",
+    "20261113-navi-mumbai-cleanest/real/wk-6.jpg"
    ],
-   "credit": "THIS NOW CC BY · BERNARD GAGNON CC BY-SA · WIKIMEDIA"
+   "credit": "RAJWADA, INDORE VIA WIKIPEDIA · RAMAN PATEL CC BY · WIKIMEDIA"
   },
   {
    "at": "yes",
@@ -61,7 +61,7 @@
    "at": "mentor",
    "big": "NO. 2",
    "color": "white",
-   "tag": "INDORE + DEPALPUR KI JODI",
+   "tag": "INDORE (MENTOR) + DEPALPUR",
    "img": "20261113-navi-mumbai-cleanest/real/wk-7.jpg",
    "low": true,
    "credit": "BERNARD GAGNON CC BY-SA · WIKIMEDIA"
@@ -80,7 +80,7 @@
   },
   {
    "at": "end",
-   "big": "INDORE GANDA?",
+   "big": "INDORE HAARA?",
    "color": "gold",
    "img": "20261113-navi-mumbai-cleanest/real/news-1.jpg",
    "low": true,
@@ -91,7 +91,7 @@
    "big": "INDORE NAHI?",
    "color": "gold",
    "tag": "SABSE SAAF SHEHAR · SWACHH SURVEKSHAN",
-   "img": "20261113-navi-mumbai-cleanest/real/wk-4.jpg"
+   "img": "20261113-navi-mumbai-cleanest/real/wk-1.jpg"
   }
  ]
 }
