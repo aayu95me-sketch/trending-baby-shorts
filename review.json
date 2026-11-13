@@ -1,0 +1,24 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "Claim that a player broke India’s U19 World Cup final win",
+    "Claim that on ODI debut the player took 6 wickets for 24 runs against England",
+    "Claim that England were all out for 131 with Harry Brook and Joe Root as victims",
+    "Claim that Australia won the match in half the overs with 7 wickets",
+    "Claim that the player’s name is Mahli Beardman and he is 21 years old"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [],
+   "one_line_verdict": "No number mismatches, multiple unverified factual claims flagged, no hook options provided, and no notable Hinglish language issues."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}

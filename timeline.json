@@ -1,0 +1,497 @@
+{
+ "total": 24.577,
+ "voice": "20261114-beardman-aus-vs-eng/voice.wav",
+ "lines": [
+  {
+   "start": 0.36,
+   "text": "Yeh ladka yaad hai? U19 World Cup final mein isne India ko tod diya tha.",
+   "end": 4.26
+  },
+  {
+   "start": 4.82,
+   "text": "Aaj isne England ko tod diya. ODI debut par 6 WICKET , sirf 24 run dekar.",
+   "end": 8.63
+  },
+  {
+   "start": 8.63,
+   "text": "England 131 par all out. Harry Brook aur Joe Root dono iske shikaar.",
+   "end": 12.975
+  },
+  {
+   "start": 12.975,
+   "text": "Australia ne match aadhe overs mein hi jeet liya, saat wicket se.",
+   "end": 16.62
+  },
+  {
+   "start": 16.62,
+   "text": "Naam yaad rakhna, Mahli Beardman. Umar sirf 21 saal.",
+   "end": 20.61
+  },
+  {
+   "start": 21.09,
+   "text": "Yeh agla Mitchell Starc banega? Comment karo.",
+   "end": 23.052
+  }
+ ],
+ "words": [
+  {
+   "w": "Yeh",
+   "start": 0.36,
+   "end": 0.7
+  },
+  {
+   "w": "ladka",
+   "start": 0.72,
+   "end": 1.06
+  },
+  {
+   "w": "yaad",
+   "start": 1.08,
+   "end": 1.421
+  },
+  {
+   "w": "hai?",
+   "start": 1.441,
+   "end": 1.64
+  },
+  {
+   "w": "U19",
+   "start": 1.66,
+   "end": 2.04
+  },
+  {
+   "w": "World",
+   "start": 2.06,
+   "end": 2.28
+  },
+  {
+   "w": "Cup",
+   "start": 2.3,
+   "end": 2.48
+  },
+  {
+   "w": "final",
+   "start": 2.5,
+   "end": 2.906
+  },
+  {
+   "w": "mein",
+   "start": 2.926,
+   "end": 3.332
+  },
+  {
+   "w": "isne",
+   "start": 3.352,
+   "end": 3.757
+  },
+  {
+   "w": "India",
+   "start": 3.777,
+   "end": 4.183
+  },
+  {
+   "w": "ko",
+   "start": 4.203,
+   "end": 4.609
+  },
+  {
+   "w": "tod",
+   "start": 4.629,
+   "end": 4.673
+  },
+  {
+   "w": "diya",
+   "start": 4.693,
+   "end": 4.736
+  },
+  {
+   "w": "tha.",
+   "start": 4.756,
+   "end": 4.8
+  },
+  {
+   "w": "Aaj",
+   "start": 4.82,
+   "end": 4.991
+  },
+  {
+   "w": "isne",
+   "start": 5.011,
+   "end": 5.181
+  },
+  {
+   "w": "England",
+   "start": 5.201,
+   "end": 6.001
+  },
+  {
+   "w": "ko",
+   "start": 6.399,
+   "end": 6.399
+  },
+  {
+   "w": "tod",
+   "start": 6.419,
+   "end": 6.42
+  },
+  {
+   "w": "diya.",
+   "start": 6.44,
+   "end": 6.44
+  },
+  {
+   "w": "ODI",
+   "start": 6.46,
+   "end": 6.66
+  },
+  {
+   "w": "debut",
+   "start": 6.68,
+   "end": 6.913
+  },
+  {
+   "w": "par",
+   "start": 6.933,
+   "end": 7.167
+  },
+  {
+   "w": "6 WICKET",
+   "start": 7.187,
+   "end": 7.59
+  },
+  {
+   "w": ",",
+   "start": 7.61,
+   "end": 7.76
+  },
+  {
+   "w": "sirf",
+   "start": 7.78,
+   "end": 7.96
+  },
+  {
+   "w": "24",
+   "start": 7.98,
+   "end": 8.36
+  },
+  {
+   "w": "run",
+   "start": 8.38,
+   "end": 8.485
+  },
+  {
+   "w": "dekar.",
+   "start": 8.505,
+   "end": 8.61
+  },
+  {
+   "w": "England",
+   "start": 8.63,
+   "end": 8.735
+  },
+  {
+   "w": "131",
+   "start": 8.755,
+   "end": 9.111
+  },
+  {
+   "w": "par",
+   "start": 9.131,
+   "end": 9.236
+  },
+  {
+   "w": "all",
+   "start": 9.256,
+   "end": 9.236
+  },
+  {
+   "w": "out.",
+   "start": 9.256,
+   "end": 10.056
+  },
+  {
+   "w": "Harry",
+   "start": 11.323,
+   "end": 11.68
+  },
+  {
+   "w": "Brook",
+   "start": 11.7,
+   "end": 11.84
+  },
+  {
+   "w": "aur",
+   "start": 11.86,
+   "end": 12.0
+  },
+  {
+   "w": "Joe",
+   "start": 12.02,
+   "end": 12.24
+  },
+  {
+   "w": "Root",
+   "start": 12.26,
+   "end": 12.52
+  },
+  {
+   "w": "dono",
+   "start": 12.54,
+   "end": 12.665
+  },
+  {
+   "w": "iske",
+   "start": 12.685,
+   "end": 12.81
+  },
+  {
+   "w": "shikaar.",
+   "start": 12.83,
+   "end": 12.955
+  },
+  {
+   "w": "Australia",
+   "start": 12.975,
+   "end": 13.1
+  },
+  {
+   "w": "ne",
+   "start": 13.12,
+   "end": 13.5
+  },
+  {
+   "w": "match",
+   "start": 13.52,
+   "end": 13.9
+  },
+  {
+   "w": "aadhe",
+   "start": 13.92,
+   "end": 14.18
+  },
+  {
+   "w": "overs",
+   "start": 14.2,
+   "end": 14.33
+  },
+  {
+   "w": "mein",
+   "start": 14.35,
+   "end": 14.48
+  },
+  {
+   "w": "hi",
+   "start": 14.5,
+   "end": 14.82
+  },
+  {
+   "w": "jeet",
+   "start": 14.84,
+   "end": 15.253
+  },
+  {
+   "w": "liya,",
+   "start": 15.273,
+   "end": 15.687
+  },
+  {
+   "w": "saat",
+   "start": 15.707,
+   "end": 16.12
+  },
+  {
+   "w": "wicket",
+   "start": 16.14,
+   "end": 16.36
+  },
+  {
+   "w": "se.",
+   "start": 16.38,
+   "end": 16.6
+  },
+  {
+   "w": "Naam",
+   "start": 16.62,
+   "end": 16.84
+  },
+  {
+   "w": "yaad",
+   "start": 16.86,
+   "end": 17.08
+  },
+  {
+   "w": "rakhna,",
+   "start": 17.1,
+   "end": 17.32
+  },
+  {
+   "w": "Mahli",
+   "start": 17.34,
+   "end": 18.14
+  },
+  {
+   "w": "Beardman.",
+   "start": 18.62,
+   "end": 19.42
+  },
+  {
+   "w": "Umar",
+   "start": 19.687,
+   "end": 19.984
+  },
+  {
+   "w": "sirf",
+   "start": 20.004,
+   "end": 20.3
+  },
+  {
+   "w": "21",
+   "start": 20.32,
+   "end": 20.964
+  },
+  {
+   "w": "saal.",
+   "start": 20.984,
+   "end": 21.07
+  },
+  {
+   "w": "Yeh",
+   "start": 21.09,
+   "end": 21.175
+  },
+  {
+   "w": "agla",
+   "start": 21.195,
+   "end": 21.28
+  },
+  {
+   "w": "Mitchell",
+   "start": 21.3,
+   "end": 21.5
+  },
+  {
+   "w": "Starc",
+   "start": 21.52,
+   "end": 22.014
+  },
+  {
+   "w": "banega?",
+   "start": 22.034,
+   "end": 22.529
+  },
+  {
+   "w": "Comment",
+   "start": 22.549,
+   "end": 23.043
+  },
+  {
+   "w": "karo.",
+   "start": 23.063,
+   "end": 23.577
+  }
+ ],
+ "cues": {
+  "hook": 0.36,
+  "today": 4.82,
+  "all": 8.63,
+  "win": 12.975,
+  "name": 16.62,
+  "end": 21.09
+ },
+ "numbers": [
+  {
+   "show": "U19",
+   "spoken": "U19",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "6 WICKET",
+   "spoken": "chhe wicket",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "24",
+   "spoken": "chaubees",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "131",
+   "spoken": "ek sau ikattis",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "21",
+   "spoken": "ikkees",
+   "heard": 1.0,
+   "digit_diff": 0
+  }
+ ],
+ "heard": [
+  "This",
+  "guy",
+  "remembers",
+  "that",
+  "he",
+  "broke",
+  "-19",
+  "World",
+  "Cup",
+  "final.",
+  "Today",
+  "he",
+  "broke",
+  "England.",
+  "On",
+  "Monday",
+  "debut,",
+  "only",
+  "6",
+  "wickets",
+  "were",
+  "scored.",
+  "runs,",
+  "all",
+  "out",
+  "131.",
+  "Harry,",
+  "Brooke",
+  "and",
+  "Joe",
+  "Root",
+  "are",
+  "both",
+  "victims",
+  "of",
+  "this.",
+  "have",
+  "overlapped",
+  "half",
+  "of",
+  "match.",
+  "with",
+  "7",
+  "wickets",
+  "Remember",
+  "the",
+  "name",
+  "Mahili",
+  "Beardman",
+  "Umar",
+  "only",
+  "21",
+  "years",
+  "old",
+  "This",
+  "is",
+  "the",
+  "Mitchell",
+  "stock",
+  "Comment",
+  "down",
+  "below!"
+ ]
+}
