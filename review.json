@@ -1,0 +1,27 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "Swachh Survekshan mein Navi Mumbai number one (unsourced claim)",
+    "Indore ko alag category ‘Swachh Shehar Jodi’ mein rakha gaya (unsourced claim)",
+    "Indore ne Depalpur ke saath jodi banayi aur doosra number paaya (unsourced claim)"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "twist",
+    "mentor",
+    "how",
+    "end"
+   ],
+   "one_line_verdict": "The script contains several unsourced factual claims and uses a few Hinglish words that sound unnatural for a young Delhi audience, but has no number mismatches or hook options."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}

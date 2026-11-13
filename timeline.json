@@ -1,0 +1,438 @@
+{
+ "total": 23.112,
+ "voice": "20261113-navi-mumbai-cleanest/voice.wav",
+ "lines": [
+  {
+   "start": 0.284,
+   "text": "India ka sabse saaf shehar ab Indore nahi, Navi Mumbai?",
+   "end": 3.476
+  },
+  {
+   "start": 3.836,
+   "text": "Haan bilkul. Swachh Survekshan mein Navi Mumbai number one.",
+   "end": 7.104
+  },
+  {
+   "start": 7.505,
+   "text": "Lekin Indore haara nahi. Is baar use alag category mein rakha gaya, Swachh Shehar Jodi.",
+   "end": 12.209
+  },
+  {
+   "start": 12.34,
+   "text": "Wahan Indore ne Depalpur ke saath jodi banayi, aur doosra number paaya.",
+   "end": 15.97
+  },
+  {
+   "start": 16.146,
+   "text": "Navi Mumbai ka tareeka? Har ghar ka kachra alag alag.",
+   "end": 19.075
+  },
+  {
+   "start": 19.443,
+   "text": "Jo bole Indore ab ganda hai, use yeh bhejo.",
+   "end": 21.62
+  }
+ ],
+ "words": [
+  {
+   "w": "India",
+   "start": 0.284,
+   "end": 0.64
+  },
+  {
+   "w": "ka",
+   "start": 0.66,
+   "end": 0.78
+  },
+  {
+   "w": "sabse",
+   "start": 0.8,
+   "end": 1.2
+  },
+  {
+   "w": "saaf",
+   "start": 1.22,
+   "end": 1.48
+  },
+  {
+   "w": "shehar",
+   "start": 1.5,
+   "end": 1.78
+  },
+  {
+   "w": "ab",
+   "start": 1.8,
+   "end": 1.86
+  },
+  {
+   "w": "Indore",
+   "start": 1.88,
+   "end": 2.22
+  },
+  {
+   "w": "nahi,",
+   "start": 2.24,
+   "end": 2.814
+  },
+  {
+   "w": "Navi",
+   "start": 2.834,
+   "end": 3.1
+  },
+  {
+   "w": "Mumbai?",
+   "start": 3.12,
+   "end": 3.816
+  },
+  {
+   "w": "Haan",
+   "start": 3.836,
+   "end": 4.192
+  },
+  {
+   "w": "bilkul.",
+   "start": 4.212,
+   "end": 4.68
+  },
+  {
+   "w": "Swachh",
+   "start": 4.7,
+   "end": 5.24
+  },
+  {
+   "w": "Survekshan",
+   "start": 5.26,
+   "end": 5.78
+  },
+  {
+   "w": "mein",
+   "start": 5.8,
+   "end": 5.96
+  },
+  {
+   "w": "Navi",
+   "start": 5.98,
+   "end": 6.2
+  },
+  {
+   "w": "Mumbai",
+   "start": 6.22,
+   "end": 6.52
+  },
+  {
+   "w": "number",
+   "start": 6.54,
+   "end": 7.002
+  },
+  {
+   "w": "one.",
+   "start": 7.022,
+   "end": 7.485
+  },
+  {
+   "w": "Lekin",
+   "start": 7.505,
+   "end": 8.01
+  },
+  {
+   "w": "Indore",
+   "start": 8.03,
+   "end": 8.32
+  },
+  {
+   "w": "haara",
+   "start": 8.34,
+   "end": 8.64
+  },
+  {
+   "w": "nahi.",
+   "start": 8.66,
+   "end": 9.24
+  },
+  {
+   "w": "Is",
+   "start": 9.26,
+   "end": 9.38
+  },
+  {
+   "w": "baar",
+   "start": 9.4,
+   "end": 9.56
+  },
+  {
+   "w": "use",
+   "start": 9.58,
+   "end": 9.76
+  },
+  {
+   "w": "alag",
+   "start": 9.78,
+   "end": 10.0
+  },
+  {
+   "w": "category",
+   "start": 10.02,
+   "end": 10.36
+  },
+  {
+   "w": "mein",
+   "start": 10.38,
+   "end": 10.42
+  },
+  {
+   "w": "rakha",
+   "start": 10.44,
+   "end": 10.48
+  },
+  {
+   "w": "gaya,",
+   "start": 10.5,
+   "end": 11.129
+  },
+  {
+   "w": "Swachh",
+   "start": 11.149,
+   "end": 11.46
+  },
+  {
+   "w": "Shehar",
+   "start": 11.48,
+   "end": 11.82
+  },
+  {
+   "w": "Jodi.",
+   "start": 11.84,
+   "end": 12.32
+  },
+  {
+   "w": "Wahan",
+   "start": 12.34,
+   "end": 12.82
+  },
+  {
+   "w": "Indore",
+   "start": 12.84,
+   "end": 13.14
+  },
+  {
+   "w": "ne",
+   "start": 13.16,
+   "end": 13.26
+  },
+  {
+   "w": "Depalpur",
+   "start": 13.28,
+   "end": 13.78
+  },
+  {
+   "w": "ke",
+   "start": 13.8,
+   "end": 13.94
+  },
+  {
+   "w": "saath",
+   "start": 13.96,
+   "end": 14.04
+  },
+  {
+   "w": "jodi",
+   "start": 14.06,
+   "end": 14.32
+  },
+  {
+   "w": "banayi,",
+   "start": 14.34,
+   "end": 14.64
+  },
+  {
+   "w": "aur",
+   "start": 14.66,
+   "end": 14.96
+  },
+  {
+   "w": "doosra",
+   "start": 14.98,
+   "end": 15.4
+  },
+  {
+   "w": "number",
+   "start": 15.42,
+   "end": 15.68
+  },
+  {
+   "w": "paaya.",
+   "start": 15.7,
+   "end": 16.126
+  },
+  {
+   "w": "Navi",
+   "start": 16.146,
+   "end": 16.56
+  },
+  {
+   "w": "Mumbai",
+   "start": 16.58,
+   "end": 16.82
+  },
+  {
+   "w": "ka",
+   "start": 16.84,
+   "end": 16.96
+  },
+  {
+   "w": "tareeka?",
+   "start": 16.98,
+   "end": 17.667
+  },
+  {
+   "w": "Har",
+   "start": 17.687,
+   "end": 17.88
+  },
+  {
+   "w": "ghar",
+   "start": 17.9,
+   "end": 18.18
+  },
+  {
+   "w": "ka",
+   "start": 18.2,
+   "end": 18.32
+  },
+  {
+   "w": "kachra",
+   "start": 18.34,
+   "end": 18.62
+  },
+  {
+   "w": "alag",
+   "start": 18.64,
+   "end": 18.8
+  },
+  {
+   "w": "alag.",
+   "start": 18.82,
+   "end": 19.423
+  },
+  {
+   "w": "Jo",
+   "start": 19.443,
+   "end": 19.58
+  },
+  {
+   "w": "bole",
+   "start": 19.6,
+   "end": 19.98
+  },
+  {
+   "w": "Indore",
+   "start": 20.0,
+   "end": 20.13
+  },
+  {
+   "w": "ab",
+   "start": 20.15,
+   "end": 20.28
+  },
+  {
+   "w": "ganda",
+   "start": 20.3,
+   "end": 20.58
+  },
+  {
+   "w": "hai,",
+   "start": 20.6,
+   "end": 20.913
+  },
+  {
+   "w": "use",
+   "start": 20.933,
+   "end": 21.14
+  },
+  {
+   "w": "yeh",
+   "start": 21.16,
+   "end": 21.32
+  },
+  {
+   "w": "bhejo.",
+   "start": 21.34,
+   "end": 22.112
+  }
+ ],
+ "cues": {
+  "hook": 0.284,
+  "yes": 3.836,
+  "twist": 7.505,
+  "mentor": 12.34,
+  "how": 16.146,
+  "end": 19.443
+ },
+ "numbers": [],
+ "heard": [
+  "इन्दा",
+  "कै",
+  "सबसे",
+  "साब",
+  "शहर",
+  "अब",
+  "इन्दोर",
+  "नहीं",
+  "नवी",
+  "मुमभाई",
+  "आ,",
+  "बिलकोल",
+  "सुईच",
+  "शर्वेक्षन",
+  "में",
+  "नवी",
+  "मुमभाई",
+  "नमबर",
+  "भाई",
+  "लेकिन",
+  "इंदोर",
+  "हारा",
+  "नहीं",
+  "इस",
+  "बार",
+  "उसे",
+  "आला",
+  "कातिकरी",
+  "में",
+  "नखागया",
+  "सवच",
+  "शहर",
+  "जोडी",
+  "वाइंदोर",
+  "ने",
+  "देपालपोर",
+  "के",
+  "सा",
+  "जोडी",
+  "बनाई",
+  "और",
+  "दूस्रा",
+  "नम्बर",
+  "पाया",
+  "नवी",
+  "मुमभे",
+  "का",
+  "तरीका",
+  "हर",
+  "गर",
+  "का",
+  "कच्रा",
+  "लग",
+  "लग",
+  "जो",
+  "बोले",
+  "इन",
+  "दोर",
+  "अप",
+  "गन्दा",
+  "है",
+  "उसे",
+  "ये",
+  "बेजो"
+ ]
+}
