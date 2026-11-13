@@ -52,13 +52,10 @@
    "big": "YOUNG 125 · HENRY 6/27",
    "color": "white",
    "tag": "WILL YOUNG KI CENTURY",
-   "videos": [
-    "20261113-nz-vs-ind-4th-odi/real/news-0.jpg",
-    "20261113-nz-vs-ind-4th-odi/real/wk-6.jpg"
-   ],
    "low": true,
-   "focus": "50% 30%",
-   "credit": "PHOTO VIA NEWSX · DAVE MORTON (PUBLIC DOMAIN) · WIKIMEDIA"
+   "focus": "22% 40%",
+   "credit": "PHOTO VIA NEWSX",
+   "img": "20261113-nz-vs-ind-4th-odi/real/news-0.jpg"
   },
   {
    "at": "twist",
@@ -83,9 +80,10 @@
    "at": "end",
    "big": "SERIES GAYI?",
    "color": "gold",
-   "img": "20261113-nz-vs-ind-4th-odi/real/news-4.jpg",
+   "img": "20261113-nz-vs-ind-4th-odi/real/wk-2.jpg",
    "low": true,
-   "credit": "PHOTO VIA OUTLOOK INDIA"
+   "credit": "SHREYAS IYER · VIA WIKIPEDIA",
+   "focus": "50% 25%"
   },
   {
    "at": "end",
