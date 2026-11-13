@@ -68,7 +68,8 @@ const Shot: React.FC<{ src?: string; from: number; to: number; i: number; fit?: 
 
 const Big: React.FC<{ s: Scene; at: number }> = ({ s, at }) => {
   const f = useCurrentFrame(); const { fps } = useVideoConfig();
-  const p = spring({ frame: f - Math.round(at * fps), fps, config: { damping: 16, mass: 0.6 } });
+  // 72 h lesson (13 Nov): frame 1 must already be a full, readable hook (feed preview + loop seam), so the opening scene has no entry animation.
+  const p = at <= 0 ? 1 : spring({ frame: f - Math.round(at * fps), fps, config: { damping: 16, mass: 0.6 } });
   const c = COLORS[s.color ?? "gold"] ?? GOLD;
   const big = s.big ?? "";
   const size = big.length <= 6 ? 230 : big.length <= 10 ? 180 : 140;
