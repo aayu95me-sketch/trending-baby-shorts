@@ -26,19 +26,17 @@
    "big": "ENGLAND 131 ALL OUT",
    "color": "red",
    "tag": "BROOK 1 · ROOT 17 · DONO BEARDMAN KE SHIKAAR",
-   "videos": [
-    "20261114-beardman-aus-vs-eng/real/wk-0.jpg",
-    "20261114-beardman-aus-vs-eng/real/wk-1.jpg"
-   ],
-   "credit": "PERTH STADIUM · JOE ROOT · VIA WIKIPEDIA"
+   "credit": "PERTH STADIUM · VIA WIKIPEDIA",
+   "img": "20261114-beardman-aus-vs-eng/real/wk-0.jpg"
   },
   {
    "at": "win",
    "big": "7 WICKET SE JEET",
    "color": "white",
    "tag": "23.3 OVER MEIN · MARSH 50 (30 BALL)",
-   "img": "20261114-beardman-aus-vs-eng/real/wk-4.jpg",
-   "credit": "PERTH STADIUM · CALISTEMON CC BY-SA · WIKIMEDIA"
+   "img": "20261114-beardman-aus-vs-eng/real/news-1.jpg",
+   "credit": "PHOTO VIA CODE SPORTS",
+   "focus": "50% 30%"
   },
   {
    "at": "name",

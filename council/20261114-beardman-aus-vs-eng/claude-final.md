@@ -1,0 +1,4 @@
+# Claude (leader), final
+Applied (backed by both): Test-whites photos removed (Joe Root in county whites, Australia at the Perth Test); "ENGLAND 131 ALL OUT" now on Perth Stadium, "7 WICKET SE JEET" on Beardman celebrating. Frame 1 already pins "U19 WORLD CUP FINAL 2024 · INDIA KE KHILAAF 3/15" with no fade-in. Kept "Yeh agla Mitchell Starc banega?" (Gemini backs it; debate trigger).
+Rejected: gpt-oss "Beardman likely fictional" (false: Wikipedia, Wisden, ANI all confirm), yt-dlp broadcast clips (copyright-strike risk on a fact channel), voice speed-up/SSML and crowd SFX (Ayush: same voice), "India ke liye khatra?" (Gemini prefers Starc line), longer loop tail (72 h data: drop in the last 10-20%).
+Final scores: Script 8, Voice 7, Visuals 7, Whole reel 7.5. Scenes-only re-render in the cloud container. Post 14 Nov 12:00 IST.

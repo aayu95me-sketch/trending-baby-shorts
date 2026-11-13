@@ -16,7 +16,7 @@
    "at": "no",
    "big": "NAHI · SABSE KAM 54",
    "color": "green",
-   "tag": "SL vs IND · SHARJAH · 29 OCT 2000",
+   "tag": "IND 54 ALL OUT vs SL · SHARJAH 2000",
    "img": "20261114-india-89-record/real/wk-2.jpg",
    "credit": "SHARJAH CRICKET STADIUM · SANOBER AHMED CC BY-SA · WIKIMEDIA"
   },
@@ -31,7 +31,7 @@
   },
   {
    "at": "biggest",
-   "tag": "INDIA KI SABSE BADI ODI HAAR",
+   "tag": "SABSE BADI ODI HAAR · 245 vs 244",
    "bars": [
     [
      "SL 2000",
@@ -55,16 +55,16 @@
    "big": "SIRF 1 RUN",
    "color": "gold",
    "tag": "245 vs 244 · RECORD BAAL BAAL BACHA",
-   "img": "20261114-india-89-record/real/news-0.jpg",
-   "focus": "30% 40%",
-   "credit": "PHOTO VIA BUSINESS STANDARD"
+   "img": "20261114-india-89-record/real/wk-0.jpg",
+   "credit": "SHARJAH CRICKET STADIUM · VIA WIKIPEDIA"
   },
   {
    "at": "end",
    "big": "SHARJAH 2000 YAAD HAI?",
    "color": "gold",
-   "img": "20261114-india-89-record/real/wk-0.jpg",
-   "credit": "SHARJAH CRICKET STADIUM · VIA WIKIPEDIA"
+   "img": "20261114-india-89-record/real/news-3.jpg",
+   "credit": "PHOTO VIA SUNDAY GUARDIAN",
+   "focus": "45% 40%"
   },
   {
    "at": "end",
