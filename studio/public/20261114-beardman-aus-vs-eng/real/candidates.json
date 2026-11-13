@@ -1,0 +1,41 @@
+{
+ "news-0.jpg": {
+  "page": "https://www.wisden.com/series/australia-in-england-2024/cricket-news/u-19-world-cup-final-hero-mahli-beardman-called-up-to-australia-squad-for-england-odis",
+  "lic": "news photo (copyright of the publisher; used as news clip, Ayush's risk)",
+  "url": "https://www.wisden.com/static-assets/waf-images/15/f2/58/16-9/2N6GUeQ4RZ.png"
+ },
+ "news-1.jpg": {
+  "page": "https://www.codesports.com.au/cricket/australian-teams/bold-or-ridiculous-the-australian-oneday-selection-call-that-has-set-tongues-wagging/news-story/bf5b92449ab06ff31066f8e6135f415d",
+  "lic": "news photo (copyright of the publisher; used as news clip, Ayush's risk)",
+  "url": "https://content.api.news/v3/images/bin/2f2b783268f5a6f7ab36370926cad293"
+ },
+ "wk-0.jpg": {
+  "page": "https://en.wikipedia.org/wiki/Perth_Stadium",
+  "lic": "news photo (copyright of the publisher; used as news clip, Ayush's risk)",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/WBBL_07_Final_%2801%29.jpg/1280px-WBBL_07_Final_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+ },
+ "wk-1.jpg": {
+  "page": "https://en.wikipedia.org/wiki/Joe_Root",
+  "lic": "news photo (copyright of the publisher; used as news clip, Ayush's risk)",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/2_05_Root_hundred.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+ },
+ "wk-2.jpg": {
+  "page": "https://en.wikipedia.org/wiki/Mitchell_Starc",
+  "lic": "news photo (copyright of the publisher; used as news clip, Ayush's risk)",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/RSA_vs_AUS_Day_1_-_Mitchel_Starch_-2.jpg/960px-RSA_vs_AUS_Day_1_-_Mitchel_Starch_-2.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+ },
+ "wk-3.jpg": {
+  "page": "https://commons.wikimedia.org/wiki/File:Wicket_of_Jermaine_Blackwood_batting_at_Perth_Stadium,_First_Test_Australia_versus_West_Indies,_2_December_2022.jpg",
+  "title": "File:Wicket of Jermaine Blackwood batting at Perth Stadium, First Test Australia versus West Indies, 2 December 2022.jpg",
+  "lic": "CC BY-SA 4.0",
+  "author": "Calistemon",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Wicket_of_Jermaine_Blackwood_batting_at_Perth_Stadium%2C_First_Test_Australia_versus_West_Indies%2C_2_December_2022.jpg/1920px-Wicket_of_Jermaine_Blackwood_batting_at_Perth_Stadium%2C_First_Test_Australia_versus_West_Indies%2C_2_December_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
+ "wk-4.jpg": {
+  "page": "https://commons.wikimedia.org/wiki/File:Australian_cricket_team_at_drinks_break_at_Perth_Stadium,_First_Test_Australia_versus_West_Indies,_2_December_2022_02.jpg",
+  "title": "File:Australian cricket team at drinks break at Perth Stadium, First Test Australia versus West Indies, 2 December 2022 02.jpg",
+  "lic": "CC BY-SA 4.0",
+  "author": "Calistemon",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Australian_cricket_team_at_drinks_break_at_Perth_Stadium%2C_First_Test_Australia_versus_West_Indies%2C_2_December_2022_02.jpg/1920px-Australian_cricket_team_at_drinks_break_at_Perth_Stadium%2C_First_Test_Australia_versus_West_Indies%2C_2_December_2022_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ }
+}
