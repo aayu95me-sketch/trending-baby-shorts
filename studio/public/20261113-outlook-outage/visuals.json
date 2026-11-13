@@ -1,0 +1,11 @@
+{
+ "news": [{"og": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users"},
+          {"og": "https://openthemagazine.com/business/microsoft-outlook-outage-hits-10-hours-why-didnt-the-fix-hold"},
+          {"og": "https://www.thenationalnews.com/future/technology/2026/11/13/microsoft-outlook-outage-update/"},
+          {"og": "https://www.tomsguide.com/news/live/microsoft-outlook-down-live-updates-outage-11-12-26"},
+          {"og": "https://abcnews.com/US/outlook-down-microsoft-outage-reported-mail/story?id=138088203"},
+          {"og": "https://businessupturn.com/technology/microsoft-outlook-is-back-for-some-users-after-major-global-outage/"}],
+ "wk":   [{"og": "https://en.wikipedia.org/wiki/Microsoft_Outlook"}, {"og": "https://en.wikipedia.org/wiki/Microsoft"},
+          {"wiki": "Microsoft headquarters Redmond", "n": 3}, {"wiki": "data center server racks", "n": 3},
+          {"wiki": "office worker laptop email", "n": 2}]
+}
