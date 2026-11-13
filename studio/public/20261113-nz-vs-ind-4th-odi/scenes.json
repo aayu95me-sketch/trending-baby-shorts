@@ -1,0 +1,96 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: CRICTRACKER, ESPNCRICINFO, CRICKETNEWS · 13 NOV 2026",
+ "loopTail": 0.7,
+ "save": {
+  "title": "NZ vs IND · 4TH ODI",
+  "lines": [
+   [
+    "RESULT",
+    "NZ 244 RUN SE JEETA",
+    "red"
+   ],
+   [
+    "SCORE",
+    "NZ 333 · IND 89"
+   ],
+   [
+    "SERIES",
+    "INDIA 2-1 AAGE",
+    "green"
+   ],
+   [
+    "5TH ODI",
+    "SUNDAY 15 NOV"
+   ]
+  ],
+  "footer": "AS OF 13 NOV 2026 · FOLLOW: DOUBT CLEAR"
+ },
+ "scenes": [
+  {
+   "at": 0,
+   "big": "SERIES GAYI?",
+   "color": "gold",
+   "tag": "INDIA 89 ALL OUT · 4TH ODI",
+   "videos": [
+    "20261113-nz-vs-ind-4th-odi/real/news-5.jpg",
+    "20261113-nz-vs-ind-4th-odi/real/wk-1.jpg"
+   ],
+   "credit": "PHOTO VIA YAHOO SPORTS (AP) · BAY OVAL VIA WIKIPEDIA"
+  },
+  {
+   "at": "no",
+   "big": "NAHI",
+   "color": "green",
+   "tag": "244 RUN SE HAAR · BAY OVAL",
+   "img": "20261113-nz-vs-ind-4th-odi/real/wk-1.jpg",
+   "low": true,
+   "credit": "BAY OVAL · VIA WIKIPEDIA"
+  },
+  {
+   "at": "young",
+   "big": "YOUNG 125 · HENRY 6/27",
+   "color": "white",
+   "tag": "WILL YOUNG KI CENTURY",
+   "low": true,
+   "focus": "22% 40%",
+   "credit": "PHOTO VIA NEWSX",
+   "img": "20261113-nz-vs-ind-4th-odi/real/news-0.jpg"
+  },
+  {
+   "at": "twist",
+   "big": "2-1 SE AAGE",
+   "color": "green",
+   "tag": "INDIA SERIES HAAR NAHI SAKTA",
+   "img": "20261113-nz-vs-ind-4th-odi/real/wk-2.jpg",
+   "low": true,
+   "focus": "50% 25%",
+   "credit": "SHREYAS IYER · VIA WIKIPEDIA"
+  },
+  {
+   "at": "sunday",
+   "big": "MAX 2-2",
+   "color": "white",
+   "tag": "5TH ODI · SUNDAY 15 NOV · 7:30 AM IST",
+   "img": "20261113-nz-vs-ind-4th-odi/real/wk-3.jpg",
+   "low": true,
+   "credit": "BRADLEY-JOHN WATLING CC BY-SA · WIKIMEDIA"
+  },
+  {
+   "at": "end",
+   "big": "SERIES GAYI?",
+   "color": "gold",
+   "img": "20261113-nz-vs-ind-4th-odi/real/wk-2.jpg",
+   "low": true,
+   "credit": "SHREYAS IYER · VIA WIKIPEDIA",
+   "focus": "50% 25%"
+  },
+  {
+   "at": "end",
+   "big": "SERIES GAYI?",
+   "color": "gold",
+   "tag": "INDIA 89 ALL OUT · 4TH ODI",
+   "img": "20261113-nz-vs-ind-4th-odi/real/news-5.jpg"
+  }
+ ]
+}

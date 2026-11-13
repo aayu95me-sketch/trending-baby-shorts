@@ -1,0 +1,78 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: BUSINESS STANDARD, THESPORTS247 · 13 NOV 2026",
+ "loopTail": 0.5,
+ "scenes": [
+  {
+   "at": 0,
+   "big": "SABSE KAM SCORE?",
+   "color": "gold",
+   "tag": "INDIA 89 ALL OUT · 4TH ODI",
+   "img": "20261114-india-89-record/real/news-3.jpg",
+   "focus": "45% 40%",
+   "credit": "PHOTO VIA SUNDAY GUARDIAN"
+  },
+  {
+   "at": "no",
+   "big": "NAHI · SABSE KAM 54",
+   "color": "green",
+   "tag": "IND 54 ALL OUT vs SL · SHARJAH 2000",
+   "img": "20261114-india-89-record/real/wk-2.jpg",
+   "credit": "SHARJAH CRICKET STADIUM · SANOBER AHMED CC BY-SA · WIKIMEDIA"
+  },
+  {
+   "at": "twist",
+   "big": "244 RUN SE HAAR",
+   "color": "red",
+   "tag": "89 = INDIA KA 6TH LOWEST ODI SCORE",
+   "img": "20261114-india-89-record/real/news-2.jpg",
+   "focus": "40% 40%",
+   "credit": "PHOTO VIA MYKHEL"
+  },
+  {
+   "at": "biggest",
+   "tag": "SABSE BADI ODI HAAR · 245 vs 244",
+   "bars": [
+    [
+     "SL 2000",
+     245
+    ],
+    [
+     "NZ 2026",
+     244
+    ],
+    [
+     "SA 2015",
+     214
+    ]
+   ],
+   "barUnit": " RUN",
+   "img": "20261114-india-89-record/real/wk-0.jpg",
+   "credit": "SOURCE: BUSINESS STANDARD"
+  },
+  {
+   "at": "one",
+   "big": "SIRF 1 RUN",
+   "color": "gold",
+   "tag": "245 vs 244 · RECORD BAAL BAAL BACHA",
+   "img": "20261114-india-89-record/real/wk-0.jpg",
+   "credit": "SHARJAH CRICKET STADIUM · VIA WIKIPEDIA"
+  },
+  {
+   "at": "end",
+   "big": "SHARJAH 2000 YAAD HAI?",
+   "color": "gold",
+   "img": "20261114-india-89-record/real/news-3.jpg",
+   "credit": "PHOTO VIA SUNDAY GUARDIAN",
+   "focus": "45% 40%"
+  },
+  {
+   "at": "end",
+   "big": "SABSE KAM SCORE?",
+   "color": "gold",
+   "tag": "INDIA 89 ALL OUT · 4TH ODI",
+   "img": "20261114-india-89-record/real/news-3.jpg",
+   "focus": "45% 40%"
+  }
+ ]
+}

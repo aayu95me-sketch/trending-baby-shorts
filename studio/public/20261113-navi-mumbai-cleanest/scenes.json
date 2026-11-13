@@ -1,0 +1,97 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: ANI, FREE PRESS JOURNAL, PTC NEWS, DAINIK JAGRAN · 11-12 NOV 2026",
+ "loopTail": 0.7,
+ "save": {
+  "title": "SABSE SAAF SHEHAR",
+  "lines": [
+   [
+    "NO. 1",
+    "NAVI MUMBAI",
+    "green"
+   ],
+   [
+    "INDORE",
+    "ALAG CATEGORY"
+   ],
+   [
+    "JODI CATEGORY",
+    "INDORE + DEPALPUR NO. 2"
+   ],
+   [
+    "HAARA?",
+    "NAHI",
+    "green"
+   ]
+  ],
+  "footer": "SWACHH SURVEKSHAN 2025-26 · FOLLOW: DOUBT CLEAR"
+ },
+ "scenes": [
+  {
+   "at": 0,
+   "big": "INDORE NAHI?",
+   "color": "gold",
+   "tag": "SABSE SAAF SHEHAR · SWACHH SURVEKSHAN",
+   "videos": [
+    "20261113-navi-mumbai-cleanest/real/wk-1.jpg",
+    "20261113-navi-mumbai-cleanest/real/wk-6.jpg"
+   ],
+   "credit": "RAJWADA, INDORE VIA WIKIPEDIA · RAMAN PATEL CC BY · WIKIMEDIA"
+  },
+  {
+   "at": "yes",
+   "big": "NO. 1",
+   "color": "green",
+   "tag": "NAVI MUMBAI · SUPER SWACHH LEAGUE",
+   "img": "20261113-navi-mumbai-cleanest/real/news-0.jpg",
+   "low": true,
+   "focus": "40% 30%",
+   "credit": "PHOTO VIA FREE PRESS JOURNAL"
+  },
+  {
+   "at": "twist",
+   "big": "INDORE HAARA NAHI",
+   "color": "green",
+   "tag": "ALAG CATEGORY: SWACHH SHEHAR JODI",
+   "img": "20261113-navi-mumbai-cleanest/real/wk-1.jpg",
+   "low": true,
+   "credit": "RAJWADA, INDORE · VIA WIKIPEDIA"
+  },
+  {
+   "at": "mentor",
+   "big": "NO. 2",
+   "color": "white",
+   "tag": "INDORE (MENTOR) + DEPALPUR",
+   "img": "20261113-navi-mumbai-cleanest/real/wk-7.jpg",
+   "low": true,
+   "credit": "BERNARD GAGNON CC BY-SA · WIKIMEDIA"
+  },
+  {
+   "at": "how",
+   "big": "KACHRA ALAG-ALAG",
+   "color": "white",
+   "tag": "NAVI MUMBAI KA TAREEKA",
+   "videos": [
+    "20261113-navi-mumbai-cleanest/real/wk-6.jpg",
+    "20261113-navi-mumbai-cleanest/real/wk-5.jpg"
+   ],
+   "low": true,
+   "credit": "RAMAN PATEL CC BY · MERIMUMBAI CC BY-SA · WIKIMEDIA"
+  },
+  {
+   "at": "end",
+   "big": "INDORE HAARA?",
+   "color": "gold",
+   "img": "20261113-navi-mumbai-cleanest/real/news-1.jpg",
+   "low": true,
+   "credit": "PHOTO VIA PUNE PULSE"
+  },
+  {
+   "at": "end",
+   "big": "INDORE NAHI?",
+   "color": "gold",
+   "tag": "SABSE SAAF SHEHAR · SWACHH SURVEKSHAN",
+   "img": "20261113-navi-mumbai-cleanest/real/wk-1.jpg"
+  }
+ ]
+}
