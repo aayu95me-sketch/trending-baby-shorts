@@ -1,0 +1,492 @@
+{
+ "total": 23.311,
+ "voice": "20261113-nz-vs-ind-4th-odi/voice.wav",
+ "lines": [
+  {
+   "start": 0.279,
+   "text": "India 89 par all out. Toh kya series haath se gayi?",
+   "end": 3.066
+  },
+  {
+   "start": 3.56,
+   "text": "Nahi bilkul nahi. Haar badi hai, 244 RUN se. Par series abhi bhi India ki taraf.",
+   "end": 9.12
+  },
+  {
+   "start": 9.12,
+   "text": "Will Young ki century, aur Matt Henry ke 6 WICKET ne India ko tod diya.",
+   "end": 13.56
+  },
+  {
+   "start": 13.56,
+   "text": "Lekin India yeh series haar hi nahi sakta. 2-1 se aage hai.",
+   "end": 16.556
+  },
+  {
+   "start": 16.88,
+   "text": "Sunday ko New Zealand jeeta, toh bhi series sirf barabar hogi.",
+   "end": 19.608
+  },
+  {
+   "start": 19.98,
+   "text": "Jo bole series gayi, use yeh bhejo.",
+   "end": 21.905
+  }
+ ],
+ "words": [
+  {
+   "w": "India",
+   "start": 0.279,
+   "end": 0.62
+  },
+  {
+   "w": "89",
+   "start": 0.64,
+   "end": 1.08
+  },
+  {
+   "w": "par",
+   "start": 1.1,
+   "end": 1.26
+  },
+  {
+   "w": "all",
+   "start": 1.28,
+   "end": 1.567
+  },
+  {
+   "w": "out.",
+   "start": 1.587,
+   "end": 1.873
+  },
+  {
+   "w": "Toh",
+   "start": 1.893,
+   "end": 2.0
+  },
+  {
+   "w": "kya",
+   "start": 2.02,
+   "end": 2.14
+  },
+  {
+   "w": "series",
+   "start": 2.16,
+   "end": 2.44
+  },
+  {
+   "w": "haath",
+   "start": 2.46,
+   "end": 2.62
+  },
+  {
+   "w": "se",
+   "start": 2.64,
+   "end": 2.74
+  },
+  {
+   "w": "gayi?",
+   "start": 2.76,
+   "end": 3.54
+  },
+  {
+   "w": "Nahi",
+   "start": 3.56,
+   "end": 4.16
+  },
+  {
+   "w": "bilkul",
+   "start": 4.18,
+   "end": 4.5
+  },
+  {
+   "w": "nahi.",
+   "start": 4.52,
+   "end": 5.06
+  },
+  {
+   "w": "Haar",
+   "start": 5.08,
+   "end": 5.34
+  },
+  {
+   "w": "badi",
+   "start": 5.36,
+   "end": 5.46
+  },
+  {
+   "w": "hai,",
+   "start": 5.48,
+   "end": 5.58
+  },
+  {
+   "w": "244 RUN",
+   "start": 5.6,
+   "end": 6.4
+  },
+  {
+   "w": "se.",
+   "start": 6.84,
+   "end": 7.16
+  },
+  {
+   "w": "Par",
+   "start": 7.18,
+   "end": 7.4
+  },
+  {
+   "w": "series",
+   "start": 7.42,
+   "end": 7.88
+  },
+  {
+   "w": "abhi",
+   "start": 7.9,
+   "end": 8.1
+  },
+  {
+   "w": "bhi",
+   "start": 8.12,
+   "end": 8.32
+  },
+  {
+   "w": "India",
+   "start": 8.34,
+   "end": 8.72
+  },
+  {
+   "w": "ki",
+   "start": 8.74,
+   "end": 8.88
+  },
+  {
+   "w": "taraf.",
+   "start": 8.9,
+   "end": 9.1
+  },
+  {
+   "w": "Will",
+   "start": 9.12,
+   "end": 9.43
+  },
+  {
+   "w": "Young",
+   "start": 9.45,
+   "end": 9.76
+  },
+  {
+   "w": "ki",
+   "start": 9.78,
+   "end": 10.17
+  },
+  {
+   "w": "century,",
+   "start": 10.19,
+   "end": 10.58
+  },
+  {
+   "w": "aur",
+   "start": 10.6,
+   "end": 10.98
+  },
+  {
+   "w": "Matt",
+   "start": 11.0,
+   "end": 11.28
+  },
+  {
+   "w": "Henry",
+   "start": 11.3,
+   "end": 11.58
+  },
+  {
+   "w": "ke",
+   "start": 11.6,
+   "end": 11.65
+  },
+  {
+   "w": "6 WICKET",
+   "start": 11.67,
+   "end": 12.18
+  },
+  {
+   "w": "ne",
+   "start": 12.2,
+   "end": 12.3
+  },
+  {
+   "w": "India",
+   "start": 12.32,
+   "end": 12.56
+  },
+  {
+   "w": "ko",
+   "start": 12.58,
+   "end": 12.761
+  },
+  {
+   "w": "tod",
+   "start": 12.781,
+   "end": 12.96
+  },
+  {
+   "w": "diya.",
+   "start": 12.98,
+   "end": 13.54
+  },
+  {
+   "w": "Lekin",
+   "start": 13.56,
+   "end": 13.88
+  },
+  {
+   "w": "India",
+   "start": 13.9,
+   "end": 14.36
+  },
+  {
+   "w": "yeh",
+   "start": 14.38,
+   "end": 14.46
+  },
+  {
+   "w": "series",
+   "start": 14.48,
+   "end": 14.84
+  },
+  {
+   "w": "haar",
+   "start": 14.86,
+   "end": 15.0
+  },
+  {
+   "w": "hi",
+   "start": 15.02,
+   "end": 15.16
+  },
+  {
+   "w": "nahi",
+   "start": 15.18,
+   "end": 15.28
+  },
+  {
+   "w": "sakta.",
+   "start": 15.3,
+   "end": 15.76
+  },
+  {
+   "w": "2-1",
+   "start": 15.78,
+   "end": 16.1
+  },
+  {
+   "w": "se",
+   "start": 16.12,
+   "end": 16.22
+  },
+  {
+   "w": "aage",
+   "start": 16.24,
+   "end": 16.44
+  },
+  {
+   "w": "hai.",
+   "start": 16.46,
+   "end": 16.86
+  },
+  {
+   "w": "Sunday",
+   "start": 16.88,
+   "end": 17.28
+  },
+  {
+   "w": "ko",
+   "start": 17.3,
+   "end": 17.34
+  },
+  {
+   "w": "New",
+   "start": 17.36,
+   "end": 17.4
+  },
+  {
+   "w": "Zealand",
+   "start": 17.42,
+   "end": 17.74
+  },
+  {
+   "w": "jeeta,",
+   "start": 17.76,
+   "end": 18.297
+  },
+  {
+   "w": "toh",
+   "start": 18.317,
+   "end": 18.38
+  },
+  {
+   "w": "bhi",
+   "start": 18.4,
+   "end": 18.5
+  },
+  {
+   "w": "series",
+   "start": 18.52,
+   "end": 18.84
+  },
+  {
+   "w": "sirf",
+   "start": 18.86,
+   "end": 19.02
+  },
+  {
+   "w": "barabar",
+   "start": 19.04,
+   "end": 19.34
+  },
+  {
+   "w": "hogi.",
+   "start": 19.36,
+   "end": 19.96
+  },
+  {
+   "w": "Jo",
+   "start": 19.98,
+   "end": 20.16
+  },
+  {
+   "w": "bole",
+   "start": 20.18,
+   "end": 20.4
+  },
+  {
+   "w": "series",
+   "start": 20.42,
+   "end": 20.84
+  },
+  {
+   "w": "gayi,",
+   "start": 20.86,
+   "end": 21.2
+  },
+  {
+   "w": "use",
+   "start": 21.22,
+   "end": 21.38
+  },
+  {
+   "w": "yeh",
+   "start": 21.4,
+   "end": 21.56
+  },
+  {
+   "w": "bhejo.",
+   "start": 21.58,
+   "end": 22.311
+  }
+ ],
+ "cues": {
+  "hook": 0.279,
+  "no": 3.56,
+  "young": 9.12,
+  "twist": 13.56,
+  "sunday": 16.88,
+  "end": 19.98
+ },
+ "numbers": [
+  {
+   "show": "89",
+   "spoken": "nawasi",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "244 RUN",
+   "spoken": "do sau chawalis run",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "6 WICKET",
+   "spoken": "chhe wicket",
+   "heard": 0.5,
+   "digit_diff": null
+  },
+  {
+   "show": "2-1",
+   "spoken": "do ek",
+   "heard": 1.0,
+   "digit_diff": null
+  }
+ ],
+ "heard": [
+  "इन्दिया",
+  "नवासी",
+  "पर",
+  "अल",
+  "अड,",
+  "तो",
+  "क्या",
+  "सीरीस",
+  "हाच",
+  "से",
+  "गज़ाई?",
+  "नहीं,",
+  "बिल्कुल",
+  "नहीं,",
+  "हार",
+  "बडी",
+  "ए,",
+  "दोसो",
+  "चवाले",
+  "स्रन्ज",
+  "से,",
+  "पर",
+  "सीरीस",
+  "आज...",
+  "अदिया",
+  "की",
+  "तरफ",
+  "विल",
+  "यंकी",
+  "सेंचूरी",
+  "और",
+  "मैट्हेंची",
+  "के",
+  "चैविक्ट",
+  "ने",
+  "अदिया",
+  "को",
+  "तोड",
+  "दिया",
+  "लेकिन",
+  "अदिया",
+  "यह",
+  "सीरीस",
+  "हारी",
+  "नी",
+  "सकता,",
+  "दो",
+  "एक",
+  "से",
+  "आगे",
+  "है.",
+  "सन्टे",
+  "को",
+  "नुजिलन",
+  "जीता,",
+  "तो",
+  "भी",
+  "सीरीस",
+  "सिर्व",
+  "बराबर",
+  "होगी.",
+  "जो",
+  "बोले",
+  "सीरीस",
+  "गई,",
+  "उसे",
+  "ये",
+  "बेजो."
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "Claim of 89 all out presented without source.",
+    "Claim of 244 runs presented without source.",
+    "Claim that Matt Henry took 6 wickets presented without source.",
+    "Claim of series score 2-1 presented without source."
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "Use of mixed token 'Nahi@no' is unnatural.",
+    "Use of placeholder 'Will@young' is unnatural.",
+    "Use of placeholder 'Jo@end' is unnatural."
+   ],
+   "one_line_verdict": "Script is clear of number mismatches but contains unsupported factual claims and a few unnatural Hinglish placeholders."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}
