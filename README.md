@@ -35,3 +35,8 @@ Channel name idea: **Doubt Clear**. Language: Hinglish. Voice: AI (Gemini TTS, O
 | `pipeline/stats.py`, `.github/workflows/stats.yml` | hourly view snapshots -> `analysis/scorecard.md` (free YouTube Data API) |
 
 Pipeline and template carried over from chunav-diary-reels.
+
+## When GitHub Actions is down
+Scenes-only change (voice unchanged): render in the cloud container. Copy `voice.wav` and `timeline.json` from branch `render-<folder>`
+into `studio/public/<folder>/`, then `cd studio && npm ci && npx remotion render src/index.ts Trend ../out/<folder>.mp4 --props='{"dir":"<folder>"}'
+--browser-executable=/opt/pw-browsers/chromium_headless_shell-*/chrome-headless-shell/chrome-headless-shell` (~70 s). New voices need the Gemini key (repo secrets only).
