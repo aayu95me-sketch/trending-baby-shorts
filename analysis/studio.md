@@ -1,6 +1,6 @@
 # Doubt Clear: Studio numbers
 
-Updated 13 Nov 2026 18:21 IST from the YouTube Analytics API (2026-11-10 to 2026-11-13). Analytics lags 1-2 days, so the newest reels may show nothing yet.
+Updated 13 Nov 2026 22:40 IST from the YouTube Analytics API (2026-11-10 to 2026-11-13). Analytics lags 1-2 days, so the newest reels may show nothing yet.
 
 | Video | Views | Avg % viewed | Avg s viewed | Subs gained | Shares | Likes | Comments | Top traffic sources |
 |---|---|---|---|---|---|---|---|---|
@@ -19,6 +19,8 @@ Updated 13 Nov 2026 18:21 IST from the YouTube Analytics API (2026-11-10 to 2026
 | Outlook sirf aapka down hai? Sach kya hai | - | - | - | - | - | - | - | - |
 | India 89 all out: series haath se gayi? | - | - | - | - | - | - | - | - |
 | Indore ab sabse saaf shehar nahi? Navi Mumbai ka sach | - | - | - | - | - | - | - | - |
+| India ko U19 final mein haraane wala ab England ka kaal | - | - | - | - | - | - | - | - |
+| 89 all out India ka sabse kam score? Record sirf 1 run se bacha | - | - | - | - | - | - | - | - |
 
 ## Retention (share of viewers still watching at each point of the reel; above 100% = rewatches)
 
@@ -39,5 +41,7 @@ Updated 13 Nov 2026 18:21 IST from the YouTube Analytics API (2026-11-10 to 2026
 | Outlook sirf aapka down hai? Sach kya hai | - | - | - | - | - | - | - | - | - | - | - |
 | India 89 all out: series haath se gayi? | - | - | - | - | - | - | - | - | - | - | - |
 | Indore ab sabse saaf shehar nahi? Navi Mumbai ka sach | - | - | - | - | - | - | - | - | - | - | - |
+| India ko U19 final mein haraane wala ab England ka kaal | - | - | - | - | - | - | - | - | - | - | - |
+| 89 all out India ka sabse kam score? Record sirf 1 run se bacha | - | - | - | - | - | - | - | - | - | - | - |
 
 Viewed vs swiped away is only shown in YouTube Studio (not in the API).
