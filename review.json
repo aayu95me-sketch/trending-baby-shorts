@@ -1,0 +1,29 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent"
+  },
+  "groq": {
+   "number_mismatches": [
+    "[89|nawasi]",
+    "[54|chauvan]",
+    "[245 RUN|do sau paintalis run]"
+   ],
+   "compliance_flags": [
+    "Claim about India’s lowest ODI score (54) lacks source",
+    "Claim about India’s biggest loss (245 runs) lacks source"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "nawasi",
+    "chauvan",
+    "paintalis"
+   ],
+   "one_line_verdict": "Multiple number mismatches and unverified factual claims; no hook provided; a few unnatural Hinglish terms."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}

@@ -1,0 +1,472 @@
+{
+ "total": 24.743,
+ "voice": "20261114-india-89-record/voice.wav",
+ "lines": [
+  {
+   "start": 0.332,
+   "text": "India 89 par all out. Kya yeh India ka sabse kam score hai?",
+   "end": 4.007
+  },
+  {
+   "start": 4.48,
+   "text": "Nahi bilkul nahi. Sabse kam 54 hai, Sharjah mein, Sri Lanka ke khilaaf.",
+   "end": 9.094
+  },
+  {
+   "start": 9.4,
+   "text": "Lekin yeh haar record ke bilkul paas thi. 244 RUN se haare.",
+   "end": 13.83
+  },
+  {
+   "start": 14.011,
+   "text": "India ki sabse badi haar 245 RUN ki hai, usi Sharjah wale match mein.",
+   "end": 18.156
+  },
+  {
+   "start": 18.54,
+   "text": "Sirf ek run se woh record bacha.",
+   "end": 20.439
+  },
+  {
+   "start": 20.674,
+   "text": "Sharjah wala match yaad hai aapko? Comment mein batao.",
+   "end": 23.368
+  }
+ ],
+ "words": [
+  {
+   "w": "India",
+   "start": 0.332,
+   "end": 0.78
+  },
+  {
+   "w": "89",
+   "start": 0.8,
+   "end": 1.3
+  },
+  {
+   "w": "par",
+   "start": 1.32,
+   "end": 1.44
+  },
+  {
+   "w": "all",
+   "start": 1.46,
+   "end": 1.64
+  },
+  {
+   "w": "out.",
+   "start": 1.66,
+   "end": 2.204
+  },
+  {
+   "w": "Kya",
+   "start": 2.224,
+   "end": 2.42
+  },
+  {
+   "w": "yeh",
+   "start": 2.44,
+   "end": 2.5
+  },
+  {
+   "w": "India",
+   "start": 2.52,
+   "end": 2.92
+  },
+  {
+   "w": "ka",
+   "start": 2.94,
+   "end": 3.02
+  },
+  {
+   "w": "sabse",
+   "start": 3.04,
+   "end": 3.38
+  },
+  {
+   "w": "kam",
+   "start": 3.4,
+   "end": 3.56
+  },
+  {
+   "w": "score",
+   "start": 3.58,
+   "end": 3.86
+  },
+  {
+   "w": "hai?",
+   "start": 3.88,
+   "end": 4.46
+  },
+  {
+   "w": "Nahi",
+   "start": 4.48,
+   "end": 5.02
+  },
+  {
+   "w": "bilkul",
+   "start": 5.04,
+   "end": 5.4
+  },
+  {
+   "w": "nahi.",
+   "start": 5.42,
+   "end": 5.92
+  },
+  {
+   "w": "Sabse",
+   "start": 5.94,
+   "end": 6.4
+  },
+  {
+   "w": "kam",
+   "start": 6.42,
+   "end": 6.66
+  },
+  {
+   "w": "54",
+   "start": 6.68,
+   "end": 6.92
+  },
+  {
+   "w": "hai,",
+   "start": 6.94,
+   "end": 7.42
+  },
+  {
+   "w": "Sharjah",
+   "start": 7.44,
+   "end": 7.88
+  },
+  {
+   "w": "mein,",
+   "start": 7.9,
+   "end": 8.04
+  },
+  {
+   "w": "Sri",
+   "start": 8.06,
+   "end": 8.2
+  },
+  {
+   "w": "Lanka",
+   "start": 8.22,
+   "end": 8.66
+  },
+  {
+   "w": "ke",
+   "start": 8.68,
+   "end": 8.8
+  },
+  {
+   "w": "khilaaf.",
+   "start": 8.82,
+   "end": 9.38
+  },
+  {
+   "w": "Lekin",
+   "start": 9.4,
+   "end": 9.86
+  },
+  {
+   "w": "yeh",
+   "start": 9.88,
+   "end": 10.0
+  },
+  {
+   "w": "haar",
+   "start": 10.02,
+   "end": 10.32
+  },
+  {
+   "w": "record",
+   "start": 10.34,
+   "end": 10.62
+  },
+  {
+   "w": "ke",
+   "start": 10.64,
+   "end": 10.82
+  },
+  {
+   "w": "bilkul",
+   "start": 10.84,
+   "end": 11.4
+  },
+  {
+   "w": "paas",
+   "start": 11.42,
+   "end": 11.58
+  },
+  {
+   "w": "thi.",
+   "start": 11.6,
+   "end": 11.995
+  },
+  {
+   "w": "244 RUN",
+   "start": 12.015,
+   "end": 12.815
+  },
+  {
+   "w": "se",
+   "start": 13.46,
+   "end": 13.56
+  },
+  {
+   "w": "haare.",
+   "start": 13.58,
+   "end": 13.991
+  },
+  {
+   "w": "India",
+   "start": 14.011,
+   "end": 14.54
+  },
+  {
+   "w": "ki",
+   "start": 14.56,
+   "end": 14.64
+  },
+  {
+   "w": "sabse",
+   "start": 14.66,
+   "end": 15.04
+  },
+  {
+   "w": "badi",
+   "start": 15.06,
+   "end": 15.3
+  },
+  {
+   "w": "haar",
+   "start": 15.32,
+   "end": 15.39
+  },
+  {
+   "w": "245 RUN",
+   "start": 15.41,
+   "end": 16.21
+  },
+  {
+   "w": "ki",
+   "start": 16.54,
+   "end": 16.62
+  },
+  {
+   "w": "hai,",
+   "start": 16.64,
+   "end": 17.02
+  },
+  {
+   "w": "usi",
+   "start": 17.04,
+   "end": 17.24
+  },
+  {
+   "w": "Sharjah",
+   "start": 17.26,
+   "end": 17.64
+  },
+  {
+   "w": "wale",
+   "start": 17.66,
+   "end": 17.84
+  },
+  {
+   "w": "match",
+   "start": 17.86,
+   "end": 18.02
+  },
+  {
+   "w": "mein.",
+   "start": 18.04,
+   "end": 18.52
+  },
+  {
+   "w": "Sirf",
+   "start": 18.54,
+   "end": 19.04
+  },
+  {
+   "w": "ek",
+   "start": 19.06,
+   "end": 19.42
+  },
+  {
+   "w": "run",
+   "start": 19.44,
+   "end": 19.58
+  },
+  {
+   "w": "se",
+   "start": 19.6,
+   "end": 19.74
+  },
+  {
+   "w": "woh",
+   "start": 19.76,
+   "end": 19.86
+  },
+  {
+   "w": "record",
+   "start": 19.88,
+   "end": 20.12
+  },
+  {
+   "w": "bacha.",
+   "start": 20.14,
+   "end": 20.654
+  },
+  {
+   "w": "Sharjah",
+   "start": 20.674,
+   "end": 21.3
+  },
+  {
+   "w": "wala",
+   "start": 21.32,
+   "end": 21.52
+  },
+  {
+   "w": "match",
+   "start": 21.54,
+   "end": 21.72
+  },
+  {
+   "w": "yaad",
+   "start": 21.74,
+   "end": 21.96
+  },
+  {
+   "w": "hai",
+   "start": 21.98,
+   "end": 22.06
+  },
+  {
+   "w": "aapko?",
+   "start": 22.08,
+   "end": 22.66
+  },
+  {
+   "w": "Comment",
+   "start": 22.68,
+   "end": 22.98
+  },
+  {
+   "w": "mein",
+   "start": 23.0,
+   "end": 23.06
+  },
+  {
+   "w": "batao.",
+   "start": 23.08,
+   "end": 23.743
+  }
+ ],
+ "cues": {
+  "hook": 0.332,
+  "no": 4.48,
+  "twist": 9.4,
+  "biggest": 14.011,
+  "one": 18.54,
+  "end": 20.674
+ },
+ "numbers": [
+  {
+   "show": "89",
+   "spoken": "nawasi",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "54",
+   "spoken": "chauvan",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "244 RUN",
+   "spoken": "do sau chawalis run",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "245 RUN",
+   "spoken": "do sau paintalis run",
+   "heard": 0.75,
+   "digit_diff": null
+  }
+ ],
+ "heard": [
+  "इंडिया",
+  "नवासी",
+  "पर",
+  "आउल",
+  "आउट",
+  "क्या",
+  "ये",
+  "इंडिया",
+  "का",
+  "सबसे",
+  "कम",
+  "सकोर",
+  "है?",
+  "नहीं,",
+  "विलकुल",
+  "नहीं",
+  "सबसे",
+  "कम",
+  "54",
+  "है,",
+  "शार्जा",
+  "में",
+  "शिलंका",
+  "के",
+  "खिलाफ",
+  "लेकिन",
+  "ये",
+  "हार",
+  "रेकौड",
+  "के",
+  "बिल्कुल",
+  "पास",
+  "थी",
+  "244",
+  "रंट",
+  "से",
+  "हारे",
+  "इंडिया",
+  "की",
+  "सबसे",
+  "बड़ी",
+  "हर",
+  "दोसो",
+  "पान्तालित्स",
+  "रन",
+  "की",
+  "हैं",
+  "उसी",
+  "शार्जा",
+  "वाले",
+  "मैच",
+  "में",
+  "सिर्फ",
+  "एक",
+  "रन",
+  "से",
+  "वो",
+  "रैकॉर्ट",
+  "बचा",
+  "शार्जा",
+  "वाला",
+  "मैच",
+  "याद",
+  "है?",
+  "आपको?",
+  "कौमेंट",
+  "में",
+  "बताओ."
+ ]
+}
