@@ -1,0 +1,588 @@
+{
+ "total": 28.709,
+ "voice": "20261115-ind-vs-pak-u19-final/voice.wav",
+ "lines": [
+  {
+   "start": 0.15,
+   "text": "Aakhri ball, 3 RUN chahiye, sirf ek wicket baaki. India jeeta ya haara?",
+   "end": 4.727
+  },
+  {
+   "start": 5.12,
+   "text": "Jeeta India. Mohit Ulva ne aakhri ball par chauka maara.",
+   "end": 8.485
+  },
+  {
+   "start": 8.862,
+   "text": "Pakistan ne final mein 337 banaye the. Itna bada chase kaise hua?",
+   "end": 12.83
+  },
+  {
+   "start": 13.06,
+   "text": "Captain Lakshya ne 80 banaye, aur Sehwag ke bete Aaryavir ne 58 .",
+   "end": 16.665
+  },
+  {
+   "start": 16.782,
+   "text": "Lekin ek samay 86 RUN chahiye the, aur sirf do wicket bache the.",
+   "end": 20.275
+  },
+  {
+   "start": 20.662,
+   "text": "Tab Ulva ne 26 ball par naabad 49 thok diye.",
+   "end": 23.293
+  },
+  {
+   "start": 23.293,
+   "text": "Pichhle saal isi final mein Pakistan jeeta tha. Badla poora hua? Comment karo.",
+   "end": 27.376
+  }
+ ],
+ "words": [
+  {
+   "w": "Aakhri",
+   "start": 0.15,
+   "end": 0.58
+  },
+  {
+   "w": "ball,",
+   "start": 0.6,
+   "end": 1.042
+  },
+  {
+   "w": "3 RUN",
+   "start": 1.062,
+   "end": 1.46
+  },
+  {
+   "w": "chahiye,",
+   "start": 1.48,
+   "end": 1.97
+  },
+  {
+   "w": "sirf",
+   "start": 1.99,
+   "end": 2.48
+  },
+  {
+   "w": "ek",
+   "start": 2.5,
+   "end": 2.76
+  },
+  {
+   "w": "wicket",
+   "start": 2.78,
+   "end": 2.96
+  },
+  {
+   "w": "baaki.",
+   "start": 2.98,
+   "end": 3.667
+  },
+  {
+   "w": "India",
+   "start": 3.687,
+   "end": 3.94
+  },
+  {
+   "w": "jeeta",
+   "start": 3.96,
+   "end": 4.32
+  },
+  {
+   "w": "ya",
+   "start": 4.34,
+   "end": 4.4
+  },
+  {
+   "w": "haara?",
+   "start": 4.42,
+   "end": 5.1
+  },
+  {
+   "w": "Jeeta",
+   "start": 5.12,
+   "end": 5.52
+  },
+  {
+   "w": "India.",
+   "start": 5.54,
+   "end": 6.12
+  },
+  {
+   "w": "Mohit",
+   "start": 6.14,
+   "end": 6.52
+  },
+  {
+   "w": "Ulva",
+   "start": 6.54,
+   "end": 6.822
+  },
+  {
+   "w": "ne",
+   "start": 6.842,
+   "end": 7.124
+  },
+  {
+   "w": "aakhri",
+   "start": 7.144,
+   "end": 7.54
+  },
+  {
+   "w": "ball",
+   "start": 7.56,
+   "end": 7.76
+  },
+  {
+   "w": "par",
+   "start": 7.78,
+   "end": 7.92
+  },
+  {
+   "w": "chauka",
+   "start": 7.94,
+   "end": 8.22
+  },
+  {
+   "w": "maara.",
+   "start": 8.24,
+   "end": 8.842
+  },
+  {
+   "w": "Pakistan",
+   "start": 8.862,
+   "end": 9.24
+  },
+  {
+   "w": "ne",
+   "start": 9.26,
+   "end": 9.38
+  },
+  {
+   "w": "final",
+   "start": 9.4,
+   "end": 9.64
+  },
+  {
+   "w": "mein",
+   "start": 9.66,
+   "end": 9.856
+  },
+  {
+   "w": "337",
+   "start": 9.876,
+   "end": 10.62
+  },
+  {
+   "w": "banaye",
+   "start": 10.64,
+   "end": 10.88
+  },
+  {
+   "w": "the.",
+   "start": 10.9,
+   "end": 11.43
+  },
+  {
+   "w": "Itna",
+   "start": 11.45,
+   "end": 11.8
+  },
+  {
+   "w": "bada",
+   "start": 11.82,
+   "end": 12.04
+  },
+  {
+   "w": "chase",
+   "start": 12.06,
+   "end": 12.42
+  },
+  {
+   "w": "kaise",
+   "start": 12.44,
+   "end": 12.56
+  },
+  {
+   "w": "hua?",
+   "start": 12.58,
+   "end": 13.04
+  },
+  {
+   "w": "Captain",
+   "start": 13.06,
+   "end": 13.46
+  },
+  {
+   "w": "Lakshya",
+   "start": 13.48,
+   "end": 13.88
+  },
+  {
+   "w": "ne",
+   "start": 13.9,
+   "end": 14.06
+  },
+  {
+   "w": "80",
+   "start": 14.08,
+   "end": 14.24
+  },
+  {
+   "w": "banaye,",
+   "start": 14.26,
+   "end": 14.756
+  },
+  {
+   "w": "aur",
+   "start": 14.776,
+   "end": 14.86
+  },
+  {
+   "w": "Sehwag",
+   "start": 14.88,
+   "end": 15.24
+  },
+  {
+   "w": "ke",
+   "start": 15.26,
+   "end": 15.4
+  },
+  {
+   "w": "bete",
+   "start": 15.42,
+   "end": 15.64
+  },
+  {
+   "w": "Aaryavir",
+   "start": 15.66,
+   "end": 15.92
+  },
+  {
+   "w": "ne",
+   "start": 15.94,
+   "end": 16.24
+  },
+  {
+   "w": "58",
+   "start": 16.26,
+   "end": 16.501
+  },
+  {
+   "w": ".",
+   "start": 16.521,
+   "end": 16.762
+  },
+  {
+   "w": "Lekin",
+   "start": 16.782,
+   "end": 17.28
+  },
+  {
+   "w": "ek",
+   "start": 17.3,
+   "end": 17.36
+  },
+  {
+   "w": "samay",
+   "start": 17.38,
+   "end": 17.64
+  },
+  {
+   "w": "86 RUN",
+   "start": 17.66,
+   "end": 18.46
+  },
+  {
+   "w": "chahiye",
+   "start": 18.56,
+   "end": 18.68
+  },
+  {
+   "w": "the,",
+   "start": 18.7,
+   "end": 19.0
+  },
+  {
+   "w": "aur",
+   "start": 19.02,
+   "end": 19.22
+  },
+  {
+   "w": "sirf",
+   "start": 19.24,
+   "end": 19.45
+  },
+  {
+   "w": "do",
+   "start": 19.47,
+   "end": 19.68
+  },
+  {
+   "w": "wicket",
+   "start": 19.7,
+   "end": 19.92
+  },
+  {
+   "w": "bache",
+   "start": 19.94,
+   "end": 20.12
+  },
+  {
+   "w": "the.",
+   "start": 20.14,
+   "end": 20.642
+  },
+  {
+   "w": "Tab",
+   "start": 20.662,
+   "end": 20.8
+  },
+  {
+   "w": "Ulva",
+   "start": 20.82,
+   "end": 21.093
+  },
+  {
+   "w": "ne",
+   "start": 21.113,
+   "end": 21.387
+  },
+  {
+   "w": "26",
+   "start": 21.407,
+   "end": 21.68
+  },
+  {
+   "w": "ball",
+   "start": 21.7,
+   "end": 22.04
+  },
+  {
+   "w": "par",
+   "start": 22.06,
+   "end": 22.24
+  },
+  {
+   "w": "naabad",
+   "start": 22.26,
+   "end": 22.62
+  },
+  {
+   "w": "49",
+   "start": 22.64,
+   "end": 22.98
+  },
+  {
+   "w": "thok",
+   "start": 23.0,
+   "end": 23.14
+  },
+  {
+   "w": "diye.",
+   "start": 23.16,
+   "end": 23.273
+  },
+  {
+   "w": "Pichhle",
+   "start": 23.293,
+   "end": 23.405
+  },
+  {
+   "w": "saal",
+   "start": 23.425,
+   "end": 23.538
+  },
+  {
+   "w": "isi",
+   "start": 23.558,
+   "end": 23.671
+  },
+  {
+   "w": "final",
+   "start": 23.691,
+   "end": 23.803
+  },
+  {
+   "w": "mein",
+   "start": 23.823,
+   "end": 23.936
+  },
+  {
+   "w": "Pakistan",
+   "start": 23.956,
+   "end": 24.069
+  },
+  {
+   "w": "jeeta",
+   "start": 24.089,
+   "end": 24.202
+  },
+  {
+   "w": "tha.",
+   "start": 24.222,
+   "end": 24.334
+  },
+  {
+   "w": "Badla",
+   "start": 24.354,
+   "end": 25.154
+  },
+  {
+   "w": "poora",
+   "start": 26.174,
+   "end": 26.374
+  },
+  {
+   "w": "hua?",
+   "start": 26.394,
+   "end": 26.812
+  },
+  {
+   "w": "Comment",
+   "start": 26.832,
+   "end": 27.25
+  },
+  {
+   "w": "karo.",
+   "start": 27.27,
+   "end": 27.709
+  }
+ ],
+ "cues": {
+  "hook": 0.15,
+  "yes": 5.12,
+  "chase": 8.862,
+  "bats": 13.06,
+  "twist": 16.782,
+  "ulva": 20.662,
+  "end": 23.293
+ },
+ "numbers": [
+  {
+   "show": "3 RUN",
+   "spoken": "teen run",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "337",
+   "spoken": "teen sau saintees",
+   "heard": 0.67,
+   "digit_diff": null
+  },
+  {
+   "show": "80",
+   "spoken": "assi",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "58",
+   "spoken": "attavan",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "86 RUN",
+   "spoken": "chhiyaasi run",
+   "heard": 0.5,
+   "digit_diff": null
+  },
+  {
+   "show": "26",
+   "spoken": "chhabbees",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "49",
+   "spoken": "unchaas",
+   "heard": 1.0,
+   "digit_diff": null
+  }
+ ],
+ "heard": [
+  "आखरी",
+  "बाल",
+  "तीन",
+  "रान",
+  "चायाए",
+  "है,",
+  "थी",
+  "आप",
+  "एक",
+  "विक्ट",
+  "बाखी.",
+  "इंद्या",
+  "जीता",
+  "है",
+  "आहारा?",
+  "जीता",
+  "एंद्या.",
+  "मूही",
+  "तुल्वाने",
+  "आखरी",
+  "बाल",
+  "पर",
+  "चोग",
+  "मारा",
+  "पाकिस्टान",
+  "ने",
+  "फाणिल",
+  "में",
+  "तीन्सो",
+  "सेंतीज",
+  "बनाय",
+  "फे",
+  "इतना",
+  "बड़ा",
+  "चेस",
+  "के",
+  "एसे",
+  "हूँँँँँ",
+  "प्यक्ट्टं",
+  "लक्ष्य",
+  "लख्षि",
+  "ने",
+  "धे",
+  "अज्सी",
+  "बनाय",
+  "और",
+  "सेंटिज़।",
+  "के",
+  "बटे",
+  "आरी",
+  "वीरने",
+  "आथावन",
+  "लिके",
+  "न",
+  "उक",
+  "समः",
+  "ची",
+  "आसीर",
+  "रँषाही",
+  "रचाही",
+  "यहे",
+  "तः",
+  "और",
+  "सुफ",
+  "2",
+  "विकिट",
+  "बचे",
+  "तः",
+  "तब",
+  "उल्वाने",
+  "26",
+  "बोच़।",
+  "पर",
+  "नाबाद",
+  "उन्चास",
+  "तोग",
+  "दिये.",
+  "बड़ा",
+  "पुरा",
+  "हूँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँ�"
+ ]
+}

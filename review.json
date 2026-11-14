@@ -1,0 +1,26 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "Unattributed factual claim: Mohit Ulva hit a six on the last ball",
+    "Unattributed factual claim: Pakistan chased 337 in the final",
+    "Unattributed factual claim: Lakshya scored 80 and Aaryavir scored 58",
+    "Unattributed factual claim: Ulva hit 49 runs off the 26th ball",
+    "Unattributed factual claim: Pakistan won the previous year’s final"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "naabad (unnatural word)"
+   ],
+   "one_line_verdict": "Script has no number mismatches but contains multiple unverified factual claims and a minor Hinglish oddity, with no hook options provided."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}
