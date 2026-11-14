@@ -1,0 +1,97 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: INDIA TV (SACNILK), PRAGATIVADI · 14 NOV 2026",
+ "loopTail": 0.5,
+ "scenes": [
+  {
+   "at": 0,
+   "big": "SACH MEIN FLOP?",
+   "color": "gold",
+   "tag": "TOXIC · INDIA'S GOT LATENT",
+   "img": "20261115-toxic-box-office/real/news-2.jpg",
+   "focus": "50% 30%",
+   "credit": "PHOTO VIA EKSUKOON"
+  },
+  {
+   "at": "huma",
+   "big": "\"TUM TOH TOXIC HO\"",
+   "color": "gold",
+   "tag": "HUMA QURESHI ka jawab",
+   "img": "20261115-toxic-box-office/real/news-1.jpg",
+   "fit": "blur",
+   "credit": "PHOTO VIA CINEMATALK"
+  },
+  {
+   "at": "day1",
+   "tag": "DAY 1 · INDIA NET",
+   "counter": {
+    "from": 0,
+    "to": 101,
+    "prefix": "₹",
+    "suffix": " CR",
+    "label": "OPENING"
+   },
+   "img": "20261115-toxic-box-office/real/wk-0.jpg",
+   "focus": "50% 30%",
+   "credit": "YASH · WIKIMEDIA COMMONS"
+  },
+  {
+   "at": "twist",
+   "tag": "WORLDWIDE GROSS · 37 DIN",
+   "counter": {
+    "from": 0,
+    "to": 342,
+    "prefix": "₹",
+    "suffix": " CR",
+    "label": "TOTAL"
+   },
+   "img": "20261115-toxic-box-office/real/news-0.jpg",
+   "focus": "50% 30%",
+   "credit": "PHOTO VIA INDIA TV"
+  },
+  {
+   "at": "budget",
+   "tag": "REPORTED BUDGET vs KAMAI",
+   "bars": [
+    [
+     "BUDGET",
+     450
+    ],
+    [
+     "KAMAI",
+     342
+    ]
+   ],
+   "barUnit": " CR",
+   "img": "20261115-toxic-box-office/real/wk-2.jpg",
+   "focus": "50% 25%",
+   "credit": "YASH · ANISH1121 CC BY-SA 4.0"
+  },
+  {
+   "at": "verdict",
+   "big": "UMEED SE KAAFI KAM",
+   "color": "red",
+   "tag": "BUDGET TAK NAHI PAHUNCHI",
+   "img": "20261115-toxic-box-office/real/wk-0.jpg",
+   "focus": "50% 30%",
+   "credit": "YASH · WIKIMEDIA COMMONS"
+  },
+  {
+   "at": "end",
+   "big": "JOKE SAHI THA?",
+   "color": "gold",
+   "img": "20261115-toxic-box-office/real/news-2.jpg",
+   "focus": "50% 30%",
+   "credit": "PHOTO VIA EKSUKOON"
+  },
+  {
+   "at": "end",
+   "big": "SACH MEIN FLOP?",
+   "color": "gold",
+   "tag": "TOXIC · INDIA'S GOT LATENT",
+   "img": "20261115-toxic-box-office/real/news-2.jpg",
+   "focus": "50% 30%",
+   "credit": "PHOTO VIA EKSUKOON"
+  }
+ ]
+}

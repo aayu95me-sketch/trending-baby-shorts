@@ -1,0 +1,101 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: CRICTRACKER, OPEN, THE WEEK · 14 NOV 2026",
+ "loopTail": 0.5,
+ "scenes": [
+  {
+   "at": 0,
+   "big": "LAST BALL · 3 RUN",
+   "color": "gold",
+   "tag": "IND vs PAK · U19 ASIA CUP FINAL",
+   "img": "20261115-ind-vs-pak-u19-final/real/news-3.jpg",
+   "focus": "70% 40%",
+   "credit": "PHOTO VIA OUTLOOK INDIA"
+  },
+  {
+   "at": "yes",
+   "big": "INDIA JEETA · 1 WICKET",
+   "color": "green",
+   "tag": "ULVA KA LAST BALL CHAUKA",
+   "img": "20261115-ind-vs-pak-u19-final/real/news-0.jpg",
+   "focus": "40% 35%",
+   "credit": "PHOTO VIA CRICTRACKER"
+  },
+  {
+   "at": "chase",
+   "tag": "PAK 337/9 · TARGET 338",
+   "counter": {
+    "from": 0,
+    "to": 338,
+    "prefix": "",
+    "suffix": " RUN",
+    "label": "TARGET"
+   },
+   "img": "20261115-ind-vs-pak-u19-final/real/news-3.jpg",
+   "focus": "30% 40%",
+   "credit": "PHOTO VIA OUTLOOK INDIA"
+  },
+  {
+   "at": "bats",
+   "tag": "RAICHANDANI 80 · AARYAVIR SEHWAG 58",
+   "bars": [
+    [
+     "LAKSHYA",
+     80
+    ],
+    [
+     "AARYAVIR",
+     58
+    ],
+    [
+     "ULVA",
+     49
+    ],
+    [
+     "MANAL",
+     47
+    ]
+   ],
+   "barUnit": " RUN",
+   "img": "20261115-ind-vs-pak-u19-final/real/wk-0.jpg",
+   "focus": "50% 30%",
+   "credit": "VIRENDER SEHWAG · WIKIMEDIA COMMONS"
+  },
+  {
+   "at": "twist",
+   "big": "86 CHAHIYE · 2 WICKET",
+   "color": "red",
+   "tag": "INDIA 252/8 · 42 OVER",
+   "img": "20261115-ind-vs-pak-u19-final/real/news-1.jpg",
+   "focus": "40% 35%",
+   "credit": "PHOTO VIA OPEN MAGAZINE"
+  },
+  {
+   "at": "ulva",
+   "big": "49* · SIRF 26 BALL",
+   "color": "gold",
+   "tag": "MOHIT ULVA · 5 CHAUKE 3 CHHAKKE",
+   "img": "20261115-ind-vs-pak-u19-final/real/news-0.jpg",
+   "focus": "30% 35%",
+   "credit": "PHOTO VIA CRICTRACKER"
+  },
+  {
+   "at": "end",
+   "big": "BADLA POORA?",
+   "color": "gold",
+   "tag": "2025 FINAL: PAK 347 · IND 156",
+   "img": "20261115-ind-vs-pak-u19-final/real/news-1.jpg",
+   "focus": "60% 35%",
+   "credit": "PHOTO VIA OPEN MAGAZINE"
+  },
+  {
+   "at": "end",
+   "big": "LAST BALL · 3 RUN",
+   "color": "gold",
+   "tag": "IND vs PAK · U19 ASIA CUP FINAL",
+   "img": "20261115-ind-vs-pak-u19-final/real/news-3.jpg",
+   "focus": "70% 40%",
+   "credit": "PHOTO VIA OUTLOOK INDIA"
+  }
+ ]
+}

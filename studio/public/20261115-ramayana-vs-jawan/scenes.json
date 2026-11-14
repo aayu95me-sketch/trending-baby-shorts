@@ -1,0 +1,97 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: SACNILK VIA THE WEEK, BOLLYWOOD HUNGAMA · 14 NOV 2026",
+ "loopTail": 0.5,
+ "scenes": [
+  {
+   "at": 0,
+   "big": "JAWAN KO PEECHE?",
+   "color": "gold",
+   "tag": "RAMAYANA · 10 DIN BOX OFFICE",
+   "img": "20261115-ramayana-vs-jawan/real/news-0.jpg",
+   "focus": "40% 30%",
+   "credit": "POSTER VIA BOLLYWOOD HUNGAMA"
+  },
+  {
+   "at": "india",
+   "tag": "INDIA GROSS · 10 DIN",
+   "counter": {
+    "from": 0,
+    "to": 783,
+    "prefix": "₹",
+    "suffix": " CR",
+    "label": "RAMAYANA"
+   },
+   "img": "20261115-ramayana-vs-jawan/real/news-1.jpg",
+   "focus": "50% 30%",
+   "credit": "STILL VIA ARGUS"
+  },
+  {
+   "at": "jawan",
+   "tag": "INDIA GROSS · LIFETIME vs 10 DIN",
+   "bars": [
+    [
+     "RAMAYANA",
+     783
+    ],
+    [
+     "JAWAN",
+     762
+    ]
+   ],
+   "barUnit": " CR",
+   "img": "20261115-ramayana-vs-jawan/real/wk-3.jpg",
+   "focus": "75% 30%",
+   "credit": "SHAH RUKH KHAN · MIB GODL-INDIA · WIKIMEDIA"
+  },
+  {
+   "at": "twist",
+   "big": "WORLDWIDE: KAANTA TAKKAR",
+   "color": "red",
+   "img": "20261115-ramayana-vs-jawan/real/wk-2.jpg",
+   "focus": "50% 25%",
+   "credit": "SHAH RUKH KHAN · BOLLYWOOD HUNGAMA CC BY 3.0"
+  },
+  {
+   "at": "world",
+   "tag": "JAWAN WORLDWIDE LIFETIME",
+   "counter": {
+    "from": 0,
+    "to": 1148,
+    "prefix": "₹",
+    "suffix": " CR",
+    "label": "JAWAN"
+   },
+   "img": "20261115-ramayana-vs-jawan/real/wk-0.jpg",
+   "focus": "50% 25%",
+   "credit": "SHAH RUKH KHAN · WIKIMEDIA COMMONS"
+  },
+  {
+   "at": "close",
+   "big": "₹1140 – 1150 CR",
+   "color": "gold",
+   "tag": "RAMAYANA WORLDWIDE · SOURCE PE NIRBHAR",
+   "img": "20261115-ramayana-vs-jawan/real/wk-1.jpg",
+   "focus": "50% 30%",
+   "credit": "RANBIR KAPOOR · WIKIMEDIA COMMONS"
+  },
+  {
+   "at": "end",
+   "big": "BADA KAUN?",
+   "color": "gold",
+   "tag": "RAMAYANA ya JAWAN",
+   "img": "20261115-ramayana-vs-jawan/real/news-1.jpg",
+   "focus": "50% 30%",
+   "credit": "STILL VIA ARGUS"
+  },
+  {
+   "at": "end",
+   "big": "JAWAN KO PEECHE?",
+   "color": "gold",
+   "tag": "RAMAYANA · 10 DIN BOX OFFICE",
+   "img": "20261115-ramayana-vs-jawan/real/news-0.jpg",
+   "focus": "40% 30%",
+   "credit": "POSTER VIA BOLLYWOOD HUNGAMA"
+  }
+ ]
+}
