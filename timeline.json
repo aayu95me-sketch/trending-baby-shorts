@@ -1,0 +1,539 @@
+{
+ "total": 29.341,
+ "voice": "20261115-ramayana-vs-jawan/voice.wav",
+ "lines": [
+  {
+   "start": 0.237,
+   "text": "Ramayana ne Jawan ko peeche chhod diya? Sach kya hai?",
+   "end": 3.585
+  },
+  {
+   "start": 3.86,
+   "text": "India mein haan. Ramayana ki India gross kamai 783 CR paar.",
+   "end": 8.019
+  },
+  {
+   "start": 8.209,
+   "text": "Jawan ki poori India gross kamai thi 762 CR . Sirf das din mein record gaya.",
+   "end": 12.898
+  },
+  {
+   "start": 13.136,
+   "text": "Lekin worldwide par abhi kaanta takkar hai.",
+   "end": 15.581
+  },
+  {
+   "start": 15.908,
+   "text": "Jawan ne duniya bhar mein 1148 CR kamaye the.",
+   "end": 18.798
+  },
+  {
+   "start": 19.112,
+   "text": "Ramayana ke aankde source ke hisaab se thode upar ya thode neeche hain. Yeh weekend faisla karega.",
+   "end": 24.304
+  },
+  {
+   "start": 24.667,
+   "text": "Aapke hisaab se bada kaun, Ramayana ya Jawan? Comment karo.",
+   "end": 27.925
+  }
+ ],
+ "words": [
+  {
+   "w": "Ramayana",
+   "start": 0.237,
+   "end": 0.7
+  },
+  {
+   "w": "ne",
+   "start": 0.72,
+   "end": 0.88
+  },
+  {
+   "w": "Jawan",
+   "start": 0.9,
+   "end": 1.2
+  },
+  {
+   "w": "ko",
+   "start": 1.22,
+   "end": 1.36
+  },
+  {
+   "w": "peeche",
+   "start": 1.38,
+   "end": 1.64
+  },
+  {
+   "w": "chhod",
+   "start": 1.66,
+   "end": 1.92
+  },
+  {
+   "w": "diya?",
+   "start": 1.94,
+   "end": 2.46
+  },
+  {
+   "w": "Sach",
+   "start": 2.48,
+   "end": 3.04
+  },
+  {
+   "w": "kya",
+   "start": 3.06,
+   "end": 3.32
+  },
+  {
+   "w": "hai?",
+   "start": 3.34,
+   "end": 3.84
+  },
+  {
+   "w": "India",
+   "start": 3.86,
+   "end": 4.22
+  },
+  {
+   "w": "mein",
+   "start": 4.24,
+   "end": 4.42
+  },
+  {
+   "w": "haan.",
+   "start": 4.44,
+   "end": 4.62
+  },
+  {
+   "w": "Ramayana",
+   "start": 4.64,
+   "end": 5.44
+  },
+  {
+   "w": "ki",
+   "start": 5.48,
+   "end": 5.736
+  },
+  {
+   "w": "India",
+   "start": 5.756,
+   "end": 6.08
+  },
+  {
+   "w": "gross",
+   "start": 6.1,
+   "end": 6.34
+  },
+  {
+   "w": "kamai",
+   "start": 6.36,
+   "end": 6.64
+  },
+  {
+   "w": "783 CR",
+   "start": 6.66,
+   "end": 7.46
+  },
+  {
+   "w": "paar.",
+   "start": 7.859,
+   "end": 8.189
+  },
+  {
+   "w": "Jawan",
+   "start": 8.209,
+   "end": 8.58
+  },
+  {
+   "w": "ki",
+   "start": 8.6,
+   "end": 8.866
+  },
+  {
+   "w": "poori",
+   "start": 8.886,
+   "end": 9.16
+  },
+  {
+   "w": "India",
+   "start": 9.18,
+   "end": 9.44
+  },
+  {
+   "w": "gross",
+   "start": 9.46,
+   "end": 9.7
+  },
+  {
+   "w": "kamai",
+   "start": 9.72,
+   "end": 9.94
+  },
+  {
+   "w": "thi",
+   "start": 9.96,
+   "end": 10.1
+  },
+  {
+   "w": "762 CR",
+   "start": 10.12,
+   "end": 10.92
+  },
+  {
+   "w": ".",
+   "start": 10.983,
+   "end": 11.167
+  },
+  {
+   "w": "Sirf",
+   "start": 11.187,
+   "end": 11.82
+  },
+  {
+   "w": "das",
+   "start": 11.84,
+   "end": 12.12
+  },
+  {
+   "w": "din",
+   "start": 12.14,
+   "end": 12.32
+  },
+  {
+   "w": "mein",
+   "start": 12.34,
+   "end": 12.46
+  },
+  {
+   "w": "record",
+   "start": 12.48,
+   "end": 12.68
+  },
+  {
+   "w": "gaya.",
+   "start": 12.7,
+   "end": 13.116
+  },
+  {
+   "w": "Lekin",
+   "start": 13.136,
+   "end": 13.62
+  },
+  {
+   "w": "worldwide",
+   "start": 13.64,
+   "end": 14.24
+  },
+  {
+   "w": "par",
+   "start": 14.26,
+   "end": 14.44
+  },
+  {
+   "w": "abhi",
+   "start": 14.46,
+   "end": 14.761
+  },
+  {
+   "w": "kaanta",
+   "start": 14.781,
+   "end": 15.16
+  },
+  {
+   "w": "takkar",
+   "start": 15.18,
+   "end": 15.44
+  },
+  {
+   "w": "hai.",
+   "start": 15.46,
+   "end": 15.888
+  },
+  {
+   "w": "Jawan",
+   "start": 15.908,
+   "end": 16.104
+  },
+  {
+   "w": "ne",
+   "start": 16.124,
+   "end": 16.32
+  },
+  {
+   "w": "duniya",
+   "start": 16.34,
+   "end": 16.74
+  },
+  {
+   "w": "bhar",
+   "start": 16.76,
+   "end": 16.92
+  },
+  {
+   "w": "mein",
+   "start": 16.94,
+   "end": 17.195
+  },
+  {
+   "w": "1148 CR",
+   "start": 17.215,
+   "end": 18.015
+  },
+  {
+   "w": "kamaye",
+   "start": 18.4,
+   "end": 18.62
+  },
+  {
+   "w": "the.",
+   "start": 18.64,
+   "end": 19.092
+  },
+  {
+   "w": "Ramayana",
+   "start": 19.112,
+   "end": 19.276
+  },
+  {
+   "w": "ke",
+   "start": 19.296,
+   "end": 19.46
+  },
+  {
+   "w": "aankde",
+   "start": 19.48,
+   "end": 20.1
+  },
+  {
+   "w": "source",
+   "start": 20.12,
+   "end": 20.5
+  },
+  {
+   "w": "ke",
+   "start": 20.52,
+   "end": 20.64
+  },
+  {
+   "w": "hisaab",
+   "start": 20.66,
+   "end": 20.86
+  },
+  {
+   "w": "se",
+   "start": 20.88,
+   "end": 21.04
+  },
+  {
+   "w": "thode",
+   "start": 21.06,
+   "end": 21.32
+  },
+  {
+   "w": "upar",
+   "start": 21.34,
+   "end": 21.7
+  },
+  {
+   "w": "ya",
+   "start": 21.72,
+   "end": 21.82
+  },
+  {
+   "w": "thode",
+   "start": 21.84,
+   "end": 22.12
+  },
+  {
+   "w": "neeche",
+   "start": 22.14,
+   "end": 22.38
+  },
+  {
+   "w": "hain.",
+   "start": 22.4,
+   "end": 22.78
+  },
+  {
+   "w": "Yeh",
+   "start": 22.8,
+   "end": 23.12
+  },
+  {
+   "w": "weekend",
+   "start": 23.14,
+   "end": 23.64
+  },
+  {
+   "w": "faisla",
+   "start": 23.66,
+   "end": 23.96
+  },
+  {
+   "w": "karega.",
+   "start": 23.98,
+   "end": 24.647
+  },
+  {
+   "w": "Aapke",
+   "start": 24.667,
+   "end": 25.04
+  },
+  {
+   "w": "hisaab",
+   "start": 25.06,
+   "end": 25.32
+  },
+  {
+   "w": "se",
+   "start": 25.34,
+   "end": 25.52
+  },
+  {
+   "w": "bada",
+   "start": 25.54,
+   "end": 25.84
+  },
+  {
+   "w": "kaun,",
+   "start": 25.86,
+   "end": 26.26
+  },
+  {
+   "w": "Ramayana",
+   "start": 26.28,
+   "end": 26.55
+  },
+  {
+   "w": "ya",
+   "start": 26.57,
+   "end": 26.84
+  },
+  {
+   "w": "Jawan?",
+   "start": 26.86,
+   "end": 27.466
+  },
+  {
+   "w": "Comment",
+   "start": 27.486,
+   "end": 27.72
+  },
+  {
+   "w": "karo.",
+   "start": 27.74,
+   "end": 28.341
+  }
+ ],
+ "cues": {
+  "hook": 0.237,
+  "india": 3.86,
+  "jawan": 8.209,
+  "twist": 13.136,
+  "world": 15.908,
+  "close": 19.112,
+  "end": 24.667
+ },
+ "numbers": [
+  {
+   "show": "783 CR",
+   "spoken": "saat sau tiraasi crore",
+   "heard": 0.75,
+   "digit_diff": null
+  },
+  {
+   "show": "762 CR",
+   "spoken": "saat sau baasath crore",
+   "heard": 0.75,
+   "digit_diff": null
+  },
+  {
+   "show": "1148 CR",
+   "spoken": "gyaarah sau adtaalees crore",
+   "heard": 1.0,
+   "digit_diff": 0
+  }
+ ],
+ "heard": [
+  "रामाएन",
+  "दे",
+  "जवान",
+  "को",
+  "पीचे",
+  "चोड़",
+  "दिया?",
+  "सज",
+  "क्या",
+  "है?",
+  "इंट्या",
+  "में",
+  "हा",
+  "रामाएन",
+  "की",
+  "इंट्या",
+  "ग्रोस",
+  "कमाई",
+  "साथ",
+  "सो",
+  "तरासी",
+  "करोडपार",
+  "जवान",
+  "की",
+  "पूरी",
+  "इंट्या",
+  "ग्रोस",
+  "कमाई",
+  "ती",
+  "साथ",
+  "सुबसाथ",
+  "करोड",
+  "सुर्फ",
+  "दस",
+  "दिन",
+  "में",
+  "लिकोड",
+  "गया",
+  "लेकिन",
+  "वुल्वाइट",
+  "पर",
+  "अभी",
+  "काँट",
+  "की",
+  "तक्कर",
+  "है",
+  "जवान",
+  "दुन्या",
+  "बहर",
+  "में",
+  "1148",
+  "करोड",
+  "कमाए",
+  "थे",
+  "रमाइन",
+  "क्याखडे,",
+  "सूर्स",
+  "के",
+  "साब",
+  "से",
+  "तोड़े",
+  "उपर",
+  "या",
+  "तोड़े।",
+  "नीचे",
+  "है,",
+  "ये",
+  "वीकेंट",
+  "फैसला",
+  "करेगा.",
+  "आपके",
+  "हिसाब",
+  "से",
+  "बड़ा",
+  "कोन,",
+  "रामायानिया",
+  "जबान,",
+  "कमेंट",
+  "करो.",
+  "बच्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च"
+ ]
+}

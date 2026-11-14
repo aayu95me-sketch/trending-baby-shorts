@@ -1,0 +1,27 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "India gross 783 CR claim lacks source",
+    "Jawan India gross 762 CR claim lacks source",
+    "World gross 1148 CR claim lacks source",
+    "Hook claim \"Ramayana ne Jawan ko peeche chhod diya\" is unverified rumor"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "\"kaanta takkar\" unnatural phrase",
+    "\"close ke aankde\" mixing English noun awkwardly",
+    "\"end hisaab se\" mixing English word awkwardly"
+   ],
+   "one_line_verdict": "Script has no number mismatches but contains unsupported box-office figures and a few awkward Hinglish phrases."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}
