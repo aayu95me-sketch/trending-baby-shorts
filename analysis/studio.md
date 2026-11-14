@@ -1,6 +1,6 @@
 # Doubt Clear: Studio numbers
 
-Updated 14 Nov 2026 20:49 IST from the YouTube Analytics API (2026-11-10 to 2026-11-14). Analytics lags 1-2 days, so the newest reels may show nothing yet.
+Updated 14 Nov 2026 22:16 IST from the YouTube Analytics API (2026-11-10 to 2026-11-14). Analytics lags 1-2 days, so the newest reels may show nothing yet.
 
 | Video | Views | Avg % viewed | Avg s viewed | Subs gained | Shares | Likes | Comments | Top traffic sources |
 |---|---|---|---|---|---|---|---|---|
@@ -21,6 +21,9 @@ Updated 14 Nov 2026 20:49 IST from the YouTube Analytics API (2026-11-10 to 2026
 | Indore ab sabse saaf shehar nahi? Navi Mumbai ka sach | - | - | - | - | - | - | - | - |
 | India ko U19 final mein haraane wala ab England ka kaal | - | - | - | - | - | - | - | - |
 | 89 all out India ka sabse kam score? Record sirf 1 run se bacha | - | - | - | - | - | - | - | - |
+| Last ball, 3 run, 1 wicket: India ne Pakistan se final kaise jeeta? | - | - | - | - | - | - | - | - |
+| Samay ne Toxic ko flop bola, sach mein flop thi? Aankde dekho | - | - | - | - | - | - | - | - |
+| Ramayana ne Jawan ko peeche chhod diya? India mein haan, lekin... | - | - | - | - | - | - | - | - |
 
 ## Retention (share of viewers still watching at each point of the reel; above 100% = rewatches)
 
@@ -43,5 +46,8 @@ Updated 14 Nov 2026 20:49 IST from the YouTube Analytics API (2026-11-10 to 2026
 | Indore ab sabse saaf shehar nahi? Navi Mumbai ka sach | - | - | - | - | - | - | - | - | - | - | - |
 | India ko U19 final mein haraane wala ab England ka kaal | - | - | - | - | - | - | - | - | - | - | - |
 | 89 all out India ka sabse kam score? Record sirf 1 run se bacha | - | - | - | - | - | - | - | - | - | - | - |
+| Last ball, 3 run, 1 wicket: India ne Pakistan se final kaise jeeta? | - | - | - | - | - | - | - | - | - | - | - |
+| Samay ne Toxic ko flop bola, sach mein flop thi? Aankde dekho | - | - | - | - | - | - | - | - | - | - | - |
+| Ramayana ne Jawan ko peeche chhod diya? India mein haan, lekin... | - | - | - | - | - | - | - | - | - | - | - |
 
 Viewed vs swiped away is only shown in YouTube Studio (not in the API).
