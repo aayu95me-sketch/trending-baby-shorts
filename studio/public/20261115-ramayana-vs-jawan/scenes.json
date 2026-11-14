@@ -14,7 +14,7 @@
   },
   {
    "at": "india",
-   "tag": "INDIA GROSS · 10 DIN",
+   "tag": "INDIA GROSS · 10 DIN · SACNILK",
    "counter": {
     "from": 0,
     "to": 783,
@@ -28,7 +28,7 @@
   },
   {
    "at": "jawan",
-   "tag": "INDIA GROSS · LIFETIME vs 10 DIN",
+   "tag": "INDIA GROSS · SACNILK / THE WEEK",
    "bars": [
     [
      "RAMAYANA",
@@ -54,7 +54,7 @@
   },
   {
    "at": "world",
-   "tag": "JAWAN WORLDWIDE LIFETIME",
+   "tag": "JAWAN WORLDWIDE LIFETIME · THE WEEK",
    "counter": {
     "from": 0,
     "to": 1148,
