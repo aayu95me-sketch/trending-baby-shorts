@@ -1,0 +1,23 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "Unsourced claim about worldwide gross earnings (342 CR)"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "'gross reh gayi' is unnatural; prefer 'gross ho gayi'",
+    "'life mein toxic ho' sounds slightly off for a young Delhi speaker"
+   ],
+   "one_line_verdict": "Script is numerically consistent but contains an unsourced worldwide‑gross claim and a couple of minor Hinglish phrasing issues; no hook options provided."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}
