@@ -1,0 +1,644 @@
+{
+ "total": 30.652,
+ "voice": "20261116-ind-vs-nz-series-win/voice.wav",
+ "lines": [
+  {
+   "start": 0.117,
+   "text": "Pichhle match mein India 89 par all out. Aur aaj series jeet li? Kaise?",
+   "end": 4.622
+  },
+  {
+   "start": 5.08,
+   "text": "Haan India ne paanchwa ODI 22 RUN se jeeta. Series teen-ek se India ki.",
+   "end": 9.033
+  },
+  {
+   "start": 9.5,
+   "text": "Lekin batting phir fail. Poori team sirf 209 par simat gayi.",
+   "end": 12.744
+  },
+  {
+   "start": 13.06,
+   "text": "Phir pacers ne match palta. New Zealand 119 par chhe wicket kho baithi.",
+   "end": 16.849
+  },
+  {
+   "start": 17.231,
+   "text": "Debut karne wale Yash Thakur ne Foxcroft ko bowled kiya, aur Arshdeep ne teen wicket liye.",
+   "end": 21.68
+  },
+  {
+   "start": 22.02,
+   "text": "Aur suno. New Zealand ghar par lagataar 11 ODI series jeeti thi. Wo streak India ne todi.",
+   "end": 26.633
+  },
+  {
+   "start": 27.038,
+   "text": "Toh kya ab navaasi wali haar maaf? Comment karo.",
+   "end": 29.197
+  }
+ ],
+ "words": [
+  {
+   "w": "Pichhle",
+   "start": 0.117,
+   "end": 0.6
+  },
+  {
+   "w": "match",
+   "start": 0.62,
+   "end": 0.82
+  },
+  {
+   "w": "mein",
+   "start": 0.84,
+   "end": 0.96
+  },
+  {
+   "w": "India",
+   "start": 0.98,
+   "end": 1.32
+  },
+  {
+   "w": "89",
+   "start": 1.34,
+   "end": 1.74
+  },
+  {
+   "w": "par",
+   "start": 1.76,
+   "end": 1.84
+  },
+  {
+   "w": "all",
+   "start": 1.86,
+   "end": 2.04
+  },
+  {
+   "w": "out.",
+   "start": 2.06,
+   "end": 2.433
+  },
+  {
+   "w": "Aur",
+   "start": 2.453,
+   "end": 2.64
+  },
+  {
+   "w": "aaj",
+   "start": 2.66,
+   "end": 3.0
+  },
+  {
+   "w": "series",
+   "start": 3.02,
+   "end": 3.38
+  },
+  {
+   "w": "jeet",
+   "start": 3.4,
+   "end": 3.753
+  },
+  {
+   "w": "li?",
+   "start": 3.773,
+   "end": 4.126
+  },
+  {
+   "w": "Kaise?",
+   "start": 4.146,
+   "end": 4.946
+  },
+  {
+   "w": "Haan",
+   "start": 5.08,
+   "end": 5.56
+  },
+  {
+   "w": "India",
+   "start": 5.58,
+   "end": 5.84
+  },
+  {
+   "w": "ne",
+   "start": 5.86,
+   "end": 6.03
+  },
+  {
+   "w": "paanchwa",
+   "start": 6.05,
+   "end": 6.42
+  },
+  {
+   "w": "ODI",
+   "start": 6.44,
+   "end": 6.76
+  },
+  {
+   "w": "22 RUN",
+   "start": 6.78,
+   "end": 7.26
+  },
+  {
+   "w": "se",
+   "start": 7.28,
+   "end": 7.38
+  },
+  {
+   "w": "jeeta.",
+   "start": 7.4,
+   "end": 7.9
+  },
+  {
+   "w": "Series",
+   "start": 7.92,
+   "end": 8.26
+  },
+  {
+   "w": "teen-ek",
+   "start": 8.28,
+   "end": 8.44
+  },
+  {
+   "w": "se",
+   "start": 8.46,
+   "end": 8.64
+  },
+  {
+   "w": "India",
+   "start": 8.66,
+   "end": 8.94
+  },
+  {
+   "w": "ki.",
+   "start": 8.96,
+   "end": 9.48
+  },
+  {
+   "w": "Lekin",
+   "start": 9.5,
+   "end": 9.82
+  },
+  {
+   "w": "batting",
+   "start": 9.84,
+   "end": 10.22
+  },
+  {
+   "w": "phir",
+   "start": 10.24,
+   "end": 10.44
+  },
+  {
+   "w": "fail.",
+   "start": 10.46,
+   "end": 11.06
+  },
+  {
+   "w": "Poori",
+   "start": 11.08,
+   "end": 11.34
+  },
+  {
+   "w": "team",
+   "start": 11.36,
+   "end": 11.56
+  },
+  {
+   "w": "sirf",
+   "start": 11.58,
+   "end": 11.725
+  },
+  {
+   "w": "209",
+   "start": 11.745,
+   "end": 12.22
+  },
+  {
+   "w": "par",
+   "start": 12.24,
+   "end": 12.32
+  },
+  {
+   "w": "simat",
+   "start": 12.34,
+   "end": 12.54
+  },
+  {
+   "w": "gayi.",
+   "start": 12.56,
+   "end": 13.04
+  },
+  {
+   "w": "Phir",
+   "start": 13.06,
+   "end": 13.22
+  },
+  {
+   "w": "pacers",
+   "start": 13.24,
+   "end": 13.58
+  },
+  {
+   "w": "ne",
+   "start": 13.6,
+   "end": 13.7
+  },
+  {
+   "w": "match",
+   "start": 13.72,
+   "end": 13.9
+  },
+  {
+   "w": "palta.",
+   "start": 13.92,
+   "end": 13.98
+  },
+  {
+   "w": "New",
+   "start": 14.0,
+   "end": 14.8
+  },
+  {
+   "w": "Zealand",
+   "start": 14.84,
+   "end": 15.065
+  },
+  {
+   "w": "119",
+   "start": 15.085,
+   "end": 15.8
+  },
+  {
+   "w": "par",
+   "start": 15.82,
+   "end": 16.03
+  },
+  {
+   "w": "chhe",
+   "start": 16.05,
+   "end": 16.26
+  },
+  {
+   "w": "wicket",
+   "start": 16.28,
+   "end": 16.44
+  },
+  {
+   "w": "kho",
+   "start": 16.46,
+   "end": 16.62
+  },
+  {
+   "w": "baithi.",
+   "start": 16.64,
+   "end": 17.211
+  },
+  {
+   "w": "Debut",
+   "start": 17.231,
+   "end": 17.6
+  },
+  {
+   "w": "karne",
+   "start": 17.62,
+   "end": 17.78
+  },
+  {
+   "w": "wale",
+   "start": 17.8,
+   "end": 18.02
+  },
+  {
+   "w": "Yash",
+   "start": 18.04,
+   "end": 18.16
+  },
+  {
+   "w": "Thakur",
+   "start": 18.18,
+   "end": 18.46
+  },
+  {
+   "w": "ne",
+   "start": 18.48,
+   "end": 18.62
+  },
+  {
+   "w": "Foxcroft",
+   "start": 18.64,
+   "end": 19.14
+  },
+  {
+   "w": "ko",
+   "start": 19.16,
+   "end": 19.26
+  },
+  {
+   "w": "bowled",
+   "start": 19.28,
+   "end": 19.5
+  },
+  {
+   "w": "kiya,",
+   "start": 19.52,
+   "end": 19.96
+  },
+  {
+   "w": "aur",
+   "start": 19.98,
+   "end": 20.3
+  },
+  {
+   "w": "Arshdeep",
+   "start": 20.32,
+   "end": 20.7
+  },
+  {
+   "w": "ne",
+   "start": 20.72,
+   "end": 20.94
+  },
+  {
+   "w": "teen",
+   "start": 20.96,
+   "end": 21.18
+  },
+  {
+   "w": "wicket",
+   "start": 21.2,
+   "end": 21.4
+  },
+  {
+   "w": "liye.",
+   "start": 21.42,
+   "end": 22.0
+  },
+  {
+   "w": "Aur",
+   "start": 22.02,
+   "end": 22.18
+  },
+  {
+   "w": "suno.",
+   "start": 22.2,
+   "end": 22.53
+  },
+  {
+   "w": "New",
+   "start": 22.55,
+   "end": 22.88
+  },
+  {
+   "w": "Zealand",
+   "start": 22.9,
+   "end": 23.26
+  },
+  {
+   "w": "ghar",
+   "start": 23.28,
+   "end": 23.48
+  },
+  {
+   "w": "par",
+   "start": 23.5,
+   "end": 23.62
+  },
+  {
+   "w": "lagataar",
+   "start": 23.64,
+   "end": 24.04
+  },
+  {
+   "w": "11",
+   "start": 24.06,
+   "end": 24.38
+  },
+  {
+   "w": "ODI",
+   "start": 24.4,
+   "end": 24.58
+  },
+  {
+   "w": "series",
+   "start": 24.6,
+   "end": 24.86
+  },
+  {
+   "w": "jeeti",
+   "start": 24.88,
+   "end": 25.12
+  },
+  {
+   "w": "thi.",
+   "start": 25.14,
+   "end": 25.56
+  },
+  {
+   "w": "Wo",
+   "start": 25.58,
+   "end": 25.8
+  },
+  {
+   "w": "streak",
+   "start": 25.82,
+   "end": 26.1
+  },
+  {
+   "w": "India",
+   "start": 26.12,
+   "end": 26.32
+  },
+  {
+   "w": "ne",
+   "start": 26.34,
+   "end": 26.4
+  },
+  {
+   "w": "todi.",
+   "start": 26.42,
+   "end": 27.018
+  },
+  {
+   "w": "Toh",
+   "start": 27.038,
+   "end": 27.14
+  },
+  {
+   "w": "kya",
+   "start": 27.16,
+   "end": 27.3
+  },
+  {
+   "w": "ab",
+   "start": 27.32,
+   "end": 27.38
+  },
+  {
+   "w": "navaasi",
+   "start": 27.4,
+   "end": 27.78
+  },
+  {
+   "w": "wali",
+   "start": 27.8,
+   "end": 27.96
+  },
+  {
+   "w": "haar",
+   "start": 27.98,
+   "end": 28.18
+  },
+  {
+   "w": "maaf?",
+   "start": 28.2,
+   "end": 28.734
+  },
+  {
+   "w": "Comment",
+   "start": 28.754,
+   "end": 29.02
+  },
+  {
+   "w": "karo.",
+   "start": 29.04,
+   "end": 29.652
+  }
+ ],
+ "cues": {
+  "hook": 0.117,
+  "yes": 5.08,
+  "bat": 9.5,
+  "fight": 13.06,
+  "yash": 17.231,
+  "streak": 22.02,
+  "end": 27.038
+ },
+ "numbers": [
+  {
+   "show": "89",
+   "spoken": "navaasi",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "22 RUN",
+   "spoken": "baais run",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "209",
+   "spoken": "do sau nau",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "119",
+   "spoken": "ek sau unnees",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "11",
+   "spoken": "gyaarah",
+   "heard": 1.0,
+   "digit_diff": 0
+  }
+ ],
+ "heard": [
+  "पिछले",
+  "मैच",
+  "में",
+  "इंडिया",
+  "नवासी",
+  "बर",
+  "आउल",
+  "आउट",
+  "और",
+  "आज",
+  "सीरीस",
+  "जीतली",
+  "कैसे",
+  "हाँ",
+  "इंडिया",
+  "ने",
+  "पांचवा",
+  "वंडे",
+  "भाईस",
+  "रन",
+  "से",
+  "जीता",
+  "सिरीस",
+  "तीन",
+  "एकसे",
+  "इंडिया",
+  "की।",
+  "लेकिं",
+  "बैटिंग",
+  "पिर",
+  "फेल।",
+  "पूरी",
+  "टीम",
+  "सिर्व",
+  "209",
+  "पर",
+  "स्विवंट",
+  "गई।",
+  "फिर",
+  "पेसर्स",
+  "ने",
+  "मैच",
+  "पलता।",
+  "New",
+  "Zealand",
+  "119",
+  "पर",
+  "6",
+  "विकेट",
+  "खुभ",
+  "बहती",
+  "देबियू",
+  "करने",
+  "वाले",
+  "याश",
+  "थाकोर",
+  "ने",
+  "Foxcroft",
+  "को",
+  "बोल्ट",
+  "किया",
+  "और",
+  "अर्जदीप",
+  "ने",
+  "3",
+  "विकेट",
+  "लिए",
+  "और",
+  "सुनो,",
+  "निवजलेन",
+  "गर",
+  "पर",
+  "लागातार",
+  "ग्यारा",
+  "वानडे",
+  "सिरीस",
+  "जीती",
+  "थी।",
+  "वो",
+  "स्ट्रीग",
+  "इंडिया",
+  "ने",
+  "तोडिया",
+  "तो",
+  "क्या",
+  "अब",
+  "नवासी",
+  "वाली",
+  "हार",
+  "माझ",
+  "खमेंट",
+  "रहे",
+  "करो!"
+ ]
+}

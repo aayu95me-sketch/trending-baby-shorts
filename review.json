@@ -1,0 +1,32 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)"
+  },
+  "groq": {
+   "number_mismatches": [
+    "89 -> navaasi",
+    "22 RUN -> baais run",
+    "209 -> do sau nau",
+    "119 -> ek sau unnees",
+    "11 -> gyaarah"
+   ],
+   "compliance_flags": [
+    "Unverified claim about New Zealand's 11‑series home winning streak"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "navaasi (uncommon for 89)",
+    "baais (should be baees)",
+    "teen‑ek (unnatural phrasing)",
+    "pichhle@hook (odd token)",
+    "lagataar 11 ODI series jeeti thi (awkward)"
+   ],
+   "one_line_verdict": "Multiple number mismatches, one unverified claim, no hook options, and several Hinglish phrasing issues."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}
