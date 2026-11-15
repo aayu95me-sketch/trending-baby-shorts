@@ -1,0 +1,683 @@
+{
+ "total": 31.696,
+ "voice": "20261116-starship-catch/voice.wav",
+ "lines": [
+  {
+   "start": 0.195,
+   "text": "Space se lauta rocket, aur tower ne use hawa mein pakad liya? Sach hai ya AI?",
+   "end": 5.441
+  },
+  {
+   "start": 5.609,
+   "text": "Sach hai. SpaceX ne Starship ka upar wala hissa tower ki chopstick jaisi baahon se pakda.",
+   "end": 9.826
+  },
+  {
+   "start": 9.965,
+   "text": "Duniya mein pehli baar orbit se laute kisi rocket ke upper stage ko aise pakda gaya.",
+   "end": 13.905
+  },
+  {
+   "start": 14.113,
+   "text": "Ship ne dharti ke 14 chakkar lagaaye, aur lagbhag saadhe baais ghante baad lauta.",
+   "end": 17.636
+  },
+  {
+   "start": 18.001,
+   "text": "Lekin neeche wala booster nahi pakda gaya. Fuel kam ka alarm aaya, aur woh samandar mein gira.",
+   "end": 21.875
+  },
+  {
+   "start": 22.053,
+   "text": "Kyun zaroori hai? Ab yeh rocket phenka nahi jaayega, dobara udega. Isi se launch sasta hoga.",
+   "end": 26.716
+  },
+  {
+   "start": 27.061,
+   "text": "Aapko pehli baar dekh kar kya laga, asli ya CGI? Comment karo.",
+   "end": 30.221
+  }
+ ],
+ "words": [
+  {
+   "w": "Space",
+   "start": 0.195,
+   "end": 0.443
+  },
+  {
+   "w": "se",
+   "start": 0.463,
+   "end": 0.71
+  },
+  {
+   "w": "lauta",
+   "start": 0.73,
+   "end": 0.97
+  },
+  {
+   "w": "rocket,",
+   "start": 0.99,
+   "end": 1.39
+  },
+  {
+   "w": "aur",
+   "start": 1.41,
+   "end": 1.674
+  },
+  {
+   "w": "tower",
+   "start": 1.694,
+   "end": 1.99
+  },
+  {
+   "w": "ne",
+   "start": 2.01,
+   "end": 2.13
+  },
+  {
+   "w": "use",
+   "start": 2.15,
+   "end": 2.27
+  },
+  {
+   "w": "hawa",
+   "start": 2.29,
+   "end": 2.47
+  },
+  {
+   "w": "mein",
+   "start": 2.49,
+   "end": 2.61
+  },
+  {
+   "w": "pakad",
+   "start": 2.63,
+   "end": 2.83
+  },
+  {
+   "w": "liya?",
+   "start": 2.85,
+   "end": 3.03
+  },
+  {
+   "w": "Sach",
+   "start": 3.05,
+   "end": 3.38
+  },
+  {
+   "w": "hai",
+   "start": 3.4,
+   "end": 3.73
+  },
+  {
+   "w": "ya",
+   "start": 3.75,
+   "end": 3.85
+  },
+  {
+   "w": "AI?",
+   "start": 3.87,
+   "end": 4.67
+  },
+  {
+   "w": "Sach",
+   "start": 5.609,
+   "end": 5.779
+  },
+  {
+   "w": "hai.",
+   "start": 5.799,
+   "end": 5.97
+  },
+  {
+   "w": "SpaceX",
+   "start": 5.99,
+   "end": 6.41
+  },
+  {
+   "w": "ne",
+   "start": 6.43,
+   "end": 6.53
+  },
+  {
+   "w": "Starship",
+   "start": 6.55,
+   "end": 7.03
+  },
+  {
+   "w": "ka",
+   "start": 7.05,
+   "end": 7.09
+  },
+  {
+   "w": "upar",
+   "start": 7.11,
+   "end": 7.15
+  },
+  {
+   "w": "wala",
+   "start": 7.17,
+   "end": 7.63
+  },
+  {
+   "w": "hissa",
+   "start": 7.65,
+   "end": 7.9
+  },
+  {
+   "w": "tower",
+   "start": 7.92,
+   "end": 8.42
+  },
+  {
+   "w": "ki",
+   "start": 8.44,
+   "end": 8.6
+  },
+  {
+   "w": "chopstick",
+   "start": 8.62,
+   "end": 9.08
+  },
+  {
+   "w": "jaisi",
+   "start": 9.1,
+   "end": 9.24
+  },
+  {
+   "w": "baahon",
+   "start": 9.26,
+   "end": 9.46
+  },
+  {
+   "w": "se",
+   "start": 9.48,
+   "end": 9.56
+  },
+  {
+   "w": "pakda.",
+   "start": 9.58,
+   "end": 9.945
+  },
+  {
+   "w": "Duniya",
+   "start": 9.965,
+   "end": 10.46
+  },
+  {
+   "w": "mein",
+   "start": 10.48,
+   "end": 10.696
+  },
+  {
+   "w": "pehli",
+   "start": 10.716,
+   "end": 10.98
+  },
+  {
+   "w": "baar",
+   "start": 11.0,
+   "end": 11.2
+  },
+  {
+   "w": "orbit",
+   "start": 11.22,
+   "end": 11.46
+  },
+  {
+   "w": "se",
+   "start": 11.48,
+   "end": 11.62
+  },
+  {
+   "w": "laute",
+   "start": 11.64,
+   "end": 11.96
+  },
+  {
+   "w": "kisi",
+   "start": 11.98,
+   "end": 12.04
+  },
+  {
+   "w": "rocket",
+   "start": 12.06,
+   "end": 12.34
+  },
+  {
+   "w": "ke",
+   "start": 12.36,
+   "end": 12.54
+  },
+  {
+   "w": "upper",
+   "start": 12.56,
+   "end": 12.84
+  },
+  {
+   "w": "stage",
+   "start": 12.86,
+   "end": 13.12
+  },
+  {
+   "w": "ko",
+   "start": 13.14,
+   "end": 13.22
+  },
+  {
+   "w": "aise",
+   "start": 13.24,
+   "end": 13.4
+  },
+  {
+   "w": "pakda",
+   "start": 13.42,
+   "end": 13.64
+  },
+  {
+   "w": "gaya.",
+   "start": 13.66,
+   "end": 14.093
+  },
+  {
+   "w": "Ship",
+   "start": 14.113,
+   "end": 14.58
+  },
+  {
+   "w": "ne",
+   "start": 14.6,
+   "end": 14.7
+  },
+  {
+   "w": "dharti",
+   "start": 14.72,
+   "end": 14.91
+  },
+  {
+   "w": "ke",
+   "start": 14.93,
+   "end": 15.12
+  },
+  {
+   "w": "14",
+   "start": 15.14,
+   "end": 15.36
+  },
+  {
+   "w": "chakkar",
+   "start": 15.38,
+   "end": 15.6
+  },
+  {
+   "w": "lagaaye,",
+   "start": 15.62,
+   "end": 15.89
+  },
+  {
+   "w": "aur",
+   "start": 15.91,
+   "end": 16.18
+  },
+  {
+   "w": "lagbhag",
+   "start": 16.2,
+   "end": 16.4
+  },
+  {
+   "w": "saadhe",
+   "start": 16.42,
+   "end": 16.78
+  },
+  {
+   "w": "baais",
+   "start": 16.8,
+   "end": 17.0
+  },
+  {
+   "w": "ghante",
+   "start": 17.02,
+   "end": 17.24
+  },
+  {
+   "w": "baad",
+   "start": 17.26,
+   "end": 17.34
+  },
+  {
+   "w": "lauta.",
+   "start": 17.36,
+   "end": 17.981
+  },
+  {
+   "w": "Lekin",
+   "start": 18.001,
+   "end": 18.16
+  },
+  {
+   "w": "neeche",
+   "start": 18.18,
+   "end": 18.54
+  },
+  {
+   "w": "wala",
+   "start": 18.56,
+   "end": 18.72
+  },
+  {
+   "w": "booster",
+   "start": 18.74,
+   "end": 19.02
+  },
+  {
+   "w": "nahi",
+   "start": 19.04,
+   "end": 19.18
+  },
+  {
+   "w": "pakda",
+   "start": 19.2,
+   "end": 19.535
+  },
+  {
+   "w": "gaya.",
+   "start": 19.555,
+   "end": 19.89
+  },
+  {
+   "w": "Fuel",
+   "start": 19.91,
+   "end": 20.14
+  },
+  {
+   "w": "kam",
+   "start": 20.16,
+   "end": 20.32
+  },
+  {
+   "w": "ka",
+   "start": 20.34,
+   "end": 20.51
+  },
+  {
+   "w": "alarm",
+   "start": 20.53,
+   "end": 20.7
+  },
+  {
+   "w": "aaya,",
+   "start": 20.72,
+   "end": 20.9
+  },
+  {
+   "w": "aur",
+   "start": 20.92,
+   "end": 21.1
+  },
+  {
+   "w": "woh",
+   "start": 21.12,
+   "end": 21.2
+  },
+  {
+   "w": "samandar",
+   "start": 21.22,
+   "end": 21.56
+  },
+  {
+   "w": "mein",
+   "start": 21.58,
+   "end": 21.72
+  },
+  {
+   "w": "gira.",
+   "start": 21.74,
+   "end": 22.033
+  },
+  {
+   "w": "Kyun",
+   "start": 22.053,
+   "end": 22.346
+  },
+  {
+   "w": "zaroori",
+   "start": 22.366,
+   "end": 22.659
+  },
+  {
+   "w": "hai?",
+   "start": 22.679,
+   "end": 22.972
+  },
+  {
+   "w": "Ab",
+   "start": 22.992,
+   "end": 23.285
+  },
+  {
+   "w": "yeh",
+   "start": 23.305,
+   "end": 23.598
+  },
+  {
+   "w": "rocket",
+   "start": 23.618,
+   "end": 23.911
+  },
+  {
+   "w": "phenka",
+   "start": 23.931,
+   "end": 24.224
+  },
+  {
+   "w": "nahi",
+   "start": 24.244,
+   "end": 24.537
+  },
+  {
+   "w": "jaayega,",
+   "start": 24.557,
+   "end": 24.85
+  },
+  {
+   "w": "dobara",
+   "start": 24.87,
+   "end": 25.163
+  },
+  {
+   "w": "udega.",
+   "start": 25.183,
+   "end": 25.476
+  },
+  {
+   "w": "Isi",
+   "start": 25.496,
+   "end": 25.789
+  },
+  {
+   "w": "se",
+   "start": 25.809,
+   "end": 26.102
+  },
+  {
+   "w": "launch",
+   "start": 26.122,
+   "end": 26.415
+  },
+  {
+   "w": "sasta",
+   "start": 26.435,
+   "end": 26.728
+  },
+  {
+   "w": "hoga.",
+   "start": 26.748,
+   "end": 27.041
+  },
+  {
+   "w": "Aapko",
+   "start": 27.061,
+   "end": 27.44
+  },
+  {
+   "w": "pehli",
+   "start": 27.46,
+   "end": 27.66
+  },
+  {
+   "w": "baar",
+   "start": 27.68,
+   "end": 27.8
+  },
+  {
+   "w": "dekh",
+   "start": 27.82,
+   "end": 27.92
+  },
+  {
+   "w": "kar",
+   "start": 27.94,
+   "end": 28.04
+  },
+  {
+   "w": "kya",
+   "start": 28.06,
+   "end": 28.22
+  },
+  {
+   "w": "laga,",
+   "start": 28.24,
+   "end": 28.72
+  },
+  {
+   "w": "asli",
+   "start": 28.74,
+   "end": 29.06
+  },
+  {
+   "w": "ya",
+   "start": 29.08,
+   "end": 29.14
+  },
+  {
+   "w": "CGI?",
+   "start": 29.16,
+   "end": 29.59
+  },
+  {
+   "w": "Comment",
+   "start": 29.61,
+   "end": 30.04
+  },
+  {
+   "w": "karo.",
+   "start": 30.06,
+   "end": 30.696
+  }
+ ],
+ "cues": {
+  "hook": 0.195,
+  "yes": 5.609,
+  "first": 9.965,
+  "orbit": 14.113,
+  "twist": 18.001,
+  "why": 22.053,
+  "end": 27.061
+ },
+ "numbers": [
+  {
+   "show": "14",
+   "spoken": "chaudah",
+   "heard": 1.0,
+   "digit_diff": null
+  }
+ ],
+ "heard": [
+  "स्पेसे",
+  "लोटा",
+  "रोकेट",
+  "और",
+  "तावर",
+  "ने",
+  "उसे",
+  "हवा",
+  "में",
+  "पगल",
+  "लिया",
+  "सचया",
+  "या",
+  "एएएए?",
+  "सचया,",
+  "स्पेसेख्स",
+  "ने",
+  "स्थार्षिप",
+  "का",
+  "उपर्वाला",
+  "इसा",
+  "तावर",
+  "की",
+  "चोप्स्टिक्स",
+  "जैसी",
+  "बामो",
+  "से",
+  "पख़डा",
+  "दूनिया",
+  "में",
+  "पहली",
+  "बार",
+  "अर्भिट",
+  "से",
+  "लोटे",
+  "की",
+  "सी",
+  "रोकेट",
+  "के",
+  "अपर",
+  "स्थेच",
+  "को",
+  "एसे",
+  "पख़डा",
+  "गया",
+  "शिप",
+  "ने",
+  "दर्ति...",
+  "चोला",
+  "चकल",
+  "लगाए,",
+  "बूल",
+  "लक्बक",
+  "साडे",
+  "बाइस",
+  "गंटे",
+  "बाद",
+  "लोटा.",
+  "लेकि",
+  "निचे",
+  "वाला",
+  "बूस्टर",
+  "नहीं",
+  "पक्डागया.",
+  "फ्यूल",
+  "कम",
+  "का",
+  "राम",
+  "आया",
+  "और",
+  "वो",
+  "सवंदर",
+  "में",
+  "गया.",
+  "अपको",
+  "पहली",
+  "बार",
+  "दिक्र",
+  "क्या",
+  "लगा",
+  "अस्विः़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़",
+  "आसली",
+  "या",
+  "CGI,",
+  "कोमविद",
+  "करो."
+ ]
+}

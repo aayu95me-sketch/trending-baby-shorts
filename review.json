@@ -1,0 +1,26 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "Unverified claim: SpaceX captured Starship upper stage with a tower-like mechanism.",
+    "Unverified claim: Lower booster was not captured and fell into the ocean.",
+    "Speculative claim: Re‑using the captured stage will make launches cheaper."
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "hook (unusual usage)",
+    "chopstick jaisi baahon (awkward phrasing)",
+    "phenka (incorrect verb form)"
+   ],
+   "one_line_verdict": "Script contains unverified factual claims and a few unnatural Hinglish expressions."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}
