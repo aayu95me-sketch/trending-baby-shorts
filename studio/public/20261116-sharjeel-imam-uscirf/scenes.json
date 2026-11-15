@@ -1,0 +1,79 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: ANI, TRIBUNE, SC ORDER 5 JAN 2026 (VIA THE HINDU)",
+ "loopTail": 0.5,
+ "scenes": [
+  {
+   "at": 0,
+   "big": "USCIRF vs INDIA",
+   "color": "gold",
+   "tag": "SHARJEEL IMAM · SACH KYA HAI?",
+   "img": "20261116-sharjeel-imam-uscirf/real/wk-0.jpg",
+   "focus": "50% 35%",
+   "credit": "SHARJEEL IMAM · PHOTO VIA WIKIPEDIA"
+  },
+  {
+   "at": "kwatra",
+   "big": "\"NO LOCUS STANDI\"",
+   "color": "red",
+   "tag": "AMBASSADOR VINAY KWATRA · 14 NOV",
+   "img": "20261116-sharjeel-imam-uscirf/real/news-0.jpg",
+   "focus": "50% 30%",
+   "credit": "PHOTO VIA ANI / @INDIANEMBASSYUS"
+  },
+  {
+   "at": "jail",
+   "big": "JAN 2020 SE JAIL",
+   "color": "gold",
+   "tag": "DELHI DANGA 'LARGER CONSPIRACY' · UAPA",
+   "img": "20261116-sharjeel-imam-uscirf/real/wk-5.jpg",
+   "focus": "50% 45%",
+   "credit": "TIHAR JAIL · ZUCK28 · CC0"
+  },
+  {
+   "at": "sc",
+   "big": "BAIL REJECT",
+   "color": "red",
+   "tag": "SUPREME COURT · 5 JAN 2026",
+   "img": "20261116-sharjeel-imam-uscirf/real/wk-1.jpg",
+   "focus": "50% 40%",
+   "credit": "SUPREME COURT · PHOTO VIA WIKIPEDIA"
+  },
+  {
+   "at": "twist",
+   "big": "KOI CONVICTION NAHI",
+   "color": "green",
+   "tag": "ABHI UNDERTRIAL",
+   "img": "20261116-sharjeel-imam-uscirf/real/wk-3.jpg",
+   "focus": "50% 40%",
+   "credit": "PINAKPANI · CC BY-SA 4.0"
+  },
+  {
+   "at": "verdict",
+   "big": "FAISLA BAAKI",
+   "color": "gold",
+   "tag": "JAIL KI WAJAH: UAPA CASE (COURT RECORD)",
+   "img": "20261116-sharjeel-imam-uscirf/real/wk-4.jpg",
+   "focus": "50% 40%",
+   "credit": "PINAKPANI · CC BY-SA 4.0"
+  },
+  {
+   "at": "end",
+   "big": "USCIRF YA INDIA?",
+   "color": "gold",
+   "tag": "AAP KISKE SAATH? COMMENT KARO",
+   "img": "20261116-sharjeel-imam-uscirf/real/wk-2.jpg",
+   "focus": "50% 50%",
+   "credit": "USCIRF SEAL · VIA WIKIPEDIA"
+  },
+  {
+   "at": "end",
+   "big": "USCIRF vs INDIA",
+   "color": "gold",
+   "tag": "SHARJEEL IMAM · SACH KYA HAI?",
+   "img": "20261116-sharjeel-imam-uscirf/real/wk-0.jpg",
+   "focus": "50% 35%",
+   "credit": "SHARJEEL IMAM · PHOTO VIA WIKIPEDIA"
+  }
+ ]
+}

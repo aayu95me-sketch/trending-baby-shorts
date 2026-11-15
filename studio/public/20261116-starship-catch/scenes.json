@@ -1,0 +1,84 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: SPACE.COM, TESLARATI · 14 NOV 2026",
+ "loopTail": 0.5,
+ "scenes": [
+  {
+   "at": 0,
+   "big": "SACH YA AI?",
+   "color": "gold",
+   "tag": "STARSHIP · TOWER NE HAWA MEIN PAKDA",
+   "img": "20261116-starship-catch/real/news-6.jpg",
+   "focus": "60% 40%",
+   "credit": "PHOTO VIA CNBC"
+  },
+  {
+   "at": "yes",
+   "big": "SACH HAI!",
+   "color": "green",
+   "tag": "SHIP 42 · CHOPSTICK ARMS · STARBASE TEXAS",
+   "img": "20261116-starship-catch/real/news-2.jpg",
+   "focus": "55% 40%",
+   "credit": "PHOTO VIA SPACE.COM"
+  },
+  {
+   "at": "first",
+   "big": "DUNIYA MEIN PEHLI BAAR",
+   "color": "gold",
+   "tag": "ORBIT SE LAUTA UPPER STAGE PAKDA GAYA",
+   "img": "20261116-starship-catch/real/news-9.jpg",
+   "focus": "60% 40%",
+   "credit": "PHOTO VIA CNN"
+  },
+  {
+   "at": "orbit",
+   "tag": "26 STARLINK SATELLITE · ~22.5 GHANTE",
+   "counter": {
+    "from": 0,
+    "to": 14,
+    "prefix": "",
+    "suffix": " CHAKKAR",
+    "label": "DHARTI KE"
+   },
+   "img": "20261116-starship-catch/real/news-0.jpg",
+   "focus": "50% 35%",
+   "credit": "PHOTO VIA TESLARATI"
+  },
+  {
+   "at": "twist",
+   "big": "BOOSTER NAHI PAKDA",
+   "color": "red",
+   "tag": "LOW FUEL ALARM · GULF OF MEXICO MEIN GIRA",
+   "img": "20261116-starship-catch/real/wk-2.jpg",
+   "focus": "50% 40%",
+   "credit": "STEVE JURVETSON · CC BY 2.0"
+  },
+  {
+   "at": "why",
+   "big": "DOBARA UDEGA",
+   "color": "green",
+   "tag": "ROCKET PHENKNA NAHI · LAUNCH SASTA",
+   "img": "20261116-starship-catch/real/news-7.jpg",
+   "focus": "30% 40%",
+   "credit": "PHOTO VIA NBC NEWS"
+  },
+  {
+   "at": "end",
+   "big": "ASLI YA CGI?",
+   "color": "gold",
+   "tag": "FLIGHT 15 · 13-14 NOV 2026",
+   "img": "20261116-starship-catch/real/news-4.jpg",
+   "focus": "55% 40%",
+   "credit": "PHOTO VIA SPACE.COM"
+  },
+  {
+   "at": "end",
+   "big": "SACH YA AI?",
+   "color": "gold",
+   "tag": "STARSHIP · TOWER NE HAWA MEIN PAKDA",
+   "img": "20261116-starship-catch/real/news-6.jpg",
+   "focus": "60% 40%",
+   "credit": "PHOTO VIA CNBC"
+  }
+ ]
+}
