@@ -3,7 +3,7 @@ Rule: max 3 a day, at least 3 h apart. Ayush's typed line (15 Nov 21:10 IST) app
 Every description ends with the channel footer from the upload defaults (AI voice disclosure). "Altered content" answer: No (AI narration only).
 Skipped from the CSV: Bangladesh vs South Africa (Test still in progress, most figures single-source), AO3 (niche, low volume, no clear Indian doubt).
 
-## 1. IND vs NZ series win, 08:00 IST 16 Nov (freshest, morning-after)
+## 1. IND vs NZ series win, 08:00 IST 16 Nov (freshest, morning-after) (Y4nzY_Z9V8c)
 Title: 89 pe all out, phir bhi series jeet li? India ne NZ mein kaise kiya 🏏 #shorts
 Description:
 NZ vs IND 5th ODI, Bay Oval, Mount Maunganui (15 Nov 2026): India 209 all out (Ishan Kishan 46, Axar Patel 46). New Zealand 187 all out, ek samay 119/6. India 22 run se jeeta, series 3-1 (3rd ODI rain se no result). Arshdeep Singh 3/30, Axar 2/28, Siraj 2/50. Yash Thakur ne ODI debut (cap 267) par Dean Foxcroft ko bowled kiya, 10 over 1/38. New Zealand ne lagataar 11 home ODI series jeeti thi; 2019 ke baad pehli home ODI series haar, tab bhi India se. Pichhle match (4th ODI) mein India 89 par all out thi.
@@ -14,7 +14,7 @@ Tags: ind vs nz 5th odi, india vs new zealand highlights, yash thakur, yash thak
 Pinned comment: 89 wali haar ab maaf ya nahi? 👇
 Related video: India 89 records Short (pilgp9OG3t4).
 
-## 2. Sharjeel Imam vs USCIRF, 12:00 IST 16 Nov
+## 2. Sharjeel Imam vs USCIRF, 12:00 IST 16 Nov (Ebi0n3w3qTI)
 Title: USCIRF ne Sharjeel Imam par kya kaha, India ne kya jawab diya? Court record dekho ⚖️ #shorts
 Description:
 USCIRF (US Commission on International Religious Freedom) ne X par Sharjeel Imam ko "religious freedom advocacy" ki wajah se detained bataya. India ke US mein rajdoot Vinay Mohan Kwatra ne 14 Nov 2026 ko jawab diya: "USCIRF has no locus standi to sit in judgment over the constitutional rights of Indian citizens." Court record: Sharjeel Imam January 2020 se custody mein hain, Delhi dangon ke "larger conspiracy" UAPA case mein. Supreme Court ne 5 January 2026 ko unki bail reject ki. Kisi case mein conviction nahi hua hai; woh undertrial hain aur trial ka faisla baaki hai.
@@ -25,7 +25,7 @@ Tags: sharjeel imam, शरजील इमाम, uscirf, vinay kwatra, uscirf 
 Pinned comment: Aap kiski baat se sehmat ho, USCIRF ya India? Tameez se likhein 👇
 Related video: none (new topic).
 
-## 3. Starship tower catch, 19:00 IST 16 Nov (strongest evening slot)
+## 3. Starship tower catch, 19:00 IST 16 Nov (strongest evening slot) (DC3poMXoCbI)
 Title: Tower ne space se lauta rocket hawa mein pakda? Sach ya AI 🚀 #shorts
 Description:
 SpaceX Starship Flight 15: Ship 42 aur Booster 22 ne 13 Nov 2026 (22:47 UTC) ko Starbase, Texas se udaan bhari. 26 Starlink V3 satellite deploy kiye. Ship ne lagbhag 14 chakkar lagaaye aur ~22.5 ghante baad launch tower ki "chopstick" arms ne use pakad liya: orbit se laute kisi rocket ke upper stage ka duniya mein pehla catch. Booster ka catch abort hua (low fuel alarm), woh Gulf of Mexico mein gira. Dobara use hone wala rocket = sasta launch.
