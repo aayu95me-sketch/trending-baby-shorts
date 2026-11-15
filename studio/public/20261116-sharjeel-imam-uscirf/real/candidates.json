@@ -1,0 +1,53 @@
+{
+ "news-0.jpg": {
+  "page": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20261114031711.jpg",
+  "lic": "ANI / @IndianEmbassyUS",
+  "url": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20261114031711.jpg"
+ },
+ "news-1.jpg": {
+  "page": "https://www.tribuneindia.com/news/usa-news/indian-envoy-kwatra-slams-uscirf-over-sharjeel-imam-remarks-says-panel-has-no-locus-standi",
+  "lic": "news photo (copyright of the publisher; used as news clip, Ayush's risk)",
+  "url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTYxMzQyNWQwLWRmZGQtMTFmMS1hNzhjLWJmZGZhODg2ZTA2Yy5qcGc="
+ },
+ "news-2.jpg": {
+  "page": "https://newsable.asianetnews.com/world/envoy-kwatra-slams-uscirf-over-remarks-on-jailed-activist-sharjeel-imam-articleshow-swfi1gz",
+  "lic": "news photo (copyright of the publisher; used as news clip, Ayush's risk)",
+  "url": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-42f7da6c-22d3-4b66-9b35-7631ca74d602.jpg"
+ },
+ "wk-0.jpg": {
+  "page": "https://en.wikipedia.org/wiki/Sharjeel_Imam",
+  "lic": "news photo (copyright of the publisher; used as news clip, Ayush's risk)",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Sharjeel.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+ },
+ "wk-1.jpg": {
+  "page": "https://en.wikipedia.org/wiki/Supreme_Court_of_India",
+  "lic": "news photo (copyright of the publisher; used as news clip, Ayush's risk)",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Emblem_of_the_Supreme_Court_of_India.svg/960px-Emblem_of_the_Supreme_Court_of_India.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+ },
+ "wk-2.jpg": {
+  "page": "https://en.wikipedia.org/wiki/United_States_Commission_on_International_Religious_Freedom",
+  "lic": "news photo (copyright of the publisher; used as news clip, Ayush's risk)",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Seal_of_the_United_States_Commission_on_International_Religious_Freedom.svg/1280px-Seal_of_the_United_States_Commission_on_International_Religious_Freedom.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+ },
+ "wk-3.jpg": {
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India,_inside_buildings_02.jpg",
+  "title": "File:Supreme Court of India, inside buildings 02.jpg",
+  "lic": "CC BY-SA 4.0",
+  "author": "Pinakpani",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Supreme_Court_of_India%2C_inside_buildings_02.jpg/1920px-Supreme_Court_of_India%2C_inside_buildings_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
+ "wk-4.jpg": {
+  "page": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_India,_inside_buildings_04.jpg",
+  "title": "File:Supreme Court of India, inside buildings 04.jpg",
+  "lic": "CC BY-SA 4.0",
+  "author": "Pinakpani",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Supreme_Court_of_India%2C_inside_buildings_04.jpg/1920px-Supreme_Court_of_India%2C_inside_buildings_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
+ "wk-5.jpg": {
+  "page": "https://commons.wikimedia.org/wiki/File:Tihar_Jail,_Delhi.jpg",
+  "title": "File:Tihar Jail, Delhi.jpg",
+  "lic": "CC0",
+  "author": "Zuck28",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Tihar_Jail%2C_Delhi.jpg/1920px-Tihar_Jail%2C_Delhi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ }
+}
