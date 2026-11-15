@@ -1,0 +1,789 @@
+{
+ "total": 38.975,
+ "voice": "20261116-sharjeel-imam-uscirf/voice.wav",
+ "lines": [
+  {
+   "start": 0.0,
+   "text": "America ki commission USCIRF ne kaha, Sharjeel Imam religious freedom ki awaaz uthane ki wajah se jail mein hain. Sach kya hai?",
+   "end": 6.537
+  },
+  {
+   "start": 6.8,
+   "text": "India ke rajdoot Vinay Kwatra ne jawab diya, USCIRF ko Indian nagrikon ke adhikaaron par faisla sunane ka koi haq nahi.",
+   "end": 12.733
+  },
+  {
+   "start": 13.096,
+   "text": "Toh Sharjeel jail mein kyun hain? January 2020 se woh Delhi dangon ki badi saazish wale UAPA case mein band hain.",
+   "end": 18.819
+  },
+  {
+   "start": 19.013,
+   "text": "Supreme Court ne is saal January mein unki bail thukra di. Court ne saazish mein unka role central bataya.",
+   "end": 23.934
+  },
+  {
+   "start": 24.109,
+   "text": "Lekin abhi tak kisi bhi case mein unhe doshi nahi thehraaya gaya. Woh undertrial hain.",
+   "end": 27.778
+  },
+  {
+   "start": 28.036,
+   "text": "Matlab jail ki wajah court record mein UAPA case hai. Aakhri faisla abhi baaki hai.",
+   "end": 33.121
+  },
+  {
+   "start": 33.254,
+   "text": "Aap kiski baat se sehmat ho, USCIRF ya India? Comment karo.",
+   "end": 37.57
+  }
+ ],
+ "words": [
+  {
+   "w": "America",
+   "start": 0.0,
+   "end": 0.58
+  },
+  {
+   "w": "ki",
+   "start": 0.6,
+   "end": 0.72
+  },
+  {
+   "w": "commission",
+   "start": 0.74,
+   "end": 1.06
+  },
+  {
+   "w": "USCIRF",
+   "start": 1.08,
+   "end": 1.88
+  },
+  {
+   "w": "ne",
+   "start": 1.98,
+   "end": 2.14
+  },
+  {
+   "w": "kaha,",
+   "start": 2.16,
+   "end": 2.5
+  },
+  {
+   "w": "Sharjeel",
+   "start": 2.52,
+   "end": 2.92
+  },
+  {
+   "w": "Imam",
+   "start": 2.94,
+   "end": 3.26
+  },
+  {
+   "w": "religious",
+   "start": 3.28,
+   "end": 3.66
+  },
+  {
+   "w": "freedom",
+   "start": 3.68,
+   "end": 3.96
+  },
+  {
+   "w": "ki",
+   "start": 3.98,
+   "end": 4.06
+  },
+  {
+   "w": "awaaz",
+   "start": 4.08,
+   "end": 4.32
+  },
+  {
+   "w": "uthane",
+   "start": 4.34,
+   "end": 4.68
+  },
+  {
+   "w": "ki",
+   "start": 4.7,
+   "end": 4.78
+  },
+  {
+   "w": "wajah",
+   "start": 4.8,
+   "end": 4.92
+  },
+  {
+   "w": "se",
+   "start": 4.94,
+   "end": 5.06
+  },
+  {
+   "w": "jail",
+   "start": 5.08,
+   "end": 5.34
+  },
+  {
+   "w": "mein",
+   "start": 5.36,
+   "end": 5.54
+  },
+  {
+   "w": "hain.",
+   "start": 5.56,
+   "end": 5.9
+  },
+  {
+   "w": "Sach",
+   "start": 5.92,
+   "end": 6.14
+  },
+  {
+   "w": "kya",
+   "start": 6.16,
+   "end": 6.34
+  },
+  {
+   "w": "hai?",
+   "start": 6.36,
+   "end": 6.78
+  },
+  {
+   "w": "India",
+   "start": 6.8,
+   "end": 6.97
+  },
+  {
+   "w": "ke",
+   "start": 6.99,
+   "end": 7.16
+  },
+  {
+   "w": "rajdoot",
+   "start": 7.18,
+   "end": 7.52
+  },
+  {
+   "w": "Vinay",
+   "start": 7.54,
+   "end": 7.82
+  },
+  {
+   "w": "Kwatra",
+   "start": 7.84,
+   "end": 8.129
+  },
+  {
+   "w": "ne",
+   "start": 8.149,
+   "end": 8.438
+  },
+  {
+   "w": "jawab",
+   "start": 8.458,
+   "end": 8.748
+  },
+  {
+   "w": "diya,",
+   "start": 8.768,
+   "end": 9.057
+  },
+  {
+   "w": "USCIRF",
+   "start": 9.077,
+   "end": 9.366
+  },
+  {
+   "w": "ko",
+   "start": 9.386,
+   "end": 9.675
+  },
+  {
+   "w": "Indian",
+   "start": 9.695,
+   "end": 9.984
+  },
+  {
+   "w": "nagrikon",
+   "start": 10.004,
+   "end": 10.294
+  },
+  {
+   "w": "ke",
+   "start": 10.314,
+   "end": 10.603
+  },
+  {
+   "w": "adhikaaron",
+   "start": 10.623,
+   "end": 10.912
+  },
+  {
+   "w": "par",
+   "start": 10.932,
+   "end": 11.221
+  },
+  {
+   "w": "faisla",
+   "start": 11.241,
+   "end": 11.53
+  },
+  {
+   "w": "sunane",
+   "start": 11.55,
+   "end": 11.839
+  },
+  {
+   "w": "ka",
+   "start": 11.859,
+   "end": 12.149
+  },
+  {
+   "w": "koi",
+   "start": 12.169,
+   "end": 12.458
+  },
+  {
+   "w": "haq",
+   "start": 12.478,
+   "end": 12.767
+  },
+  {
+   "w": "nahi.",
+   "start": 12.787,
+   "end": 13.076
+  },
+  {
+   "w": "Toh",
+   "start": 13.096,
+   "end": 13.18
+  },
+  {
+   "w": "Sharjeel",
+   "start": 13.2,
+   "end": 13.64
+  },
+  {
+   "w": "jail",
+   "start": 13.66,
+   "end": 13.88
+  },
+  {
+   "w": "mein",
+   "start": 13.9,
+   "end": 14.04
+  },
+  {
+   "w": "kyun",
+   "start": 14.06,
+   "end": 14.28
+  },
+  {
+   "w": "hain?",
+   "start": 14.3,
+   "end": 14.64
+  },
+  {
+   "w": "January",
+   "start": 14.66,
+   "end": 14.885
+  },
+  {
+   "w": "2020",
+   "start": 14.905,
+   "end": 15.62
+  },
+  {
+   "w": "se",
+   "start": 15.64,
+   "end": 15.94
+  },
+  {
+   "w": "woh",
+   "start": 15.96,
+   "end": 16.06
+  },
+  {
+   "w": "Delhi",
+   "start": 16.08,
+   "end": 16.32
+  },
+  {
+   "w": "dangon",
+   "start": 16.34,
+   "end": 16.6
+  },
+  {
+   "w": "ki",
+   "start": 16.62,
+   "end": 16.8
+  },
+  {
+   "w": "badi",
+   "start": 16.82,
+   "end": 17.04
+  },
+  {
+   "w": "saazish",
+   "start": 17.06,
+   "end": 17.37
+  },
+  {
+   "w": "wale",
+   "start": 17.39,
+   "end": 17.7
+  },
+  {
+   "w": "UAPA",
+   "start": 17.72,
+   "end": 18.2
+  },
+  {
+   "w": "case",
+   "start": 18.22,
+   "end": 18.4
+  },
+  {
+   "w": "mein",
+   "start": 18.42,
+   "end": 18.54
+  },
+  {
+   "w": "band",
+   "start": 18.56,
+   "end": 18.66
+  },
+  {
+   "w": "hain.",
+   "start": 18.68,
+   "end": 18.993
+  },
+  {
+   "w": "Supreme",
+   "start": 19.013,
+   "end": 19.256
+  },
+  {
+   "w": "Court",
+   "start": 19.276,
+   "end": 19.52
+  },
+  {
+   "w": "ne",
+   "start": 19.54,
+   "end": 19.86
+  },
+  {
+   "w": "is",
+   "start": 19.88,
+   "end": 20.08
+  },
+  {
+   "w": "saal",
+   "start": 20.1,
+   "end": 20.26
+  },
+  {
+   "w": "January",
+   "start": 20.28,
+   "end": 20.41
+  },
+  {
+   "w": "mein",
+   "start": 20.43,
+   "end": 20.56
+  },
+  {
+   "w": "unki",
+   "start": 20.58,
+   "end": 20.88
+  },
+  {
+   "w": "bail",
+   "start": 20.9,
+   "end": 21.1
+  },
+  {
+   "w": "thukra",
+   "start": 21.12,
+   "end": 21.44
+  },
+  {
+   "w": "di.",
+   "start": 21.46,
+   "end": 21.6
+  },
+  {
+   "w": "Court",
+   "start": 21.62,
+   "end": 22.16
+  },
+  {
+   "w": "ne",
+   "start": 22.18,
+   "end": 22.26
+  },
+  {
+   "w": "saazish",
+   "start": 22.28,
+   "end": 22.66
+  },
+  {
+   "w": "mein",
+   "start": 22.68,
+   "end": 22.82
+  },
+  {
+   "w": "unka",
+   "start": 22.84,
+   "end": 22.98
+  },
+  {
+   "w": "role",
+   "start": 23.0,
+   "end": 23.14
+  },
+  {
+   "w": "central",
+   "start": 23.16,
+   "end": 23.56
+  },
+  {
+   "w": "bataya.",
+   "start": 23.58,
+   "end": 24.089
+  },
+  {
+   "w": "Lekin",
+   "start": 24.109,
+   "end": 24.56
+  },
+  {
+   "w": "abhi",
+   "start": 24.58,
+   "end": 24.73
+  },
+  {
+   "w": "tak",
+   "start": 24.75,
+   "end": 24.9
+  },
+  {
+   "w": "kisi",
+   "start": 24.92,
+   "end": 25.04
+  },
+  {
+   "w": "bhi",
+   "start": 25.06,
+   "end": 25.18
+  },
+  {
+   "w": "case",
+   "start": 25.2,
+   "end": 25.48
+  },
+  {
+   "w": "mein",
+   "start": 25.5,
+   "end": 25.66
+  },
+  {
+   "w": "unhe",
+   "start": 25.68,
+   "end": 25.74
+  },
+  {
+   "w": "doshi",
+   "start": 25.76,
+   "end": 26.06
+  },
+  {
+   "w": "nahi",
+   "start": 26.08,
+   "end": 26.28
+  },
+  {
+   "w": "thehraaya",
+   "start": 26.3,
+   "end": 26.68
+  },
+  {
+   "w": "gaya.",
+   "start": 26.7,
+   "end": 27.023
+  },
+  {
+   "w": "Woh",
+   "start": 27.043,
+   "end": 27.1
+  },
+  {
+   "w": "undertrial",
+   "start": 27.12,
+   "end": 27.68
+  },
+  {
+   "w": "hain.",
+   "start": 27.7,
+   "end": 28.016
+  },
+  {
+   "w": "Matlab",
+   "start": 28.036,
+   "end": 28.44
+  },
+  {
+   "w": "jail",
+   "start": 28.46,
+   "end": 28.8
+  },
+  {
+   "w": "ki",
+   "start": 28.82,
+   "end": 28.96
+  },
+  {
+   "w": "wajah",
+   "start": 28.98,
+   "end": 29.26
+  },
+  {
+   "w": "court",
+   "start": 29.28,
+   "end": 29.56
+  },
+  {
+   "w": "record",
+   "start": 29.58,
+   "end": 29.88
+  },
+  {
+   "w": "mein",
+   "start": 29.9,
+   "end": 30.147
+  },
+  {
+   "w": "UAPA",
+   "start": 30.167,
+   "end": 30.413
+  },
+  {
+   "w": "case",
+   "start": 30.433,
+   "end": 30.68
+  },
+  {
+   "w": "hai.",
+   "start": 30.7,
+   "end": 31.253
+  },
+  {
+   "w": "Aakhri",
+   "start": 31.273,
+   "end": 31.66
+  },
+  {
+   "w": "faisla",
+   "start": 31.68,
+   "end": 32.297
+  },
+  {
+   "w": "abhi",
+   "start": 32.317,
+   "end": 32.58
+  },
+  {
+   "w": "baaki",
+   "start": 32.6,
+   "end": 32.94
+  },
+  {
+   "w": "hai.",
+   "start": 32.96,
+   "end": 33.234
+  },
+  {
+   "w": "Aap",
+   "start": 33.254,
+   "end": 33.66
+  },
+  {
+   "w": "kiski",
+   "start": 33.68,
+   "end": 34.08
+  },
+  {
+   "w": "baat",
+   "start": 34.1,
+   "end": 34.28
+  },
+  {
+   "w": "se",
+   "start": 34.3,
+   "end": 34.42
+  },
+  {
+   "w": "sehmat",
+   "start": 34.44,
+   "end": 34.99
+  },
+  {
+   "w": "ho,",
+   "start": 35.01,
+   "end": 35.56
+  },
+  {
+   "w": "USCIRF",
+   "start": 35.58,
+   "end": 36.08
+  },
+  {
+   "w": "ya",
+   "start": 36.1,
+   "end": 36.24
+  },
+  {
+   "w": "India?",
+   "start": 36.26,
+   "end": 37.049
+  },
+  {
+   "w": "Comment",
+   "start": 37.069,
+   "end": 37.32
+  },
+  {
+   "w": "karo.",
+   "start": 37.34,
+   "end": 37.975
+  }
+ ],
+ "cues": {
+  "hook": 0.0,
+  "kwatra": 6.8,
+  "jail": 13.096,
+  "sc": 19.013,
+  "twist": 24.109,
+  "verdict": 28.036,
+  "end": 33.254
+ },
+ "numbers": [
+  {
+   "show": "2020",
+   "spoken": "do hazaar bees",
+   "heard": 1.0,
+   "digit_diff": 0
+  }
+ ],
+ "heard": [
+  "अमेरिका",
+  "की",
+  "कमिषन",
+  "यूएस्टी",
+  "अईर्व",
+  "ने",
+  "कहा,",
+  "शर्जी",
+  "लिमाम",
+  "रिलजिएस",
+  "फ्रीट्व्यम",
+  "की",
+  "आबाज",
+  "उठाने",
+  "की",
+  "वज्जेस",
+  "जेल",
+  "में",
+  "है।",
+  "सच",
+  "क्या",
+  "है।",
+  "अईन्दियके",
+  "राज्दूज",
+  "विनेक",
+  "वाथ।",
+  "तो",
+  "शर्जील",
+  "जेल",
+  "में",
+  "क्यों",
+  "है",
+  "जन्वरी",
+  "2020",
+  "से",
+  "वो",
+  "दिल्ली",
+  "दंगो",
+  "की",
+  "बढ़ी",
+  "साज़िष्वाले",
+  "UAPA",
+  "केस",
+  "में",
+  "बन",
+  "दें",
+  "सुप्रीम",
+  "कोटने",
+  "इस",
+  "साल",
+  "जन्वरी",
+  "मुनकी",
+  "बेल",
+  "ठुकरा",
+  "दी",
+  "कोत",
+  "ने",
+  "साजिश",
+  "में",
+  "उनका",
+  "रोल",
+  "सेंटल",
+  "बताया",
+  "लेकिन",
+  "अभीका",
+  "किसी",
+  "केस",
+  "में",
+  "में",
+  "दोशी",
+  "नहीं",
+  "तहीर",
+  "आया",
+  "गया",
+  "वो",
+  "अंड़े",
+  "त्रायल",
+  "हैं",
+  "मदलद",
+  "जेल",
+  "की",
+  "वरजे",
+  "कोट",
+  "रिकोट",
+  "में",
+  "यूई",
+  "प्ये",
+  "के",
+  "से",
+  "आखरी",
+  "फैसला",
+  "अभी",
+  "बाखी",
+  "है",
+  "आप",
+  "किसकी",
+  "बाट",
+  "से",
+  "सैमतों",
+  "यूएस",
+  "आयरेफ",
+  ".R",
+  ".F.",
+  "या",
+  "इंटिया",
+  "कोमेट",
+  "करो"
+ ]
+}

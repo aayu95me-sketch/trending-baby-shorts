@@ -1,0 +1,28 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "Unverified factual claim about Sharjeel Imam's detention since Jan 2020",
+    "Unverified claim that Supreme Court rejected his bail in Jan 2023",
+    "Unverified claim that the court described his role as central in the conspiracy",
+    "Unverified claim that he has not been found guilty in any case"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "\"hook ki commission\" unnatural phrasing",
+    "\"dangon ki badi saazish\" sounds forced",
+    "\"Supreme@sc Court\" formatting appears odd in spoken text",
+    "\"Lekin@twist\" and \"Matlab@verdict\" tags are confusing"
+   ],
+   "one_line_verdict": "Minor compliance issues: several unverified factual claims and a few unnatural Hinglish phrases; no number mismatches; no hook options provided."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}
