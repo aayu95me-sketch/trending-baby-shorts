@@ -1,0 +1,88 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: AMAZON MGM STUDIOS, EURONEWS · 16 NOV 2026",
+ "loopTail": 0.5,
+ "scenes": [
+  {
+   "at": 0,
+   "big": "VAMPIRE → JAMES BOND?",
+   "color": "gold",
+   "tag": "ROBERT PATTINSON · 007",
+   "img": "20261117-pattinson-bond/real/news-1.jpg",
+   "fit": "blur",
+   "credit": "PHOTO VIA EURONEWS"
+  },
+  {
+   "at": "yes",
+   "big": "OFFICIAL ✔",
+   "color": "green",
+   "tag": "AMAZON MGM STUDIOS · 16 NOV 2026",
+   "img": "20261117-pattinson-bond/real/news-4.jpg",
+   "focus": "75% 40%",
+   "credit": "PHOTO VIA KOTAKU / AMAZON MGM"
+  },
+  {
+   "at": "seven",
+   "big": "7TH BOND",
+   "color": "gold",
+   "tag": "DANIEL CRAIG KI JAGAH",
+   "img": "20261117-pattinson-bond/real/wk-1.jpg",
+   "focus": "50% 25%",
+   "credit": "PHOTO VIA WIKIPEDIA"
+  },
+  {
+   "at": "team",
+   "big": "DUNE + PEAKY BLINDERS",
+   "color": "white",
+   "tag": "DENIS VILLENEUVE · STEVEN KNIGHT",
+   "img": "20261117-pattinson-bond/real/wk-2.jpg",
+   "focus": "50% 25%",
+   "credit": "PHOTO VIA WIKIPEDIA"
+  },
+  {
+   "at": "race",
+   "big": "RACE HAARE",
+   "color": "red",
+   "tag": "CALLUM TURNER · NICHOLAS HOULT · JOSH O'CONNOR",
+   "img": "20261117-pattinson-bond/real/wk-4.jpg",
+   "focus": "50% 25%",
+   "credit": "PHOTO VIA WIKIPEDIA"
+  },
+  {
+   "at": "when",
+   "big": "2028 SE PEHLE NAHI",
+   "color": "gold",
+   "tag": "SHOOTING 2027 (EXPECTED) · EURONEWS",
+   "img": "20261117-pattinson-bond/real/news-5.jpg",
+   "fit": "blur",
+   "credit": "PHOTO VIA CNN"
+  },
+  {
+   "at": "quote",
+   "big": "\"HONOUR OF A LIFETIME\"",
+   "color": "white",
+   "tag": "ROBERT PATTINSON",
+   "img": "20261117-pattinson-bond/real/wk-8.jpg",
+   "focus": "50% 25%",
+   "credit": "PHOTO: HARALD KRICHEL, CC BY-SA 4.0"
+  },
+  {
+   "at": "end",
+   "big": "SAHI CHOICE?",
+   "color": "gold",
+   "tag": "BATMAN → BOND · COMMENT KARO",
+   "img": "20261117-pattinson-bond/real/news-0.jpg",
+   "focus": "85% 40%",
+   "credit": "PHOTO VIA AMAZON MGM STUDIOS"
+  },
+  {
+   "at": "end",
+   "big": "VAMPIRE → JAMES BOND?",
+   "color": "gold",
+   "tag": "ROBERT PATTINSON · 007",
+   "img": "20261117-pattinson-bond/real/news-1.jpg",
+   "fit": "blur",
+   "credit": "PHOTO VIA EURONEWS"
+  }
+ ]
+}

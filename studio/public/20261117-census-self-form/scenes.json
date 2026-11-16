@@ -1,0 +1,88 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: MHA/RGI NOTIFICATION VIA BUSINESS STANDARD, PTI, ANI, FPJ",
+ "loopTail": 0.5,
+ "scenes": [
+  {
+   "at": 0,
+   "big": "2027 THA, ABHI KYUN?",
+   "color": "gold",
+   "tag": "CENSUS · UP · PUNJAB",
+   "img": "20261117-census-self-form/real/news-0.jpg",
+   "focus": "50% 40%",
+   "credit": "PHOTO VIA BUSINESS STANDARD"
+  },
+  {
+   "at": "why",
+   "big": "CHUNAV 2027",
+   "color": "red",
+   "tag": "UP · PUNJAB · GOA · UTTARAKHAND",
+   "img": "20261117-census-self-form/real/wk-4.jpg",
+   "fit": "blur",
+   "credit": "GRAPHIC: GARVITKAUSHIK8, CC BY-SA 4.0"
+  },
+  {
+   "at": "self",
+   "big": "16-30 NOV",
+   "color": "green",
+   "tag": "GHAR BAITHE ONLINE FORM",
+   "img": "20261117-census-self-form/real/news-4.jpg",
+   "focus": "60% 50%",
+   "credit": "IMAGE VIA PRABHAT KHABAR"
+  },
+  {
+   "at": "site",
+   "big": "se.census.gov.in",
+   "color": "white",
+   "tag": "MOBILE OTP → MEMBERS KI DETAILS",
+   "img": "20261117-census-self-form/real/wk-0.jpg",
+   "fit": "blur",
+   "credit": "CENSUS OF INDIA LOGO"
+  },
+  {
+   "at": "id",
+   "big": "SE ID SAVE KARO",
+   "color": "gold",
+   "tag": "SUBMIT KE BAAD MILEGI",
+   "img": "20261117-census-self-form/real/news-3.jpg",
+   "focus": "50% 40%",
+   "credit": "PHOTO VIA FREE PRESS JOURNAL"
+  },
+  {
+   "at": "visit",
+   "big": "1 DEC – 4 JAN",
+   "color": "gold",
+   "tag": "KARMACHARI GHAR AAYENGE",
+   "img": "20261117-census-self-form/real/news-2.jpg",
+   "focus": "40% 45%",
+   "credit": "PHOTO VIA DEVDISCOURSE (ANI)"
+  },
+  {
+   "at": "must",
+   "big": "ZAROORI NAHI",
+   "color": "green",
+   "tag": "40 SAWAL · JAATI BHI",
+   "img": "20261117-census-self-form/real/news-8.jpg",
+   "focus": "50% 50%",
+   "credit": "IMAGE VIA NATIONAL HERALD"
+  },
+  {
+   "at": "end",
+   "big": "DOST KO BHEJO",
+   "color": "gold",
+   "tag": "UP · PUNJAB · GOA · UTTARAKHAND",
+   "img": "20261117-census-self-form/real/news-0.jpg",
+   "focus": "30% 40%",
+   "credit": "PHOTO VIA BUSINESS STANDARD"
+  },
+  {
+   "at": "end",
+   "big": "2027 THA, ABHI KYUN?",
+   "color": "gold",
+   "tag": "CENSUS · UP · PUNJAB",
+   "img": "20261117-census-self-form/real/news-0.jpg",
+   "focus": "50% 40%",
+   "credit": "PHOTO VIA BUSINESS STANDARD"
+  }
+ ]
+}
