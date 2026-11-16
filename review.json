@@ -1,0 +1,30 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "Amazon MGM Studios ne aaj officially Robert Pattinson ko naya double o seven announce kiya.",
+    "Woh seven Bond banne wale saatve actor honge, aur Daniel Craig ki jagah lenge.",
+    "Film team direct karenge Dune wale Denis Villeneuve. Script likhenge Peaky Blinders wale Steven Knight.",
+    "Race mein Callum Turner, Josh O'Connor aur Nicholas Hoult jaise naam the. Bazi Pattinson ne maari.",
+    "Shooting agle saal shuru hone ki ummeed hai, aur release 2028 se pehle nahi.",
+    "Pattinson ne kaha, double o seven milna zindagi ka sabse bada samman hai."
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "\"Twilight@hook wala vampire\" unnatural phrasing",
+    "\"yes pakka\" mixed language awkward",
+    "\"double o seven\" instead of \"007\" or \"Double O Seven\"",
+    "\"Bazi Pattinson ne maari\" unnatural expression"
+   ],
+   "one_line_verdict": "Script is full of unverified rumors and several Hinglish awkward phrases; no number mismatches but needs compliance and language polishing."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}

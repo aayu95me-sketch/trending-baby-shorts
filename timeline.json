@@ -1,0 +1,714 @@
+{
+ "total": 37.026,
+ "voice": "20261117-pattinson-bond/voice.wav",
+ "lines": [
+  {
+   "start": 0.0,
+   "text": "Twilight wala vampire ab James Bond? Sach mein?",
+   "end": 2.853
+  },
+  {
+   "start": 3.3,
+   "text": "Haan pakka. Amazon MGM Studios ne aaj officially Robert Pattinson ko naya double o seven announce kiya.",
+   "end": 8.888
+  },
+  {
+   "start": 9.3,
+   "text": "Woh Bond banne wale saatve actor honge, aur Daniel Craig ki jagah lenge.",
+   "end": 12.051
+  },
+  {
+   "start": 12.44,
+   "text": "Film direct karenge Dune wale Denis Villeneuve. Script likhenge Peaky Blinders wale Steven Knight.",
+   "end": 16.582
+  },
+  {
+   "start": 16.966,
+   "text": "Race mein Callum Turner, Josh O'Connor aur Nicholas Hoult jaise naam the. Bazi Pattinson ne maari.",
+   "end": 22.089
+  },
+  {
+   "start": 22.52,
+   "text": "Kab aayegi? Shooting agle saal shuru hone ki ummeed hai, aur release 2028 se pehle nahi.",
+   "end": 27.123
+  },
+  {
+   "start": 27.5,
+   "text": "Pattinson ne kaha, double o seven milna zindagi ka sabse bada samman hai.",
+   "end": 31.215
+  },
+  {
+   "start": 31.613,
+   "text": "Batman ke baad Bond. Sahi choice ya galat? Comment karo.",
+   "end": 35.491
+  }
+ ],
+ "words": [
+  {
+   "w": "Twilight",
+   "start": 0.0,
+   "end": 0.7
+  },
+  {
+   "w": "wala",
+   "start": 0.72,
+   "end": 0.94
+  },
+  {
+   "w": "vampire",
+   "start": 0.96,
+   "end": 1.3
+  },
+  {
+   "w": "ab",
+   "start": 1.32,
+   "end": 1.44
+  },
+  {
+   "w": "James",
+   "start": 1.46,
+   "end": 1.78
+  },
+  {
+   "w": "Bond?",
+   "start": 1.8,
+   "end": 2.21
+  },
+  {
+   "w": "Sach",
+   "start": 2.23,
+   "end": 2.68
+  },
+  {
+   "w": "mein?",
+   "start": 2.7,
+   "end": 3.28
+  },
+  {
+   "w": "Haan",
+   "start": 3.3,
+   "end": 3.58
+  },
+  {
+   "w": "pakka.",
+   "start": 3.6,
+   "end": 4.26
+  },
+  {
+   "w": "Amazon",
+   "start": 4.28,
+   "end": 4.72
+  },
+  {
+   "w": "MGM",
+   "start": 4.74,
+   "end": 5.16
+  },
+  {
+   "w": "Studios",
+   "start": 5.18,
+   "end": 5.56
+  },
+  {
+   "w": "ne",
+   "start": 5.58,
+   "end": 5.8
+  },
+  {
+   "w": "aaj",
+   "start": 5.82,
+   "end": 6.08
+  },
+  {
+   "w": "officially",
+   "start": 6.1,
+   "end": 6.74
+  },
+  {
+   "w": "Robert",
+   "start": 6.76,
+   "end": 7.1
+  },
+  {
+   "w": "Pattinson",
+   "start": 7.12,
+   "end": 7.5
+  },
+  {
+   "w": "ko",
+   "start": 7.52,
+   "end": 7.64
+  },
+  {
+   "w": "naya",
+   "start": 7.66,
+   "end": 7.9
+  },
+  {
+   "w": "double",
+   "start": 7.92,
+   "end": 8.073
+  },
+  {
+   "w": "o",
+   "start": 8.093,
+   "end": 8.247
+  },
+  {
+   "w": "seven",
+   "start": 8.267,
+   "end": 8.42
+  },
+  {
+   "w": "announce",
+   "start": 8.44,
+   "end": 8.72
+  },
+  {
+   "w": "kiya.",
+   "start": 8.74,
+   "end": 9.28
+  },
+  {
+   "w": "Woh",
+   "start": 9.3,
+   "end": 9.36
+  },
+  {
+   "w": "Bond",
+   "start": 9.38,
+   "end": 9.6
+  },
+  {
+   "w": "banne",
+   "start": 9.62,
+   "end": 9.88
+  },
+  {
+   "w": "wale",
+   "start": 9.9,
+   "end": 10.22
+  },
+  {
+   "w": "saatve",
+   "start": 10.24,
+   "end": 10.3
+  },
+  {
+   "w": "actor",
+   "start": 10.32,
+   "end": 10.54
+  },
+  {
+   "w": "honge,",
+   "start": 10.56,
+   "end": 10.8
+  },
+  {
+   "w": "aur",
+   "start": 10.82,
+   "end": 10.98
+  },
+  {
+   "w": "Daniel",
+   "start": 11.0,
+   "end": 11.32
+  },
+  {
+   "w": "Craig",
+   "start": 11.34,
+   "end": 11.5
+  },
+  {
+   "w": "ki",
+   "start": 11.52,
+   "end": 11.6
+  },
+  {
+   "w": "jagah",
+   "start": 11.62,
+   "end": 11.76
+  },
+  {
+   "w": "lenge.",
+   "start": 11.78,
+   "end": 12.42
+  },
+  {
+   "w": "Film",
+   "start": 12.44,
+   "end": 12.64
+  },
+  {
+   "w": "direct",
+   "start": 12.66,
+   "end": 12.86
+  },
+  {
+   "w": "karenge",
+   "start": 12.88,
+   "end": 13.18
+  },
+  {
+   "w": "Dune",
+   "start": 13.2,
+   "end": 13.48
+  },
+  {
+   "w": "wale",
+   "start": 13.5,
+   "end": 13.68
+  },
+  {
+   "w": "Denis",
+   "start": 13.7,
+   "end": 13.92
+  },
+  {
+   "w": "Villeneuve.",
+   "start": 13.94,
+   "end": 14.597
+  },
+  {
+   "w": "Script",
+   "start": 14.617,
+   "end": 14.86
+  },
+  {
+   "w": "likhenge",
+   "start": 14.88,
+   "end": 15.24
+  },
+  {
+   "w": "Peaky",
+   "start": 15.26,
+   "end": 15.58
+  },
+  {
+   "w": "Blinders",
+   "start": 15.6,
+   "end": 15.92
+  },
+  {
+   "w": "wale",
+   "start": 15.94,
+   "end": 16.14
+  },
+  {
+   "w": "Steven",
+   "start": 16.16,
+   "end": 16.38
+  },
+  {
+   "w": "Knight.",
+   "start": 16.4,
+   "end": 16.946
+  },
+  {
+   "w": "Race",
+   "start": 16.966,
+   "end": 17.22
+  },
+  {
+   "w": "mein",
+   "start": 17.24,
+   "end": 17.72
+  },
+  {
+   "w": "Callum",
+   "start": 17.74,
+   "end": 18.0
+  },
+  {
+   "w": "Turner,",
+   "start": 18.02,
+   "end": 18.62
+  },
+  {
+   "w": "Josh",
+   "start": 18.64,
+   "end": 18.94
+  },
+  {
+   "w": "O'Connor",
+   "start": 18.96,
+   "end": 19.24
+  },
+  {
+   "w": "aur",
+   "start": 19.26,
+   "end": 19.46
+  },
+  {
+   "w": "Nicholas",
+   "start": 19.48,
+   "end": 19.84
+  },
+  {
+   "w": "Hoult",
+   "start": 19.86,
+   "end": 19.98
+  },
+  {
+   "w": "jaise",
+   "start": 20.0,
+   "end": 20.24
+  },
+  {
+   "w": "naam",
+   "start": 20.26,
+   "end": 20.4
+  },
+  {
+   "w": "the.",
+   "start": 20.42,
+   "end": 20.75
+  },
+  {
+   "w": "Bazi",
+   "start": 20.77,
+   "end": 21.347
+  },
+  {
+   "w": "Pattinson",
+   "start": 21.367,
+   "end": 21.74
+  },
+  {
+   "w": "ne",
+   "start": 21.76,
+   "end": 21.88
+  },
+  {
+   "w": "maari.",
+   "start": 21.9,
+   "end": 22.5
+  },
+  {
+   "w": "Kab",
+   "start": 22.52,
+   "end": 22.7
+  },
+  {
+   "w": "aayegi?",
+   "start": 22.72,
+   "end": 23.18
+  },
+  {
+   "w": "Shooting",
+   "start": 23.2,
+   "end": 23.5
+  },
+  {
+   "w": "agle",
+   "start": 23.52,
+   "end": 23.74
+  },
+  {
+   "w": "saal",
+   "start": 23.76,
+   "end": 23.92
+  },
+  {
+   "w": "shuru",
+   "start": 23.94,
+   "end": 24.16
+  },
+  {
+   "w": "hone",
+   "start": 24.18,
+   "end": 24.32
+  },
+  {
+   "w": "ki",
+   "start": 24.34,
+   "end": 24.42
+  },
+  {
+   "w": "ummeed",
+   "start": 24.44,
+   "end": 24.64
+  },
+  {
+   "w": "hai,",
+   "start": 24.66,
+   "end": 24.88
+  },
+  {
+   "w": "aur",
+   "start": 24.9,
+   "end": 25.32
+  },
+  {
+   "w": "release",
+   "start": 25.34,
+   "end": 25.88
+  },
+  {
+   "w": "2028",
+   "start": 25.9,
+   "end": 26.54
+  },
+  {
+   "w": "se",
+   "start": 26.56,
+   "end": 26.72
+  },
+  {
+   "w": "pehle",
+   "start": 26.74,
+   "end": 26.92
+  },
+  {
+   "w": "nahi.",
+   "start": 26.94,
+   "end": 27.48
+  },
+  {
+   "w": "Pattinson",
+   "start": 27.5,
+   "end": 27.92
+  },
+  {
+   "w": "ne",
+   "start": 27.94,
+   "end": 28.06
+  },
+  {
+   "w": "kaha,",
+   "start": 28.08,
+   "end": 28.335
+  },
+  {
+   "w": "double",
+   "start": 28.355,
+   "end": 28.61
+  },
+  {
+   "w": "o",
+   "start": 28.63,
+   "end": 28.885
+  },
+  {
+   "w": "seven",
+   "start": 28.905,
+   "end": 29.16
+  },
+  {
+   "w": "milna",
+   "start": 29.18,
+   "end": 29.52
+  },
+  {
+   "w": "zindagi",
+   "start": 29.54,
+   "end": 29.96
+  },
+  {
+   "w": "ka",
+   "start": 29.98,
+   "end": 30.22
+  },
+  {
+   "w": "sabse",
+   "start": 30.24,
+   "end": 30.56
+  },
+  {
+   "w": "bada",
+   "start": 30.58,
+   "end": 30.78
+  },
+  {
+   "w": "samman",
+   "start": 30.8,
+   "end": 31.12
+  },
+  {
+   "w": "hai.",
+   "start": 31.14,
+   "end": 31.593
+  },
+  {
+   "w": "Batman",
+   "start": 31.613,
+   "end": 32.26
+  },
+  {
+   "w": "ke",
+   "start": 32.28,
+   "end": 32.44
+  },
+  {
+   "w": "baad",
+   "start": 32.46,
+   "end": 33.02
+  },
+  {
+   "w": "Bond.",
+   "start": 33.04,
+   "end": 33.84
+  },
+  {
+   "w": "Sahi",
+   "start": 33.918,
+   "end": 34.22
+  },
+  {
+   "w": "choice",
+   "start": 34.24,
+   "end": 34.44
+  },
+  {
+   "w": "ya",
+   "start": 34.46,
+   "end": 34.5
+  },
+  {
+   "w": "galat?",
+   "start": 34.52,
+   "end": 35.02
+  },
+  {
+   "w": "Comment",
+   "start": 35.04,
+   "end": 35.32
+  },
+  {
+   "w": "karo.",
+   "start": 35.34,
+   "end": 36.026
+  }
+ ],
+ "cues": {
+  "hook": 0.0,
+  "yes": 3.3,
+  "seven": 9.3,
+  "team": 12.44,
+  "race": 16.966,
+  "when": 22.52,
+  "quote": 27.5,
+  "end": 31.613
+ },
+ "numbers": [
+  {
+   "show": "2028",
+   "spoken": "do hazaar atthaais",
+   "heard": 1.0,
+   "digit_diff": null
+  }
+ ],
+ "heard": [
+  "त्वाइलाइट",
+  "वाला",
+  "वाम्पार",
+  "अब",
+  "जेम्स",
+  "बॉंड",
+  "सच",
+  "में",
+  "हाँ",
+  "पक्का",
+  "Amazon",
+  "MGM",
+  "Studios",
+  "ने",
+  "आज",
+  "अफिशली",
+  "रोबॉर्ड",
+  "पैटेनसन",
+  "को",
+  "नया",
+  "डबाग",
+  "रहे",
+  "अनाउस",
+  "किया.",
+  "वो",
+  "बॉंट",
+  "बनने",
+  "वाले",
+  "7",
+  "वे",
+  "आक्टर",
+  "होंगे",
+  "और",
+  "डनिल",
+  "क्रेग",
+  "की",
+  "जगह",
+  "लेंगे.",
+  "फिल्म",
+  "डिरेक्ट",
+  "करेंगे",
+  "दुन",
+  "वाले",
+  "डनी",
+  "विलन",
+  "न्यू.",
+  "यू",
+  "अस्क्रिप",
+  "लेखेंगे",
+  "पीकी",
+  "ब्लांडर्स",
+  "वाले",
+  "स्टीवं",
+  "नाइट",
+  "रेस",
+  "में",
+  "कालम",
+  "टॉनर",
+  "जीफार।",
+  "Josh",
+  "O",
+  "'Connor",
+  "और",
+  "Nikolas",
+  "Hall",
+  "जैसे",
+  "नाम",
+  "थे",
+  "Baazi",
+  "Pattinson",
+  "ने",
+  "माइज़।",
+  "कभा",
+  "एगी?",
+  "शूटिंग",
+  "अगले",
+  "साल",
+  "शुरूब",
+  "होने",
+  "की",
+  "अमीद",
+  "है",
+  "और",
+  "रिलीज",
+  "दो",
+  "हजार",
+  "अथाइ",
+  "से",
+  "पहले",
+  "नहीं.",
+  "पाटिनसन",
+  "ने",
+  "कहा,",
+  "007",
+  "मिलना",
+  "जिन्दगी",
+  "का",
+  "सबसे",
+  "बढ़ा",
+  "सम्मान",
+  "है",
+  "बैटमैन",
+  "के",
+  "बाद",
+  "बौनड",
+  "सही",
+  "चौईस",
+  "है",
+  "गलत,",
+  "कौमेंट",
+  "करो"
+ ]
+}
