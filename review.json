@@ -1,0 +1,30 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "Barah crore ka Diwali Bumper result claim without source",
+    "Kul chhattees lakh ticket chhape gaye claim without source",
+    "Odds chhattees lakh mein ek chance claim without source",
+    "Prizes kul lagbhag do lakh hain claim without source",
+    "Saare ticket bike toh log ek sau assi crore lagaayenge claim without source",
+    "Inaam mein bante lagbhag adtaalees crore claim without source",
+    "Tees pratishat TDS deduction claim without source"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "chhattees (should be chhattis)",
+    "adtaalees (non‑standard word)",
+    "logge (should be logoge)"
+   ],
+   "one_line_verdict": "Script contains several unverified numeric claims and a few unnatural Hinglish terms; no hook options were provided."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}
