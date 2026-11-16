@@ -1,0 +1,23 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "The script states the census was supposed to happen in 2027, which is factually incorrect – the Indian census is conducted every 10 years (last in 2011, next scheduled for 2021/2022).",
+    "It claims that Uttar Pradesh, Punjab, Goa and Uttarakhand have elections next year, which is not true (UP 2024, Punjab 2022, Goa 2022, Uttarakhand 2022)."
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "\"self se\" sounds unnatural; a Delhi speaker would say \"self‑enumeration se\" or simply \"self‑enumeration\"."
+   ],
+   "one_line_verdict": "The script contains factual errors about census timing and upcoming state elections and a minor Hinglish awkwardness ('self se'), but otherwise follows the required format."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}

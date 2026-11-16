@@ -1,0 +1,842 @@
+{
+ "total": 42.161,
+ "voice": "20261117-census-self-form/voice.wav",
+ "lines": [
+  {
+   "start": 0.106,
+   "text": "Census toh 2027 mein hona tha. Phir UP aur Punjab mein abhi form kyun bhar rahe hain?",
+   "end": 4.617
+  },
+  {
+   "start": 5.0,
+   "text": "Kyunki UP, Punjab, Goa aur Uttarakhand mein agle saal chunav hain. Isliye wahan ginti pehle ho rahi hai.",
+   "end": 10.354
+  },
+  {
+   "start": 10.56,
+   "text": "Solah se tees November tak aap ghar baithe khud online form bhar sakte ho. Ise self enumeration kehte hain.",
+   "end": 15.761
+  },
+  {
+   "start": 16.1,
+   "text": "Website hai s e dot census dot gov dot in. Mobile OTP daalo, phir ghar ke sab logon ki details.",
+   "end": 22.359
+  },
+  {
+   "start": 22.461,
+   "text": "Submit karte hi ek SE ID milegi. Use sambhaal ke rakhna.",
+   "end": 26.473
+  },
+  {
+   "start": 26.58,
+   "text": "Ek December se chaar January tak karmachari ghar aayenge. Unhe yeh ID dikhao, details wahin se mil jaayengi.",
+   "end": 31.523
+  },
+  {
+   "start": 31.875,
+   "text": "Zaroori nahi hai. Online nahi bhara, toh karmachari ghar aakar poochenge. Is baar jaati bhi poochi jaayegi.",
+   "end": 37.92
+  },
+  {
+   "start": 37.92,
+   "text": "Apne UP, Punjab wale dost ko yeh video bhejo.",
+   "end": 40.706
+  }
+ ],
+ "words": [
+  {
+   "w": "Census",
+   "start": 0.106,
+   "end": 0.82
+  },
+  {
+   "w": "toh",
+   "start": 0.84,
+   "end": 0.96
+  },
+  {
+   "w": "2027",
+   "start": 0.98,
+   "end": 1.78
+  },
+  {
+   "w": "mein",
+   "start": 1.84,
+   "end": 2.0
+  },
+  {
+   "w": "hona",
+   "start": 2.02,
+   "end": 2.12
+  },
+  {
+   "w": "tha.",
+   "start": 2.14,
+   "end": 2.56
+  },
+  {
+   "w": "Phir",
+   "start": 2.58,
+   "end": 2.7
+  },
+  {
+   "w": "UP",
+   "start": 2.72,
+   "end": 3.1
+  },
+  {
+   "w": "aur",
+   "start": 3.12,
+   "end": 3.22
+  },
+  {
+   "w": "Punjab",
+   "start": 3.24,
+   "end": 3.58
+  },
+  {
+   "w": "mein",
+   "start": 3.6,
+   "end": 3.74
+  },
+  {
+   "w": "abhi",
+   "start": 3.76,
+   "end": 3.88
+  },
+  {
+   "w": "form",
+   "start": 3.9,
+   "end": 4.14
+  },
+  {
+   "w": "kyun",
+   "start": 4.16,
+   "end": 4.24
+  },
+  {
+   "w": "bhar",
+   "start": 4.26,
+   "end": 4.35
+  },
+  {
+   "w": "rahe",
+   "start": 4.37,
+   "end": 4.46
+  },
+  {
+   "w": "hain?",
+   "start": 4.48,
+   "end": 4.98
+  },
+  {
+   "w": "Kyunki",
+   "start": 5.0,
+   "end": 5.38
+  },
+  {
+   "w": "UP,",
+   "start": 5.4,
+   "end": 5.88
+  },
+  {
+   "w": "Punjab,",
+   "start": 5.9,
+   "end": 6.62
+  },
+  {
+   "w": "Goa",
+   "start": 6.64,
+   "end": 6.94
+  },
+  {
+   "w": "aur",
+   "start": 6.96,
+   "end": 7.08
+  },
+  {
+   "w": "Uttarakhand",
+   "start": 7.1,
+   "end": 7.48
+  },
+  {
+   "w": "mein",
+   "start": 7.5,
+   "end": 7.72
+  },
+  {
+   "w": "agle",
+   "start": 7.74,
+   "end": 7.93
+  },
+  {
+   "w": "saal",
+   "start": 7.95,
+   "end": 8.14
+  },
+  {
+   "w": "chunav",
+   "start": 8.16,
+   "end": 8.5
+  },
+  {
+   "w": "hain.",
+   "start": 8.52,
+   "end": 8.9
+  },
+  {
+   "w": "Isliye",
+   "start": 8.92,
+   "end": 9.09
+  },
+  {
+   "w": "wahan",
+   "start": 9.11,
+   "end": 9.28
+  },
+  {
+   "w": "ginti",
+   "start": 9.3,
+   "end": 9.7
+  },
+  {
+   "w": "pehle",
+   "start": 9.72,
+   "end": 10.0
+  },
+  {
+   "w": "ho",
+   "start": 10.02,
+   "end": 10.08
+  },
+  {
+   "w": "rahi",
+   "start": 10.1,
+   "end": 10.22
+  },
+  {
+   "w": "hai.",
+   "start": 10.24,
+   "end": 10.54
+  },
+  {
+   "w": "Solah",
+   "start": 10.56,
+   "end": 10.86
+  },
+  {
+   "w": "se",
+   "start": 10.88,
+   "end": 11.18
+  },
+  {
+   "w": "tees",
+   "start": 11.2,
+   "end": 11.5
+  },
+  {
+   "w": "November",
+   "start": 11.52,
+   "end": 11.92
+  },
+  {
+   "w": "tak",
+   "start": 11.94,
+   "end": 12.16
+  },
+  {
+   "w": "aap",
+   "start": 12.18,
+   "end": 12.4
+  },
+  {
+   "w": "ghar",
+   "start": 12.42,
+   "end": 12.64
+  },
+  {
+   "w": "baithe",
+   "start": 12.66,
+   "end": 12.9
+  },
+  {
+   "w": "khud",
+   "start": 12.92,
+   "end": 13.16
+  },
+  {
+   "w": "online",
+   "start": 13.18,
+   "end": 13.52
+  },
+  {
+   "w": "form",
+   "start": 13.54,
+   "end": 13.68
+  },
+  {
+   "w": "bhar",
+   "start": 13.7,
+   "end": 13.84
+  },
+  {
+   "w": "sakte",
+   "start": 13.86,
+   "end": 14.1
+  },
+  {
+   "w": "ho.",
+   "start": 14.12,
+   "end": 14.35
+  },
+  {
+   "w": "Ise",
+   "start": 14.37,
+   "end": 14.6
+  },
+  {
+   "w": "self",
+   "start": 14.62,
+   "end": 14.92
+  },
+  {
+   "w": "enumeration",
+   "start": 14.94,
+   "end": 15.4
+  },
+  {
+   "w": "kehte",
+   "start": 15.42,
+   "end": 15.68
+  },
+  {
+   "w": "hain.",
+   "start": 15.7,
+   "end": 16.08
+  },
+  {
+   "w": "Website",
+   "start": 16.1,
+   "end": 16.56
+  },
+  {
+   "w": "hai",
+   "start": 16.58,
+   "end": 16.68
+  },
+  {
+   "w": "s",
+   "start": 16.7,
+   "end": 17.02
+  },
+  {
+   "w": "e",
+   "start": 17.04,
+   "end": 17.24
+  },
+  {
+   "w": "dot",
+   "start": 17.26,
+   "end": 17.64
+  },
+  {
+   "w": "census",
+   "start": 17.66,
+   "end": 17.98
+  },
+  {
+   "w": "dot",
+   "start": 18.0,
+   "end": 18.36
+  },
+  {
+   "w": "gov",
+   "start": 18.38,
+   "end": 18.84
+  },
+  {
+   "w": "dot",
+   "start": 18.86,
+   "end": 19.02
+  },
+  {
+   "w": "in.",
+   "start": 19.04,
+   "end": 19.24
+  },
+  {
+   "w": "Mobile",
+   "start": 19.26,
+   "end": 20.06
+  },
+  {
+   "w": "OTP",
+   "start": 20.2,
+   "end": 20.54
+  },
+  {
+   "w": "daalo,",
+   "start": 20.56,
+   "end": 20.98
+  },
+  {
+   "w": "phir",
+   "start": 21.0,
+   "end": 21.12
+  },
+  {
+   "w": "ghar",
+   "start": 21.14,
+   "end": 21.32
+  },
+  {
+   "w": "ke",
+   "start": 21.34,
+   "end": 21.44
+  },
+  {
+   "w": "sab",
+   "start": 21.46,
+   "end": 21.62
+  },
+  {
+   "w": "logon",
+   "start": 21.64,
+   "end": 21.78
+  },
+  {
+   "w": "ki",
+   "start": 21.8,
+   "end": 21.9
+  },
+  {
+   "w": "details.",
+   "start": 21.92,
+   "end": 22.441
+  },
+  {
+   "w": "Submit",
+   "start": 22.461,
+   "end": 23.2
+  },
+  {
+   "w": "karte",
+   "start": 23.22,
+   "end": 23.52
+  },
+  {
+   "w": "hi",
+   "start": 23.54,
+   "end": 23.9
+  },
+  {
+   "w": "ek",
+   "start": 23.92,
+   "end": 24.04
+  },
+  {
+   "w": "SE",
+   "start": 24.06,
+   "end": 24.29
+  },
+  {
+   "w": "ID",
+   "start": 24.31,
+   "end": 24.54
+  },
+  {
+   "w": "milegi.",
+   "start": 24.56,
+   "end": 25.011
+  },
+  {
+   "w": "Use",
+   "start": 25.031,
+   "end": 25.2
+  },
+  {
+   "w": "sambhaal",
+   "start": 25.22,
+   "end": 25.54
+  },
+  {
+   "w": "ke",
+   "start": 25.56,
+   "end": 25.64
+  },
+  {
+   "w": "rakhna.",
+   "start": 25.66,
+   "end": 26.46
+  },
+  {
+   "w": "Ek",
+   "start": 26.58,
+   "end": 26.8
+  },
+  {
+   "w": "December",
+   "start": 26.82,
+   "end": 27.2
+  },
+  {
+   "w": "se",
+   "start": 27.22,
+   "end": 27.36
+  },
+  {
+   "w": "chaar",
+   "start": 27.38,
+   "end": 27.62
+  },
+  {
+   "w": "January",
+   "start": 27.64,
+   "end": 27.9
+  },
+  {
+   "w": "tak",
+   "start": 27.92,
+   "end": 28.08
+  },
+  {
+   "w": "karmachari",
+   "start": 28.1,
+   "end": 28.28
+  },
+  {
+   "w": "ghar",
+   "start": 28.3,
+   "end": 28.48
+  },
+  {
+   "w": "aayenge.",
+   "start": 28.5,
+   "end": 29.24
+  },
+  {
+   "w": "Unhe",
+   "start": 29.26,
+   "end": 29.44
+  },
+  {
+   "w": "yeh",
+   "start": 29.46,
+   "end": 29.52
+  },
+  {
+   "w": "ID",
+   "start": 29.54,
+   "end": 29.76
+  },
+  {
+   "w": "dikhao,",
+   "start": 29.78,
+   "end": 30.349
+  },
+  {
+   "w": "details",
+   "start": 30.369,
+   "end": 30.624
+  },
+  {
+   "w": "wahin",
+   "start": 30.644,
+   "end": 30.9
+  },
+  {
+   "w": "se",
+   "start": 30.92,
+   "end": 30.97
+  },
+  {
+   "w": "mil",
+   "start": 30.99,
+   "end": 31.04
+  },
+  {
+   "w": "jaayengi.",
+   "start": 31.06,
+   "end": 31.855
+  },
+  {
+   "w": "Zaroori",
+   "start": 31.875,
+   "end": 32.3
+  },
+  {
+   "w": "nahi",
+   "start": 32.32,
+   "end": 33.043
+  },
+  {
+   "w": "hai.",
+   "start": 33.063,
+   "end": 33.043
+  },
+  {
+   "w": "Online",
+   "start": 33.063,
+   "end": 33.44
+  },
+  {
+   "w": "nahi",
+   "start": 33.46,
+   "end": 33.76
+  },
+  {
+   "w": "bhara,",
+   "start": 33.78,
+   "end": 34.18
+  },
+  {
+   "w": "toh",
+   "start": 34.2,
+   "end": 34.42
+  },
+  {
+   "w": "karmachari",
+   "start": 34.44,
+   "end": 34.98
+  },
+  {
+   "w": "ghar",
+   "start": 35.0,
+   "end": 35.22
+  },
+  {
+   "w": "aakar",
+   "start": 35.24,
+   "end": 35.46
+  },
+  {
+   "w": "poochenge.",
+   "start": 35.48,
+   "end": 36.28
+  },
+  {
+   "w": "Is",
+   "start": 36.32,
+   "end": 36.48
+  },
+  {
+   "w": "baar",
+   "start": 36.5,
+   "end": 36.7
+  },
+  {
+   "w": "jaati",
+   "start": 36.72,
+   "end": 37.14
+  },
+  {
+   "w": "bhi",
+   "start": 37.16,
+   "end": 37.28
+  },
+  {
+   "w": "poochi",
+   "start": 37.3,
+   "end": 37.58
+  },
+  {
+   "w": "jaayegi.",
+   "start": 37.6,
+   "end": 37.9
+  },
+  {
+   "w": "Apne",
+   "start": 37.92,
+   "end": 38.72
+  },
+  {
+   "w": "UP,",
+   "start": 38.8,
+   "end": 39.06
+  },
+  {
+   "w": "Punjab",
+   "start": 39.08,
+   "end": 39.46
+  },
+  {
+   "w": "wale",
+   "start": 39.48,
+   "end": 39.66
+  },
+  {
+   "w": "dost",
+   "start": 39.68,
+   "end": 39.9
+  },
+  {
+   "w": "ko",
+   "start": 39.92,
+   "end": 40.04
+  },
+  {
+   "w": "yeh",
+   "start": 40.06,
+   "end": 40.14
+  },
+  {
+   "w": "video",
+   "start": 40.16,
+   "end": 40.38
+  },
+  {
+   "w": "bhejo.",
+   "start": 40.4,
+   "end": 41.161
+  }
+ ],
+ "cues": {
+  "hook": 0.106,
+  "why": 5.0,
+  "self": 10.56,
+  "site": 16.1,
+  "id": 22.461,
+  "visit": 26.58,
+  "must": 31.875,
+  "end": 37.92
+ },
+ "numbers": [
+  {
+   "show": "2027",
+   "spoken": "do hazaar sattaais",
+   "heard": 0.67,
+   "digit_diff": null
+  }
+ ],
+ "heard": [
+  "स्चिन्सिस",
+  "तो",
+  "दो",
+  "जाएच",
+  "तरट्बटीस",
+  "में",
+  "एना",
+  "था",
+  "fault.",
+  "फिर",
+  "यूपि",
+  "और",
+  "पंजढब",
+  "मैं",
+  "आभी",
+  "फोम",
+  "कि",
+  "भ़र",
+  "रें?",
+  "किंकी",
+  "यूपि",
+  "पंजढब,",
+  "गोवा",
+  "और",
+  "उट्राकण",
+  "में",
+  "अगल",
+  "आस्चिटूग।",
+  "चुनाव",
+  "है.",
+  "इसी",
+  "लिए",
+  "वागिन्ती",
+  "पहले",
+  "हो",
+  "रही",
+  "है.",
+  "16",
+  "-30",
+  "नवेंवर",
+  "तक",
+  "आप",
+  "गर",
+  "बैटे",
+  "खुद",
+  "अन्लाईं",
+  "फुम",
+  "बर",
+  "सकते",
+  "हो.",
+  "सेल्फ",
+  "इनुमरेशन",
+  "क्याते",
+  "हैं",
+  "वेबसाइत",
+  "है",
+  "s",
+  "-e",
+  "dot",
+  "census",
+  "dot",
+  "gov",
+  "dot",
+  "in",
+  "मोबाईल",
+  "अटिपी",
+  "डालो",
+  "फिर",
+  "गर",
+  "के",
+  "सब",
+  "लोगो",
+  "की",
+  "दीख",
+  "सब",
+  "मिट",
+  "करते",
+  "ही",
+  "एक",
+  "एक",
+  "सी",
+  "अईटी",
+  "मिलेगी",
+  "उसे",
+  "संभाल",
+  "के",
+  "रखना",
+  "एक",
+  "दिसमबर",
+  "से",
+  "चार्ज",
+  "जनवरी",
+  "तक",
+  "करम्चारी",
+  "गाराएंगे",
+  "उने",
+  "ये",
+  "अईदिय",
+  "दिखाओ,",
+  "दीटेलज",
+  "भैई",
+  "से",
+  "मिलजेंगी",
+  "जरूरी",
+  "नहीं",
+  "है,",
+  "अनलाई",
+  "नहीं",
+  "भ़ा,",
+  "तो",
+  "करमचारी",
+  "ग़ाएंगे",
+  "पूछेंगे,",
+  "इस",
+  "भर",
+  "जाती",
+  "भी",
+  "पूछी",
+  "जाएगी",
+  "अपने",
+  "U",
+  ".P.",
+  "पंजाव",
+  "वाले",
+  "दोस",
+  "को",
+  "ये",
+  "वीडियो",
+  "बेजो"
+ ]
+}
