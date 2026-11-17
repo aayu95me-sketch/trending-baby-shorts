@@ -9,7 +9,7 @@
    "color": "gold",
    "tag": "INDIA vs PAKISTAN · SAFF FINAL (FOOTBALL)",
    "img": "20261118-ind-vs-pak-saff-final/real/news-0.jpg",
-   "focus": "40% 30%",
+   "focus": "35% 15%",
    "credit": "PHOTO VIA BUSINESS UPTURN"
   },
   {
@@ -31,9 +31,9 @@
     "suffix": "th",
     "label": "INDIA KA SAFF TITLE"
    },
-   "img": "20261118-ind-vs-pak-saff-final/real/news-3.jpg",
-   "focus": "40% 30%",
-   "credit": "PHOTO VIA OUTLOOK INDIA"
+   "img": "20261118-ind-vs-pak-saff-final/real/wk-0.jpg",
+   "credit": "LOGO: AIFF VIA WIKIPEDIA",
+   "fit": "blur"
   },
   {
    "at": "first",
@@ -66,9 +66,9 @@
    "at": "end",
    "big": "FOOTBALL BHI DEKHOGE?",
    "color": "gold",
-   "tag": "COMMENT KARO 👇",
+   "tag": "COMMENT KARO",
    "img": "20261118-ind-vs-pak-saff-final/real/news-0.jpg",
-   "focus": "80% 30%",
+   "focus": "60% 15%",
    "credit": "PHOTO VIA BUSINESS UPTURN"
   },
   {
@@ -77,7 +77,7 @@
    "color": "gold",
    "tag": "INDIA vs PAKISTAN · SAFF FINAL (FOOTBALL)",
    "img": "20261118-ind-vs-pak-saff-final/real/news-0.jpg",
-   "focus": "40% 30%",
+   "focus": "35% 15%",
    "credit": "PHOTO VIA BUSINESS UPTURN"
   }
  ]
