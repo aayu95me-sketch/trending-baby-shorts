@@ -1,0 +1,22 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "where",
+    "official Civil Protection",
+    "hook"
+   ],
+   "one_line_verdict": "Script is clean with no factual or compliance issues, but lacks a defined hook and contains a few unnaturally mixed English words."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}
