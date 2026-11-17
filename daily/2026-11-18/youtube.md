@@ -3,7 +3,7 @@ Rule: max 3 a day, at least 3 h apart. 18 Nov had nothing scheduled. Planned: SA
 Every description ends with the channel footer from the upload defaults (AI voice disclosure). "Altered content" answer: No (AI narration only).
 Skipped from the CSV: IPL retention list (merged into the Dhoni reel, same doubt), Sri Lanka vs Pakistan (2nd Test in Rawalpindi still on, no India link), Doomsday tickets (no confirmed India booking date found), Microsoft 60,000 buyout (2K+ volume, low India pull), Vijay Antony (no clear news or doubt).
 
-## 1. India vs Pakistan SAFF final, 08:00 IST 18 Nov (morning after the final)
+## 1. India vs Pakistan SAFF final, 08:00 IST 18 Nov (morning after the final) (4-ig0iKmD_M)
 File: 20261118-ind-vs-pak-saff-final
 Title: India vs Pakistan football final: kaun jeeta, score kya? ⚽ #shorts
 Description:
@@ -15,7 +15,7 @@ Tags: india vs pakistan football, saff championship 2026, saff final, ind vs pak
 Pinned comment: Cricket ki tarah India-Pakistan football bhi dekhoge? 👇
 Related video: India vs Maldives SAFF (5YcF_zWZtgo).
 
-## 2. Mexico pterodactyl: real or AI, 12:00 IST 18 Nov
+## 2. Mexico pterodactyl: real or AI, 12:00 IST 18 Nov (QQ5mUOKvQY0)
 File: 20261118-mexico-pterodactyl
 Title: Mexico mein udta dinosaur? Viral pterodactyl video ka sach 🦖 #shorts
 Description:
@@ -27,7 +27,7 @@ Tags: pterodactyl mexico, mexico dinosaur, pterodactyl dinosaur mexico, flying d
 Pinned comment: Pehli baar dekh kar aapko kya laga, asli ya AI? 👇
 Related video: Starship tower catch (DC3poMXoCbI).
 
-## 3. Dhoni retires, CSK mentor, 19:00 IST 18 Nov (strongest evening slot)
+## 3. Dhoni retires, CSK mentor, 19:00 IST 18 Nov (strongest evening slot) (2a2L7hBvLVU)
 File: 20261118-dhoni-retires
 Title: Dhoni retire hue ya CSK ne release kiya? Asli sach 💛 #shorts
 Description:
