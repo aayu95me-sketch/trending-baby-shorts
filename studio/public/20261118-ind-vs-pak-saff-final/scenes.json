@@ -1,0 +1,84 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: INDIA TV, NEW AGE, BUSINESS UPTURN · 17 NOV 2026",
+ "loopTail": 0.5,
+ "scenes": [
+  {
+   "at": 0,
+   "big": "KAUN JEETA?",
+   "color": "gold",
+   "tag": "INDIA vs PAKISTAN · SAFF FINAL (FOOTBALL)",
+   "img": "20261118-ind-vs-pak-saff-final/real/news-0.jpg",
+   "focus": "40% 30%",
+   "credit": "PHOTO VIA BUSINESS UPTURN"
+  },
+  {
+   "at": "yes",
+   "tag": "DHAKA · SAFF CHAMPIONSHIP FINAL · 17 NOV",
+   "big": "INDIA 2-1 PAKISTAN",
+   "color": "green",
+   "img": "20261118-ind-vs-pak-saff-final/real/news-2.jpg",
+   "fit": "blur",
+   "credit": "GRAPHIC VIA KHEL NOW"
+  },
+  {
+   "at": "record",
+   "tag": "KISI BHI TEAM SE ZYADA",
+   "counter": {
+    "from": 0,
+    "to": 10,
+    "prefix": "",
+    "suffix": "th",
+    "label": "INDIA KA SAFF TITLE"
+   },
+   "img": "20261118-ind-vs-pak-saff-final/real/news-3.jpg",
+   "focus": "40% 30%",
+   "credit": "PHOTO VIA OUTLOOK INDIA"
+  },
+  {
+   "at": "first",
+   "big": "PAK KA PEHLA FINAL",
+   "color": "white",
+   "tag": "SEMI MEIN HOST BANGLADESH 1-0 SE HARA",
+   "img": "20261118-ind-vs-pak-saff-final/real/news-5.jpg",
+   "focus": "50% 35%",
+   "credit": "PHOTO VIA PROTHOM ALO"
+  },
+  {
+   "at": "twist",
+   "big": "DO BAAR HARAYA",
+   "color": "gold",
+   "tag": "GROUP MATCH 5 NOV: INDIA 3-2 PAKISTAN",
+   "img": "20261118-ind-vs-pak-saff-final/real/news-4.jpg",
+   "fit": "blur",
+   "credit": "PHOTO VIA EXPRESS TRIBUNE"
+  },
+  {
+   "at": "zero",
+   "big": "PAK: 0 SAFF TITLE",
+   "color": "red",
+   "tag": "INDIA: 10 TITLE · PAKISTAN: 0",
+   "img": "20261118-ind-vs-pak-saff-final/real/wk-2.jpg",
+   "focus": "50% 50%",
+   "credit": "PHOTO VIA WIKIPEDIA (NATIONAL STADIUM, DHAKA)"
+  },
+  {
+   "at": "end",
+   "big": "FOOTBALL BHI DEKHOGE?",
+   "color": "gold",
+   "tag": "COMMENT KARO 👇",
+   "img": "20261118-ind-vs-pak-saff-final/real/news-0.jpg",
+   "focus": "80% 30%",
+   "credit": "PHOTO VIA BUSINESS UPTURN"
+  },
+  {
+   "at": "end",
+   "big": "KAUN JEETA?",
+   "color": "gold",
+   "tag": "INDIA vs PAKISTAN · SAFF FINAL (FOOTBALL)",
+   "img": "20261118-ind-vs-pak-saff-final/real/news-0.jpg",
+   "focus": "40% 30%",
+   "credit": "PHOTO VIA BUSINESS UPTURN"
+  }
+ ]
+}

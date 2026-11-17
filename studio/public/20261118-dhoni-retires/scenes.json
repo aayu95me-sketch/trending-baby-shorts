@@ -1,0 +1,93 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: CSK (VIA THE NATIONAL, TNM, ONMANORAMA) · 17 NOV 2026",
+ "loopTail": 0.5,
+ "scenes": [
+  {
+   "at": 0,
+   "big": "RETIRE YA RELEASE?",
+   "color": "gold",
+   "tag": "MS DHONI · CSK · IPL 2027 RETENTION",
+   "img": "20261118-dhoni-retires/real/news-0.jpg",
+   "focus": "30% 35%",
+   "credit": "PHOTO VIA THE NATIONAL / AFP"
+  },
+  {
+   "at": "yes",
+   "big": "RETIRED → MENTOR",
+   "color": "green",
+   "tag": "CSK OFFICIAL · 17 NOV 2026",
+   "img": "20261118-dhoni-retires/real/news-2.jpg",
+   "focus": "50% 30%",
+   "credit": "PHOTO VIA THE NEWS MINUTE"
+  },
+  {
+   "at": "list",
+   "big": "RELEASE ≠ DROP",
+   "color": "white",
+   "tag": "AB KHILADI NAHI · ISLIYE LIST MEIN NAAM",
+   "img": "20261118-dhoni-retires/real/wk-0.jpg",
+   "focus": "50% 30%",
+   "credit": "PHOTO: RIGI 2023, CC BY 3.0"
+  },
+  {
+   "at": "last",
+   "big": "AAKHRI MATCH: MAY 2025",
+   "color": "gold",
+   "tag": "IPL 2026 MEIN EK BHI MATCH NAHI",
+   "img": "20261118-dhoni-retires/real/news-5.jpg",
+   "focus": "40% 30%",
+   "credit": "PHOTO VIA SUNDAY GUARDIAN"
+  },
+  {
+   "at": "titles",
+   "tag": "272 MATCH · CSK MEIN SABSE ZYADA",
+   "counter": {
+    "from": 0,
+    "to": 5,
+    "prefix": "",
+    "suffix": " IPL TROPHY",
+    "label": "CSK KE LIYE"
+   },
+   "img": "20261118-dhoni-retires/real/news-3.jpg",
+   "focus": "30% 50%",
+   "credit": "PHOTO VIA NEWSGRAM"
+  },
+  {
+   "at": "quote",
+   "big": "\"CSK FAMILY KA HISSA\"",
+   "color": "white",
+   "tag": "RUPA GURUNATH · CSK CO-OWNER",
+   "img": "20261118-dhoni-retires/real/news-4.jpg",
+   "focus": "40% 30%",
+   "credit": "PHOTO VIA FREE PRESS JOURNAL"
+  },
+  {
+   "at": "next",
+   "big": "RUTURAJ · SANJU RETAIN",
+   "color": "gold",
+   "tag": "LIAM LIVINGSTONE TRADE SE CSK MEIN",
+   "img": "20261118-dhoni-retires/real/news-6.jpg",
+   "fit": "blur",
+   "credit": "GRAPHIC VIA CRICKETWINNER"
+  },
+  {
+   "at": "end",
+   "big": "THALA KA BEST PAL?",
+   "color": "gold",
+   "tag": "COMMENT KARO · #ENDRUMTHALA",
+   "img": "20261118-dhoni-retires/real/news-1.jpg",
+   "focus": "30% 35%",
+   "credit": "PHOTO VIA ONMANORAMA"
+  },
+  {
+   "at": "end",
+   "big": "RETIRE YA RELEASE?",
+   "color": "gold",
+   "tag": "MS DHONI · CSK · IPL 2027 RETENTION",
+   "img": "20261118-dhoni-retires/real/news-0.jpg",
+   "focus": "30% 35%",
+   "credit": "PHOTO VIA THE NATIONAL / AFP"
+  }
+ ]
+}
