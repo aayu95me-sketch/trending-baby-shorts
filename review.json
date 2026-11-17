@@ -1,0 +1,26 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "Claim that MS Dhoni has retired from playing and is now a mentor – unverified/rumour",
+    "Statement that Dhoni’s last match was in May 2025 – unverified",
+    "Assertion that CSK holds five IPL trophies and the most matches played – presented without source"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "\"sabse zyada match\" should be \"sabse zyada matches\"",
+    "use of \"hook\" as a spoken word feels unnatural",
+    "\"retain hue\" is slightly awkward for Delhi youth"
+   ],
+   "one_line_verdict": "Script is clear but contains unverified claims about Dhoni’s retirement/last match and a few awkward Hinglish phrases."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}

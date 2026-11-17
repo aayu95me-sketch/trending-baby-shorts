@@ -1,0 +1,758 @@
+{
+ "total": 41.468,
+ "voice": "20261118-dhoni-retires/voice.wav",
+ "lines": [
+  {
+   "start": 0.199,
+   "text": "Dhoni ne sach mein IPL chhod diya? Ya CSK ne unhe release kar diya?",
+   "end": 4.36
+  },
+  {
+   "start": 4.62,
+   "text": "Haan retire ho gaye. Retention ke din CSK ne khud announce kiya, ab Dhoni player nahi, team ke mentor honge.",
+   "end": 7.56
+  },
+  {
+   "start": 7.56,
+   "text": "Release mein naam isliye aaya, kyunki woh ab khiladi nahi rahe. CSK ne unhe nikaala nahi.",
+   "end": 17.462
+  },
+  {
+   "start": 17.462,
+   "text": "Aakhri match unhone May 2025 mein khela tha. Pichhle season ek bhi match nahi khela.",
+   "end": 21.267
+  },
+  {
+   "start": 21.553,
+   "text": "CSK ke liye paanch IPL trophy, aur franchise ke liye sabse zyada match.",
+   "end": 26.86
+  },
+  {
+   "start": 26.86,
+   "text": "Co-owner Rupa Gurunath ne kaha, MS mentor ban kar CSK family ka hissa rahenge.",
+   "end": 30.76
+  },
+  {
+   "start": 30.76,
+   "text": "Aage Ruturaj Gaikwad aur Sanju Samson retain hue.",
+   "end": 33.949
+  },
+  {
+   "start": 34.294,
+   "text": "Thala ka sabse yaadgaar pal kaunsa tha? Comment karo, aur us dost ko bhejo jo soch raha tha Dhoni ko nikaal diya.",
+   "end": 40.069
+  }
+ ],
+ "words": [
+  {
+   "w": "Dhoni",
+   "start": 0.199,
+   "end": 0.58
+  },
+  {
+   "w": "ne",
+   "start": 0.6,
+   "end": 0.74
+  },
+  {
+   "w": "sach",
+   "start": 0.76,
+   "end": 1.08
+  },
+  {
+   "w": "mein",
+   "start": 1.1,
+   "end": 1.26
+  },
+  {
+   "w": "IPL",
+   "start": 1.28,
+   "end": 1.56
+  },
+  {
+   "w": "chhod",
+   "start": 1.58,
+   "end": 1.88
+  },
+  {
+   "w": "diya?",
+   "start": 1.9,
+   "end": 2.524
+  },
+  {
+   "w": "Ya",
+   "start": 2.544,
+   "end": 2.922
+  },
+  {
+   "w": "CSK",
+   "start": 2.942,
+   "end": 3.32
+  },
+  {
+   "w": "ne",
+   "start": 3.34,
+   "end": 3.44
+  },
+  {
+   "w": "unhe",
+   "start": 3.46,
+   "end": 3.62
+  },
+  {
+   "w": "release",
+   "start": 3.64,
+   "end": 3.96
+  },
+  {
+   "w": "kar",
+   "start": 3.98,
+   "end": 4.12
+  },
+  {
+   "w": "diya?",
+   "start": 4.14,
+   "end": 4.6
+  },
+  {
+   "w": "Haan",
+   "start": 4.62,
+   "end": 5.08
+  },
+  {
+   "w": "retire",
+   "start": 5.1,
+   "end": 5.6
+  },
+  {
+   "w": "ho",
+   "start": 5.62,
+   "end": 5.812
+  },
+  {
+   "w": "gaye.",
+   "start": 5.832,
+   "end": 6.023
+  },
+  {
+   "w": "Retention",
+   "start": 6.043,
+   "end": 6.76
+  },
+  {
+   "w": "ke",
+   "start": 6.78,
+   "end": 6.78
+  },
+  {
+   "w": "din",
+   "start": 6.8,
+   "end": 6.8
+  },
+  {
+   "w": "CSK",
+   "start": 6.82,
+   "end": 6.82
+  },
+  {
+   "w": "ne",
+   "start": 6.84,
+   "end": 6.84
+  },
+  {
+   "w": "khud",
+   "start": 6.86,
+   "end": 6.86
+  },
+  {
+   "w": "announce",
+   "start": 6.88,
+   "end": 6.88
+  },
+  {
+   "w": "kiya,",
+   "start": 6.9,
+   "end": 6.9
+  },
+  {
+   "w": "ab",
+   "start": 6.92,
+   "end": 6.92
+  },
+  {
+   "w": "Dhoni",
+   "start": 6.94,
+   "end": 7.01
+  },
+  {
+   "w": "player",
+   "start": 7.03,
+   "end": 7.1
+  },
+  {
+   "w": "nahi,",
+   "start": 7.12,
+   "end": 7.29
+  },
+  {
+   "w": "team",
+   "start": 7.31,
+   "end": 7.48
+  },
+  {
+   "w": "ke",
+   "start": 7.5,
+   "end": 7.5
+  },
+  {
+   "w": "mentor",
+   "start": 7.52,
+   "end": 7.52
+  },
+  {
+   "w": "honge.",
+   "start": 7.54,
+   "end": 7.54
+  },
+  {
+   "w": "Release",
+   "start": 7.56,
+   "end": 7.56
+  },
+  {
+   "w": "mein",
+   "start": 7.58,
+   "end": 7.58
+  },
+  {
+   "w": "naam",
+   "start": 7.6,
+   "end": 7.62
+  },
+  {
+   "w": "isliye",
+   "start": 7.64,
+   "end": 7.66
+  },
+  {
+   "w": "aaya,",
+   "start": 7.68,
+   "end": 7.88
+  },
+  {
+   "w": "kyunki",
+   "start": 7.9,
+   "end": 8.7
+  },
+  {
+   "w": "woh",
+   "start": 10.673,
+   "end": 11.473
+  },
+  {
+   "w": "ab",
+   "start": 13.447,
+   "end": 14.247
+  },
+  {
+   "w": "khiladi",
+   "start": 16.22,
+   "end": 16.72
+  },
+  {
+   "w": "nahi",
+   "start": 16.74,
+   "end": 17.0
+  },
+  {
+   "w": "rahe.",
+   "start": 17.02,
+   "end": 17.09
+  },
+  {
+   "w": "CSK",
+   "start": 17.11,
+   "end": 17.18
+  },
+  {
+   "w": "ne",
+   "start": 17.2,
+   "end": 17.3
+  },
+  {
+   "w": "unhe",
+   "start": 17.32,
+   "end": 17.347
+  },
+  {
+   "w": "nikaala",
+   "start": 17.367,
+   "end": 17.395
+  },
+  {
+   "w": "nahi.",
+   "start": 17.415,
+   "end": 17.442
+  },
+  {
+   "w": "Aakhri",
+   "start": 17.462,
+   "end": 17.49
+  },
+  {
+   "w": "match",
+   "start": 17.51,
+   "end": 17.538
+  },
+  {
+   "w": "unhone",
+   "start": 17.558,
+   "end": 17.585
+  },
+  {
+   "w": "May",
+   "start": 17.605,
+   "end": 17.632
+  },
+  {
+   "w": "2025",
+   "start": 17.652,
+   "end": 18.452
+  },
+  {
+   "w": "mein",
+   "start": 18.5,
+   "end": 18.62
+  },
+  {
+   "w": "khela",
+   "start": 18.64,
+   "end": 18.88
+  },
+  {
+   "w": "tha.",
+   "start": 18.9,
+   "end": 19.3
+  },
+  {
+   "w": "Pichhle",
+   "start": 19.32,
+   "end": 19.66
+  },
+  {
+   "w": "season",
+   "start": 19.68,
+   "end": 20.241
+  },
+  {
+   "w": "ek",
+   "start": 20.261,
+   "end": 20.48
+  },
+  {
+   "w": "bhi",
+   "start": 20.5,
+   "end": 20.62
+  },
+  {
+   "w": "match",
+   "start": 20.64,
+   "end": 20.82
+  },
+  {
+   "w": "nahi",
+   "start": 20.84,
+   "end": 20.94
+  },
+  {
+   "w": "khela.",
+   "start": 20.96,
+   "end": 21.533
+  },
+  {
+   "w": "CSK",
+   "start": 21.553,
+   "end": 22.127
+  },
+  {
+   "w": "ke",
+   "start": 22.147,
+   "end": 22.72
+  },
+  {
+   "w": "liye",
+   "start": 22.74,
+   "end": 23.313
+  },
+  {
+   "w": "paanch",
+   "start": 23.333,
+   "end": 23.907
+  },
+  {
+   "w": "IPL",
+   "start": 23.927,
+   "end": 24.5
+  },
+  {
+   "w": "trophy,",
+   "start": 24.52,
+   "end": 25.093
+  },
+  {
+   "w": "aur",
+   "start": 25.113,
+   "end": 25.687
+  },
+  {
+   "w": "franchise",
+   "start": 25.707,
+   "end": 26.28
+  },
+  {
+   "w": "ke",
+   "start": 26.3,
+   "end": 26.392
+  },
+  {
+   "w": "liye",
+   "start": 26.412,
+   "end": 26.504
+  },
+  {
+   "w": "sabse",
+   "start": 26.524,
+   "end": 26.616
+  },
+  {
+   "w": "zyada",
+   "start": 26.636,
+   "end": 26.728
+  },
+  {
+   "w": "match.",
+   "start": 26.748,
+   "end": 26.84
+  },
+  {
+   "w": "Co-owner",
+   "start": 26.86,
+   "end": 27.1
+  },
+  {
+   "w": "Rupa",
+   "start": 27.12,
+   "end": 27.4
+  },
+  {
+   "w": "Gurunath",
+   "start": 27.42,
+   "end": 27.7
+  },
+  {
+   "w": "ne",
+   "start": 27.72,
+   "end": 27.86
+  },
+  {
+   "w": "kaha,",
+   "start": 27.88,
+   "end": 27.882
+  },
+  {
+   "w": "MS",
+   "start": 27.902,
+   "end": 27.905
+  },
+  {
+   "w": "mentor",
+   "start": 27.925,
+   "end": 27.927
+  },
+  {
+   "w": "ban",
+   "start": 27.947,
+   "end": 27.95
+  },
+  {
+   "w": "kar",
+   "start": 27.97,
+   "end": 27.972
+  },
+  {
+   "w": "CSK",
+   "start": 27.992,
+   "end": 27.995
+  },
+  {
+   "w": "family",
+   "start": 28.015,
+   "end": 28.017
+  },
+  {
+   "w": "ka",
+   "start": 28.037,
+   "end": 28.04
+  },
+  {
+   "w": "hissa",
+   "start": 28.06,
+   "end": 28.7
+  },
+  {
+   "w": "rahenge.",
+   "start": 28.72,
+   "end": 29.52
+  },
+  {
+   "w": "Aage",
+   "start": 30.76,
+   "end": 31.46
+  },
+  {
+   "w": "Ruturaj",
+   "start": 31.48,
+   "end": 31.9
+  },
+  {
+   "w": "Gaikwad",
+   "start": 31.92,
+   "end": 32.42
+  },
+  {
+   "w": "aur",
+   "start": 32.44,
+   "end": 32.54
+  },
+  {
+   "w": "Sanju",
+   "start": 32.56,
+   "end": 32.9
+  },
+  {
+   "w": "Samson",
+   "start": 32.92,
+   "end": 33.34
+  },
+  {
+   "w": "retain",
+   "start": 33.36,
+   "end": 33.7
+  },
+  {
+   "w": "hue.",
+   "start": 33.72,
+   "end": 34.274
+  },
+  {
+   "w": "Thala",
+   "start": 34.294,
+   "end": 34.74
+  },
+  {
+   "w": "ka",
+   "start": 34.76,
+   "end": 34.9
+  },
+  {
+   "w": "sabse",
+   "start": 34.92,
+   "end": 35.173
+  },
+  {
+   "w": "yaadgaar",
+   "start": 35.193,
+   "end": 35.447
+  },
+  {
+   "w": "pal",
+   "start": 35.467,
+   "end": 35.72
+  },
+  {
+   "w": "kaunsa",
+   "start": 35.74,
+   "end": 36.04
+  },
+  {
+   "w": "tha?",
+   "start": 36.06,
+   "end": 36.533
+  },
+  {
+   "w": "Comment",
+   "start": 36.553,
+   "end": 36.88
+  },
+  {
+   "w": "karo,",
+   "start": 36.9,
+   "end": 37.12
+  },
+  {
+   "w": "aur",
+   "start": 37.14,
+   "end": 37.58
+  },
+  {
+   "w": "us",
+   "start": 37.6,
+   "end": 37.82
+  },
+  {
+   "w": "dost",
+   "start": 37.84,
+   "end": 38.06
+  },
+  {
+   "w": "ko",
+   "start": 38.08,
+   "end": 38.14
+  },
+  {
+   "w": "bhejo",
+   "start": 38.16,
+   "end": 38.36
+  },
+  {
+   "w": "jo",
+   "start": 38.38,
+   "end": 38.52
+  },
+  {
+   "w": "soch",
+   "start": 38.54,
+   "end": 38.76
+  },
+  {
+   "w": "raha",
+   "start": 38.78,
+   "end": 38.92
+  },
+  {
+   "w": "tha",
+   "start": 38.94,
+   "end": 39.08
+  },
+  {
+   "w": "Dhoni",
+   "start": 39.1,
+   "end": 39.36
+  },
+  {
+   "w": "ko",
+   "start": 39.38,
+   "end": 39.48
+  },
+  {
+   "w": "nikaal",
+   "start": 39.5,
+   "end": 39.8
+  },
+  {
+   "w": "diya.",
+   "start": 39.82,
+   "end": 40.468
+  }
+ ],
+ "cues": {
+  "hook": 0.199,
+  "yes": 4.62,
+  "list": 7.56,
+  "last": 17.462,
+  "titles": 21.553,
+  "quote": 26.86,
+  "next": 30.76,
+  "end": 34.294
+ },
+ "numbers": [
+  {
+   "show": "2025",
+   "spoken": "do hazaar pachchees",
+   "heard": 0.67,
+   "digit_diff": null
+  }
+ ],
+ "heard": [
+  "दोनी",
+  "ने",
+  "सच",
+  "में",
+  "अईपिल",
+  "चोड",
+  "दिया?",
+  "या",
+  "सीएस",
+  "के",
+  "ने",
+  "उने",
+  "रिलीस",
+  "कर",
+  "दिया?",
+  "रितार",
+  "होगाए",
+  "रितेंचिन",
+  "के",
+  "दिन",
+  "सीएस",
+  "के",
+  "ने",
+  "खोड",
+  "अन...",
+  "अगरी",
+  "मैच",
+  "उनो",
+  "ने",
+  "मैंई",
+  "दूजार",
+  "पच्छीस",
+  "में",
+  "खेला",
+  "था",
+  "पिछले",
+  "सीजन",
+  "एक",
+  "भी",
+  "मैच",
+  "ने",
+  "खेला",
+  "को",
+  "उनर",
+  "रुपा",
+  "गुरनात",
+  "नहीं",
+  "कहा",
+  "एमस",
+  "मेंग़ूँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँ�",
+  "अगे",
+  "रूतुराज",
+  "गायक्वाद",
+  "और",
+  "सनजू",
+  "सम्सन्",
+  "रीटेन",
+  "होई",
+  "ताला",
+  "का",
+  "सब",
+  "से",
+  "यादगरपल",
+  "कूंसा...",
+  "था",
+  "कमेंट",
+  "करो",
+  "और",
+  "उस",
+  "दोस्त",
+  "को",
+  "बहेजो",
+  "जो",
+  "सुच",
+  "रा",
+  "ता",
+  "दूनी",
+  "को",
+  "निकाल",
+  "दिया"
+ ]
+}
