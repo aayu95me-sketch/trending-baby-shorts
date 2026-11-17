@@ -31,7 +31,7 @@ Related video: Starship tower catch (DC3poMXoCbI).
 File: 20261118-dhoni-retires
 Title: Dhoni retire hue ya CSK ne release kiya? Asli sach 💛 #shorts
 Description:
-Chennai Super Kings ne 17 Nov 2026 (IPL 2027 retention day) ko officially announce kiya: MS Dhoni IPL se player ke roop mein retire, ab CSK ke Team Mentor. Release list mein naam isliye hai kyunki woh ab player nahi hain. Aakhri IPL match 2025 mein Gujarat Titans ke khilaaf; IPL 2026 mein nahi khele. CSK ke liye 5 IPL titles aur franchise ke sabse zyada (272) match. Co-owner Rupa Gurunath: "MS will continue to be a part of the CSK family as a mentor." Retained: Ruturaj Gaikwad, Sanju Samson; Liam Livingstone trade se aaye.
+Chennai Super Kings ne 17 Nov 2026 (IPL 2027 retention day) ko officially announce kiya: MS Dhoni IPL se player ke roop mein retire, ab CSK ke Team Mentor. Release list mein naam isliye hai kyunki woh ab player nahi hain. Aakhri IPL match 2025 mein Gujarat Titans ke khilaaf; IPL 2026 mein nahi khele. CSK ke liye 5 IPL titles aur franchise ke sabse zyada (272) match. Co-owner Rupa Gurunath: "MS will continue to be a part of the CSK family as a mentor." Retained: Ruturaj Gaikwad, Sanju Samson; Liam Livingstone trade se aaye. IPL 2027 auction December mein.
 Sources: CSK on X/Instagram via The National, The News Minute, Onmanorama, Cricketwinner (17 Nov 2026).
 Photos: see credits.txt.
 #msdhoni #csk #ipl2027
