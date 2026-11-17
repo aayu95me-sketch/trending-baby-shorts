@@ -1,0 +1,25 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "Claim that India beat Pakistan 2-1 in the SAFF final is unverified/likely false",
+    "Claim that Pakistan reached the SAFF final for the first time is false",
+    "Claim that India beat Pakistan 3-2 in a group match is false"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "use of 'yes' instead of Hindi 'haan'",
+    "placeholder 'hook' is not natural"
+   ],
+   "one_line_verdict": "No number mismatches, but the script makes unverified claims about SAFF results and has minor Hinglish awkwardness."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}

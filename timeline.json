@@ -1,0 +1,606 @@
+{
+ "total": 28.153,
+ "voice": "20261118-ind-vs-pak-saff-final/voice.wav",
+ "lines": [
+  {
+   "start": 0.189,
+   "text": "India vs Pakistan football final. Kaun jeeta, aur score kya raha?",
+   "end": 4.285
+  },
+  {
+   "start": 4.68,
+   "text": "India jeeta, 2-1 se. Dhaka mein SAFF Championship ka final.",
+   "end": 8.284
+  },
+  {
+   "start": 8.483,
+   "text": "Yeh India ka dasvaan SAFF title hai. Kisi bhi team se zyada.",
+   "end": 11.347
+  },
+  {
+   "start": 11.74,
+   "text": "Pakistan pehli baar SAFF final mein pahuncha tha, semi final mein host Bangladesh ko hara kar.",
+   "end": 15.881
+  },
+  {
+   "start": 16.0,
+   "text": "Aur isi tournament ke group match mein bhi India ne Pakistan ko 3-2 se haraya tha. Yaani do baar.",
+   "end": 21.017
+  },
+  {
+   "start": 21.305,
+   "text": "Pakistan ke paas ab bhi ek bhi SAFF title nahi hai.",
+   "end": 23.584
+  },
+  {
+   "start": 23.951,
+   "text": "Cricket ki tarah India Pakistan football bhi dekhoge? Comment karo.",
+   "end": 26.738
+  }
+ ],
+ "words": [
+  {
+   "w": "India",
+   "start": 0.189,
+   "end": 0.84
+  },
+  {
+   "w": "vs",
+   "start": 0.86,
+   "end": 1.08
+  },
+  {
+   "w": "Pakistan",
+   "start": 1.1,
+   "end": 1.64
+  },
+  {
+   "w": "football",
+   "start": 1.66,
+   "end": 2.16
+  },
+  {
+   "w": "final.",
+   "start": 2.18,
+   "end": 2.792
+  },
+  {
+   "w": "Kaun",
+   "start": 2.812,
+   "end": 3.1
+  },
+  {
+   "w": "jeeta,",
+   "start": 3.12,
+   "end": 3.42
+  },
+  {
+   "w": "aur",
+   "start": 3.44,
+   "end": 3.5
+  },
+  {
+   "w": "score",
+   "start": 3.52,
+   "end": 3.92
+  },
+  {
+   "w": "kya",
+   "start": 3.94,
+   "end": 4.06
+  },
+  {
+   "w": "raha?",
+   "start": 4.08,
+   "end": 4.66
+  },
+  {
+   "w": "India",
+   "start": 4.68,
+   "end": 5.06
+  },
+  {
+   "w": "jeeta,",
+   "start": 5.08,
+   "end": 5.55
+  },
+  {
+   "w": "2-1",
+   "start": 5.57,
+   "end": 6.04
+  },
+  {
+   "w": "se.",
+   "start": 6.06,
+   "end": 6.48
+  },
+  {
+   "w": "Dhaka",
+   "start": 6.5,
+   "end": 7.02
+  },
+  {
+   "w": "mein",
+   "start": 7.04,
+   "end": 7.14
+  },
+  {
+   "w": "SAFF",
+   "start": 7.16,
+   "end": 7.38
+  },
+  {
+   "w": "Championship",
+   "start": 7.4,
+   "end": 7.84
+  },
+  {
+   "w": "ka",
+   "start": 7.86,
+   "end": 7.96
+  },
+  {
+   "w": "final.",
+   "start": 7.98,
+   "end": 8.463
+  },
+  {
+   "w": "Yeh",
+   "start": 8.483,
+   "end": 8.88
+  },
+  {
+   "w": "India",
+   "start": 8.9,
+   "end": 9.2
+  },
+  {
+   "w": "ka",
+   "start": 9.22,
+   "end": 9.5
+  },
+  {
+   "w": "dasvaan",
+   "start": 9.52,
+   "end": 9.62
+  },
+  {
+   "w": "SAFF",
+   "start": 9.64,
+   "end": 9.84
+  },
+  {
+   "w": "title",
+   "start": 9.86,
+   "end": 10.14
+  },
+  {
+   "w": "hai.",
+   "start": 10.16,
+   "end": 10.384
+  },
+  {
+   "w": "Kisi",
+   "start": 10.404,
+   "end": 10.74
+  },
+  {
+   "w": "bhi",
+   "start": 10.76,
+   "end": 10.82
+  },
+  {
+   "w": "team",
+   "start": 10.84,
+   "end": 10.98
+  },
+  {
+   "w": "se",
+   "start": 11.0,
+   "end": 11.14
+  },
+  {
+   "w": "zyada.",
+   "start": 11.16,
+   "end": 11.72
+  },
+  {
+   "w": "Pakistan",
+   "start": 11.74,
+   "end": 12.34
+  },
+  {
+   "w": "pehli",
+   "start": 12.36,
+   "end": 12.68
+  },
+  {
+   "w": "baar",
+   "start": 12.7,
+   "end": 12.84
+  },
+  {
+   "w": "SAFF",
+   "start": 12.86,
+   "end": 13.14
+  },
+  {
+   "w": "final",
+   "start": 13.16,
+   "end": 13.32
+  },
+  {
+   "w": "mein",
+   "start": 13.34,
+   "end": 13.44
+  },
+  {
+   "w": "pahuncha",
+   "start": 13.46,
+   "end": 13.72
+  },
+  {
+   "w": "tha,",
+   "start": 13.74,
+   "end": 14.11
+  },
+  {
+   "w": "semi",
+   "start": 14.13,
+   "end": 14.46
+  },
+  {
+   "w": "final",
+   "start": 14.48,
+   "end": 14.66
+  },
+  {
+   "w": "mein",
+   "start": 14.68,
+   "end": 14.76
+  },
+  {
+   "w": "host",
+   "start": 14.78,
+   "end": 15.04
+  },
+  {
+   "w": "Bangladesh",
+   "start": 15.06,
+   "end": 15.42
+  },
+  {
+   "w": "ko",
+   "start": 15.44,
+   "end": 15.52
+  },
+  {
+   "w": "hara",
+   "start": 15.54,
+   "end": 15.76
+  },
+  {
+   "w": "kar.",
+   "start": 15.78,
+   "end": 15.98
+  },
+  {
+   "w": "Aur",
+   "start": 16.0,
+   "end": 16.66
+  },
+  {
+   "w": "isi",
+   "start": 16.68,
+   "end": 16.88
+  },
+  {
+   "w": "tournament",
+   "start": 16.9,
+   "end": 17.24
+  },
+  {
+   "w": "ke",
+   "start": 17.26,
+   "end": 17.34
+  },
+  {
+   "w": "group",
+   "start": 17.36,
+   "end": 17.58
+  },
+  {
+   "w": "match",
+   "start": 17.6,
+   "end": 17.74
+  },
+  {
+   "w": "mein",
+   "start": 17.76,
+   "end": 17.88
+  },
+  {
+   "w": "bhi",
+   "start": 17.9,
+   "end": 18.0
+  },
+  {
+   "w": "India",
+   "start": 18.02,
+   "end": 18.26
+  },
+  {
+   "w": "ne",
+   "start": 18.28,
+   "end": 18.34
+  },
+  {
+   "w": "Pakistan",
+   "start": 18.36,
+   "end": 18.84
+  },
+  {
+   "w": "ko",
+   "start": 18.86,
+   "end": 19.111
+  },
+  {
+   "w": "3-2",
+   "start": 19.131,
+   "end": 19.48
+  },
+  {
+   "w": "se",
+   "start": 19.5,
+   "end": 19.56
+  },
+  {
+   "w": "haraya",
+   "start": 19.58,
+   "end": 19.9
+  },
+  {
+   "w": "tha.",
+   "start": 19.92,
+   "end": 20.242
+  },
+  {
+   "w": "Yaani",
+   "start": 20.262,
+   "end": 20.58
+  },
+  {
+   "w": "do",
+   "start": 20.6,
+   "end": 20.84
+  },
+  {
+   "w": "baar.",
+   "start": 20.86,
+   "end": 21.285
+  },
+  {
+   "w": "Pakistan",
+   "start": 21.305,
+   "end": 21.9
+  },
+  {
+   "w": "ke",
+   "start": 21.92,
+   "end": 22.04
+  },
+  {
+   "w": "paas",
+   "start": 22.06,
+   "end": 22.3
+  },
+  {
+   "w": "ab",
+   "start": 22.32,
+   "end": 22.52
+  },
+  {
+   "w": "bhi",
+   "start": 22.54,
+   "end": 22.6
+  },
+  {
+   "w": "ek",
+   "start": 22.62,
+   "end": 22.78
+  },
+  {
+   "w": "bhi",
+   "start": 22.8,
+   "end": 22.9
+  },
+  {
+   "w": "SAFF",
+   "start": 22.92,
+   "end": 23.08
+  },
+  {
+   "w": "title",
+   "start": 23.1,
+   "end": 23.36
+  },
+  {
+   "w": "nahi",
+   "start": 23.38,
+   "end": 23.5
+  },
+  {
+   "w": "hai.",
+   "start": 23.52,
+   "end": 23.931
+  },
+  {
+   "w": "Cricket",
+   "start": 23.951,
+   "end": 24.2
+  },
+  {
+   "w": "ki",
+   "start": 24.22,
+   "end": 24.28
+  },
+  {
+   "w": "tarah",
+   "start": 24.3,
+   "end": 24.52
+  },
+  {
+   "w": "India",
+   "start": 24.54,
+   "end": 24.74
+  },
+  {
+   "w": "Pakistan",
+   "start": 24.76,
+   "end": 25.2
+  },
+  {
+   "w": "football",
+   "start": 25.22,
+   "end": 25.5
+  },
+  {
+   "w": "bhi",
+   "start": 25.52,
+   "end": 25.58
+  },
+  {
+   "w": "dekhoge?",
+   "start": 25.6,
+   "end": 26.301
+  },
+  {
+   "w": "Comment",
+   "start": 26.321,
+   "end": 26.58
+  },
+  {
+   "w": "karo.",
+   "start": 26.6,
+   "end": 27.153
+  }
+ ],
+ "cues": {
+  "hook": 0.189,
+  "yes": 4.68,
+  "record": 8.483,
+  "first": 11.74,
+  "twist": 16.0,
+  "zero": 21.305,
+  "end": 23.951
+ },
+ "numbers": [
+  {
+   "show": "2-1",
+   "spoken": "do-ek",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "3-2",
+   "spoken": "teen-do",
+   "heard": 1.0,
+   "digit_diff": null
+  }
+ ],
+ "heard": [
+  "इंडिया",
+  "वसस",
+  "पाकिस्तान",
+  "फूडबाल",
+  "फाइनल",
+  "कौन",
+  "जीता",
+  "और",
+  "स्कोर",
+  "क्या",
+  "रहा?",
+  "इंडिया",
+  "जीता",
+  "2",
+  "-1",
+  "से",
+  "धाका",
+  "में",
+  "सैफ",
+  "चामपिनचिप",
+  "का",
+  "फाइनल",
+  "ये",
+  "इंडिया",
+  "का",
+  "10",
+  "वा",
+  "साफ",
+  "टाइटल",
+  "है",
+  "किसी",
+  "भी",
+  "टीम",
+  "से",
+  "जादा",
+  "पाकिस्तान",
+  "पहली",
+  "बार",
+  "साफ",
+  "फाइनल",
+  "में",
+  "पहुचा",
+  "था",
+  "सेमी",
+  "फाइनल",
+  "में",
+  "होजट",
+  "करें",
+  "बंगादेश",
+  "को",
+  "हरा",
+  "कर",
+  "और",
+  "इसी",
+  "तूनामें",
+  "के",
+  "गूप",
+  "मैच",
+  "में",
+  "भी",
+  "इंडिया",
+  "ने",
+  "पाकिस्तान",
+  "को",
+  "तीन",
+  "दो",
+  "से",
+  "हराया",
+  "था",
+  "यानी",
+  "दो",
+  "बार",
+  "पाकिस्तान",
+  "के",
+  "पास",
+  "अब",
+  "भी",
+  "एक",
+  "भी",
+  "साफ",
+  "टाइटल",
+  "नहीं",
+  "है।",
+  "क्रिकेट",
+  "की",
+  "तरह",
+  "हिंडिया",
+  "पाकिस्थान",
+  "फुटबॉल",
+  "भी",
+  "देखोगे?",
+  "कौमेंट",
+  "करो।"
+ ]
+}
