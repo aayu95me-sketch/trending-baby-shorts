@@ -1,0 +1,24 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "Price claim for PS5 (≈70 000 ₹) lacks source.",
+    "Price claim for standard edition (≈6 000 ₹) lacks source.",
+    "Download size claim (≈200 GB) lacks source."
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "Incorrect Hindi number word 'chhihattar' (should be 'athhattar')"
+   ],
+   "one_line_verdict": "Script is free of number mismatches but contains unsupported price/size claims and a Hindi numeral error."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}
