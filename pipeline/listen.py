@@ -22,7 +22,7 @@ def models():
 
 
 out, md = {}, ["# Voice check (Gemini listens to each chapter)\n"]
-ms = models()
+ms = models()[:3]
 for cd in sorted(D.glob("ch[0-9]*"), key=lambda p: int(p.name[2:])):
     wav, txt = cd / "voice_raw.wav", cd / "tts.txt"
     if not wav.exists() or not txt.exists():
@@ -46,13 +46,30 @@ for cd in sorted(D.glob("ch[0-9]*"), key=lambda p: int(p.name[2:])):
                 except Exception:  # noqa: BLE001
                     res = {"model": m, "raw": t}
                 break
-            print(cd.name, m, r.status_code, r.text[:150], flush=True); time.sleep(20)
+            print(cd.name, m, r.status_code, r.text[:150], flush=True)
+            if r.status_code == 429:
+                break
+            time.sleep(20)
         if res:
             break
+    if not res and os.environ.get("GROQ_API_KEY"):  # Gemini quota gone: big Whisper on Groq, transcript for a human/Claude to compare
+        try:
+            r = requests.post("https://api.groq.com/openai/v1/audio/transcriptions", headers={"Authorization": "Bearer " + os.environ["GROQ_API_KEY"]},
+                              files={"file": ("a.mp3", mp3.read_bytes(), "audio/mpeg")},
+                              data={"model": "whisper-large-v3", "language": "hi", "response_format": "verbose_json", "temperature": "0"}, timeout=300)
+            if r.status_code == 200:
+                segs = r.json().get("segments", [])
+                res = {"model": "groq whisper-large-v3 (transcript only)", "ok": None,
+                       "transcript": [f"{s['start']:.1f}s {s['text'].strip()}" for s in segs]}
+            else:
+                print(cd.name, "groq", r.status_code, r.text[:150], flush=True)
+        except requests.RequestException as e:
+            print(cd.name, "groq failed:", e, flush=True)
     out[cd.name] = res or {"error": "no model answered"}
     md.append(f"## {cd.name}: {'OK' if res and res.get('ok') else 'CHECK'} ({(res or {}).get('model', '-')})")
     for i in (res or {}).get("issues", []):
         md.append(f"- ~{i.get('approx_time_s')}s [{i.get('severity')}] expected \"{i.get('expected')}\", heard \"{i.get('heard')}\"")
+    md += [f"    {t}" for t in (res or {}).get("transcript", [])]
     print("\n".join(md[-1 - len((res or {}).get('issues', [])):]), flush=True)
     (D / "listen-report.md").write_text("\n".join(md) + "\n", encoding="utf-8")
 (D / "listen-report.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
