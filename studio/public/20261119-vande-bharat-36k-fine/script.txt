@@ -1,8 +1,7 @@
-Sirf@hook relative ko train mein bithaane gaye, aur [36000|chhattees hazaar] rupaye ka fine?
+Train@hook tak chhodne gaye, aur [36000|chhattees hazaar] rupaye ka fine?
 Kanpur@where Central pe baarah log Varanasi-New Delhi Vande Bharat mein saamaan chadhaane ghuse.
 Darwaze@doors automatic hain. Band hue, aur train chal padi.
 Agla@stop rukna seedha Etawah mein hua, kareeb dedh ghante baad.
 Wahan@fine RPF ne sabko utaara, aur har ek pe [3000|teen hazaar] rupaye fine laga.
 Kyun@why bhai? Railway ka niyam hai, train chalne ke baad bina ticket waale ko poore safar ka kiraya aur penalty dena padta hai.
-Officer@quote ne saaf kaha, announcement sunte hi chhodne waale turant utar jaayein.
 Saamaan@end darwaze tak do, andar mat jao. Aapke saath kabhi hua? Comment karo, aur us dost ko bhejo jo har baar train tak chhodne jaata hai.
