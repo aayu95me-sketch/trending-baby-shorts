@@ -5,9 +5,9 @@
  "scenes": [
   {
    "at": 0,
-   "big": "INDIA MEIN KITNE KA?",
+   "big": "Rs 76,000?",
    "color": "gold",
-   "tag": "GTA 6 · PS5 · PC · PS4",
+   "tag": "GTA 6 · INDIA KA ASLI KHARCHA",
    "img": "20261119-gta-6-india-price/real/news-0.jpg",
    "fit": "blur",
    "credit": "ROCKSTAR GAMES ART VIA BUSINESS STANDARD"
@@ -43,7 +43,7 @@
    "at": "total",
    "big": "Rs 75,989",
    "color": "gold",
-   "tag": "GAME + CONSOLE · SHURUAAT",
+   "tag": "PS5 + GAME · SHURUAAT",
    "img": "20261119-gta-6-india-price/real/news-4.jpg",
    "fit": "blur",
    "credit": "PHOTO VIA REFURBO"
@@ -52,16 +52,16 @@
    "at": "pc",
    "big": "PC, PS4: NAHI",
    "color": "red",
-   "tag": "PC KI DATE ABHI ANNOUNCE NAHI HUI",
+   "tag": "PC KI DATE ANNOUNCE NAHI",
    "img": "20261119-gta-6-india-price/real/wk-3.jpg",
    "fit": "blur",
    "credit": "PHOTO VIA WIKIPEDIA"
   },
   {
-   "at": "reviews",
-   "big": "METACRITIC 99",
-   "color": "green",
-   "tag": "IGN 10/10 · DOWNLOAD 212 GB TAK",
+   "at": "size",
+   "big": "212 GB TAK",
+   "color": "white",
+   "tag": "PEHLE SPACE KHAALI KARO",
    "img": "20261119-gta-6-india-price/real/news-2.jpg",
    "fit": "blur",
    "credit": "ROCKSTAR GAMES ART VIA TOM'S GUIDE"

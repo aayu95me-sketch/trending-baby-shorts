@@ -8,7 +8,7 @@ Skipped from the CSV: 2025-27 WTC table (NZ vs IND 1st Test starts 19 Nov, no re
 File: 20261119-gta-6-india-price
 Title: GTA 6 India mein kitne ka? PS5 + game ka asli kharcha 🎮 #shorts
 Description:
-GTA 6 (Grand Theft Auto VI) India mein 19 Nov 2026, raat 12 baje (IST) unlock hota hai, PS5 aur Xbox Series X|S pe. PlayStation Store pe Standard Edition Rs 5,999, Ultimate Edition Rs 7,499. PS5 ab India mein Rs 69,990 (pehle Rs 54,990), yaani game + console = Rs 75,989 se shuru. PC version ki date abhi announce nahi hui; PS4 pe nahi aayega. Pre-load ke liye 212 GB tak jagah chahiye. Reviews: Metacritic 99, IGN 10/10.
+GTA 6 (Grand Theft Auto VI) India mein 19 Nov 2026, raat 12 baje (IST) unlock hota hai, PS5 aur Xbox Series X|S pe. PlayStation Store pe Standard Edition Rs 5,999, Ultimate Edition Rs 7,499. PS5 ab India mein Rs 69,990 (pehle Rs 54,990), yaani game + console = Rs 75,989 se shuru. PC version ki date abhi announce nahi hui; PS4 pe nahi aayega. Pre-load ke liye 212 GB tak jagah chahiye. Pehle reviews kaafi positive aaye hain (Tom's Guide review roundup).
 Sources: Business Standard, Digit, Tom's Guide review roundup (18 Nov 2026); Refurbo (PS5 price).
 Photos: see credits.txt.
 #gta6 #gtavi #ps5
