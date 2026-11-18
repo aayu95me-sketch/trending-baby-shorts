@@ -79,7 +79,15 @@ jobs:
             if git fetch -q --depth 1 origin "render-$n" 2>/dev/null; then
               for f in $(git ls-tree --name-only -r FETCH_HEAD | grep -E '^ch[0-9]+/(voice_raw.wav|tts.txt)$'); do mkdir -p "studio/public/$n/$(dirname $f)"; git show "FETCH_HEAD:$f" > "studio/public/$n/$f"; done
             fi
-            python pipeline/long_voice.py "$n"
+            if ! python pipeline/long_voice.py "$n"; then
+              # keep the chapter voices that were made, so the next run only re-voices the chapter whose text changed
+              rm -rf /tmp/pub && mkdir -p /tmp/pub
+              for d in studio/public/$n/ch*/; do [ -f $d/voice_raw.wav ] || continue; c=$(basename $d); mkdir -p /tmp/pub/$c; cp $d/voice_raw.wav $d/tts.txt /tmp/pub/$c/; done
+              (cd /tmp/pub && git init -q && git config user.name "render-bot" && git config user.email "render-bot@users.noreply.github.com" \
+                && git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" \
+                && git add . && git commit -qm "Chapter voices of $n (check failed)" && git push -qf origin "HEAD:refs/heads/render-$n")
+              exit 1
+            fi
             echo "::endgroup::"
             (cd studio && npx remotion render src/index.ts Long "../out/$n.mp4" --props="{\"dir\":\"$n\"}" --log=warn --concurrency=4)
             ffmpeg -y -v error -i "out/$n.mp4" -vf scale=640:-2 -c:v libx264 -crf 30 -preset veryfast -c:a aac -b:a 64k "out/$n-360.mp4"
