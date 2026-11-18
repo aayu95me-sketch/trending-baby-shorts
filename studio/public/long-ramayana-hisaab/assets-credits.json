@@ -1,0 +1,34 @@
+{
+ "ft/calc.mp4": {
+  "src": "https://assets.mixkit.co/videos/34126/34126-720.mp4",
+  "lic": "Mixkit free licence (no attribution required)"
+ },
+ "ft/office.mp4": {
+  "src": "https://assets.mixkit.co/videos/4180/4180-1080.mp4",
+  "lic": "Mixkit free licence (no attribution required)"
+ },
+ "ft/crowd.mp4": {
+  "src": "https://assets.mixkit.co/videos/2860/2860-1080.mp4",
+  "lic": "Mixkit free licence (no attribution required)"
+ },
+ "ft/popcorn.mp4": {
+  "src": "https://assets.mixkit.co/videos/25466/25466-720.mp4",
+  "lic": "Mixkit free licence (no attribution required)"
+ },
+ "ft/money.mp4": {
+  "src": "https://assets.mixkit.co/videos/18296/18296-1080.mp4",
+  "lic": "Mixkit free licence (no attribution required)"
+ },
+ "ai/notes.jpg": {
+  "src": "AI image (Pollinations, Flux)",
+  "prompt": "huge neat stacks of Indian 500 rupee banknotes on a dark wooden table, dramatic warm spotlight, cinematic"
+ },
+ "ai/bow.jpg": {
+  "src": "AI image (Pollinations, Flux)",
+  "prompt": "an ornate golden bow and arrow resting on ancient carved temple stone, glowing diya oil lamps around, dusk, epic mood"
+ },
+ "ai/scale.jpg": {
+  "src": "AI image (Pollinations, Flux)",
+  "prompt": "an antique brass weighing balance with stacks of coins on one pan, dark background, dramatic light"
+ }
+}
