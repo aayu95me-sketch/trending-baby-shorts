@@ -8,7 +8,7 @@ name: Long video
 on:
   push:
     branches: ["claude/**", "main"]
-    paths: ["studio/public/long-*/assets.json", "studio/public/long-*/make.txt"]
+    paths: ["studio/public/long-*/assets.json", "studio/public/long-*/make.txt", "studio/public/long-*/check.txt"]
 
 permissions:
   contents: write
@@ -36,6 +36,7 @@ jobs:
         run: |
           ch=$(git diff --name-only HEAD~1 HEAD)
           echo "assets=$(echo "$ch" | grep -E '^studio/public/long-[^/]+/assets.json$' | cut -d/ -f3 | sort -u | tr '\n' ' ')" >> "$GITHUB_OUTPUT"
+          echo "check=$(echo "$ch" | grep -E '^studio/public/long-[^/]+/check.txt$' | cut -d/ -f3 | sort -u | tr '\n' ' ')" >> "$GITHUB_OUTPUT"
           echo "make=$(echo "$ch" | grep -E '^studio/public/long-[^/]+/make.txt$' | cut -d/ -f3 | sort -u | tr '\n' ' ')" >> "$GITHUB_OUTPUT"
       - name: Tools
         run: |
@@ -49,6 +50,18 @@ jobs:
           git config user.name "long-bot" && git config user.email "long-bot@users.noreply.github.com"
           git add studio/public/long-*/ft studio/public/long-*/ai studio/public/long-*/assets-sheet.jpg studio/public/long-*/assets-credits.json 2>/dev/null || true
           git diff --cached --quiet || { git commit -qm "Long video assets"; git pull -q --rebase origin "${GITHUB_REF_NAME}" && git push -q origin "HEAD:${GITHUB_REF_NAME}"; }
+
+      - name: Listen check (Gemini hears each chapter voice from the render branch)
+        if: steps.w.outputs.check != ''
+        run: |
+          for n in ${{ steps.w.outputs.check }}; do
+            git fetch -q --depth 1 origin "+refs/heads/render-$n:refs/remotes/origin/render-$n"
+            for f in $(git ls-tree --name-only -r "origin/render-$n" | grep -E '^ch[0-9]+/(voice_raw.wav|tts.txt)$'); do mkdir -p "studio/public/$n/$(dirname $f)"; git show "origin/render-$n:$f" > "studio/public/$n/$f"; done
+            python pipeline/listen.py "$n" || echo "::warning::listen check failed for $n"
+          done
+          git config user.name "long-bot" && git config user.email "long-bot@users.noreply.github.com"
+          git add studio/public/long-*/listen-report.* 2>/dev/null || true
+          git diff --cached --quiet || { git commit -qm "Voice listen check"; git pull -q --rebase origin "${GITHUB_REF_NAME}" && git push -q origin "HEAD:${GITHUB_REF_NAME}"; }
 
       - uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
         if: steps.w.outputs.make != ''
