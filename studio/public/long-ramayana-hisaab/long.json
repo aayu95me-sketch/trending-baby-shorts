@@ -32,18 +32,17 @@
  "scenes": [
   {
    "at": 0,
-   "img": "long-ramayana-hisaab/real/hall-0.jpg",
+   "img": "long-ramayana-hisaab/ai/hallwide.jpg",
    "big": "₹1,483 CR",
    "tag": "13 DIN",
-   "color": "gold",
-   "credit": "@credit:hall-0"
+   "color": "gold"
   },
   {
    "at": "q1",
    "img": "long-ramayana-hisaab/real/hall-1.jpg",
    "big": "DANGAL KA RECORD?",
    "color": "white",
-   "credit": "@credit:hall-1"
+   "credit": "PHOTO: CHAINWIT., CC BY-SA 4.0 · WIKIMEDIA COMMONS"
   },
   {
    "at": "q2",
@@ -62,7 +61,7 @@
    "at": "c1",
    "chapter": "Ab tak ki kamai",
    "img": "long-ramayana-hisaab/real/hall-2.jpg",
-   "credit": "@credit:hall-2"
+   "credit": "PHOTO: ANTOINE TAVENEAUX, CC BY-SA 3.0 · WIKIMEDIA COMMONS"
   },
   {
    "at": "release",
@@ -114,15 +113,16 @@
     "hi": [
      4
     ]
-   }
+   },
+   "video": "long-ramayana-hisaab/ft/crowd.mp4"
   },
   {
    "at": "diwali",
-   "img": "long-ramayana-hisaab/real/diwali-0.jpg",
+   "img": "long-ramayana-hisaab/real/diwali-3.jpg",
    "tag": "9 NOV · DIWALI KE AGLE DIN",
    "big": "₹107.5 CR",
    "color": "gold",
-   "credit": "@credit:diwali-0"
+   "credit": "PHOTO: ALOKJAIN19883105, CC BY-SA 4.0 · WIKIMEDIA COMMONS"
   },
   {
    "at": "wk2",
@@ -161,7 +161,8 @@
      3,
      4
     ]
-   }
+   },
+   "video": "long-ramayana-hisaab/ft/crowd.mp4"
   },
   {
    "at": "slow",
@@ -196,7 +197,8 @@
       "gold"
      ]
     ]
-   }
+   },
+   "video": "long-ramayana-hisaab/ft/money.mp4"
   },
   {
    "at": "grossnet",
@@ -208,13 +210,14 @@
      "Net = gross minus GST",
      "Producer ka hissa = in dono se kaafi kam"
     ]
-   }
+   },
+   "video": "long-ramayana-hisaab/ft/popcorn.mp4"
   },
   {
    "at": "c2",
    "chapter": "Paisa kahan se",
    "img": "long-ramayana-hisaab/real/hall-3.jpg",
-   "credit": "@credit:hall-3"
+   "credit": "PHOTO: CINZIA007, CC BY-SA 4.0 · WIKIMEDIA COMMONS"
   },
   {
    "at": "lang",
@@ -244,7 +247,9 @@
       36.65
      ]
     ]
-   }
+   },
+   "img": "long-ramayana-hisaab/real/hall-6.jpg",
+   "credit": "PHOTO: MAHAVEER INDRA, CC BY-SA 4.0 · WIKIMEDIA COMMONS"
   },
   {
    "at": "pushpa",
@@ -269,10 +274,10 @@
   },
   {
    "at": "engine",
-   "img": "long-ramayana-hisaab/real/single-screen.jpg",
+   "img": "long-ramayana-hisaab/real/ticket-0.jpg",
    "big": "ENGINE: HINDI BELT",
    "color": "gold",
-   "credit": "@credit:single-screen"
+   "credit": "PHOTO: DESIBOY101, CC BY 4.0 · WIKIMEDIA COMMONS"
   },
   {
    "at": "overseas",
@@ -337,7 +342,8 @@
      ]
     ]
    },
-   "stamp": "hold: 66%"
+   "stamp": "hold: 66%",
+   "video": "long-ramayana-hisaab/ft/calc.mp4"
   },
   {
    "at": "cases",
@@ -425,7 +431,7 @@
    "at": "c4",
    "chapter": "Records",
    "img": "long-ramayana-hisaab/real/hall-4.jpg",
-   "credit": "@credit:hall-4"
+   "credit": "PHOTO: MAHAVEER INDRA, CC BY-SA 4.0 · WIKIMEDIA COMMONS"
   },
   {
    "at": "board",
@@ -475,7 +481,9 @@
       "grey"
      ]
     ]
-   }
+   },
+   "img": "long-ramayana-hisaab/real/hall-4.jpg",
+   "credit": "PHOTO: MAHAVEER INDRA, CC BY-SA 4.0 · WIKIMEDIA COMMONS"
   },
   {
    "at": "slowcase",
@@ -545,10 +553,10 @@
   },
   {
    "at": "china",
-   "img": "long-ramayana-hisaab/real/world.jpg",
+   "img": "long-ramayana-hisaab/real/world-0.jpg",
    "big": "DANGAL: ₹1,535 CR VIDESH SE",
    "color": "white",
-   "credit": "@credit:world"
+   "credit": "IMAGE: NASA, PUBLIC DOMAIN · WIKIMEDIA COMMONS"
   },
   {
    "at": "c5",
@@ -564,11 +572,11 @@
   },
   {
    "at": "chandrayaan",
-   "img": "long-ramayana-hisaab/real/chandrayaan.jpg",
+   "img": "long-ramayana-hisaab/real/chandrayaan-0.jpg",
    "big": "6.5 x CHANDRAYAAN-3",
    "tag": "₹615 CR EK MISSION",
    "color": "gold",
-   "credit": "@credit:chandrayaan"
+   "credit": "PHOTO: ISRO, GODL-INDIA · WIKIMEDIA COMMONS"
   },
   {
    "at": "ticket",
@@ -592,7 +600,9 @@
       "#ffd60a"
      ]
     ]
-   }
+   },
+   "img": "long-ramayana-hisaab/real/ticket-2.jpg",
+   "credit": "PHOTO: SANDRA COHEN-ROSE & COLIN ROSE, CC BY-SA 2.0 · WIKIMEDIA COMMONS"
   },
   {
    "at": "tally",
@@ -616,7 +626,8 @@
       "green"
      ]
     ]
-   }
+   },
+   "video": "long-ramayana-hisaab/ft/money.mp4"
   },
   {
    "at": "scale",
@@ -644,7 +655,7 @@
    "at": "c6",
    "chapter": "Faisla",
    "img": "long-ramayana-hisaab/real/hall-0.jpg",
-   "credit": "@credit:hall-0"
+   "credit": "PHOTO: CHAINWIT., CC BY-SA 4.0 · WIKIMEDIA COMMONS"
   },
   {
    "at": "verdict",
@@ -656,7 +667,9 @@
      "Dangal: worldwide kaante ki takkar, India mein Ramayana ~2x aage",
      "₹4,000 Cr do filmon ka; Part 1 se ~₹1,300 Cr"
     ]
-   }
+   },
+   "img": "long-ramayana-hisaab/real/hall-0.jpg",
+   "credit": "PHOTO: CHAINWIT., CC BY-SA 4.0 · WIKIMEDIA COMMONS"
   },
   {
    "at": "ask",
@@ -664,7 +677,8 @@
    "big": "HAFTA 3: ___ CR?",
    "tag": "COMMENT KARO",
    "color": "gold",
-   "credit": "@credit:hall-1"
+   "credit": "PHOTO: CHAINWIT., CC BY-SA 4.0 · WIKIMEDIA COMMONS"
   }
- ]
+ ],
+ "sources": "Sources: Sacnilk, Business Today, NewsBytes, India TV, The Week. Projection and ticket split: Doubt Clear estimates."
 }
