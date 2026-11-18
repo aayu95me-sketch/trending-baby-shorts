@@ -38,6 +38,15 @@ SOURCES:
 {read(src / 'sources.txt')}
 VIEWER-MOMENT CARD (who, the doubt, second-1 feeling, the ONE ask line, swipe risk):
 {read(src / 'viewer.md')}"""
+LONG = NAME.startswith("long-")  # 8-12 min 16:9 videos (Ayush, 18 Nov 2026): judged on a script + visual plan, before any render
+if LONG:
+    PACK = f"""LONG VIDEO (16:9, 8-12 min, YouTube main feed, not Shorts): {NAME}
+SCRIPT WITH VISUAL PLAN ([V: ...] = what is on screen):
+{read(src / 'script.md')}
+SOURCES:
+{read(src / 'sources.txt')}
+VIEWER CARD:
+{read(src / 'viewer.md')}"""
 
 GOAL = 'GOAL (restate it first): "Make the Doubt Clear accounts (YouTube Shorts + Facebook Reels, India, Hinglish) go viral."'
 CONCEPT = ("CONCEPT: for each Google Trends topic, answer the doubt people have about it (the truth, the logic, the purpose or the solution) "
@@ -55,6 +64,18 @@ PARTS = """Judge 4 parts, each 0-10 (10 = best possible for going viral) with th
   Judge: does every line show the real person/place/thing being said, frame 1 scroll-stop, smoothness, captions readable, faces not covered by text; no word captions (Ayush 10 Nov: removed; beat text sits low so photos stay clean), small photo credits + a beat progress bar at the bottom)
 4 WHOLE REEL (would a stranger watch to the end, comment, share, follow?). Give a FIRST-SECOND STOP score 0-10.
 PASS BARS (playbook gates): script 7+ with zero fact issues and viewer card 8+; visuals 7+; stop score 8+. Say PASS or FAIL per gate."""
+if LONG:
+    PARTS = """This is the channel's FIRST long video (Ayush, 18 Nov: 1 long video a week, 8-12 min; Shorts are feeders). YouTube removes channels
+from monetization for "inauthentic" (generic, template, mass-produced) content, so the video must show clear human value: own calculations,
+sourced facts, a fresh script. Never reuse other people's footage (no trailer, no posters, no news clips). Judge 4 parts, each 0-10:
+1 SCRIPT: first 30 s (does the viewer stay past the hook? the promise), chapter flow and open loops that hold to 10 min, any flat middle,
+  accuracy (flag any number or claim that is wrong, unsourced or overstated; estimates must be labelled), Hinglish naturalness, the ending.
+2 VOICE PLAN: one AI voice (Gemini TTS Orus, Indian Delhi accent) for 10 min. Is that enough, what pace/energy changes per chapter, number reading.
+3 VISUAL PLAN: realistic visuals of the topic synced to each line, own animated charts, Wikimedia/free stock, AI images with no actor faces.
+  Should a long video have on-screen captions/subtitles? (Shorts have none by Ayush's rule; argue only if long-form needs them.)
+4 WHOLE VIDEO: title + thumbnail click-through, average view duration, would a stranger subscribe; monetization-policy risk.
+PASS BARS: script 7+ with zero fact issues; visuals plan 7+; whole video 8+. Say PASS or FAIL per gate."""
+
 FORMAT = """Answer in this exact shape:
 ## Goal (restated)
 ## Scores (table: part | score /10 | viral-help % | one-line reason), then viewer card /10 and first-second stop /10, PASS/FAIL per gate
@@ -122,7 +143,7 @@ video = d / "reel.mp4"
 f = d / "round1-gemini.md"
 if not f.exists():
     parts = [{"text": "--- THE REEL (watch and listen) ---"}, {"inline_data": {"mime_type": "video/mp4", "data": base64.b64encode(video.read_bytes()).decode()}}] if video.exists() else []
-    parts.append({"text": BASE + "\n\nYou watched and heard the reel above. Listen closely to the accent, the numbers, names and currency words. "
+    parts.append({"text": BASE + "\n\nNo render yet: judge the script and the plans. Score alone; you have not seen anyone else's scores. Under 1000 words."} if LONG else {"text": BASE + "\n\nYou watched and heard the reel above. Listen closely to the accent, the numbers, names and currency words. "
                   "Score alone; you have not seen anyone else's scores. Under 900 words."})
     served, text = safe(lambda: gemini(parts))
     if text: save(f.name, served, text); print("gemini r1", served, flush=True)
