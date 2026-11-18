@@ -23,7 +23,7 @@ def models():
 
 out, md = {}, ["# Voice check (Gemini listens to each chapter)\n"]
 ms = models()
-for cd in sorted(D.glob("ch*"), key=lambda p: int(p.name[2:])):
+for cd in sorted(D.glob("ch[0-9]*"), key=lambda p: int(p.name[2:])):
     wav, txt = cd / "voice_raw.wav", cd / "tts.txt"
     if not wav.exists() or not txt.exists():
         continue
