@@ -1,6 +1,6 @@
 # Doubt Clear long video 1: Ramayana ka poora hisaab (draft v2 after council, 18 Nov 2026)
 
-Format: 16:9, about 10 to 11 minutes, Hinglish, AI voice (Orus), faceless. Numbers are Sacnilk estimates up to Day 13 (Tue 17 Nov);
+Format: 16:9, about 9 minutes, Hinglish, AI voice (Orus), faceless. Numbers are Sacnilk estimates up to Day 13 (Tue 17 Nov);
 they get refreshed to the latest day on build day. `[V: ...]` = what is on screen. No subtitles; only chapter cards and number cards.
 
 Working title: **Ramayana ne 1,483 crore kamaye... phir bhi 4,000 crore wapas aayenge? Poora hisaab**
@@ -65,7 +65,7 @@ Matlab Ramayana ka engine Hindi belt hai. Aur aage badhne ki jagah do hi hain: S
 
 Videsh se 502 crore, kul kamai ka 34 pratishat. Aur doosre weekend pe film chhe naye deshon mein khuli, jinme Indonesia aur Mexico bhi hain.
 
-[V: Dangal's poster-free name card flickers, "twist: chapter 4"]
+[V: a question mark over Dangal's bar, small tag "twist: chapter 4"]
 
 Ab yahan se asli maza shuru hota hai. Kyunki agle chapter ka hisaab bataayega ki final number kya hoga, aur chapter 4 mein Dangal ke record ka ek twist hai jo trade wale nahi bataate.
 
