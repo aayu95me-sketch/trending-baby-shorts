@@ -32,10 +32,10 @@
  "scenes": [
   {
    "at": 0,
-   "img": "long-ramayana-hisaab/ai/hallwide.jpg",
    "big": "₹1,483 CR",
    "tag": "13 DIN",
-   "color": "gold"
+   "color": "gold",
+   "video": "long-ramayana-hisaab/ft/crowd.mp4"
   },
   {
    "at": "q1",
@@ -46,10 +46,11 @@
   },
   {
    "at": "q2",
-   "img": "long-ramayana-hisaab/ai/notes.jpg",
    "big": "₹4,000 CR",
    "tag": "BUDGET",
-   "color": "red"
+   "color": "red",
+   "img": "long-ramayana-hisaab/real/ticket-2.jpg",
+   "credit": "PHOTO: SANDRA COHEN-ROSE AND   COLIN ROSE FROM , CC BY-SA 2.0 · WIKIMEDIA COMMONS"
   },
   {
    "at": "q3",
@@ -65,10 +66,11 @@
   },
   {
    "at": "release",
-   "img": "long-ramayana-hisaab/ai/bow.jpg",
    "tag": "5 NOVEMBER 2026",
    "big": "NITESH TIWARI KI RAMAYANA",
-   "color": "white"
+   "color": "white",
+   "img": "long-ramayana-hisaab/real/rama-2.jpg",
+   "credit": "PAINTING: RAJA RAVI VARMA, PUBLIC DOMAIN · WIKIMEDIA COMMONS"
   },
   {
    "at": "days",
@@ -198,7 +200,7 @@
      ]
     ]
    },
-   "video": "long-ramayana-hisaab/ft/money.mp4"
+   "video": "long-ramayana-hisaab/ft/crowd.mp4"
   },
   {
    "at": "grossnet",
@@ -561,14 +563,15 @@
   {
    "at": "c5",
    "chapter": "Budget ka sach",
-   "img": "long-ramayana-hisaab/ai/notes.jpg"
+   "video": "long-ramayana-hisaab/ft/popcorn.mp4"
   },
   {
    "at": "budget",
-   "img": "long-ramayana-hisaab/ai/notes.jpg",
    "tag": "DONO PARTS · PRODUCER KE SHABDON MEIN",
    "big": "$500M = ₹4,000 CR",
-   "color": "red"
+   "color": "red",
+   "img": "long-ramayana-hisaab/real/rama-0.jpg",
+   "credit": "PAINTING: RAJA RAVI VARMA, PUBLIC DOMAIN · WIKIMEDIA COMMONS"
   },
   {
    "at": "chandrayaan",
@@ -627,7 +630,7 @@
      ]
     ]
    },
-   "video": "long-ramayana-hisaab/ft/money.mp4"
+   "video": "long-ramayana-hisaab/ft/popcorn.mp4"
   },
   {
    "at": "scale",
@@ -642,14 +645,16 @@
      "Aadha budget (agar barabar bata)",
      2000
     ]
-   }
+   },
+   "img": "long-ramayana-hisaab/ai/scale.jpg"
   },
   {
    "at": "answer",
-   "img": "long-ramayana-hisaab/ai/bow.jpg",
    "big": "ASLI HISAAB: DIWALI 2027",
    "tag": "PART 2",
-   "color": "gold"
+   "color": "gold",
+   "img": "long-ramayana-hisaab/real/rama-4.jpg",
+   "credit": "PAINTING: ANONYMOUS, PUBLIC DOMAIN · WIKIMEDIA COMMONS"
   },
   {
    "at": "c6",
