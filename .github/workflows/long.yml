@@ -41,7 +41,7 @@ jobs:
       - name: Tools
         run: |
           sudo apt-get -qq update >/dev/null && sudo apt-get -qq install -y ffmpeg >/dev/null
-          pip install -q -r pipeline/requirements.txt "pillow==11.0.0"
+          if [ -z "${{ steps.w.outputs.assets }}${{ steps.w.outputs.make }}" ]; then pip install -q requests; else pip install -q -r pipeline/requirements.txt "pillow==11.0.0"; fi
 
       - name: Assets
         if: steps.w.outputs.assets != ''

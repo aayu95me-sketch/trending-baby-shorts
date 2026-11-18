@@ -17,7 +17,7 @@ ASK = ("You are checking a Hindi/Hinglish text-to-speech take against the exact 
 def models():
     r = requests.get("https://generativelanguage.googleapis.com/v1beta/models?pageSize=200", headers={"x-goog-api-key": KEY}, timeout=60).json()
     names = [m["name"].split("/")[-1] for m in r.get("models", []) if "generateContent" in m.get("supportedGenerationMethods", []) and ("pro" in m["name"] or "flash" in m["name"]) and "tts" not in m["name"] and "image" not in m["name"]]
-    pref = [n for n in ("gemini-3.5-pro", "gemini-pro-latest", "gemini-3.5-flash", "gemini-flash-latest") if n in names]
+    pref = [n for n in ("gemini-3.5-flash", "gemini-flash-latest", "gemini-3.5-pro", "gemini-pro-latest") if n in names]
     return pref + [n for n in sorted(names, reverse=True) if n not in pref][:3]
 
 
@@ -35,7 +35,10 @@ for cd in sorted(D.glob("ch[0-9]*"), key=lambda p: int(p.name[2:])):
     res = None
     for m in ms:
         for attempt in range(2):
-            r = requests.post(f"https://generativelanguage.googleapis.com/v1beta/models/{m}:generateContent", headers={"x-goog-api-key": KEY}, json=body, timeout=600)
+            try:
+                r = requests.post(f"https://generativelanguage.googleapis.com/v1beta/models/{m}:generateContent", headers={"x-goog-api-key": KEY}, json=body, timeout=240)
+            except requests.RequestException as e:
+                print(cd.name, m, "request failed:", e, flush=True); continue
             if r.status_code == 200:
                 t = "".join(p.get("text", "") for p in r.json()["candidates"][0]["content"]["parts"] if not p.get("thought"))
                 try:
@@ -51,5 +54,6 @@ for cd in sorted(D.glob("ch[0-9]*"), key=lambda p: int(p.name[2:])):
     for i in (res or {}).get("issues", []):
         md.append(f"- ~{i.get('approx_time_s')}s [{i.get('severity')}] expected \"{i.get('expected')}\", heard \"{i.get('heard')}\"")
     print("\n".join(md[-1 - len((res or {}).get('issues', [])):]), flush=True)
+    (D / "listen-report.md").write_text("\n".join(md) + "\n", encoding="utf-8")
 (D / "listen-report.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
 (D / "listen-report.md").write_text("\n".join(md) + "\n", encoding="utf-8")
