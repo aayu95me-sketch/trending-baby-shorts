@@ -1,0 +1,1243 @@
+{
+ "total": 72.95,
+ "voice": "long-ramayana-hisaab/ch4/voice.wav",
+ "lines": [
+  {
+   "start": 0.0,
+   "text": "Chapter teen. Aur kitna kamayegi? Humara hisaab.",
+   "end": 3.783
+  },
+  {
+   "start": 4.329,
+   "text": "Ab asli kaam. Trade wale bolte hain, do hazaar crore jayegi. Kis base pe? Hum base dikhayenge.",
+   "end": 10.558
+  },
+  {
+   "start": 10.558,
+   "text": "Pehle saat din mein India net 511 crore aaya. Agle saat din mein, Wednesday ki advance booking jod ke, lagbhag 337 crore. Yaani doosre hafte ne pehle hafte ka 66 pratishat rakha. Badi filmon ke liye ye mazboot hold hai.",
+   "end": 24.461
+  },
+  {
+   "start": 24.679,
+   "text": "Iske baad har hafta pichhle hafte ka kitna rakhega? Humne teen case liye. Dheema case: har hafta pichhle ka 40 pratishat. Beech ka case: 50 pratishat. Mazboot case: 55 pratishat.",
+   "end": 37.788
+  },
+  {
+   "start": 38.198,
+   "text": "Dheema case mein India net lagbhag 1,070 crore pe rukti hai, aur worldwide lagbhag 1,890 crore.",
+   "end": 44.181
+  },
+  {
+   "start": 44.32,
+   "text": "Beech ke case mein India net lagbhag 1,180 crore, worldwide lagbhag 2,075 crore.",
+   "end": 50.178
+  },
+  {
+   "start": 50.372,
+   "text": "Mazboot case mein India net lagbhag 1,260 crore, worldwide lagbhag 2,200 crore.",
+   "end": 56.166
+  },
+  {
+   "start": 56.57,
+   "text": "Isme China jaisa koi bada naya market nahi gina. Aur videsh ki kamai thodi dheere badhti maani hai.",
+   "end": 61.918
+  },
+  {
+   "start": 61.918,
+   "text": "Ye bhavishyavani nahi hai, hisaab hai. Agar teesre hafte ka asli number humare beech wale case se neeche gira, to final number bhi neeche aayega. Hum har hafte pinned comment mein asli number se milayenge.",
+   "end": 71.509
+  }
+ ],
+ "words": [
+  {
+   "w": "Chapter",
+   "start": 0.0,
+   "end": 0.62
+  },
+  {
+   "w": "teen.",
+   "start": 0.64,
+   "end": 1.328
+  },
+  {
+   "w": "Aur",
+   "start": 1.348,
+   "end": 1.7
+  },
+  {
+   "w": "kitna",
+   "start": 1.72,
+   "end": 2.08
+  },
+  {
+   "w": "kamayegi?",
+   "start": 2.1,
+   "end": 2.9
+  },
+  {
+   "w": "Humara",
+   "start": 3.052,
+   "end": 3.46
+  },
+  {
+   "w": "hisaab.",
+   "start": 3.48,
+   "end": 4.28
+  },
+  {
+   "w": "Ab",
+   "start": 4.329,
+   "end": 4.46
+  },
+  {
+   "w": "asli",
+   "start": 4.48,
+   "end": 4.7
+  },
+  {
+   "w": "kaam.",
+   "start": 4.72,
+   "end": 5.18
+  },
+  {
+   "w": "Trade",
+   "start": 5.2,
+   "end": 5.64
+  },
+  {
+   "w": "wale",
+   "start": 5.66,
+   "end": 5.86
+  },
+  {
+   "w": "bolte",
+   "start": 5.88,
+   "end": 6.14
+  },
+  {
+   "w": "hain,",
+   "start": 6.16,
+   "end": 6.373
+  },
+  {
+   "w": "do",
+   "start": 6.393,
+   "end": 6.607
+  },
+  {
+   "w": "hazaar",
+   "start": 6.627,
+   "end": 6.84
+  },
+  {
+   "w": "crore",
+   "start": 6.86,
+   "end": 7.12
+  },
+  {
+   "w": "jayegi.",
+   "start": 7.14,
+   "end": 7.608
+  },
+  {
+   "w": "Kis",
+   "start": 7.628,
+   "end": 8.097
+  },
+  {
+   "w": "base",
+   "start": 8.117,
+   "end": 8.585
+  },
+  {
+   "w": "pe?",
+   "start": 8.605,
+   "end": 9.073
+  },
+  {
+   "w": "Hum",
+   "start": 9.093,
+   "end": 9.561
+  },
+  {
+   "w": "base",
+   "start": 9.581,
+   "end": 10.05
+  },
+  {
+   "w": "dikhayenge.",
+   "start": 10.07,
+   "end": 10.538
+  },
+  {
+   "w": "Pehle",
+   "start": 10.558,
+   "end": 10.84
+  },
+  {
+   "w": "saat",
+   "start": 10.86,
+   "end": 11.08
+  },
+  {
+   "w": "din",
+   "start": 11.1,
+   "end": 11.22
+  },
+  {
+   "w": "mein",
+   "start": 11.24,
+   "end": 11.528
+  },
+  {
+   "w": "India",
+   "start": 11.548,
+   "end": 11.692
+  },
+  {
+   "w": "net",
+   "start": 11.712,
+   "end": 11.856
+  },
+  {
+   "w": "511",
+   "start": 11.876,
+   "end": 12.676
+  },
+  {
+   "w": "crore",
+   "start": 12.91,
+   "end": 13.08
+  },
+  {
+   "w": "aaya.",
+   "start": 13.1,
+   "end": 13.9
+  },
+  {
+   "w": "Agle",
+   "start": 14.098,
+   "end": 14.42
+  },
+  {
+   "w": "saat",
+   "start": 14.44,
+   "end": 14.62
+  },
+  {
+   "w": "din",
+   "start": 14.64,
+   "end": 14.74
+  },
+  {
+   "w": "mein,",
+   "start": 14.76,
+   "end": 15.08
+  },
+  {
+   "w": "Wednesday",
+   "start": 15.1,
+   "end": 15.44
+  },
+  {
+   "w": "ki",
+   "start": 15.46,
+   "end": 15.6
+  },
+  {
+   "w": "advance",
+   "start": 15.62,
+   "end": 15.92
+  },
+  {
+   "w": "booking",
+   "start": 15.94,
+   "end": 16.16
+  },
+  {
+   "w": "jod",
+   "start": 16.18,
+   "end": 16.4
+  },
+  {
+   "w": "ke,",
+   "start": 16.42,
+   "end": 16.78
+  },
+  {
+   "w": "lagbhag",
+   "start": 16.8,
+   "end": 17.504
+  },
+  {
+   "w": "337",
+   "start": 17.524,
+   "end": 18.26
+  },
+  {
+   "w": "crore.",
+   "start": 18.28,
+   "end": 18.639
+  },
+  {
+   "w": "Yaani",
+   "start": 18.659,
+   "end": 19.28
+  },
+  {
+   "w": "doosre",
+   "start": 19.3,
+   "end": 19.66
+  },
+  {
+   "w": "hafte",
+   "start": 19.68,
+   "end": 19.92
+  },
+  {
+   "w": "ne",
+   "start": 19.94,
+   "end": 20.2
+  },
+  {
+   "w": "pehle",
+   "start": 20.22,
+   "end": 20.62
+  },
+  {
+   "w": "hafte",
+   "start": 20.64,
+   "end": 20.9
+  },
+  {
+   "w": "ka",
+   "start": 20.92,
+   "end": 21.06
+  },
+  {
+   "w": "66",
+   "start": 21.08,
+   "end": 21.52
+  },
+  {
+   "w": "pratishat",
+   "start": 21.54,
+   "end": 21.92
+  },
+  {
+   "w": "rakha.",
+   "start": 21.94,
+   "end": 22.74
+  },
+  {
+   "w": "Badi",
+   "start": 22.831,
+   "end": 23.14
+  },
+  {
+   "w": "filmon",
+   "start": 23.16,
+   "end": 23.42
+  },
+  {
+   "w": "ke",
+   "start": 23.44,
+   "end": 23.56
+  },
+  {
+   "w": "liye",
+   "start": 23.58,
+   "end": 23.72
+  },
+  {
+   "w": "ye",
+   "start": 23.74,
+   "end": 23.8
+  },
+  {
+   "w": "mazboot",
+   "start": 23.82,
+   "end": 24.07
+  },
+  {
+   "w": "hold",
+   "start": 24.09,
+   "end": 24.34
+  },
+  {
+   "w": "hai.",
+   "start": 24.36,
+   "end": 24.659
+  },
+  {
+   "w": "Iske",
+   "start": 24.679,
+   "end": 25.34
+  },
+  {
+   "w": "baad",
+   "start": 25.36,
+   "end": 25.84
+  },
+  {
+   "w": "har",
+   "start": 25.86,
+   "end": 26.06
+  },
+  {
+   "w": "hafta",
+   "start": 26.08,
+   "end": 26.492
+  },
+  {
+   "w": "pichhle",
+   "start": 26.512,
+   "end": 26.74
+  },
+  {
+   "w": "hafte",
+   "start": 26.76,
+   "end": 26.93
+  },
+  {
+   "w": "ka",
+   "start": 26.95,
+   "end": 27.12
+  },
+  {
+   "w": "kitna",
+   "start": 27.14,
+   "end": 27.52
+  },
+  {
+   "w": "rakhega?",
+   "start": 27.54,
+   "end": 28.34
+  },
+  {
+   "w": "Humne",
+   "start": 28.595,
+   "end": 28.94
+  },
+  {
+   "w": "teen",
+   "start": 28.96,
+   "end": 29.16
+  },
+  {
+   "w": "case",
+   "start": 29.18,
+   "end": 29.38
+  },
+  {
+   "w": "liye.",
+   "start": 29.4,
+   "end": 30.186
+  },
+  {
+   "w": "Dheema",
+   "start": 30.206,
+   "end": 30.58
+  },
+  {
+   "w": "case:",
+   "start": 30.6,
+   "end": 31.243
+  },
+  {
+   "w": "har",
+   "start": 31.263,
+   "end": 31.4
+  },
+  {
+   "w": "hafta",
+   "start": 31.42,
+   "end": 31.7
+  },
+  {
+   "w": "pichhle",
+   "start": 31.72,
+   "end": 32.0
+  },
+  {
+   "w": "ka",
+   "start": 32.02,
+   "end": 32.14
+  },
+  {
+   "w": "40",
+   "start": 32.16,
+   "end": 32.52
+  },
+  {
+   "w": "pratishat.",
+   "start": 32.54,
+   "end": 33.34
+  },
+  {
+   "w": "Beech",
+   "start": 33.532,
+   "end": 33.78
+  },
+  {
+   "w": "ka",
+   "start": 33.8,
+   "end": 33.94
+  },
+  {
+   "w": "case:",
+   "start": 33.96,
+   "end": 34.22
+  },
+  {
+   "w": "50",
+   "start": 34.24,
+   "end": 34.36
+  },
+  {
+   "w": "pratishat.",
+   "start": 34.38,
+   "end": 34.5
+  },
+  {
+   "w": "Mazboot",
+   "start": 34.52,
+   "end": 34.64
+  },
+  {
+   "w": "case:",
+   "start": 34.66,
+   "end": 34.78
+  },
+  {
+   "w": "55",
+   "start": 34.8,
+   "end": 34.92
+  },
+  {
+   "w": "pratishat.",
+   "start": 34.94,
+   "end": 35.74
+  },
+  {
+   "w": "Dheema",
+   "start": 38.198,
+   "end": 38.54
+  },
+  {
+   "w": "case",
+   "start": 38.56,
+   "end": 38.82
+  },
+  {
+   "w": "mein",
+   "start": 38.84,
+   "end": 38.94
+  },
+  {
+   "w": "India",
+   "start": 38.96,
+   "end": 39.06
+  },
+  {
+   "w": "net",
+   "start": 39.08,
+   "end": 39.62
+  },
+  {
+   "w": "lagbhag",
+   "start": 39.64,
+   "end": 39.98
+  },
+  {
+   "w": "1,070",
+   "start": 40.0,
+   "end": 40.73
+  },
+  {
+   "w": "crore",
+   "start": 40.75,
+   "end": 40.98
+  },
+  {
+   "w": "pe",
+   "start": 41.0,
+   "end": 41.23
+  },
+  {
+   "w": "rukti",
+   "start": 41.25,
+   "end": 41.48
+  },
+  {
+   "w": "hai,",
+   "start": 41.5,
+   "end": 41.73
+  },
+  {
+   "w": "aur",
+   "start": 41.75,
+   "end": 41.98
+  },
+  {
+   "w": "worldwide",
+   "start": 42.0,
+   "end": 42.44
+  },
+  {
+   "w": "lagbhag",
+   "start": 42.46,
+   "end": 42.785
+  },
+  {
+   "w": "1,890",
+   "start": 42.805,
+   "end": 43.605
+  },
+  {
+   "w": "crore.",
+   "start": 43.84,
+   "end": 44.3
+  },
+  {
+   "w": "Beech",
+   "start": 44.32,
+   "end": 44.78
+  },
+  {
+   "w": "ke",
+   "start": 44.8,
+   "end": 45.2
+  },
+  {
+   "w": "case",
+   "start": 45.22,
+   "end": 45.46
+  },
+  {
+   "w": "mein",
+   "start": 45.48,
+   "end": 45.64
+  },
+  {
+   "w": "India",
+   "start": 45.66,
+   "end": 45.88
+  },
+  {
+   "w": "net",
+   "start": 45.9,
+   "end": 46.12
+  },
+  {
+   "w": "lagbhag",
+   "start": 46.14,
+   "end": 46.385
+  },
+  {
+   "w": "1,180",
+   "start": 46.405,
+   "end": 47.18
+  },
+  {
+   "w": "crore,",
+   "start": 47.2,
+   "end": 47.56
+  },
+  {
+   "w": "worldwide",
+   "start": 47.58,
+   "end": 48.38
+  },
+  {
+   "w": "lagbhag",
+   "start": 48.42,
+   "end": 48.827
+  },
+  {
+   "w": "2,075",
+   "start": 48.847,
+   "end": 49.647
+  },
+  {
+   "w": "crore.",
+   "start": 50.036,
+   "end": 50.352
+  },
+  {
+   "w": "Mazboot",
+   "start": 50.372,
+   "end": 50.688
+  },
+  {
+   "w": "case",
+   "start": 50.708,
+   "end": 51.024
+  },
+  {
+   "w": "mein",
+   "start": 51.044,
+   "end": 51.36
+  },
+  {
+   "w": "India",
+   "start": 51.38,
+   "end": 52.04
+  },
+  {
+   "w": "net",
+   "start": 52.06,
+   "end": 52.3
+  },
+  {
+   "w": "lagbhag",
+   "start": 52.32,
+   "end": 52.9
+  },
+  {
+   "w": "1,260",
+   "start": 52.92,
+   "end": 53.72
+  },
+  {
+   "w": "crore,",
+   "start": 53.98,
+   "end": 54.42
+  },
+  {
+   "w": "worldwide",
+   "start": 54.44,
+   "end": 54.96
+  },
+  {
+   "w": "lagbhag",
+   "start": 54.98,
+   "end": 55.32
+  },
+  {
+   "w": "2,200",
+   "start": 55.34,
+   "end": 56.14
+  },
+  {
+   "w": "crore.",
+   "start": 56.16,
+   "end": 56.55
+  },
+  {
+   "w": "Isme",
+   "start": 56.57,
+   "end": 56.96
+  },
+  {
+   "w": "China",
+   "start": 56.98,
+   "end": 57.42
+  },
+  {
+   "w": "jaisa",
+   "start": 57.44,
+   "end": 57.62
+  },
+  {
+   "w": "koi",
+   "start": 57.64,
+   "end": 57.76
+  },
+  {
+   "w": "bada",
+   "start": 57.78,
+   "end": 58.06
+  },
+  {
+   "w": "naya",
+   "start": 58.08,
+   "end": 58.26
+  },
+  {
+   "w": "market",
+   "start": 58.28,
+   "end": 58.56
+  },
+  {
+   "w": "nahi",
+   "start": 58.58,
+   "end": 58.86
+  },
+  {
+   "w": "gina.",
+   "start": 58.88,
+   "end": 59.104
+  },
+  {
+   "w": "Aur",
+   "start": 59.124,
+   "end": 59.3
+  },
+  {
+   "w": "videsh",
+   "start": 59.32,
+   "end": 59.5
+  },
+  {
+   "w": "ki",
+   "start": 59.52,
+   "end": 59.7
+  },
+  {
+   "w": "kamai",
+   "start": 59.72,
+   "end": 60.0
+  },
+  {
+   "w": "thodi",
+   "start": 60.02,
+   "end": 60.38
+  },
+  {
+   "w": "dheere",
+   "start": 60.4,
+   "end": 60.66
+  },
+  {
+   "w": "badhti",
+   "start": 60.68,
+   "end": 60.92
+  },
+  {
+   "w": "maani",
+   "start": 60.94,
+   "end": 61.16
+  },
+  {
+   "w": "hai.",
+   "start": 61.18,
+   "end": 61.898
+  },
+  {
+   "w": "Ye",
+   "start": 61.918,
+   "end": 61.98
+  },
+  {
+   "w": "bhavishyavani",
+   "start": 62.0,
+   "end": 62.54
+  },
+  {
+   "w": "nahi",
+   "start": 62.56,
+   "end": 63.0
+  },
+  {
+   "w": "hai,",
+   "start": 63.02,
+   "end": 63.18
+  },
+  {
+   "w": "hisaab",
+   "start": 63.2,
+   "end": 63.42
+  },
+  {
+   "w": "hai.",
+   "start": 63.44,
+   "end": 63.824
+  },
+  {
+   "w": "Agar",
+   "start": 63.844,
+   "end": 64.1
+  },
+  {
+   "w": "teesre",
+   "start": 64.12,
+   "end": 64.48
+  },
+  {
+   "w": "hafte",
+   "start": 64.5,
+   "end": 64.74
+  },
+  {
+   "w": "ka",
+   "start": 64.76,
+   "end": 64.88
+  },
+  {
+   "w": "asli",
+   "start": 64.9,
+   "end": 65.16
+  },
+  {
+   "w": "number",
+   "start": 65.18,
+   "end": 65.44
+  },
+  {
+   "w": "humare",
+   "start": 65.46,
+   "end": 65.74
+  },
+  {
+   "w": "beech",
+   "start": 65.76,
+   "end": 66.02
+  },
+  {
+   "w": "wale",
+   "start": 66.04,
+   "end": 66.3
+  },
+  {
+   "w": "case",
+   "start": 66.32,
+   "end": 66.38
+  },
+  {
+   "w": "se",
+   "start": 66.4,
+   "end": 66.52
+  },
+  {
+   "w": "neeche",
+   "start": 66.54,
+   "end": 66.82
+  },
+  {
+   "w": "gira,",
+   "start": 66.84,
+   "end": 67.36
+  },
+  {
+   "w": "to",
+   "start": 67.38,
+   "end": 67.46
+  },
+  {
+   "w": "final",
+   "start": 67.48,
+   "end": 67.74
+  },
+  {
+   "w": "number",
+   "start": 67.76,
+   "end": 68.02
+  },
+  {
+   "w": "bhi",
+   "start": 68.04,
+   "end": 68.2
+  },
+  {
+   "w": "neeche",
+   "start": 68.22,
+   "end": 68.46
+  },
+  {
+   "w": "aayega.",
+   "start": 68.48,
+   "end": 68.84
+  },
+  {
+   "w": "Hum",
+   "start": 68.86,
+   "end": 69.22
+  },
+  {
+   "w": "har",
+   "start": 69.24,
+   "end": 69.5
+  },
+  {
+   "w": "hafte",
+   "start": 69.52,
+   "end": 69.927
+  },
+  {
+   "w": "pinned",
+   "start": 69.947,
+   "end": 70.12
+  },
+  {
+   "w": "comment",
+   "start": 70.14,
+   "end": 70.36
+  },
+  {
+   "w": "mein",
+   "start": 70.38,
+   "end": 70.54
+  },
+  {
+   "w": "asli",
+   "start": 70.56,
+   "end": 70.76
+  },
+  {
+   "w": "number",
+   "start": 70.78,
+   "end": 70.98
+  },
+  {
+   "w": "se",
+   "start": 71.0,
+   "end": 71.12
+  },
+  {
+   "w": "milayenge.",
+   "start": 71.14,
+   "end": 71.95
+  }
+ ],
+ "cues": {
+  "c3": 0.0,
+  "holds": 10.558,
+  "cases": 24.679,
+  "table": 38.198,
+  "notprophecy": 61.918
+ },
+ "numbers": [
+  {
+   "show": "511",
+   "spoken": "paanch sau gyaarah",
+   "heard": 0.67,
+   "digit_diff": null
+  },
+  {
+   "show": "337",
+   "spoken": "teen sau saintees",
+   "heard": 0.67,
+   "digit_diff": null
+  },
+  {
+   "show": "66",
+   "spoken": "chhiyaasath",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "40",
+   "spoken": "chaalees",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "50",
+   "spoken": "pachaas",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "55",
+   "spoken": "pachpan",
+   "heard": 0.0,
+   "digit_diff": null
+  },
+  {
+   "show": "1,070",
+   "spoken": "ek hazaar sattar",
+   "heard": 0.33,
+   "digit_diff": null
+  },
+  {
+   "show": "1,890",
+   "spoken": "athaarah sau nabbe",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "1,180",
+   "spoken": "gyaarah sau assi",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "2,075",
+   "spoken": "do hazaar pachhattar",
+   "heard": 0.33,
+   "digit_diff": null
+  },
+  {
+   "show": "1,260",
+   "spoken": "baarah sau saath",
+   "heard": 0.67,
+   "digit_diff": null
+  },
+  {
+   "show": "2,200",
+   "spoken": "baais sau",
+   "heard": 0.5,
+   "digit_diff": null
+  }
+ ],
+ "heard": [
+  "चाप्ते",
+  "त्री",
+  "और",
+  "कितना",
+  "कमाईगी",
+  "हमारा",
+  "ही",
+  "साब",
+  "अब",
+  "अस्ली",
+  "काम",
+  "ट्रेट",
+  "वाले",
+  "बोलते",
+  "हैं",
+  "2",
+  ",000",
+  "करोड",
+  "जाएगी",
+  "अगले",
+  "साथ",
+  "दिन",
+  "में",
+  "इंदियनेट",
+  "पाजसो",
+  "ग्यारा",
+  "करोड़ाया",
+  "अगले",
+  "साथ",
+  "दिन",
+  "में",
+  "वेदनेस",
+  "देक",
+  "एडवान्स",
+  "बोकिंजोड",
+  "के",
+  "लग्बभग",
+  "तींसो",
+  "सेटीस",
+  "करोड",
+  "यहनी",
+  "दुसरे",
+  "हबते",
+  "ने",
+  "पहले",
+  "हबते",
+  "का",
+  "च्यासथ",
+  "प्रतीषतर.",
+  "रखा",
+  "बढ़ी",
+  "फिल्मो",
+  "के",
+  "लिए",
+  "एई",
+  "मस्वुत्फोल",
+  "ले",
+  "इसके",
+  "बाद,",
+  "हर",
+  "हाथा",
+  "पिष्ले",
+  "हाथदगा",
+  "कित्ना",
+  "रखागा",
+  "हमने",
+  "तब",
+  "प्रवाद",
+  "केस",
+  "लिए,",
+  "दीमा",
+  "केस",
+  "हर",
+  "हबता",
+  "पिषले",
+  "का",
+  "चालिस",
+  "प्रतीषत,",
+  "बीज",
+  "का",
+  "केस",
+  "पचास",
+  "प्रतीषत.",
+  "दीमा",
+  "केस",
+  "में",
+  "इंट्यानेट",
+  "लगबबग",
+  "एक",
+  "हाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाजाज",
+  "वुल्गवाइद",
+  "लग्वबग",
+  "1890",
+  "करूट",
+  "बीज्के",
+  "केस",
+  "में",
+  "इंद्यनेड",
+  "लग्वबग",
+  "1180",
+  "करूट",
+  "वुल्गवाइद",
+  "लग्वबग",
+  "2070",
+  "करूट",
+  "अदिया",
+  "नेट",
+  "लगबख",
+  "बारासो",
+  "साथ",
+  "करोड,",
+  "वोलवाईद",
+  "लगबख",
+  "बाईसो",
+  "करोड,",
+  "अदिया",
+  "अदिया",
+  "नेट",
+  "जैसा",
+  "कुई",
+  "बड़ा",
+  "नाया",
+  "मरकेट",
+  "नहींगे",
+  "ना",
+  "और",
+  "विदिएशी",
+  "कमाई",
+  "थोडी",
+  "दीरे",
+  "बड़ती",
+  "मानी",
+  "है",
+  "ये",
+  "बहुविष्यमानी",
+  "नहीं",
+  "ही",
+  "साब",
+  "है",
+  "अगर",
+  "तीसरे",
+  "हबते",
+  "का",
+  "आस्ली",
+  "नमबर",
+  "हमारे",
+  "भीच्वाले",
+  "कि",
+  "यह",
+  "से",
+  "नीचे",
+  "गिरा,",
+  "तो",
+  "फाइनल",
+  "नमबर",
+  "भी",
+  "नीचे",
+  "आएगा.",
+  "हमार",
+  "अबते",
+  "पिंट",
+  "कोमट",
+  "में",
+  "आस्ली",
+  "नमबर...",
+  "से",
+  "मिलाएंगे"
+ ]
+}

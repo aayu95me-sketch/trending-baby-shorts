@@ -1,0 +1,595 @@
+{
+ "total": 34.683,
+ "voice": "long-ramayana-hisaab/ch1/voice.wav",
+ "lines": [
+  {
+   "start": 0.111,
+   "text": "Terah din. ₹1,483 crore rupaye. Ramayana is waqt India ki sabse tez kamaane wali filmon mein hai.",
+   "end": 7.071
+  },
+  {
+   "start": 7.566,
+   "text": "Lekin internet pe do sawaal chal rahe hain. Pehla: kya ye Dangal ka 2,070 crore ka record tod degi?",
+   "end": 13.84
+  },
+  {
+   "start": 14.432,
+   "text": "Aur doosra sawaal, jo koi theek se nahi pooch raha: is film pe 4,000 crore lage hain. Kya wo paisa wapas aayega?",
+   "end": 23.433
+  },
+  {
+   "start": 23.433,
+   "text": "Aaj hum kisi ka trade tweet nahi maanenge. Din-ba-din ka data liya hai, aur khud hisaab lagaya hai. Video khatam hote-hote aapke paas teen number honge, jo aap kisi bhi bahas mein screenshot karke bhej sakte ho.",
+   "end": 33.31
+  }
+ ],
+ "words": [
+  {
+   "w": "Terah",
+   "start": 0.111,
+   "end": 0.56
+  },
+  {
+   "w": "din.",
+   "start": 0.58,
+   "end": 1.147
+  },
+  {
+   "w": "₹1,483 crore",
+   "start": 1.167,
+   "end": 1.967
+  },
+  {
+   "w": "rupaye.",
+   "start": 3.319,
+   "end": 3.659
+  },
+  {
+   "w": "Ramayana",
+   "start": 3.679,
+   "end": 4.22
+  },
+  {
+   "w": "is",
+   "start": 4.24,
+   "end": 4.52
+  },
+  {
+   "w": "waqt",
+   "start": 4.54,
+   "end": 4.82
+  },
+  {
+   "w": "India",
+   "start": 4.84,
+   "end": 5.18
+  },
+  {
+   "w": "ki",
+   "start": 5.2,
+   "end": 5.32
+  },
+  {
+   "w": "sabse",
+   "start": 5.34,
+   "end": 5.734
+  },
+  {
+   "w": "tez",
+   "start": 5.754,
+   "end": 5.96
+  },
+  {
+   "w": "kamaane",
+   "start": 5.98,
+   "end": 6.22
+  },
+  {
+   "w": "wali",
+   "start": 6.24,
+   "end": 6.48
+  },
+  {
+   "w": "filmon",
+   "start": 6.5,
+   "end": 6.78
+  },
+  {
+   "w": "mein",
+   "start": 6.8,
+   "end": 6.98
+  },
+  {
+   "w": "hai.",
+   "start": 7.0,
+   "end": 7.546
+  },
+  {
+   "w": "Lekin",
+   "start": 7.566,
+   "end": 7.86
+  },
+  {
+   "w": "internet",
+   "start": 7.88,
+   "end": 8.24
+  },
+  {
+   "w": "pe",
+   "start": 8.26,
+   "end": 8.36
+  },
+  {
+   "w": "do",
+   "start": 8.38,
+   "end": 8.6
+  },
+  {
+   "w": "sawaal",
+   "start": 8.62,
+   "end": 8.94
+  },
+  {
+   "w": "chal",
+   "start": 8.96,
+   "end": 9.1
+  },
+  {
+   "w": "rahe",
+   "start": 9.12,
+   "end": 9.92
+  },
+  {
+   "w": "hain.",
+   "start": 10.055,
+   "end": 10.035
+  },
+  {
+   "w": "Pehla:",
+   "start": 10.055,
+   "end": 10.752
+  },
+  {
+   "w": "kya",
+   "start": 10.772,
+   "end": 10.9
+  },
+  {
+   "w": "ye",
+   "start": 10.92,
+   "end": 11.0
+  },
+  {
+   "w": "Dangal",
+   "start": 11.02,
+   "end": 11.46
+  },
+  {
+   "w": "ka",
+   "start": 11.48,
+   "end": 11.725
+  },
+  {
+   "w": "2,070",
+   "start": 11.745,
+   "end": 12.52
+  },
+  {
+   "w": "crore",
+   "start": 12.54,
+   "end": 12.84
+  },
+  {
+   "w": "ka",
+   "start": 12.86,
+   "end": 13.0
+  },
+  {
+   "w": "record",
+   "start": 13.02,
+   "end": 13.26
+  },
+  {
+   "w": "tod",
+   "start": 13.28,
+   "end": 13.52
+  },
+  {
+   "w": "degi?",
+   "start": 13.54,
+   "end": 14.34
+  },
+  {
+   "w": "Aur",
+   "start": 14.432,
+   "end": 14.726
+  },
+  {
+   "w": "doosra",
+   "start": 14.746,
+   "end": 15.04
+  },
+  {
+   "w": "sawaal,",
+   "start": 15.06,
+   "end": 15.34
+  },
+  {
+   "w": "jo",
+   "start": 15.36,
+   "end": 15.78
+  },
+  {
+   "w": "koi",
+   "start": 15.8,
+   "end": 15.98
+  },
+  {
+   "w": "theek",
+   "start": 16.0,
+   "end": 16.3
+  },
+  {
+   "w": "se",
+   "start": 16.32,
+   "end": 16.42
+  },
+  {
+   "w": "nahi",
+   "start": 16.44,
+   "end": 16.74
+  },
+  {
+   "w": "pooch",
+   "start": 16.76,
+   "end": 17.182
+  },
+  {
+   "w": "raha:",
+   "start": 17.202,
+   "end": 17.623
+  },
+  {
+   "w": "is",
+   "start": 17.643,
+   "end": 17.84
+  },
+  {
+   "w": "film",
+   "start": 17.86,
+   "end": 18.12
+  },
+  {
+   "w": "pe",
+   "start": 18.14,
+   "end": 18.28
+  },
+  {
+   "w": "4,000",
+   "start": 18.3,
+   "end": 19.06
+  },
+  {
+   "w": "crore",
+   "start": 19.08,
+   "end": 19.34
+  },
+  {
+   "w": "lage",
+   "start": 19.36,
+   "end": 19.56
+  },
+  {
+   "w": "hain.",
+   "start": 19.58,
+   "end": 20.096
+  },
+  {
+   "w": "Kya",
+   "start": 20.116,
+   "end": 20.24
+  },
+  {
+   "w": "wo",
+   "start": 20.26,
+   "end": 20.44
+  },
+  {
+   "w": "paisa",
+   "start": 20.46,
+   "end": 20.8
+  },
+  {
+   "w": "wapas",
+   "start": 20.82,
+   "end": 21.06
+  },
+  {
+   "w": "aayega?",
+   "start": 21.08,
+   "end": 21.88
+  },
+  {
+   "w": "Aaj",
+   "start": 23.433,
+   "end": 24.233
+  },
+  {
+   "w": "hum",
+   "start": 25.787,
+   "end": 26.587
+  },
+  {
+   "w": "kisi",
+   "start": 28.14,
+   "end": 28.152
+  },
+  {
+   "w": "ka",
+   "start": 28.172,
+   "end": 28.185
+  },
+  {
+   "w": "trade",
+   "start": 28.205,
+   "end": 28.218
+  },
+  {
+   "w": "tweet",
+   "start": 28.238,
+   "end": 28.25
+  },
+  {
+   "w": "nahi",
+   "start": 28.27,
+   "end": 28.282
+  },
+  {
+   "w": "maanenge.",
+   "start": 28.302,
+   "end": 28.315
+  },
+  {
+   "w": "Din-ba-din",
+   "start": 28.335,
+   "end": 28.347
+  },
+  {
+   "w": "ka",
+   "start": 28.367,
+   "end": 28.38
+  },
+  {
+   "w": "data",
+   "start": 28.4,
+   "end": 28.406
+  },
+  {
+   "w": "liya",
+   "start": 28.426,
+   "end": 28.432
+  },
+  {
+   "w": "hai,",
+   "start": 28.452,
+   "end": 28.458
+  },
+  {
+   "w": "aur",
+   "start": 28.478,
+   "end": 28.484
+  },
+  {
+   "w": "khud",
+   "start": 28.504,
+   "end": 28.51
+  },
+  {
+   "w": "hisaab",
+   "start": 28.53,
+   "end": 28.536
+  },
+  {
+   "w": "lagaya",
+   "start": 28.556,
+   "end": 28.562
+  },
+  {
+   "w": "hai.",
+   "start": 28.582,
+   "end": 28.588
+  },
+  {
+   "w": "Video",
+   "start": 28.608,
+   "end": 28.614
+  },
+  {
+   "w": "khatam",
+   "start": 28.634,
+   "end": 28.64
+  },
+  {
+   "w": "hote-hote",
+   "start": 28.66,
+   "end": 28.94
+  },
+  {
+   "w": "aapke",
+   "start": 28.96,
+   "end": 29.24
+  },
+  {
+   "w": "paas",
+   "start": 29.26,
+   "end": 29.54
+  },
+  {
+   "w": "teen",
+   "start": 29.56,
+   "end": 29.78
+  },
+  {
+   "w": "number",
+   "start": 29.8,
+   "end": 29.813
+  },
+  {
+   "w": "honge,",
+   "start": 29.833,
+   "end": 29.847
+  },
+  {
+   "w": "jo",
+   "start": 29.867,
+   "end": 29.88
+  },
+  {
+   "w": "aap",
+   "start": 29.9,
+   "end": 29.913
+  },
+  {
+   "w": "kisi",
+   "start": 29.933,
+   "end": 29.947
+  },
+  {
+   "w": "bhi",
+   "start": 29.967,
+   "end": 29.98
+  },
+  {
+   "w": "bahas",
+   "start": 30.0,
+   "end": 30.013
+  },
+  {
+   "w": "mein",
+   "start": 30.033,
+   "end": 30.047
+  },
+  {
+   "w": "screenshot",
+   "start": 30.067,
+   "end": 30.08
+  },
+  {
+   "w": "karke",
+   "start": 30.1,
+   "end": 30.113
+  },
+  {
+   "w": "bhej",
+   "start": 30.133,
+   "end": 30.147
+  },
+  {
+   "w": "sakte",
+   "start": 30.167,
+   "end": 30.18
+  },
+  {
+   "w": "ho.",
+   "start": 30.2,
+   "end": 33.683
+  }
+ ],
+ "cues": {
+  "q1": 10.055,
+  "q2": 14.746,
+  "q3": 23.433
+ },
+ "numbers": [
+  {
+   "show": "₹1,483 crore",
+   "spoken": "chaudah sau tiraasi crore",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "2,070",
+   "spoken": "do hazaar sattar",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "4,000",
+   "spoken": "chaar hazaar",
+   "heard": 1.0,
+   "digit_diff": null
+  }
+ ],
+ "heard": [
+  "तेरा",
+  "दिन",
+  "1483",
+  "रोड",
+  "रूप",
+  "है",
+  "रामायान",
+  "इस",
+  "वक्त",
+  "इंटिया",
+  "की",
+  "सबसे",
+  "तेस",
+  "कमानेवाली",
+  "फिल्मो",
+  "में",
+  "है",
+  "बलकिन",
+  "इंटिया",
+  "की",
+  "पे",
+  "दो",
+  "सवाल",
+  "चल",
+  "रहा",
+  "हैं.",
+  "पहला",
+  "क्या",
+  "ये",
+  "दंगल",
+  "का",
+  "2",
+  ",070",
+  "करोड",
+  "का",
+  "रेकोट",
+  "तोड",
+  "देगी?",
+  "और",
+  "2",
+  ",070",
+  "करोड",
+  "सवाल",
+  "जो",
+  "कोई",
+  "तीक",
+  "से",
+  "नहीं",
+  "पुछ़ा,",
+  "इस",
+  "फिल्म",
+  "पे",
+  "चार",
+  "हाजार",
+  "करोड",
+  "लगे",
+  "है,",
+  "क्या",
+  "वो",
+  "पैसा",
+  "वापे",
+  "साएगा?",
+  "टटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटटट",
+  "खत्म",
+  "होते",
+  "होते",
+  "पास",
+  "ती",
+  "नमबर",
+  "हूँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँ�"
+ ]
+}

@@ -1,0 +1,4 @@
+chapter 2: number/sync check failed twice, listen
+chapter 4: number/sync check failed twice, listen
+chapter 5: number/sync check failed twice, listen
+chapter 6: number/sync check failed twice, listen

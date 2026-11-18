@@ -1,0 +1,2115 @@
+{
+ "total": 117.097,
+ "voice": "long-ramayana-hisaab/ch6/voice.wav",
+ "lines": [
+  {
+   "start": 0.229,
+   "text": "Chapter paanch. Chaar hazaar crore ka sach.",
+   "end": 3.18
+  },
+  {
+   "start": 3.18,
+   "text": "Ab doosra sawaal. Producer Namit Malhotra ne ek podcast mein khud kaha tha: Ramayana ke dono parts ka budget $500 million hai, yaani lagbhag 4,000 crore. Business Today ke mutabik isme promotion bhi shaamil hai. Part one ka alag kharcha public nahi hai.",
+   "end": 20.921
+  },
+  {
+   "start": 20.921,
+   "text": "Scale samjho: Chandrayaan three mission lagbhag 615 crore ka tha. Ramayana ka budget saadhe chhe Chandrayaan jitna hai.",
+   "end": 28.594
+  },
+  {
+   "start": 28.94,
+   "text": "Ab sabse zaroori baat. 1,483 crore producer ki jeb mein nahi jaate. Ek sau rupaye ka ticket lo. Is film ke data mein gross aur net ka farak dekho to lagbhag 16 rupaye tax mein jaate hain. Bache lagbhag 84 mein se, aam taur pe theatre lagbhag aadha rakhta hai, pehle hafte thoda kam, baad mein zyada. Yaani sau ke ticket pe film wale ke haath lagbhag 40 se 42 rupaye. Videsh mein bhi film wale ko aam taur pe gross ka lagbhag 40 pratishat milta hai. Ye industry ka rough rule hai, har deal alag hoti hai.",
+   "end": 60.601
+  },
+  {
+   "start": 61.113,
+   "text": "Ab beech wale case pe ye rule lagao. India net 1,180 ka lagbhag 45 pratishat, lagbhag 530 crore. Videsh ke lagbhag 660 crore ka 40 pratishat, lagbhag 265 crore. Theatre se film wale tak lagbhag 800 crore.",
+   "end": 75.578
+  },
+  {
+   "start": 75.917,
+   "text": "Phir OTT. Report ke mutabik makers ne dono filmon ke liye 700 crore ka offer thukra diya tha, aur lagbhag ek hazaar crore chahte hain. Agar ek hazaar mila, to Part one ke hisse lagbhag 500 . Satellite aur music ke number public nahi hain, isliye humne nahi jode.",
+   "end": 90.679
+  },
+  {
+   "start": 91.22,
+   "text": "Total: Part one se lagbhag 1,300 crore. Agar chaar hazaar ka budget dono filmon mein aadha-aadha maano, to Part one ka hissa 2,000 hota hai.",
+   "end": 99.617
+  },
+  {
+   "start": 99.617,
+   "text": "To jawab: abhi nahi. Part one akela poora paisa wapas nahi laayega. Lekin ye uska kaam tha bhi nahi. Chaar hazaar crore do filmon ka daav hai. Part one ne Part two ke liye audience bana di hai. Asli hisaab Diwali 2027 mein Part two ke baad poora hoga.",
+   "end": 115.685
+  }
+ ],
+ "words": [
+  {
+   "w": "Chapter",
+   "start": 0.229,
+   "end": 0.6
+  },
+  {
+   "w": "paanch.",
+   "start": 0.62,
+   "end": 1.0
+  },
+  {
+   "w": "Chaar",
+   "start": 1.02,
+   "end": 1.82
+  },
+  {
+   "w": "hazaar",
+   "start": 1.96,
+   "end": 2.34
+  },
+  {
+   "w": "crore",
+   "start": 2.36,
+   "end": 2.66
+  },
+  {
+   "w": "ka",
+   "start": 2.68,
+   "end": 2.84
+  },
+  {
+   "w": "sach.",
+   "start": 2.86,
+   "end": 3.16
+  },
+  {
+   "w": "Ab",
+   "start": 3.18,
+   "end": 3.98
+  },
+  {
+   "w": "doosra",
+   "start": 4.3,
+   "end": 4.62
+  },
+  {
+   "w": "sawaal.",
+   "start": 4.64,
+   "end": 4.92
+  },
+  {
+   "w": "Producer",
+   "start": 4.94,
+   "end": 5.74
+  },
+  {
+   "w": "Namit",
+   "start": 6.02,
+   "end": 6.34
+  },
+  {
+   "w": "Malhotra",
+   "start": 6.36,
+   "end": 6.88
+  },
+  {
+   "w": "ne",
+   "start": 6.9,
+   "end": 7.04
+  },
+  {
+   "w": "ek",
+   "start": 7.06,
+   "end": 7.261
+  },
+  {
+   "w": "podcast",
+   "start": 7.281,
+   "end": 7.76
+  },
+  {
+   "w": "mein",
+   "start": 7.78,
+   "end": 7.82
+  },
+  {
+   "w": "khud",
+   "start": 7.84,
+   "end": 7.88
+  },
+  {
+   "w": "kaha",
+   "start": 7.9,
+   "end": 8.26
+  },
+  {
+   "w": "tha:",
+   "start": 8.28,
+   "end": 9.08
+  },
+  {
+   "w": "Ramayana",
+   "start": 9.16,
+   "end": 9.54
+  },
+  {
+   "w": "ke",
+   "start": 9.56,
+   "end": 9.72
+  },
+  {
+   "w": "dono",
+   "start": 9.74,
+   "end": 10.08
+  },
+  {
+   "w": "parts",
+   "start": 10.1,
+   "end": 10.4
+  },
+  {
+   "w": "ka",
+   "start": 10.42,
+   "end": 10.54
+  },
+  {
+   "w": "budget",
+   "start": 10.56,
+   "end": 10.82
+  },
+  {
+   "w": "$500 million",
+   "start": 10.84,
+   "end": 11.64
+  },
+  {
+   "w": "hai,",
+   "start": 12.24,
+   "end": 12.74
+  },
+  {
+   "w": "yaani",
+   "start": 12.76,
+   "end": 12.98
+  },
+  {
+   "w": "lagbhag",
+   "start": 13.0,
+   "end": 13.32
+  },
+  {
+   "w": "4,000",
+   "start": 13.34,
+   "end": 14.0
+  },
+  {
+   "w": "crore.",
+   "start": 14.02,
+   "end": 14.76
+  },
+  {
+   "w": "Business",
+   "start": 14.78,
+   "end": 15.44
+  },
+  {
+   "w": "Today",
+   "start": 15.46,
+   "end": 15.66
+  },
+  {
+   "w": "ke",
+   "start": 15.68,
+   "end": 15.78
+  },
+  {
+   "w": "mutabik",
+   "start": 15.8,
+   "end": 16.388
+  },
+  {
+   "w": "isme",
+   "start": 16.408,
+   "end": 16.74
+  },
+  {
+   "w": "promotion",
+   "start": 16.76,
+   "end": 17.24
+  },
+  {
+   "w": "bhi",
+   "start": 17.26,
+   "end": 17.4
+  },
+  {
+   "w": "shaamil",
+   "start": 17.42,
+   "end": 17.74
+  },
+  {
+   "w": "hai.",
+   "start": 17.76,
+   "end": 18.36
+  },
+  {
+   "w": "Part",
+   "start": 18.38,
+   "end": 18.76
+  },
+  {
+   "w": "one",
+   "start": 18.78,
+   "end": 18.98
+  },
+  {
+   "w": "ka",
+   "start": 19.0,
+   "end": 19.12
+  },
+  {
+   "w": "alag",
+   "start": 19.14,
+   "end": 19.28
+  },
+  {
+   "w": "kharcha",
+   "start": 19.3,
+   "end": 19.62
+  },
+  {
+   "w": "public",
+   "start": 19.64,
+   "end": 19.96
+  },
+  {
+   "w": "nahi",
+   "start": 19.98,
+   "end": 20.16
+  },
+  {
+   "w": "hai.",
+   "start": 20.18,
+   "end": 20.901
+  },
+  {
+   "w": "Scale",
+   "start": 20.921,
+   "end": 21.2
+  },
+  {
+   "w": "samjho:",
+   "start": 21.22,
+   "end": 22.02
+  },
+  {
+   "w": "Chandrayaan",
+   "start": 22.041,
+   "end": 22.64
+  },
+  {
+   "w": "three",
+   "start": 22.66,
+   "end": 22.86
+  },
+  {
+   "w": "mission",
+   "start": 22.88,
+   "end": 23.24
+  },
+  {
+   "w": "lagbhag",
+   "start": 23.26,
+   "end": 23.53
+  },
+  {
+   "w": "615",
+   "start": 23.55,
+   "end": 24.35
+  },
+  {
+   "w": "crore",
+   "start": 24.627,
+   "end": 24.873
+  },
+  {
+   "w": "ka",
+   "start": 24.893,
+   "end": 25.14
+  },
+  {
+   "w": "tha.",
+   "start": 25.16,
+   "end": 25.92
+  },
+  {
+   "w": "Ramayana",
+   "start": 25.94,
+   "end": 26.26
+  },
+  {
+   "w": "ka",
+   "start": 26.28,
+   "end": 26.4
+  },
+  {
+   "w": "budget",
+   "start": 26.42,
+   "end": 26.66
+  },
+  {
+   "w": "saadhe",
+   "start": 26.68,
+   "end": 26.95
+  },
+  {
+   "w": "chhe",
+   "start": 26.97,
+   "end": 27.24
+  },
+  {
+   "w": "Chandrayaan",
+   "start": 27.26,
+   "end": 28.06
+  },
+  {
+   "w": "jitna",
+   "start": 28.1,
+   "end": 28.46
+  },
+  {
+   "w": "hai.",
+   "start": 28.48,
+   "end": 28.92
+  },
+  {
+   "w": "Ab",
+   "start": 28.94,
+   "end": 29.38
+  },
+  {
+   "w": "sabse",
+   "start": 29.4,
+   "end": 29.92
+  },
+  {
+   "w": "zaroori",
+   "start": 29.94,
+   "end": 30.32
+  },
+  {
+   "w": "baat.",
+   "start": 30.34,
+   "end": 30.873
+  },
+  {
+   "w": "1,483",
+   "start": 30.893,
+   "end": 31.693
+  },
+  {
+   "w": "crore",
+   "start": 32.36,
+   "end": 32.7
+  },
+  {
+   "w": "producer",
+   "start": 32.72,
+   "end": 33.24
+  },
+  {
+   "w": "ki",
+   "start": 33.26,
+   "end": 33.44
+  },
+  {
+   "w": "jeb",
+   "start": 33.46,
+   "end": 33.68
+  },
+  {
+   "w": "mein",
+   "start": 33.7,
+   "end": 33.77
+  },
+  {
+   "w": "nahi",
+   "start": 33.79,
+   "end": 33.86
+  },
+  {
+   "w": "jaate.",
+   "start": 33.88,
+   "end": 34.31
+  },
+  {
+   "w": "Ek",
+   "start": 34.33,
+   "end": 34.76
+  },
+  {
+   "w": "sau",
+   "start": 34.78,
+   "end": 35.28
+  },
+  {
+   "w": "rupaye",
+   "start": 35.3,
+   "end": 35.54
+  },
+  {
+   "w": "ka",
+   "start": 35.56,
+   "end": 35.72
+  },
+  {
+   "w": "ticket",
+   "start": 35.74,
+   "end": 35.963
+  },
+  {
+   "w": "lo.",
+   "start": 35.983,
+   "end": 36.206
+  },
+  {
+   "w": "Is",
+   "start": 36.226,
+   "end": 36.449
+  },
+  {
+   "w": "film",
+   "start": 36.469,
+   "end": 36.692
+  },
+  {
+   "w": "ke",
+   "start": 36.712,
+   "end": 36.935
+  },
+  {
+   "w": "data",
+   "start": 36.955,
+   "end": 37.178
+  },
+  {
+   "w": "mein",
+   "start": 37.198,
+   "end": 37.422
+  },
+  {
+   "w": "gross",
+   "start": 37.442,
+   "end": 37.665
+  },
+  {
+   "w": "aur",
+   "start": 37.685,
+   "end": 37.908
+  },
+  {
+   "w": "net",
+   "start": 37.928,
+   "end": 38.151
+  },
+  {
+   "w": "ka",
+   "start": 38.171,
+   "end": 38.394
+  },
+  {
+   "w": "farak",
+   "start": 38.414,
+   "end": 38.637
+  },
+  {
+   "w": "dekho",
+   "start": 38.657,
+   "end": 38.88
+  },
+  {
+   "w": "to",
+   "start": 38.9,
+   "end": 39.64
+  },
+  {
+   "w": "lagbhag",
+   "start": 39.66,
+   "end": 40.4
+  },
+  {
+   "w": "16",
+   "start": 40.42,
+   "end": 40.88
+  },
+  {
+   "w": "rupaye",
+   "start": 40.9,
+   "end": 41.08
+  },
+  {
+   "w": "tax",
+   "start": 41.1,
+   "end": 41.46
+  },
+  {
+   "w": "mein",
+   "start": 41.48,
+   "end": 41.6
+  },
+  {
+   "w": "jaate",
+   "start": 41.62,
+   "end": 41.86
+  },
+  {
+   "w": "hain.",
+   "start": 41.88,
+   "end": 42.04
+  },
+  {
+   "w": "Bache",
+   "start": 42.06,
+   "end": 42.86
+  },
+  {
+   "w": "lagbhag",
+   "start": 42.98,
+   "end": 43.38
+  },
+  {
+   "w": "84",
+   "start": 43.4,
+   "end": 43.82
+  },
+  {
+   "w": "mein",
+   "start": 43.84,
+   "end": 44.02
+  },
+  {
+   "w": "se,",
+   "start": 44.04,
+   "end": 44.26
+  },
+  {
+   "w": "aam",
+   "start": 44.28,
+   "end": 44.5
+  },
+  {
+   "w": "taur",
+   "start": 44.52,
+   "end": 44.98
+  },
+  {
+   "w": "pe",
+   "start": 45.0,
+   "end": 45.14
+  },
+  {
+   "w": "theatre",
+   "start": 45.16,
+   "end": 45.54
+  },
+  {
+   "w": "lagbhag",
+   "start": 45.56,
+   "end": 45.71
+  },
+  {
+   "w": "aadha",
+   "start": 45.73,
+   "end": 45.88
+  },
+  {
+   "w": "rakhta",
+   "start": 45.9,
+   "end": 46.44
+  },
+  {
+   "w": "hai,",
+   "start": 46.46,
+   "end": 46.839
+  },
+  {
+   "w": "pehle",
+   "start": 46.859,
+   "end": 47.06
+  },
+  {
+   "w": "hafte",
+   "start": 47.08,
+   "end": 47.34
+  },
+  {
+   "w": "thoda",
+   "start": 47.36,
+   "end": 47.56
+  },
+  {
+   "w": "kam,",
+   "start": 47.58,
+   "end": 47.84
+  },
+  {
+   "w": "baad",
+   "start": 47.86,
+   "end": 48.12
+  },
+  {
+   "w": "mein",
+   "start": 48.14,
+   "end": 48.3
+  },
+  {
+   "w": "zyada.",
+   "start": 48.32,
+   "end": 48.64
+  },
+  {
+   "w": "Yaani",
+   "start": 48.66,
+   "end": 49.34
+  },
+  {
+   "w": "sau",
+   "start": 49.36,
+   "end": 49.74
+  },
+  {
+   "w": "ke",
+   "start": 49.76,
+   "end": 49.84
+  },
+  {
+   "w": "ticket",
+   "start": 49.86,
+   "end": 50.1
+  },
+  {
+   "w": "pe",
+   "start": 50.12,
+   "end": 50.28
+  },
+  {
+   "w": "film",
+   "start": 50.3,
+   "end": 50.64
+  },
+  {
+   "w": "wale",
+   "start": 50.66,
+   "end": 50.88
+  },
+  {
+   "w": "ke",
+   "start": 50.9,
+   "end": 51.02
+  },
+  {
+   "w": "haath",
+   "start": 51.04,
+   "end": 51.22
+  },
+  {
+   "w": "lagbhag",
+   "start": 51.24,
+   "end": 51.7
+  },
+  {
+   "w": "40",
+   "start": 51.72,
+   "end": 52.22
+  },
+  {
+   "w": "se",
+   "start": 52.24,
+   "end": 52.36
+  },
+  {
+   "w": "42",
+   "start": 52.38,
+   "end": 52.84
+  },
+  {
+   "w": "rupaye.",
+   "start": 52.86,
+   "end": 53.66
+  },
+  {
+   "w": "Videsh",
+   "start": 53.732,
+   "end": 54.02
+  },
+  {
+   "w": "mein",
+   "start": 54.04,
+   "end": 54.18
+  },
+  {
+   "w": "bhi",
+   "start": 54.2,
+   "end": 54.3
+  },
+  {
+   "w": "film",
+   "start": 54.32,
+   "end": 54.56
+  },
+  {
+   "w": "wale",
+   "start": 54.58,
+   "end": 54.78
+  },
+  {
+   "w": "ko",
+   "start": 54.8,
+   "end": 54.88
+  },
+  {
+   "w": "aam",
+   "start": 54.9,
+   "end": 55.06
+  },
+  {
+   "w": "taur",
+   "start": 55.08,
+   "end": 55.26
+  },
+  {
+   "w": "pe",
+   "start": 55.28,
+   "end": 55.4
+  },
+  {
+   "w": "gross",
+   "start": 55.42,
+   "end": 55.7
+  },
+  {
+   "w": "ka",
+   "start": 55.72,
+   "end": 55.84
+  },
+  {
+   "w": "lagbhag",
+   "start": 55.86,
+   "end": 56.14
+  },
+  {
+   "w": "40",
+   "start": 56.16,
+   "end": 56.58
+  },
+  {
+   "w": "pratishat",
+   "start": 56.6,
+   "end": 57.0
+  },
+  {
+   "w": "milta",
+   "start": 57.02,
+   "end": 57.3
+  },
+  {
+   "w": "hai.",
+   "start": 57.32,
+   "end": 57.8
+  },
+  {
+   "w": "Ye",
+   "start": 57.82,
+   "end": 57.96
+  },
+  {
+   "w": "industry",
+   "start": 57.98,
+   "end": 58.44
+  },
+  {
+   "w": "ka",
+   "start": 58.46,
+   "end": 58.56
+  },
+  {
+   "w": "rough",
+   "start": 58.58,
+   "end": 58.84
+  },
+  {
+   "w": "rule",
+   "start": 58.86,
+   "end": 59.08
+  },
+  {
+   "w": "hai,",
+   "start": 59.1,
+   "end": 59.52
+  },
+  {
+   "w": "har",
+   "start": 59.54,
+   "end": 59.66
+  },
+  {
+   "w": "deal",
+   "start": 59.68,
+   "end": 60.0
+  },
+  {
+   "w": "alag",
+   "start": 60.02,
+   "end": 60.22
+  },
+  {
+   "w": "hoti",
+   "start": 60.24,
+   "end": 60.48
+  },
+  {
+   "w": "hai.",
+   "start": 60.5,
+   "end": 61.093
+  },
+  {
+   "w": "Ab",
+   "start": 61.113,
+   "end": 61.28
+  },
+  {
+   "w": "beech",
+   "start": 61.3,
+   "end": 61.5
+  },
+  {
+   "w": "wale",
+   "start": 61.52,
+   "end": 61.76
+  },
+  {
+   "w": "case",
+   "start": 61.78,
+   "end": 61.96
+  },
+  {
+   "w": "pe",
+   "start": 61.98,
+   "end": 62.1
+  },
+  {
+   "w": "ye",
+   "start": 62.12,
+   "end": 62.32
+  },
+  {
+   "w": "rule",
+   "start": 62.34,
+   "end": 62.46
+  },
+  {
+   "w": "lagao.",
+   "start": 62.48,
+   "end": 63.25
+  },
+  {
+   "w": "India",
+   "start": 63.27,
+   "end": 63.405
+  },
+  {
+   "w": "net",
+   "start": 63.425,
+   "end": 63.56
+  },
+  {
+   "w": "1,180",
+   "start": 63.58,
+   "end": 64.38
+  },
+  {
+   "w": "ka",
+   "start": 64.6,
+   "end": 64.76
+  },
+  {
+   "w": "lagbhag",
+   "start": 64.78,
+   "end": 65.16
+  },
+  {
+   "w": "45",
+   "start": 65.18,
+   "end": 65.66
+  },
+  {
+   "w": "pratishat,",
+   "start": 65.68,
+   "end": 66.451
+  },
+  {
+   "w": "lagbhag",
+   "start": 66.471,
+   "end": 66.9
+  },
+  {
+   "w": "530",
+   "start": 66.92,
+   "end": 67.46
+  },
+  {
+   "w": "crore.",
+   "start": 67.48,
+   "end": 67.74
+  },
+  {
+   "w": "Videsh",
+   "start": 67.76,
+   "end": 68.56
+  },
+  {
+   "w": "ke",
+   "start": 68.62,
+   "end": 68.78
+  },
+  {
+   "w": "lagbhag",
+   "start": 68.8,
+   "end": 68.94
+  },
+  {
+   "w": "660",
+   "start": 68.96,
+   "end": 69.76
+  },
+  {
+   "w": "crore",
+   "start": 69.78,
+   "end": 70.04
+  },
+  {
+   "w": "ka",
+   "start": 70.06,
+   "end": 70.22
+  },
+  {
+   "w": "40",
+   "start": 70.24,
+   "end": 70.54
+  },
+  {
+   "w": "pratishat,",
+   "start": 70.56,
+   "end": 71.36
+  },
+  {
+   "w": "lagbhag",
+   "start": 71.384,
+   "end": 71.532
+  },
+  {
+   "w": "265",
+   "start": 71.552,
+   "end": 72.352
+  },
+  {
+   "w": "crore.",
+   "start": 72.4,
+   "end": 73.033
+  },
+  {
+   "w": "Theatre",
+   "start": 73.053,
+   "end": 73.58
+  },
+  {
+   "w": "se",
+   "start": 73.6,
+   "end": 73.76
+  },
+  {
+   "w": "film",
+   "start": 73.78,
+   "end": 74.0
+  },
+  {
+   "w": "wale",
+   "start": 74.02,
+   "end": 74.24
+  },
+  {
+   "w": "tak",
+   "start": 74.26,
+   "end": 74.44
+  },
+  {
+   "w": "lagbhag",
+   "start": 74.46,
+   "end": 74.92
+  },
+  {
+   "w": "800",
+   "start": 74.94,
+   "end": 75.28
+  },
+  {
+   "w": "crore.",
+   "start": 75.3,
+   "end": 75.897
+  },
+  {
+   "w": "Phir",
+   "start": 75.917,
+   "end": 76.34
+  },
+  {
+   "w": "OTT.",
+   "start": 76.36,
+   "end": 76.76
+  },
+  {
+   "w": "Report",
+   "start": 76.78,
+   "end": 77.58
+  },
+  {
+   "w": "ke",
+   "start": 77.66,
+   "end": 77.76
+  },
+  {
+   "w": "mutabik",
+   "start": 77.78,
+   "end": 78.16
+  },
+  {
+   "w": "makers",
+   "start": 78.18,
+   "end": 78.56
+  },
+  {
+   "w": "ne",
+   "start": 78.58,
+   "end": 78.72
+  },
+  {
+   "w": "dono",
+   "start": 78.74,
+   "end": 79.04
+  },
+  {
+   "w": "filmon",
+   "start": 79.06,
+   "end": 79.36
+  },
+  {
+   "w": "ke",
+   "start": 79.38,
+   "end": 79.54
+  },
+  {
+   "w": "liye",
+   "start": 79.56,
+   "end": 79.74
+  },
+  {
+   "w": "700",
+   "start": 79.76,
+   "end": 80.12
+  },
+  {
+   "w": "crore",
+   "start": 80.14,
+   "end": 80.32
+  },
+  {
+   "w": "ka",
+   "start": 80.34,
+   "end": 80.48
+  },
+  {
+   "w": "offer",
+   "start": 80.5,
+   "end": 80.808
+  },
+  {
+   "w": "thukra",
+   "start": 80.828,
+   "end": 81.08
+  },
+  {
+   "w": "diya",
+   "start": 81.1,
+   "end": 81.32
+  },
+  {
+   "w": "tha,",
+   "start": 81.34,
+   "end": 81.46
+  },
+  {
+   "w": "aur",
+   "start": 81.48,
+   "end": 82.02
+  },
+  {
+   "w": "lagbhag",
+   "start": 82.04,
+   "end": 82.38
+  },
+  {
+   "w": "ek",
+   "start": 82.4,
+   "end": 82.62
+  },
+  {
+   "w": "hazaar",
+   "start": 82.64,
+   "end": 82.88
+  },
+  {
+   "w": "crore",
+   "start": 82.9,
+   "end": 83.12
+  },
+  {
+   "w": "chahte",
+   "start": 83.14,
+   "end": 83.42
+  },
+  {
+   "w": "hain.",
+   "start": 83.44,
+   "end": 83.759
+  },
+  {
+   "w": "Agar",
+   "start": 83.779,
+   "end": 84.14
+  },
+  {
+   "w": "ek",
+   "start": 84.16,
+   "end": 84.4
+  },
+  {
+   "w": "hazaar",
+   "start": 84.42,
+   "end": 84.7
+  },
+  {
+   "w": "mila,",
+   "start": 84.72,
+   "end": 84.96
+  },
+  {
+   "w": "to",
+   "start": 84.98,
+   "end": 85.22
+  },
+  {
+   "w": "Part",
+   "start": 85.24,
+   "end": 85.5
+  },
+  {
+   "w": "one",
+   "start": 85.52,
+   "end": 85.74
+  },
+  {
+   "w": "ke",
+   "start": 85.76,
+   "end": 85.88
+  },
+  {
+   "w": "hisse",
+   "start": 85.9,
+   "end": 86.16
+  },
+  {
+   "w": "lagbhag",
+   "start": 86.18,
+   "end": 86.46
+  },
+  {
+   "w": "500",
+   "start": 86.48,
+   "end": 87.163
+  },
+  {
+   "w": ".",
+   "start": 87.183,
+   "end": 87.566
+  },
+  {
+   "w": "Satellite",
+   "start": 87.586,
+   "end": 88.0
+  },
+  {
+   "w": "aur",
+   "start": 88.02,
+   "end": 88.12
+  },
+  {
+   "w": "music",
+   "start": 88.14,
+   "end": 88.46
+  },
+  {
+   "w": "ke",
+   "start": 88.48,
+   "end": 88.54
+  },
+  {
+   "w": "number",
+   "start": 88.56,
+   "end": 88.78
+  },
+  {
+   "w": "public",
+   "start": 88.8,
+   "end": 89.14
+  },
+  {
+   "w": "nahi",
+   "start": 89.16,
+   "end": 89.36
+  },
+  {
+   "w": "hain,",
+   "start": 89.38,
+   "end": 89.612
+  },
+  {
+   "w": "isliye",
+   "start": 89.632,
+   "end": 89.84
+  },
+  {
+   "w": "humne",
+   "start": 89.86,
+   "end": 90.08
+  },
+  {
+   "w": "nahi",
+   "start": 90.1,
+   "end": 90.3
+  },
+  {
+   "w": "jode.",
+   "start": 90.32,
+   "end": 91.12
+  },
+  {
+   "w": "Total:",
+   "start": 91.22,
+   "end": 91.5
+  },
+  {
+   "w": "Part",
+   "start": 91.52,
+   "end": 92.22
+  },
+  {
+   "w": "one",
+   "start": 92.24,
+   "end": 92.44
+  },
+  {
+   "w": "se",
+   "start": 92.46,
+   "end": 92.6
+  },
+  {
+   "w": "lagbhag",
+   "start": 92.62,
+   "end": 92.94
+  },
+  {
+   "w": "1,300",
+   "start": 92.96,
+   "end": 93.22
+  },
+  {
+   "w": "crore.",
+   "start": 93.24,
+   "end": 94.04
+  },
+  {
+   "w": "Agar",
+   "start": 94.173,
+   "end": 94.38
+  },
+  {
+   "w": "chaar",
+   "start": 94.4,
+   "end": 94.7
+  },
+  {
+   "w": "hazaar",
+   "start": 94.72,
+   "end": 95.0
+  },
+  {
+   "w": "ka",
+   "start": 95.02,
+   "end": 95.14
+  },
+  {
+   "w": "budget",
+   "start": 95.16,
+   "end": 95.44
+  },
+  {
+   "w": "dono",
+   "start": 95.46,
+   "end": 95.68
+  },
+  {
+   "w": "filmon",
+   "start": 95.7,
+   "end": 96.0
+  },
+  {
+   "w": "mein",
+   "start": 96.02,
+   "end": 96.2
+  },
+  {
+   "w": "aadha-aadha",
+   "start": 96.22,
+   "end": 96.64
+  },
+  {
+   "w": "maano,",
+   "start": 96.66,
+   "end": 96.9
+  },
+  {
+   "w": "to",
+   "start": 96.92,
+   "end": 97.36
+  },
+  {
+   "w": "Part",
+   "start": 97.38,
+   "end": 97.6
+  },
+  {
+   "w": "one",
+   "start": 97.62,
+   "end": 97.8
+  },
+  {
+   "w": "ka",
+   "start": 97.82,
+   "end": 97.94
+  },
+  {
+   "w": "hissa",
+   "start": 97.96,
+   "end": 98.28
+  },
+  {
+   "w": "2,000",
+   "start": 98.3,
+   "end": 98.74
+  },
+  {
+   "w": "hota",
+   "start": 98.76,
+   "end": 99.56
+  },
+  {
+   "w": "hai.",
+   "start": 99.617,
+   "end": 99.597
+  },
+  {
+   "w": "To",
+   "start": 99.617,
+   "end": 99.68
+  },
+  {
+   "w": "jawab:",
+   "start": 99.7,
+   "end": 100.5
+  },
+  {
+   "w": "abhi",
+   "start": 100.659,
+   "end": 101.281
+  },
+  {
+   "w": "nahi.",
+   "start": 101.301,
+   "end": 101.46
+  },
+  {
+   "w": "Part",
+   "start": 101.48,
+   "end": 101.9
+  },
+  {
+   "w": "one",
+   "start": 101.92,
+   "end": 102.08
+  },
+  {
+   "w": "akela",
+   "start": 102.1,
+   "end": 102.42
+  },
+  {
+   "w": "poora",
+   "start": 102.44,
+   "end": 102.68
+  },
+  {
+   "w": "paisa",
+   "start": 102.7,
+   "end": 102.96
+  },
+  {
+   "w": "wapas",
+   "start": 102.98,
+   "end": 103.26
+  },
+  {
+   "w": "nahi",
+   "start": 103.28,
+   "end": 103.52
+  },
+  {
+   "w": "laayega.",
+   "start": 103.54,
+   "end": 104.232
+  },
+  {
+   "w": "Lekin",
+   "start": 104.252,
+   "end": 104.366
+  },
+  {
+   "w": "ye",
+   "start": 104.386,
+   "end": 104.5
+  },
+  {
+   "w": "uska",
+   "start": 104.52,
+   "end": 104.78
+  },
+  {
+   "w": "kaam",
+   "start": 104.8,
+   "end": 104.98
+  },
+  {
+   "w": "tha",
+   "start": 105.0,
+   "end": 105.2
+  },
+  {
+   "w": "bhi",
+   "start": 105.22,
+   "end": 105.32
+  },
+  {
+   "w": "nahi.",
+   "start": 105.34,
+   "end": 105.507
+  },
+  {
+   "w": "Chaar",
+   "start": 105.527,
+   "end": 105.693
+  },
+  {
+   "w": "hazaar",
+   "start": 105.713,
+   "end": 105.88
+  },
+  {
+   "w": "crore",
+   "start": 105.9,
+   "end": 105.968
+  },
+  {
+   "w": "do",
+   "start": 105.988,
+   "end": 106.056
+  },
+  {
+   "w": "filmon",
+   "start": 106.076,
+   "end": 106.144
+  },
+  {
+   "w": "ka",
+   "start": 106.164,
+   "end": 106.232
+  },
+  {
+   "w": "daav",
+   "start": 106.252,
+   "end": 106.32
+  },
+  {
+   "w": "hai.",
+   "start": 106.34,
+   "end": 106.755
+  },
+  {
+   "w": "Part",
+   "start": 106.775,
+   "end": 107.191
+  },
+  {
+   "w": "one",
+   "start": 107.211,
+   "end": 107.626
+  },
+  {
+   "w": "ne",
+   "start": 107.646,
+   "end": 108.062
+  },
+  {
+   "w": "Part",
+   "start": 108.082,
+   "end": 108.497
+  },
+  {
+   "w": "two",
+   "start": 108.517,
+   "end": 108.932
+  },
+  {
+   "w": "ke",
+   "start": 108.952,
+   "end": 109.368
+  },
+  {
+   "w": "liye",
+   "start": 109.388,
+   "end": 109.803
+  },
+  {
+   "w": "audience",
+   "start": 109.823,
+   "end": 110.238
+  },
+  {
+   "w": "bana",
+   "start": 110.258,
+   "end": 110.674
+  },
+  {
+   "w": "di",
+   "start": 110.694,
+   "end": 111.109
+  },
+  {
+   "w": "hai.",
+   "start": 111.129,
+   "end": 111.545
+  },
+  {
+   "w": "Asli",
+   "start": 111.565,
+   "end": 111.98
+  },
+  {
+   "w": "hisaab",
+   "start": 112.0,
+   "end": 112.563
+  },
+  {
+   "w": "Diwali",
+   "start": 112.583,
+   "end": 112.835
+  },
+  {
+   "w": "2027",
+   "start": 112.855,
+   "end": 113.649
+  },
+  {
+   "w": "mein",
+   "start": 113.669,
+   "end": 114.46
+  },
+  {
+   "w": "Part",
+   "start": 114.48,
+   "end": 114.65
+  },
+  {
+   "w": "two",
+   "start": 114.67,
+   "end": 114.84
+  },
+  {
+   "w": "ke",
+   "start": 114.86,
+   "end": 115.02
+  },
+  {
+   "w": "baad",
+   "start": 115.04,
+   "end": 115.18
+  },
+  {
+   "w": "poora",
+   "start": 115.2,
+   "end": 115.4
+  },
+  {
+   "w": "hoga.",
+   "start": 115.42,
+   "end": 116.097
+  }
+ ],
+ "cues": {
+  "c5": 0.229,
+  "budget": 3.18,
+  "chandrayaan": 20.921,
+  "ticket": 28.94,
+  "tally": 61.113,
+  "scale": 91.22,
+  "answer": 99.617
+ },
+ "numbers": [
+  {
+   "show": "$500 million",
+   "spoken": "paanch sau million dollar",
+   "heard": 0.75,
+   "digit_diff": null
+  },
+  {
+   "show": "4,000",
+   "spoken": "chaar hazaar",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "615",
+   "spoken": "chhe sau pandrah",
+   "heard": 0.67,
+   "digit_diff": null
+  },
+  {
+   "show": "1,483",
+   "spoken": "chaudah sau tiraasi",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "16",
+   "spoken": "solah",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "84",
+   "spoken": "chaurasi",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "40",
+   "spoken": "chaalees",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "42",
+   "spoken": "bayaalees",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "40",
+   "spoken": "chaalees",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "1,180",
+   "spoken": "gyaarah sau assi",
+   "heard": 0.67,
+   "digit_diff": null
+  },
+  {
+   "show": "45",
+   "spoken": "paintaalees",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "530",
+   "spoken": "paanch sau tees",
+   "heard": 0.67,
+   "digit_diff": null
+  },
+  {
+   "show": "660",
+   "spoken": "chhe sau saath",
+   "heard": 0.67,
+   "digit_diff": null
+  },
+  {
+   "show": "40",
+   "spoken": "chaalees",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "265",
+   "spoken": "do sau painsath",
+   "heard": 0.67,
+   "digit_diff": null
+  },
+  {
+   "show": "800",
+   "spoken": "aath sau",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "700",
+   "spoken": "saat sau",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "500",
+   "spoken": "paanch sau",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "1,300",
+   "spoken": "terah sau",
+   "heard": 0.5,
+   "digit_diff": null
+  },
+  {
+   "show": "2,000",
+   "spoken": "do hazaar",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "2027",
+   "spoken": "do hazaar sattaais",
+   "heard": 0.0,
+   "digit_diff": null
+  }
+ ],
+ "heard": [
+  "चाँप्र",
+  "पाच",
+  "चार",
+  "हादार",
+  "करोड",
+  "का",
+  "सच",
+  "अब",
+  "दुस्रा",
+  "सवाल",
+  "प्रदुचर",
+  "नमित",
+  "मलोट्रा",
+  "ने",
+  "एक",
+  "पोट्कास्ट",
+  "में",
+  "कहुट",
+  "था,",
+  "रामायएन",
+  "की",
+  "दोनो",
+  "पाट्स",
+  "का",
+  "बजजट",
+  "पानसो",
+  "मिलिन",
+  "ड़ालर",
+  "है,",
+  "यहनी",
+  "लगबक",
+  "चार",
+  "हादार",
+  "करोड.",
+  "बिस्निस",
+  "तोड़े",
+  "के",
+  "मुताबिक",
+  "इस",
+  "में",
+  "प्रमूशन",
+  "भी",
+  "शामिल",
+  "है।",
+  "बार्ट",
+  "वन",
+  "का",
+  "लग",
+  "खर्चा",
+  "पबलिक",
+  "नहीं",
+  "है।",
+  "शकेल",
+  "समजो।",
+  "चंद्रेयान",
+  "त्री",
+  "मिशन",
+  "लगभक",
+  "चैसो",
+  "पन्ड़ा",
+  "करोडगा",
+  "ता.",
+  "रामाईन",
+  "का",
+  "बजत",
+  "साडे",
+  "चैचंद्रेयान",
+  "जितना",
+  "है.",
+  "सबसे",
+  "ज़रूरी",
+  "बात,",
+  "1483",
+  "करोड",
+  "प्रद्दूसर",
+  "की",
+  "जेब",
+  "में",
+  "जाते।",
+  "सो",
+  "रोपे",
+  "का",
+  "टेकिट।",
+  "तो",
+  "लगभग",
+  "सोला",
+  "रुपे",
+  "ताक्स",
+  "में",
+  "जाते",
+  "हैं",
+  "बचे",
+  "लगवाई",
+  "चण्वासी",
+  "में",
+  "से",
+  "आकत्वर",
+  "पे",
+  "तियर्टर",
+  "लगबखग",
+  "आदारकता",
+  "है",
+  "पहले",
+  "हपते",
+  "फुड़ा",
+  "कम",
+  "बाद",
+  "में",
+  "ज्यादा",
+  "यानी",
+  "सोक",
+  "दिक...",
+  "टिकेट",
+  "पे",
+  "फिल्म",
+  "वाले",
+  "के",
+  "हाद",
+  "लक्बबग",
+  "चालीस",
+  "से",
+  "ब्यालीस",
+  "रुपे",
+  "विदेश",
+  "मे",
+  "भी",
+  "फिल्म",
+  "वाले",
+  "को",
+  "आम",
+  "तोर",
+  "पे",
+  "ग्रोस",
+  "का",
+  "लक्बबग",
+  "चालीस",
+  "प्रतीषत",
+  "दीषद",
+  "मिल",
+  "ठा",
+  "है,",
+  "ये",
+  "अंडस्ष्रिए",
+  "का",
+  "रफ",
+  "रूल",
+  "है.",
+  "रह",
+  "दील",
+  "अलग",
+  "होती",
+  "है.",
+  "अब",
+  "मीच",
+  "वाले",
+  "केस",
+  "पे",
+  "ये",
+  "रूल",
+  "लगाओ.",
+  "खिल",
+  "थी",
+  "गेर",
+  "अभाख.",
+  "अस्सी",
+  "का",
+  "लग्बभक",
+  "पैंटालीस",
+  "प्रतीषत",
+  "लग्बभक",
+  "पांसो",
+  "तीस",
+  "करोड",
+  "विदेश",
+  "के",
+  "लग्बभक",
+  "चेसो",
+  "साथ",
+  "करोड",
+  "का",
+  "चालीस",
+  "प्रतीषत",
+  "लक्बब",
+  "धूसो",
+  "पैसेट",
+  "कौरोद",
+  "यहेटर",
+  "से",
+  "फिल्म",
+  "वाले",
+  "देक",
+  "लक्बभग",
+  "आज़",
+  "सो",
+  "कौरोड",
+  "फिर",
+  "ओटी",
+  "टी",
+  "रिपोट",
+  "के",
+  "मुता...",
+  "मेकर्ज",
+  "ने",
+  "दोनो",
+  "फिल्मो",
+  "के",
+  "लिये",
+  "साथ",
+  "सो",
+  "कोरोड",
+  "का",
+  "अफर",
+  "तुक्रा",
+  "दिया",
+  "था",
+  "और",
+  "लगबबग",
+  "एक",
+  "हजार",
+  "कोरोड",
+  "चाते",
+  "हैं",
+  "अगर",
+  "एक",
+  "हजार",
+  "मिला",
+  "तो",
+  "पाट",
+  "वन",
+  "के",
+  "हिसे",
+  "लगबक",
+  "पाथ",
+  "सो",
+  "सेतलाइट",
+  "और",
+  "मुजिक",
+  "के",
+  "नमबर",
+  "पबलिक",
+  "नहीं",
+  "है,",
+  "इसले",
+  "हमने",
+  "नहीं",
+  "जोड़े",
+  "तोतल",
+  "पाट",
+  "वन",
+  "से",
+  "लक्बक",
+  "तेरा",
+  "सुक्रोड",
+  "अगर",
+  "चार",
+  "हाजार",
+  "का",
+  "बजेट",
+  "दोनो",
+  "फिल्मो",
+  "में",
+  "आदादा",
+  "मानो",
+  "तो",
+  "पाट",
+  "वन",
+  "का",
+  "हिसचत",
+  "तो",
+  "हाजार",
+  "होता",
+  "है",
+  "तो",
+  "जवाब",
+  "आब",
+  "ही",
+  "नहीं",
+  "नहीं",
+  "पार्ट",
+  "वन",
+  "अकेला",
+  "पूरा",
+  "पैसा",
+  "वापस",
+  "नहीं",
+  "लाएगा",
+  "लेकिन",
+  "योसका",
+  "काम",
+  "था",
+  "बी",
+  "नहीं",
+  "चार",
+  "हुँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँ�",
+  "साब,",
+  "दिवाली",
+  "2020",
+  "में",
+  "पार्ट्टू",
+  "के",
+  "बाद",
+  "पुरा",
+  "होगा"
+ ]
+}

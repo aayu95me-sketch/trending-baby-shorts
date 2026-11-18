@@ -1,0 +1,871 @@
+{
+ "total": 51.197,
+ "voice": "long-ramayana-hisaab/ch7/voice.wav",
+ "lines": [
+  {
+   "start": 0.578,
+   "text": "Chapter chhe. Faisla.",
+   "end": 1.968
+  },
+  {
+   "start": 2.312,
+   "text": "To bahas mein ye teen baatein bolo.",
+   "end": 5.055
+  },
+  {
+   "start": 5.055,
+   "text": "Ek: terah din mein 1,483 crore, aur humare dheeme hisaab mein bhi ye Dhurandhar two ko paar karke India ki number do film banegi.",
+   "end": 14.265
+  },
+  {
+   "start": 14.265,
+   "text": "Do: Dangal ka worldwide record bilkul kaante ki takkar hai. Lekin India ke andar Ramayana pehle hi Dangal se do guna aage hai.",
+   "end": 23.0
+  },
+  {
+   "start": 23.0,
+   "text": "Teen: chaar hazaar crore Part one se wapas nahi aayenge, aur aana bhi nahi tha. Part one film wale tak lagbhag 1,300 crore laayega. Baaki ka hisaab Part two karega.",
+   "end": 33.445
+  },
+  {
+   "start": 33.445,
+   "text": "Ab aapki baari. Teesre hafte mein Ramayana India mein kitna net karegi? Apna number comment mein likho. Agle hafte hum asli number se milayenge, aur jiska sabse paas hoga, uska naam pinned comment mein.",
+   "end": 45.183
+  },
+  {
+   "start": 45.765,
+   "text": "Aise hi har trending sawaal ka hisaab chahiye to Doubt Clear subscribe kar lo.",
+   "end": 49.861
+  }
+ ],
+ "words": [
+  {
+   "w": "Chapter",
+   "start": 0.578,
+   "end": 1.136
+  },
+  {
+   "w": "chhe.",
+   "start": 1.156,
+   "end": 1.714
+  },
+  {
+   "w": "Faisla.",
+   "start": 1.734,
+   "end": 2.292
+  },
+  {
+   "w": "To",
+   "start": 2.312,
+   "end": 2.8
+  },
+  {
+   "w": "bahas",
+   "start": 2.82,
+   "end": 3.1
+  },
+  {
+   "w": "mein",
+   "start": 3.12,
+   "end": 3.538
+  },
+  {
+   "w": "ye",
+   "start": 3.558,
+   "end": 3.659
+  },
+  {
+   "w": "teen",
+   "start": 3.679,
+   "end": 3.78
+  },
+  {
+   "w": "baatein",
+   "start": 3.8,
+   "end": 4.1
+  },
+  {
+   "w": "bolo.",
+   "start": 4.12,
+   "end": 4.92
+  },
+  {
+   "w": "Ek:",
+   "start": 5.055,
+   "end": 5.808
+  },
+  {
+   "w": "terah",
+   "start": 5.828,
+   "end": 6.28
+  },
+  {
+   "w": "din",
+   "start": 6.3,
+   "end": 6.44
+  },
+  {
+   "w": "mein",
+   "start": 6.46,
+   "end": 6.72
+  },
+  {
+   "w": "1,483",
+   "start": 6.74,
+   "end": 7.54
+  },
+  {
+   "w": "crore,",
+   "start": 7.78,
+   "end": 8.04
+  },
+  {
+   "w": "aur",
+   "start": 8.06,
+   "end": 8.46
+  },
+  {
+   "w": "humare",
+   "start": 8.48,
+   "end": 8.8
+  },
+  {
+   "w": "dheeme",
+   "start": 8.82,
+   "end": 9.32
+  },
+  {
+   "w": "hisaab",
+   "start": 9.34,
+   "end": 9.54
+  },
+  {
+   "w": "mein",
+   "start": 9.56,
+   "end": 9.76
+  },
+  {
+   "w": "bhi",
+   "start": 9.78,
+   "end": 10.0
+  },
+  {
+   "w": "ye",
+   "start": 10.02,
+   "end": 10.22
+  },
+  {
+   "w": "Dhurandhar",
+   "start": 10.24,
+   "end": 10.78
+  },
+  {
+   "w": "two",
+   "start": 10.8,
+   "end": 10.98
+  },
+  {
+   "w": "ko",
+   "start": 11.0,
+   "end": 11.1
+  },
+  {
+   "w": "paar",
+   "start": 11.12,
+   "end": 11.34
+  },
+  {
+   "w": "karke",
+   "start": 11.36,
+   "end": 11.762
+  },
+  {
+   "w": "India",
+   "start": 11.782,
+   "end": 12.08
+  },
+  {
+   "w": "ki",
+   "start": 12.1,
+   "end": 12.24
+  },
+  {
+   "w": "number",
+   "start": 12.26,
+   "end": 12.58
+  },
+  {
+   "w": "do",
+   "start": 12.6,
+   "end": 12.94
+  },
+  {
+   "w": "film",
+   "start": 12.96,
+   "end": 13.2
+  },
+  {
+   "w": "banegi.",
+   "start": 13.22,
+   "end": 14.02
+  },
+  {
+   "w": "Do:",
+   "start": 14.265,
+   "end": 15.0
+  },
+  {
+   "w": "Dangal",
+   "start": 15.02,
+   "end": 15.52
+  },
+  {
+   "w": "ka",
+   "start": 15.54,
+   "end": 15.68
+  },
+  {
+   "w": "worldwide",
+   "start": 15.7,
+   "end": 16.1
+  },
+  {
+   "w": "record",
+   "start": 16.12,
+   "end": 16.46
+  },
+  {
+   "w": "bilkul",
+   "start": 16.48,
+   "end": 17.22
+  },
+  {
+   "w": "kaante",
+   "start": 17.24,
+   "end": 17.56
+  },
+  {
+   "w": "ki",
+   "start": 17.58,
+   "end": 17.62
+  },
+  {
+   "w": "takkar",
+   "start": 17.64,
+   "end": 17.9
+  },
+  {
+   "w": "hai.",
+   "start": 17.92,
+   "end": 18.292
+  },
+  {
+   "w": "Lekin",
+   "start": 18.312,
+   "end": 18.58
+  },
+  {
+   "w": "India",
+   "start": 18.6,
+   "end": 19.0
+  },
+  {
+   "w": "ke",
+   "start": 19.02,
+   "end": 19.12
+  },
+  {
+   "w": "andar",
+   "start": 19.14,
+   "end": 19.44
+  },
+  {
+   "w": "Ramayana",
+   "start": 19.46,
+   "end": 20.03
+  },
+  {
+   "w": "pehle",
+   "start": 20.05,
+   "end": 20.38
+  },
+  {
+   "w": "hi",
+   "start": 20.4,
+   "end": 20.54
+  },
+  {
+   "w": "Dangal",
+   "start": 20.56,
+   "end": 20.9
+  },
+  {
+   "w": "se",
+   "start": 20.92,
+   "end": 21.18
+  },
+  {
+   "w": "do",
+   "start": 21.2,
+   "end": 21.42
+  },
+  {
+   "w": "guna",
+   "start": 21.44,
+   "end": 21.78
+  },
+  {
+   "w": "aage",
+   "start": 21.8,
+   "end": 22.06
+  },
+  {
+   "w": "hai.",
+   "start": 22.08,
+   "end": 22.88
+  },
+  {
+   "w": "Teen:",
+   "start": 23.0,
+   "end": 23.8
+  },
+  {
+   "w": "chaar",
+   "start": 23.92,
+   "end": 24.18
+  },
+  {
+   "w": "hazaar",
+   "start": 24.2,
+   "end": 24.54
+  },
+  {
+   "w": "crore",
+   "start": 24.56,
+   "end": 25.019
+  },
+  {
+   "w": "Part",
+   "start": 25.039,
+   "end": 25.26
+  },
+  {
+   "w": "one",
+   "start": 25.28,
+   "end": 25.44
+  },
+  {
+   "w": "se",
+   "start": 25.46,
+   "end": 25.6
+  },
+  {
+   "w": "wapas",
+   "start": 25.62,
+   "end": 25.74
+  },
+  {
+   "w": "nahi",
+   "start": 25.76,
+   "end": 25.88
+  },
+  {
+   "w": "aayenge,",
+   "start": 25.9,
+   "end": 26.44
+  },
+  {
+   "w": "aur",
+   "start": 26.46,
+   "end": 26.939
+  },
+  {
+   "w": "aana",
+   "start": 26.959,
+   "end": 27.22
+  },
+  {
+   "w": "bhi",
+   "start": 27.24,
+   "end": 27.32
+  },
+  {
+   "w": "nahi",
+   "start": 27.34,
+   "end": 27.54
+  },
+  {
+   "w": "tha.",
+   "start": 27.56,
+   "end": 27.64
+  },
+  {
+   "w": "Part",
+   "start": 27.66,
+   "end": 28.44
+  },
+  {
+   "w": "one",
+   "start": 28.46,
+   "end": 28.62
+  },
+  {
+   "w": "film",
+   "start": 28.64,
+   "end": 28.86
+  },
+  {
+   "w": "wale",
+   "start": 28.88,
+   "end": 29.08
+  },
+  {
+   "w": "tak",
+   "start": 29.1,
+   "end": 29.24
+  },
+  {
+   "w": "lagbhag",
+   "start": 29.26,
+   "end": 29.62
+  },
+  {
+   "w": "1,300",
+   "start": 29.64,
+   "end": 30.28
+  },
+  {
+   "w": "crore",
+   "start": 30.3,
+   "end": 30.56
+  },
+  {
+   "w": "laayega.",
+   "start": 30.58,
+   "end": 30.9
+  },
+  {
+   "w": "Baaki",
+   "start": 30.92,
+   "end": 31.24
+  },
+  {
+   "w": "ka",
+   "start": 31.26,
+   "end": 31.58
+  },
+  {
+   "w": "hisaab",
+   "start": 31.6,
+   "end": 32.076
+  },
+  {
+   "w": "Part",
+   "start": 32.096,
+   "end": 32.28
+  },
+  {
+   "w": "two",
+   "start": 32.3,
+   "end": 32.38
+  },
+  {
+   "w": "karega.",
+   "start": 32.4,
+   "end": 33.2
+  },
+  {
+   "w": "Ab",
+   "start": 33.445,
+   "end": 33.54
+  },
+  {
+   "w": "aapki",
+   "start": 33.56,
+   "end": 33.78
+  },
+  {
+   "w": "baari.",
+   "start": 33.8,
+   "end": 34.174
+  },
+  {
+   "w": "Teesre",
+   "start": 34.194,
+   "end": 34.98
+  },
+  {
+   "w": "hafte",
+   "start": 35.0,
+   "end": 35.26
+  },
+  {
+   "w": "mein",
+   "start": 35.28,
+   "end": 35.38
+  },
+  {
+   "w": "Ramayana",
+   "start": 35.4,
+   "end": 35.7
+  },
+  {
+   "w": "India",
+   "start": 35.72,
+   "end": 35.96
+  },
+  {
+   "w": "mein",
+   "start": 35.98,
+   "end": 36.14
+  },
+  {
+   "w": "kitna",
+   "start": 36.16,
+   "end": 36.35
+  },
+  {
+   "w": "net",
+   "start": 36.37,
+   "end": 36.56
+  },
+  {
+   "w": "karegi?",
+   "start": 36.58,
+   "end": 37.206
+  },
+  {
+   "w": "Apna",
+   "start": 37.226,
+   "end": 37.78
+  },
+  {
+   "w": "number",
+   "start": 37.8,
+   "end": 38.228
+  },
+  {
+   "w": "comment",
+   "start": 38.248,
+   "end": 38.688
+  },
+  {
+   "w": "mein",
+   "start": 38.708,
+   "end": 39.147
+  },
+  {
+   "w": "likho.",
+   "start": 39.167,
+   "end": 39.606
+  },
+  {
+   "w": "Agle",
+   "start": 39.626,
+   "end": 39.86
+  },
+  {
+   "w": "hafte",
+   "start": 39.88,
+   "end": 40.16
+  },
+  {
+   "w": "hum",
+   "start": 40.18,
+   "end": 40.34
+  },
+  {
+   "w": "asli",
+   "start": 40.36,
+   "end": 40.64
+  },
+  {
+   "w": "number",
+   "start": 40.66,
+   "end": 40.88
+  },
+  {
+   "w": "se",
+   "start": 40.9,
+   "end": 41.0
+  },
+  {
+   "w": "milayenge,",
+   "start": 41.02,
+   "end": 41.44
+  },
+  {
+   "w": "aur",
+   "start": 41.46,
+   "end": 41.9
+  },
+  {
+   "w": "jiska",
+   "start": 41.92,
+   "end": 42.44
+  },
+  {
+   "w": "sabse",
+   "start": 42.46,
+   "end": 42.94
+  },
+  {
+   "w": "paas",
+   "start": 42.96,
+   "end": 43.24
+  },
+  {
+   "w": "hoga,",
+   "start": 43.26,
+   "end": 43.628
+  },
+  {
+   "w": "uska",
+   "start": 43.648,
+   "end": 44.04
+  },
+  {
+   "w": "naam",
+   "start": 44.06,
+   "end": 44.428
+  },
+  {
+   "w": "pinned",
+   "start": 44.448,
+   "end": 44.66
+  },
+  {
+   "w": "comment",
+   "start": 44.68,
+   "end": 44.96
+  },
+  {
+   "w": "mein.",
+   "start": 44.98,
+   "end": 45.745
+  },
+  {
+   "w": "Aise",
+   "start": 45.765,
+   "end": 46.02
+  },
+  {
+   "w": "hi",
+   "start": 46.04,
+   "end": 46.18
+  },
+  {
+   "w": "har",
+   "start": 46.2,
+   "end": 46.38
+  },
+  {
+   "w": "trending",
+   "start": 46.4,
+   "end": 46.7
+  },
+  {
+   "w": "sawaal",
+   "start": 46.72,
+   "end": 46.94
+  },
+  {
+   "w": "ka",
+   "start": 46.96,
+   "end": 47.04
+  },
+  {
+   "w": "hisaab",
+   "start": 47.06,
+   "end": 47.3
+  },
+  {
+   "w": "chahiye",
+   "start": 47.32,
+   "end": 47.72
+  },
+  {
+   "w": "to",
+   "start": 47.74,
+   "end": 47.96
+  },
+  {
+   "w": "Doubt",
+   "start": 47.98,
+   "end": 48.42
+  },
+  {
+   "w": "Clear",
+   "start": 48.44,
+   "end": 48.86
+  },
+  {
+   "w": "subscribe",
+   "start": 48.88,
+   "end": 49.56
+  },
+  {
+   "w": "kar",
+   "start": 49.58,
+   "end": 49.72
+  },
+  {
+   "w": "lo.",
+   "start": 49.74,
+   "end": 50.197
+  }
+ ],
+ "cues": {
+  "c6": 0.578,
+  "verdict": 2.312,
+  "ask": 33.445
+ },
+ "numbers": [
+  {
+   "show": "1,483",
+   "spoken": "chaudah sau tiraasi",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "1,300",
+   "spoken": "terah sau",
+   "heard": 0.5,
+   "digit_diff": null
+  }
+ ],
+ "heard": [
+  "तुब",
+  "बहस",
+  "में",
+  "ये",
+  "बाते",
+  "बोलो,",
+  "एक,",
+  "तेरा",
+  "दिन",
+  "में",
+  "चोडा",
+  "सो",
+  "तीरासी",
+  "करोड़।",
+  "और",
+  "हमारे",
+  "दीमही",
+  "साभ",
+  "में",
+  "भी",
+  "ये",
+  "दूरन्दर",
+  "तू",
+  "को",
+  "पार",
+  "कर",
+  "के",
+  "अंद्या",
+  "की",
+  "नमबर",
+  "दो",
+  "फिल्म",
+  "बनेगी",
+  "दो",
+  "2.",
+  "दंगल",
+  "का",
+  "व्र्ड्वायट",
+  "रेकोट",
+  "बिल्कुल",
+  "काईते",
+  "की",
+  "तकर",
+  "हैं",
+  "लेकिन",
+  "अनध्या",
+  "के",
+  "अनदर",
+  "रामाईन",
+  "पहले",
+  "ही",
+  "दंगल",
+  "से",
+  "तो",
+  "गुना",
+  "आगें।",
+  "है",
+  "तीन",
+  "चार",
+  "हजार",
+  "करोड",
+  "पात",
+  "वन",
+  "से",
+  "वापस",
+  "नहींगे",
+  "और",
+  "आना",
+  "भी",
+  "नहीं",
+  "था",
+  "पात",
+  "वन",
+  "फिल्म",
+  "वापस",
+  "तक",
+  "लगबक",
+  "तेरासो",
+  "करोड",
+  "लाएगा",
+  "बाखी",
+  "काईसा",
+  "पाट",
+  "तू",
+  "करेगा",
+  "अब",
+  "आपकी",
+  "बारी",
+  "तीसरे",
+  "हबते",
+  "में",
+  "रामाएन",
+  "एंद्या...",
+  "में",
+  "कितनानेट",
+  "करेगी",
+  "अपना",
+  "नम्बर",
+  "कमबें",
+  "लिख",
+  "हो",
+  "अगले",
+  "हबते",
+  "हम",
+  "अस्ली",
+  "नम्बर",
+  "से",
+  "मिलाएंगे",
+  "और",
+  "जिसका",
+  "सबसे",
+  "पास",
+  "होगा",
+  "उसका",
+  "नाम",
+  "पिन्द",
+  "कोमेंट",
+  "में",
+  "आज़े",
+  "ही",
+  "हर",
+  "ट्रेंटिंग",
+  "सवाल",
+  "का",
+  "हिसाब",
+  "चाहिये",
+  "तो",
+  "दाउट",
+  "क्लीर",
+  "सबस्क्राइप",
+  "कर",
+  "रो"
+ ]
+}

@@ -1,0 +1,1088 @@
+{
+ "total": 56.888,
+ "voice": "long-ramayana-hisaab/ch3/voice.wav",
+ "lines": [
+  {
+   "start": 0.137,
+   "text": "Chapter do. Paisa kahan se aa raha hai.",
+   "end": 2.352
+  },
+  {
+   "start": 2.729,
+   "text": "India ke 821 crore mein se 627 crore sirf Hindi version se aaye. Yaani 76 pratishat. Baaki chaar South bhashaon ne milke 194 crore, jisme sabse aage Kannada hai, 67 crore. Yash ka asar.",
+   "end": 15.136
+  },
+  {
+   "start": 15.441,
+   "text": "Ab ek comparison jo kisi ne nahi dikhaya. Pushpa two Telugu film thi, phir bhi uske 1,234 crore India net mein se 812 crore Hindi dub se aaye the, lagbhag 66 pratishat. Ramayana Hindi film hai, aur uska Hindi hissa 76 pratishat hai.",
+   "end": 29.561
+  },
+  {
+   "start": 30.057,
+   "text": "Matlab Ramayana ka engine Hindi belt hai. Aur aage badhne ki jagah do hi hain: South, aur videsh.",
+   "end": 34.542
+  },
+  {
+   "start": 35.0,
+   "text": "Videsh se 502 crore, kul kamai ka 34 pratishat. Aur doosre weekend pe film chhe naye deshon mein khuli, jinme Indonesia aur Mexico bhi hain.",
+   "end": 44.958
+  },
+  {
+   "start": 44.958,
+   "text": "Ab yahan se asli maza shuru hota hai. Kyunki agle chapter ka hisaab bataayega ki final number kya hoga, aur chapter chaar mein Dangal ke record ka ek twist hai jo trade wale nahi bataate.",
+   "end": 55.494
+  }
+ ],
+ "words": [
+  {
+   "w": "Chapter",
+   "start": 0.137,
+   "end": 0.54
+  },
+  {
+   "w": "do.",
+   "start": 0.56,
+   "end": 0.74
+  },
+  {
+   "w": "Paisa",
+   "start": 0.76,
+   "end": 1.56
+  },
+  {
+   "w": "kahan",
+   "start": 1.661,
+   "end": 1.86
+  },
+  {
+   "w": "se",
+   "start": 1.88,
+   "end": 2.02
+  },
+  {
+   "w": "aa",
+   "start": 2.04,
+   "end": 2.364
+  },
+  {
+   "w": "raha",
+   "start": 2.384,
+   "end": 2.709
+  },
+  {
+   "w": "hai.",
+   "start": 2.729,
+   "end": 2.709
+  },
+  {
+   "w": "India",
+   "start": 2.729,
+   "end": 2.975
+  },
+  {
+   "w": "ke",
+   "start": 2.995,
+   "end": 3.241
+  },
+  {
+   "w": "821",
+   "start": 3.261,
+   "end": 4.04
+  },
+  {
+   "w": "crore",
+   "start": 4.06,
+   "end": 4.12
+  },
+  {
+   "w": "mein",
+   "start": 4.14,
+   "end": 4.2
+  },
+  {
+   "w": "se",
+   "start": 4.22,
+   "end": 4.28
+  },
+  {
+   "w": "627",
+   "start": 4.3,
+   "end": 5.1
+  },
+  {
+   "w": "crore",
+   "start": 5.38,
+   "end": 5.84
+  },
+  {
+   "w": "sirf",
+   "start": 5.86,
+   "end": 6.08
+  },
+  {
+   "w": "Hindi",
+   "start": 6.1,
+   "end": 6.38
+  },
+  {
+   "w": "version",
+   "start": 6.4,
+   "end": 6.66
+  },
+  {
+   "w": "se",
+   "start": 6.68,
+   "end": 6.84
+  },
+  {
+   "w": "aaye.",
+   "start": 6.86,
+   "end": 7.421
+  },
+  {
+   "w": "Yaani",
+   "start": 7.441,
+   "end": 7.821
+  },
+  {
+   "w": "76",
+   "start": 7.841,
+   "end": 8.2
+  },
+  {
+   "w": "pratishat.",
+   "start": 8.22,
+   "end": 8.6
+  },
+  {
+   "w": "Baaki",
+   "start": 8.62,
+   "end": 9.42
+  },
+  {
+   "w": "chaar",
+   "start": 9.6,
+   "end": 9.88
+  },
+  {
+   "w": "South",
+   "start": 9.9,
+   "end": 10.06
+  },
+  {
+   "w": "bhashaon",
+   "start": 10.08,
+   "end": 10.3
+  },
+  {
+   "w": "ne",
+   "start": 10.32,
+   "end": 10.54
+  },
+  {
+   "w": "milke",
+   "start": 10.56,
+   "end": 10.84
+  },
+  {
+   "w": "194",
+   "start": 10.86,
+   "end": 11.48
+  },
+  {
+   "w": "crore,",
+   "start": 11.5,
+   "end": 11.84
+  },
+  {
+   "w": "jisme",
+   "start": 11.86,
+   "end": 12.18
+  },
+  {
+   "w": "sabse",
+   "start": 12.2,
+   "end": 12.5
+  },
+  {
+   "w": "aage",
+   "start": 12.52,
+   "end": 12.66
+  },
+  {
+   "w": "Kannada",
+   "start": 12.68,
+   "end": 12.98
+  },
+  {
+   "w": "hai,",
+   "start": 13.0,
+   "end": 13.36
+  },
+  {
+   "w": "67",
+   "start": 13.38,
+   "end": 13.738
+  },
+  {
+   "w": "crore.",
+   "start": 13.758,
+   "end": 14.115
+  },
+  {
+   "w": "Yash",
+   "start": 14.135,
+   "end": 14.492
+  },
+  {
+   "w": "ka",
+   "start": 14.512,
+   "end": 14.87
+  },
+  {
+   "w": "asar.",
+   "start": 14.89,
+   "end": 15.421
+  },
+  {
+   "w": "Ab",
+   "start": 15.441,
+   "end": 15.665
+  },
+  {
+   "w": "ek",
+   "start": 15.685,
+   "end": 15.91
+  },
+  {
+   "w": "comparison",
+   "start": 15.93,
+   "end": 16.43
+  },
+  {
+   "w": "jo",
+   "start": 16.45,
+   "end": 16.55
+  },
+  {
+   "w": "kisi",
+   "start": 16.57,
+   "end": 16.81
+  },
+  {
+   "w": "ne",
+   "start": 16.83,
+   "end": 16.91
+  },
+  {
+   "w": "nahi",
+   "start": 16.93,
+   "end": 17.09
+  },
+  {
+   "w": "dikhaya.",
+   "start": 17.11,
+   "end": 17.723
+  },
+  {
+   "w": "Pushpa",
+   "start": 17.743,
+   "end": 18.39
+  },
+  {
+   "w": "two",
+   "start": 18.41,
+   "end": 18.57
+  },
+  {
+   "w": "Telugu",
+   "start": 18.59,
+   "end": 18.97
+  },
+  {
+   "w": "film",
+   "start": 18.99,
+   "end": 19.19
+  },
+  {
+   "w": "thi,",
+   "start": 19.21,
+   "end": 19.707
+  },
+  {
+   "w": "phir",
+   "start": 19.727,
+   "end": 19.81
+  },
+  {
+   "w": "bhi",
+   "start": 19.83,
+   "end": 19.93
+  },
+  {
+   "w": "uske",
+   "start": 19.95,
+   "end": 20.18
+  },
+  {
+   "w": "1,234",
+   "start": 20.2,
+   "end": 20.93
+  },
+  {
+   "w": "crore",
+   "start": 20.95,
+   "end": 21.25
+  },
+  {
+   "w": "India",
+   "start": 21.27,
+   "end": 21.49
+  },
+  {
+   "w": "net",
+   "start": 21.51,
+   "end": 21.67
+  },
+  {
+   "w": "mein",
+   "start": 21.69,
+   "end": 21.717
+  },
+  {
+   "w": "se",
+   "start": 21.737,
+   "end": 21.763
+  },
+  {
+   "w": "812",
+   "start": 21.783,
+   "end": 22.583
+  },
+  {
+   "w": "crore",
+   "start": 22.78,
+   "end": 23.02
+  },
+  {
+   "w": "Hindi",
+   "start": 23.04,
+   "end": 23.28
+  },
+  {
+   "w": "dub",
+   "start": 23.3,
+   "end": 23.42
+  },
+  {
+   "w": "se",
+   "start": 23.44,
+   "end": 23.56
+  },
+  {
+   "w": "aaye",
+   "start": 23.58,
+   "end": 23.7
+  },
+  {
+   "w": "the,",
+   "start": 23.72,
+   "end": 24.147
+  },
+  {
+   "w": "lagbhag",
+   "start": 24.167,
+   "end": 24.5
+  },
+  {
+   "w": "66",
+   "start": 24.52,
+   "end": 24.98
+  },
+  {
+   "w": "pratishat.",
+   "start": 25.0,
+   "end": 25.8
+  },
+  {
+   "w": "Ramayana",
+   "start": 25.96,
+   "end": 26.46
+  },
+  {
+   "w": "Hindi",
+   "start": 26.48,
+   "end": 26.88
+  },
+  {
+   "w": "film",
+   "start": 26.9,
+   "end": 27.14
+  },
+  {
+   "w": "hai,",
+   "start": 27.16,
+   "end": 27.28
+  },
+  {
+   "w": "aur",
+   "start": 27.3,
+   "end": 27.66
+  },
+  {
+   "w": "uska",
+   "start": 27.68,
+   "end": 27.84
+  },
+  {
+   "w": "Hindi",
+   "start": 27.86,
+   "end": 28.16
+  },
+  {
+   "w": "hissa",
+   "start": 28.18,
+   "end": 28.48
+  },
+  {
+   "w": "76",
+   "start": 28.5,
+   "end": 29.0
+  },
+  {
+   "w": "pratishat",
+   "start": 29.02,
+   "end": 29.4
+  },
+  {
+   "w": "hai.",
+   "start": 29.42,
+   "end": 30.037
+  },
+  {
+   "w": "Matlab",
+   "start": 30.057,
+   "end": 30.32
+  },
+  {
+   "w": "Ramayana",
+   "start": 30.34,
+   "end": 30.64
+  },
+  {
+   "w": "ka",
+   "start": 30.66,
+   "end": 30.8
+  },
+  {
+   "w": "engine",
+   "start": 30.82,
+   "end": 31.08
+  },
+  {
+   "w": "Hindi",
+   "start": 31.1,
+   "end": 31.54
+  },
+  {
+   "w": "belt",
+   "start": 31.56,
+   "end": 31.74
+  },
+  {
+   "w": "hai.",
+   "start": 31.76,
+   "end": 32.068
+  },
+  {
+   "w": "Aur",
+   "start": 32.088,
+   "end": 32.395
+  },
+  {
+   "w": "aage",
+   "start": 32.415,
+   "end": 32.524
+  },
+  {
+   "w": "badhne",
+   "start": 32.544,
+   "end": 32.652
+  },
+  {
+   "w": "ki",
+   "start": 32.672,
+   "end": 32.78
+  },
+  {
+   "w": "jagah",
+   "start": 32.8,
+   "end": 33.09
+  },
+  {
+   "w": "do",
+   "start": 33.11,
+   "end": 33.4
+  },
+  {
+   "w": "hi",
+   "start": 33.42,
+   "end": 33.49
+  },
+  {
+   "w": "hain:",
+   "start": 33.51,
+   "end": 33.58
+  },
+  {
+   "w": "South,",
+   "start": 33.6,
+   "end": 33.95
+  },
+  {
+   "w": "aur",
+   "start": 33.97,
+   "end": 34.32
+  },
+  {
+   "w": "videsh.",
+   "start": 34.34,
+   "end": 34.98
+  },
+  {
+   "w": "Videsh",
+   "start": 35.0,
+   "end": 35.8
+  },
+  {
+   "w": "se",
+   "start": 36.14,
+   "end": 36.32
+  },
+  {
+   "w": "502",
+   "start": 36.34,
+   "end": 36.94
+  },
+  {
+   "w": "crore,",
+   "start": 36.96,
+   "end": 37.663
+  },
+  {
+   "w": "kul",
+   "start": 37.683,
+   "end": 37.86
+  },
+  {
+   "w": "kamai",
+   "start": 37.88,
+   "end": 38.2
+  },
+  {
+   "w": "ka",
+   "start": 38.22,
+   "end": 38.38
+  },
+  {
+   "w": "34",
+   "start": 38.4,
+   "end": 38.86
+  },
+  {
+   "w": "pratishat.",
+   "start": 38.88,
+   "end": 39.3
+  },
+  {
+   "w": "Aur",
+   "start": 39.32,
+   "end": 39.94
+  },
+  {
+   "w": "doosre",
+   "start": 39.96,
+   "end": 40.32
+  },
+  {
+   "w": "weekend",
+   "start": 40.34,
+   "end": 40.72
+  },
+  {
+   "w": "pe",
+   "start": 40.74,
+   "end": 40.82
+  },
+  {
+   "w": "film",
+   "start": 40.84,
+   "end": 41.1
+  },
+  {
+   "w": "chhe",
+   "start": 41.12,
+   "end": 41.42
+  },
+  {
+   "w": "naye",
+   "start": 41.44,
+   "end": 41.72
+  },
+  {
+   "w": "deshon",
+   "start": 41.74,
+   "end": 41.98
+  },
+  {
+   "w": "mein",
+   "start": 42.0,
+   "end": 42.16
+  },
+  {
+   "w": "khuli,",
+   "start": 42.18,
+   "end": 42.32
+  },
+  {
+   "w": "jinme",
+   "start": 42.34,
+   "end": 42.87
+  },
+  {
+   "w": "Indonesia",
+   "start": 42.89,
+   "end": 43.42
+  },
+  {
+   "w": "aur",
+   "start": 43.44,
+   "end": 43.56
+  },
+  {
+   "w": "Mexico",
+   "start": 43.58,
+   "end": 43.98
+  },
+  {
+   "w": "bhi",
+   "start": 44.0,
+   "end": 44.12
+  },
+  {
+   "w": "hain.",
+   "start": 44.14,
+   "end": 44.938
+  },
+  {
+   "w": "Ab",
+   "start": 44.958,
+   "end": 45.06
+  },
+  {
+   "w": "yahan",
+   "start": 45.08,
+   "end": 45.3
+  },
+  {
+   "w": "se",
+   "start": 45.32,
+   "end": 45.44
+  },
+  {
+   "w": "asli",
+   "start": 45.46,
+   "end": 45.9
+  },
+  {
+   "w": "maza",
+   "start": 45.92,
+   "end": 46.22
+  },
+  {
+   "w": "shuru",
+   "start": 46.24,
+   "end": 46.48
+  },
+  {
+   "w": "hota",
+   "start": 46.5,
+   "end": 46.8
+  },
+  {
+   "w": "hai.",
+   "start": 46.82,
+   "end": 47.34
+  },
+  {
+   "w": "Kyunki",
+   "start": 47.36,
+   "end": 47.6
+  },
+  {
+   "w": "agle",
+   "start": 47.62,
+   "end": 48.06
+  },
+  {
+   "w": "chapter",
+   "start": 48.08,
+   "end": 48.36
+  },
+  {
+   "w": "ka",
+   "start": 48.38,
+   "end": 48.52
+  },
+  {
+   "w": "hisaab",
+   "start": 48.54,
+   "end": 48.8
+  },
+  {
+   "w": "bataayega",
+   "start": 48.82,
+   "end": 49.07
+  },
+  {
+   "w": "ki",
+   "start": 49.09,
+   "end": 49.34
+  },
+  {
+   "w": "final",
+   "start": 49.36,
+   "end": 49.66
+  },
+  {
+   "w": "number",
+   "start": 49.68,
+   "end": 49.94
+  },
+  {
+   "w": "kya",
+   "start": 49.96,
+   "end": 50.18
+  },
+  {
+   "w": "hoga,",
+   "start": 50.2,
+   "end": 50.758
+  },
+  {
+   "w": "aur",
+   "start": 50.778,
+   "end": 51.22
+  },
+  {
+   "w": "chapter",
+   "start": 51.24,
+   "end": 51.5
+  },
+  {
+   "w": "chaar",
+   "start": 51.52,
+   "end": 51.88
+  },
+  {
+   "w": "mein",
+   "start": 51.9,
+   "end": 52.08
+  },
+  {
+   "w": "Dangal",
+   "start": 52.1,
+   "end": 52.36
+  },
+  {
+   "w": "ke",
+   "start": 52.38,
+   "end": 52.5
+  },
+  {
+   "w": "record",
+   "start": 52.52,
+   "end": 52.76
+  },
+  {
+   "w": "ka",
+   "start": 52.78,
+   "end": 52.9
+  },
+  {
+   "w": "ek",
+   "start": 52.92,
+   "end": 53.0
+  },
+  {
+   "w": "twist",
+   "start": 53.02,
+   "end": 53.32
+  },
+  {
+   "w": "hai",
+   "start": 53.34,
+   "end": 53.52
+  },
+  {
+   "w": "jo",
+   "start": 53.54,
+   "end": 53.72
+  },
+  {
+   "w": "trade",
+   "start": 53.74,
+   "end": 54.24
+  },
+  {
+   "w": "wale",
+   "start": 54.26,
+   "end": 54.56
+  },
+  {
+   "w": "nahi",
+   "start": 54.58,
+   "end": 55.02
+  },
+  {
+   "w": "bataate.",
+   "start": 55.04,
+   "end": 55.888
+  }
+ ],
+ "cues": {
+  "c2": 0.137,
+  "lang": 2.729,
+  "pushpa": 15.441,
+  "engine": 30.057,
+  "overseas": 35.0,
+  "tease": 44.958
+ },
+ "numbers": [
+  {
+   "show": "821",
+   "spoken": "aath sau ikkees",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "627",
+   "spoken": "chhe sau sattaais",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "76",
+   "spoken": "chhihattar",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "194",
+   "spoken": "ek sau chauraanve",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "67",
+   "spoken": "sadsath",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "1,234",
+   "spoken": "baarah sau chauntees",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "812",
+   "spoken": "aath sau baarah",
+   "heard": 0.67,
+   "digit_diff": null
+  },
+  {
+   "show": "66",
+   "spoken": "chhiyaasath",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "76",
+   "spoken": "chhihattar",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "502",
+   "spoken": "paanch sau do",
+   "heard": 0.67,
+   "digit_diff": null
+  },
+  {
+   "show": "34",
+   "spoken": "chauntees",
+   "heard": 1.0,
+   "digit_diff": 0
+  }
+ ],
+ "heard": [
+  "जब्तर",
+  "दो",
+  "प्यसा",
+  "कहा",
+  "से",
+  "आँज़",
+  "है,",
+  "इंट्याके",
+  "821",
+  "करोड",
+  "मेसे",
+  "627",
+  "करोड",
+  "सर्फ",
+  "हुंदी",
+  "वोजन",
+  "से",
+  "आई.",
+  "यानी",
+  "च्यत्तर",
+  "प्रतिषत",
+  "बाखी",
+  "चार",
+  "साथ",
+  "भाशावने",
+  "मिलके",
+  "एक",
+  "सो",
+  "चरान्वे",
+  "करोड,",
+  "जिस",
+  "में",
+  "सब",
+  "से",
+  "आगे",
+  "कननड",
+  "है,",
+  "सब",
+  "सथ",
+  "करोड.",
+  "याशका",
+  "सर",
+  "अबे",
+  "कमपरजन",
+  "जो",
+  "कीसी",
+  "ने",
+  "नहीं",
+  "देखाया",
+  "पुशपा",
+  "तो",
+  "तेलगु",
+  "फिलम",
+  "ती",
+  "फिर",
+  "भी",
+  "उसके",
+  "1234",
+  "करोड",
+  "अदीा",
+  "नेट",
+  "में",
+  "से",
+  "आट्सुबारा",
+  "करोड",
+  "हिंदी",
+  "दब",
+  "से",
+  "आए",
+  "ते",
+  "लगबक",
+  "चिया",
+  "सद",
+  "प्रतिषत",
+  "रामाएन",
+  "हिंदी",
+  "फिल्म",
+  "है",
+  "और",
+  "उसका",
+  "हिंदी",
+  "हिस्सा",
+  "चियतर",
+  "प्रतिषत",
+  "है",
+  "मतलब",
+  "रामाँन",
+  "का",
+  "इंजन",
+  "हिंदी",
+  "बेल्ट",
+  "है",
+  "इंगी",
+  "जुग्दों",
+  "है",
+  "साव",
+  "विजेश",
+  "विदेश",
+  "से",
+  "पान्सो",
+  "दो",
+  "करोड,",
+  "कूल",
+  "कमाई",
+  "का",
+  "चाँतिस",
+  "प्रतिषत",
+  "और",
+  "दूसरे",
+  "वीकेंट",
+  "पे",
+  "फिलम",
+  "चे",
+  "नाई",
+  "देशो",
+  "में",
+  "खोली",
+  "जिन",
+  "में",
+  "और",
+  "मेक्सिको",
+  "भी",
+  "हैं.",
+  "अब",
+  "यहां",
+  "से",
+  "असली",
+  "मजा",
+  "शुरू",
+  "हुता",
+  "है,",
+  "कुई",
+  "अगले",
+  "चाँप्तर",
+  "का",
+  "हिसाप",
+  "बताएगा,",
+  "बच्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च्च",
+  "पाइनल",
+  "नंबर",
+  "क्या",
+  "होगा?",
+  "और",
+  "चाक्टर",
+  "चार",
+  "में",
+  "दंगल",
+  "के",
+  "रिकोड",
+  "का",
+  "एक",
+  "तूिस्ट",
+  "है,",
+  "त्रेट",
+  "वाले",
+  "नहीं",
+  "बताते."
+ ]
+}
