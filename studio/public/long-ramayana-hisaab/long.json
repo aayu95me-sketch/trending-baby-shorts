@@ -1,0 +1,56 @@
+{
+ "chapters": [
+  {"at": 0, "title": "Sawaal"},
+  {"at": "c1", "title": "Ab tak ki kamai"},
+  {"at": "c2", "title": "Paisa kahan se"},
+  {"at": "c3", "title": "Humara hisaab"},
+  {"at": "c4", "title": "Records"},
+  {"at": "c5", "title": "Budget ka sach"},
+  {"at": "c6", "title": "Faisla"}
+ ],
+ "scenes": [
+  {"at": 0, "img": "long-ramayana-hisaab/real/hall-0.jpg", "big": "₹1,483 CR", "tag": "13 DIN", "color": "gold", "credit": "@credit:hall-0"},
+  {"at": "q1", "img": "long-ramayana-hisaab/real/hall-1.jpg", "big": "DANGAL KA RECORD?", "color": "white", "credit": "@credit:hall-1"},
+  {"at": "q2", "img": "long-ramayana-hisaab/ai/notes.jpg", "big": "₹4,000 CR", "tag": "BUDGET", "color": "red"},
+  {"at": "q3", "video": "long-ramayana-hisaab/ft/calc.mp4", "big": "KHUD KA HISAAB", "color": "gold"},
+
+  {"at": "c1", "chapter": "Ab tak ki kamai", "img": "long-ramayana-hisaab/real/hall-2.jpg", "credit": "@credit:hall-2"},
+  {"at": "release", "img": "long-ramayana-hisaab/ai/bow.jpg", "tag": "5 NOVEMBER 2026", "big": "NITESH TIWARI KI RAMAYANA", "color": "white"},
+  {"at": "days", "chart": {"type": "bars", "title": "India net, din-ba-din (₹ crore)", "unit": "Source: Sacnilk estimates", "bars": [["D1",64.85],["D2",48.05],["D3",69.8],["D4",56.15],["D5",107.5],["D6",94.1],["D7",70.65],["D8",53.5]], "hi": [4]}},
+  {"at": "diwali", "img": "long-ramayana-hisaab/real/diwali-0.jpg", "tag": "9 NOV · DIWALI KE AGLE DIN", "big": "₹107.5 CR", "color": "gold", "credit": "@credit:diwali-0"},
+  {"at": "wk2", "chart": {"type": "bars", "title": "Doosra hafta (₹ crore)", "unit": "Source: Sacnilk estimates", "bars": [["Fri",48.1],["Sat",72.9],["Sun",75.0],["Mon",32.0],["Tue",28.7]], "hi": [0,1,2], "dim": [3,4]}},
+  {"at": "slow", "video": "long-ramayana-hisaab/ft/office.mp4", "big": "CHHUTTIYAN KHATAM", "color": "white"},
+  {"at": "total", "chart": {"type": "numbers", "title": "13 din ka total", "items": [["India net","₹821 Cr","white"],["India gross","₹981.5 Cr","white"],["Videsh","₹502 Cr","blue"],["Worldwide","₹1,483.5 Cr","gold"]]}},
+  {"at": "grossnet", "chart": {"type": "steps", "title": "Yaad rakhna", "items": ["Gross = ticket ka poora paisa", "Net = gross minus GST", "Producer ka hissa = in dono se kaafi kam"]}},
+
+  {"at": "c2", "chapter": "Paisa kahan se", "img": "long-ramayana-hisaab/real/hall-3.jpg", "credit": "@credit:hall-3"},
+  {"at": "lang", "chart": {"type": "stack", "title": "India net, bhasha ke hisaab se", "unit": " Cr", "parts": [["Hindi",627],["Kannada",67.2],["Telugu",52.4],["Tamil",38.05],["Malayalam",36.65]]}},
+  {"at": "pushpa", "chart": {"type": "compare", "title": "Kul India net mein Hindi ka hissa", "unit": "%", "max": 100, "rows": [["Pushpa 2",66,"white"],["Ramayana",76,"gold"]]}},
+  {"at": "engine", "img": "long-ramayana-hisaab/real/single-screen.jpg", "big": "ENGINE: HINDI BELT", "color": "gold", "credit": "@credit:single-screen"},
+  {"at": "overseas", "chart": {"type": "stack", "title": "Worldwide ₹1,483.5 Cr", "unit": " Cr", "parts": [["India gross",981.5,"gold"],["Videsh",502,"blue"]]}},
+
+  {"at": "c3", "chapter": "Humara hisaab", "video": "long-ramayana-hisaab/ft/calc.mp4"},
+  {"at": "holds", "chart": {"type": "compare", "title": "India net (₹ crore)", "rows": [["Hafta 1 (D1-7)",511,"gold"],["Hafta 2 (D8-14)*",337,"white"]]}, "stamp": "hold: 66%"},
+  {"at": "cases", "chart": {"type": "fan", "title": "Worldwide gross, hafta-dar-hafta (₹ crore)", "unit": "Hamara estimate. *D14 advance booking se. China jaisa naya market shaamil nahi.", "actual": [0,935,1526], "cases": [["Dheema",[1740,1830,1866,1880,1886,1888],"grey"],["Beech",[1796,1936,2007,2042,2059,2068],"gold"],["Mazboot",[1824,1994,2087,2139,2167,2183],"green"]]}},
+  {"at": "table", "chart": {"type": "numbers", "title": "Final kamai, teen case", "items": [["Dheema · India net ~1,070","~₹1,890 Cr","grey"],["Beech · India net ~1,180","~₹2,075 Cr","gold"],["Mazboot · India net ~1,260","~₹2,200 Cr","green"]]}},
+  {"at": "notprophecy", "video": "long-ramayana-hisaab/ft/calc.mp4", "big": "HISAAB HAI, BHAVISHYAVANI NAHI", "color": "white", "stamp": "har hafte update"},
+
+  {"at": "c4", "chapter": "Records", "img": "long-ramayana-hisaab/real/hall-4.jpg", "credit": "@credit:hall-4"},
+  {"at": "board", "chart": {"type": "board", "title": "Sabse badi Indian filmein, worldwide (₹ crore)", "unit": "", "rows": [["Dangal",2070,"white"],["Dhurandhar 2",1813,"white"],["Baahubali 2",1788,"white"],["Pushpa 2",1742,"white"],["Ramayana (13 din)",1483,"gold"],["Dhurandhar",1307,"grey"],["RRR",1230,"grey"],["KGF 2",1215,"grey"]]}},
+  {"at": "slowcase", "chart": {"type": "board", "title": "Hamare case kahan pahunchte hain", "rows": [["Dangal",2070,"white"],["Dhurandhar 2",1813,"white"],["Baahubali 2",1788,"white"],["Pushpa 2",1742,"white"],["Ramayana abhi",1483,"gold"]], "markers": [["Dheema 1,890",1890,"grey"],["Beech 2,075",2075,"gold"]]}},
+  {"at": "twist", "chart": {"type": "compare", "title": "Sirf India ke andar gross (₹ crore)", "rows": [["Dangal (poori run)",535,"white"],["Ramayana (13 din)",981,"gold"]]}, "stamp": "twist"},
+  {"at": "china", "img": "long-ramayana-hisaab/real/world.jpg", "big": "DANGAL: ₹1,535 CR VIDESH SE", "color": "white", "credit": "@credit:world"},
+
+  {"at": "c5", "chapter": "Budget ka sach", "img": "long-ramayana-hisaab/ai/notes.jpg"},
+  {"at": "budget", "img": "long-ramayana-hisaab/ai/notes.jpg", "tag": "DONO PARTS · PRODUCER KE SHABDON MEIN", "big": "$500M = ₹4,000 CR", "color": "red"},
+  {"at": "chandrayaan", "img": "long-ramayana-hisaab/real/chandrayaan.jpg", "big": "6.5 x CHANDRAYAAN-3", "tag": "₹615 CR EK MISSION", "color": "gold", "credit": "@credit:chandrayaan"},
+  {"at": "ticket", "chart": {"type": "ticket", "title": "₹100 ka ticket kahan jaata hai (rough rule)", "parts": [["Tax (GST)",16,"#9aa3ad"],["Theatre",42,"#4db8ff"],["Film wale",42,"#ffd60a"]]}},
+  {"at": "tally", "chart": {"type": "numbers", "title": "Part 1 se film wale tak (hamara estimate, beech ka case)", "items": [["India: 1,180 x ~45%","~₹530 Cr","gold"],["Videsh: 660 x ~40%","~₹265 Cr","blue"],["OTT (report, aadha)","~₹500 Cr","green"]]}},
+  {"at": "scale", "chart": {"type": "scale", "title": "Part 1: aaya vs laga", "left": ["Part 1 se (~estimate)",1300], "right": ["Aadha budget (agar barabar bata)",2000]}},
+  {"at": "answer", "img": "long-ramayana-hisaab/ai/bow.jpg", "big": "ASLI HISAAB: DIWALI 2027", "tag": "PART 2", "color": "gold"},
+
+  {"at": "c6", "chapter": "Faisla", "img": "long-ramayana-hisaab/real/hall-0.jpg", "credit": "@credit:hall-0"},
+  {"at": "verdict", "chart": {"type": "steps", "title": "Bahas mein ye 3 number", "items": ["₹1,483 Cr in 13 din; dheeme case mein bhi No. 2 film", "Dangal: worldwide kaante ki takkar, India mein Ramayana ~2x aage", "₹4,000 Cr do filmon ka; Part 1 se ~₹1,300 Cr"]}},
+  {"at": "ask", "img": "long-ramayana-hisaab/real/hall-1.jpg", "big": "HAFTA 3: ___ CR?", "tag": "COMMENT KARO", "color": "gold", "credit": "@credit:hall-1"}
+ ]
+}

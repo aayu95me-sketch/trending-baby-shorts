@@ -1,0 +1,95 @@
+# Long videos (16:9, 8-12 min; Ayush 18 Nov 2026). Two triggers on a claude/ branch:
+#   push studio/public/long-*/assets.json -> Mixkit stock + AI stills (pipeline/long_assets.py), committed back with a contact sheet
+#   push studio/public/long-*/make.txt    -> chapter-by-chapter voice + Whisper timing (pipeline/long_voice.py), render (Long composition),
+#                                            mp4 to release <folder>, 360p council copy + voices to branch render-<folder>
+# Real photos come from the existing visuals.yml (push studio/public/<folder>/visuals.json).
+name: Long video
+
+on:
+  push:
+    branches: ["claude/**", "main"]
+    paths: ["studio/public/long-*/assets.json", "studio/public/long-*/make.txt"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: long-${{ github.ref_name }}
+
+jobs:
+  long:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 120
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY || secrets.GOOGLE_API_KEY }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 2
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: pipeline/requirements.txt
+      - name: What changed
+        id: w
+        run: |
+          ch=$(git diff --name-only HEAD~1 HEAD)
+          echo "assets=$(echo "$ch" | grep -E '^studio/public/long-[^/]+/assets.json$' | cut -d/ -f3 | sort -u | tr '\n' ' ')" >> "$GITHUB_OUTPUT"
+          echo "make=$(echo "$ch" | grep -E '^studio/public/long-[^/]+/make.txt$' | cut -d/ -f3 | sort -u | tr '\n' ' ')" >> "$GITHUB_OUTPUT"
+      - name: Tools
+        run: |
+          sudo apt-get -qq update >/dev/null && sudo apt-get -qq install -y ffmpeg >/dev/null
+          pip install -q -r pipeline/requirements.txt "pillow==11.0.0"
+
+      - name: Assets
+        if: steps.w.outputs.assets != ''
+        run: |
+          for n in ${{ steps.w.outputs.assets }}; do echo "::group::$n"; python pipeline/long_assets.py "$n" || echo "::warning::assets failed for $n"; echo "::endgroup::"; done
+          git config user.name "long-bot" && git config user.email "long-bot@users.noreply.github.com"
+          git add studio/public/long-*/ft studio/public/long-*/ai studio/public/long-*/assets-sheet.jpg studio/public/long-*/assets-credits.json 2>/dev/null || true
+          git diff --cached --quiet || { git commit -qm "Long video assets"; git pull -q --rebase origin "${GITHUB_REF_NAME}" && git push -q origin "HEAD:${GITHUB_REF_NAME}"; }
+
+      - uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+        if: steps.w.outputs.make != ''
+        with:
+          path: ~/.cache/huggingface
+          key: hf-models-v1
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        if: steps.w.outputs.make != ''
+        with:
+          node-version: "22"
+      - uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+        id: nodecache
+        if: steps.w.outputs.make != ''
+        with:
+          path: studio/node_modules
+          key: node-${{ hashFiles('studio/package-lock.json') }}
+
+      - name: Voice, timing, render
+        if: steps.w.outputs.make != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git pull -q --rebase origin "${GITHUB_REF_NAME}" || true
+          (cd studio && { [ "${{ steps.nodecache.outputs.cache-hit }}" = "true" ] || npm ci --no-audit --no-fund; } && npx remotion browser ensure)
+          for n in ${{ steps.w.outputs.make }}; do
+            echo "::group::voice $n"
+            # reuse chapter voices from the last render when their text did not change
+            if git fetch -q --depth 1 origin "render-$n" 2>/dev/null; then
+              for f in $(git ls-tree --name-only -r FETCH_HEAD | grep -E '^ch[0-9]+/(voice_raw.wav|tts.txt)$'); do mkdir -p "studio/public/$n/$(dirname $f)"; git show "FETCH_HEAD:$f" > "studio/public/$n/$f"; done
+            fi
+            python pipeline/long_voice.py "$n"
+            echo "::endgroup::"
+            (cd studio && npx remotion render src/index.ts Long "../out/$n.mp4" --props="{\"dir\":\"$n\"}" --log=warn --concurrency=4)
+            ffmpeg -y -v error -i "out/$n.mp4" -vf scale=640:-2 -c:v libx264 -crf 30 -preset veryfast -c:a aac -b:a 64k "out/$n-360.mp4"
+            rm -rf /tmp/pub && mkdir -p /tmp/pub
+            # the full mp4 is over GitHub's 100 MB file limit, so it goes to a release (public download link); the branch keeps the small copy
+            gh release view "$n" >/dev/null 2>&1 || gh release create "$n" --prerelease --title "$n" --notes "Long video render" --target "${GITHUB_SHA}"
+            gh release upload "$n" "out/$n.mp4" --clobber
+            cp "out/$n-360.mp4" "studio/public/$n/timeline.json" "studio/public/$n/voice.wav" /tmp/pub/
+            for d in studio/public/$n/ch*/; do c=$(basename $d); mkdir -p /tmp/pub/$c; cp $d/voice_raw.wav $d/tts.txt $d/timeline.json /tmp/pub/$c/ 2>/dev/null || true; done
+            (cd /tmp/pub && git init -q && git config user.name "render-bot" && git config user.email "render-bot@users.noreply.github.com" \
+              && git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" \
+              && git add . && git commit -qm "Render of $n" && git push -qf origin "HEAD:refs/heads/render-$n")
+          done

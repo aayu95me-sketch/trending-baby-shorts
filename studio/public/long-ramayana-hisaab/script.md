@@ -1,4 +1,4 @@
-# Doubt Clear long video 1: Ramayana ka poora hisaab (draft v1, 18 Nov 2026)
+# Doubt Clear long video 1: Ramayana ka poora hisaab (draft v2 after council, 18 Nov 2026)
 
 Format: 16:9, about 10 to 11 minutes, Hinglish, AI voice (Orus), faceless. Numbers are Sacnilk estimates up to Day 13 (Tue 17 Nov);
 they get refreshed to the latest day on build day. `[V: ...]` = what is on screen. No subtitles; only chapter cards and number cards.
@@ -29,17 +29,15 @@ Aaj hum kisi ka trade tweet nahi maanenge. Din-ba-din ka data liya hai, aur khud
 
 Film 5 November ko aayi. Director Nitesh Tiwari, aur Ranbir Kapoor, Yash, Sai Pallavi.
 
-Pehle din India mein 64.85 crore net. Doosre din, Friday ko, girke 48. Weekend pe phir 70 aur 56.
+Teen din yaad rakhne layak hain. Pehla: opening day, India mein 64.85 crore net.
 
 [V: the Day 5 bar shoots up, gold, Diwali lights photo behind it]
 
-Phir aaya 9 November, Diwali ke agle din ka Monday. 107.5 crore. Ek din mein. Ye film ka ab tak ka sabse bada din hai. Agle din bhi 94.
-
-Pehle aath din mein India net 564.6 crore.
+Doosra: 9 November, Diwali ke agle din ka Monday. 107.5 crore. Ek din mein. Ye film ka ab tak ka sabse bada din hai. Pehle aath din mein India net 564.6 crore.
 
 [V: second-weekend bars 48, 73, 75 light up]
 
-Asli test doosra weekend hota hai, jab tyohaar ka josh utar jaata hai. Ramayana ne doosre Friday-Saturday-Sunday mein 196 crore aur kamaaye. Matlab log sirf Diwali ki chhutti mein nahi, recommendation sunke bhi aa rahe the.
+Teesra, aur sabse zaroori: doosra weekend. Asli test wahi hota hai, jab tyohaar ka josh utar jaata hai. Ramayana ne doosre Friday-Saturday-Sunday mein 196 crore aur kamaaye. Matlab log sirf Diwali ki chhutti mein nahi, recommendation sunke bhi aa rahe the.
 
 [V: Monday 32, Tuesday 28.7 bars, colour turns grey]
 
@@ -55,9 +53,7 @@ Ek cheez yaad rakhna, aage kaam aayegi. Gross matlab ticket ka poora paisa. Net 
 
 [V: chapter card "2. paisa kahan se"; stacked bar of the 821 crore by language]
 
-India ke 821 crore mein se 627 crore sirf Hindi version se aaye. Yaani 76 pratishat.
-
-Kannada 67 crore. Yahan Yash ka asar dikhta hai. Telugu 52, Tamil 38, Malayalam 37.
+India ke 821 crore mein se 627 crore sirf Hindi version se aaye. Yaani 76 pratishat. Baaki chaar South bhashaon ne milke 194 crore, jisme sabse aage Kannada hai, 67 crore. Yash ka asar.
 
 [V: side by side bars: Ramayana Hindi share 76% vs Pushpa 2 Hindi share 66%]
 
@@ -67,7 +63,11 @@ Matlab Ramayana ka engine Hindi belt hai. Aur aage badhne ki jagah do hi hain: S
 
 [V: world map, glowing dots on markets; "34% overseas"]
 
-Videsh se 502 crore, kul kamai ka 34 pratishat. Aur doosre weekend pe film chhe naye deshon mein khuli, jinme Indonesia aur Mexico bhi hain. Ye abhi poori tarah gina bhi nahi gaya hai.
+Videsh se 502 crore, kul kamai ka 34 pratishat. Aur doosre weekend pe film chhe naye deshon mein khuli, jinme Indonesia aur Mexico bhi hain.
+
+[V: Dangal's poster-free name card flickers, "twist: chapter 4"]
+
+Ab yahan se asli maza shuru hota hai. Kyunki agle chapter ka hisaab bataayega ki final number kya hoga, aur chapter 4 mein Dangal ke record ka ek twist hai jo trade wale nahi bataate.
 
 ## 3. Aur kitna kamayegi? Humara hisaab (3:45 to 5:45)
 
@@ -86,7 +86,7 @@ Dheema case: har hafta pichhle ka 40 pratishat. Beech ka case: 50 pratishat. Maz
 [V: result table builds row by row]
 
 Dheema case mein India net lagbhag 1,070 crore pe rukti hai, aur worldwide lagbhag 1,890 crore.
-Beech ke case mein India net lagbhag 1,180 crore, worldwide lagbhag 2,080 crore.
+Beech ke case mein India net lagbhag 1,180 crore, worldwide lagbhag 2,075 crore.
 Mazboot case mein India net lagbhag 1,260 crore, worldwide lagbhag 2,200 crore.
 
 Isme China jaisa koi bada naya market nahi gina. Aur videsh ki kamai thodi dheere badhti maani hai.
@@ -109,7 +109,7 @@ Humare dheeme case mein bhi Ramayana 1,890 tak jaati hai. Yaani Dhurandhar 2, Ba
 
 [V: gold marker lands right on Dangal's line]
 
-Aur Dangal? Beech wala case 2,080. Dangal 2,070. Das crore ka farak. Ye sach mein sikka uchhaalne jaisa hai.
+Aur Dangal? Beech wala case lagbhag 2,075. Dangal 2,070. Bas paanch crore ka farak. Ye sach mein sikka uchhaalne jaisa hai.
 
 [V: Dangal's bar splits into two colours: India ~535, overseas ~1,535]
 
@@ -145,7 +145,7 @@ To jawab: abhi nahi. Part 1 akela poora paisa wapas nahi laayega. Lekin ye uska 
 
 ## 6. Faisla: teen number yaad rakho (9:30 to 10:30)
 
-[V: chapter card "faisla"; three big cards one by one]
+[V: chapter card "faisla"; recap card with all three numbers builds one by one and stays on screen for a screenshot]
 
 To bahas mein ye teen baatein bolo.
 
@@ -163,4 +163,4 @@ Aise hi har trending sawaal ka hisaab chahiye to Doubt Clear subscribe kar lo.
 
 ---
 
-Word count about 1,450 words; at the Shorts' voice pace this is about 10 to 11 minutes.
+Spoken words about 1,250; at the Shorts voice pace this is about 9 minutes (over the 8:00 mid-roll line).
