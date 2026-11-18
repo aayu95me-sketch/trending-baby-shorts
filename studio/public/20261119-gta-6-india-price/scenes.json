@@ -3,13 +3,77 @@
  "note": "SOURCES: BUSINESS STANDARD, DIGIT, TOM'S GUIDE, REFURBO · NOV 2026",
  "loopTail": 0.5,
  "scenes": [
-  {"at": 0, "big": "INDIA MEIN KITNE KA?", "color": "gold", "tag": "GTA 6 · PS5 · PC · PS4", "img": "20261119-gta-6-india-price/real/news-0.jpg", "fit": "blur", "credit": "ROCKSTAR GAMES ART VIA BUSINESS STANDARD"},
-  {"at": "when", "big": "19 NOV · 12 AM IST", "color": "white", "tag": "PS5 + XBOX SERIES X|S", "img": "20261119-gta-6-india-price/real/news-3.jpg", "fit": "blur", "credit": "ROCKSTAR GAMES ART VIA DIGIT"},
-  {"at": "price", "big": "Rs 5,999", "color": "gold", "tag": "STANDARD · ULTIMATE Rs 7,499", "img": "20261119-gta-6-india-price/real/news-1.jpg", "fit": "blur", "credit": "ROCKSTAR GAMES ART VIA TOM'S GUIDE"},
-  {"at": "ps5", "big": "PS5: Rs 69,990", "color": "red", "tag": "PEHLE Rs 54,990 · Rs 15,000 MEHENGA", "img": "20261119-gta-6-india-price/real/wk-5.jpg", "focus": "50% 50%", "credit": "PHOTO: OSH33M, CC BY-SA 4.0"},
-  {"at": "total", "big": "Rs 75,989", "color": "gold", "tag": "GAME + CONSOLE · SHURUAAT", "img": "20261119-gta-6-india-price/real/news-5.jpg", "fit": "blur", "credit": "ROCKSTAR GAMES ART VIA BEEBOM"},
-  {"at": "pc", "big": "PC: ABHI NAHI · PS4: NAHI", "color": "red", "tag": "PC KI DATE ANNOUNCE NAHI HUI", "img": "20261119-gta-6-india-price/real/wk-3.jpg", "fit": "blur", "credit": "PHOTO VIA WIKIPEDIA"},
-  {"at": "reviews", "big": "METACRITIC 99", "color": "green", "tag": "IGN 10/10 · DOWNLOAD 212 GB TAK", "img": "20261119-gta-6-india-price/real/news-2.jpg", "fit": "blur", "credit": "ROCKSTAR GAMES ART VIA TOM'S GUIDE"},
-  {"at": "end", "big": "ABHI YA PC KA WAIT?", "color": "gold", "tag": "COMMENT KARO", "img": "20261119-gta-6-india-price/real/news-0.jpg", "fit": "blur", "credit": "ROCKSTAR GAMES ART VIA BUSINESS STANDARD"}
+  {
+   "at": 0,
+   "big": "INDIA MEIN KITNE KA?",
+   "color": "gold",
+   "tag": "GTA 6 · PS5 · PC · PS4",
+   "img": "20261119-gta-6-india-price/real/news-0.jpg",
+   "fit": "blur",
+   "credit": "ROCKSTAR GAMES ART VIA BUSINESS STANDARD"
+  },
+  {
+   "at": "when",
+   "big": "19 NOV · 12 AM IST",
+   "color": "white",
+   "tag": "PS5 + XBOX SERIES X|S",
+   "img": "20261119-gta-6-india-price/real/news-3.jpg",
+   "fit": "blur",
+   "credit": "ROCKSTAR GAMES ART VIA DIGIT"
+  },
+  {
+   "at": "price",
+   "big": "Rs 5,999",
+   "color": "gold",
+   "tag": "STANDARD · ULTIMATE Rs 7,499",
+   "img": "20261119-gta-6-india-price/real/news-1.jpg",
+   "fit": "blur",
+   "credit": "ROCKSTAR GAMES ART VIA TOM'S GUIDE"
+  },
+  {
+   "at": "ps5",
+   "big": "PS5: Rs 69,990",
+   "color": "red",
+   "tag": "PEHLE Rs 54,990 · Rs 15,000 MEHENGA",
+   "img": "20261119-gta-6-india-price/real/wk-5.jpg",
+   "focus": "50% 50%",
+   "credit": "PHOTO: OSH33M, CC BY-SA 4.0"
+  },
+  {
+   "at": "total",
+   "big": "Rs 75,989",
+   "color": "gold",
+   "tag": "GAME + CONSOLE · SHURUAAT",
+   "img": "20261119-gta-6-india-price/real/news-4.jpg",
+   "fit": "blur",
+   "credit": "PHOTO VIA REFURBO"
+  },
+  {
+   "at": "pc",
+   "big": "PC, PS4: NAHI",
+   "color": "red",
+   "tag": "PC KI DATE ABHI ANNOUNCE NAHI HUI",
+   "img": "20261119-gta-6-india-price/real/wk-3.jpg",
+   "fit": "blur",
+   "credit": "PHOTO VIA WIKIPEDIA"
+  },
+  {
+   "at": "reviews",
+   "big": "METACRITIC 99",
+   "color": "green",
+   "tag": "IGN 10/10 · DOWNLOAD 212 GB TAK",
+   "img": "20261119-gta-6-india-price/real/news-2.jpg",
+   "fit": "blur",
+   "credit": "ROCKSTAR GAMES ART VIA TOM'S GUIDE"
+  },
+  {
+   "at": "end",
+   "big": "ABHI YA PC KA WAIT?",
+   "color": "gold",
+   "tag": "COMMENT KARO",
+   "img": "20261119-gta-6-india-price/real/news-0.jpg",
+   "fit": "blur",
+   "credit": "ROCKSTAR GAMES ART VIA BUSINESS STANDARD"
+  }
  ]
 }
