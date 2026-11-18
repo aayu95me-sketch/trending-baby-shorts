@@ -66,8 +66,8 @@ for i, (s, t) in enumerate(zip(sc, tt), 1):
     env = {**os.environ, "NUMCHECK_STRICT": "1", "KEEP_PAUSES": "0.35"}
     ok = subprocess.run([sys.executable, "pipeline/align.py", f"{NAME}/ch{i}", "1.0"], env={**env, "ALIGN_MODEL": "small"}).returncode == 0
     if not ok:
-        print(f"::warning::chapter {i} failed the check with whisper small, listening again with medium", flush=True)
-        if subprocess.run([sys.executable, "pipeline/align.py", f"{NAME}/ch{i}", "1.0"], env={**env, "ALIGN_MODEL": "medium"}).returncode != 0:
+        # medium Whisper took ~20 min a chapter on the runner (18 Nov); only use it when LONG_MEDIUM=1
+        if os.environ.get("LONG_MEDIUM") != "1" or subprocess.run([sys.executable, "pipeline/align.py", f"{NAME}/ch{i}", "1.0"], env={**env, "ALIGN_MODEL": "medium"}).returncode != 0:
             # Whisper often loops on one window of a long Hinglish take (18 Nov), so a second miss does not stop the build:
             # the timeline is still written, the chapter is flagged, and the council (Gemini listens to the render) checks the audio.
             print(f"::warning::chapter {i} failed the number/sync check twice: LISTEN to it in the render", flush=True)

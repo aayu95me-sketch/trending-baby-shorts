@@ -319,10 +319,13 @@ const LongVideo: React.FC<Props> = ({ dir, tl, spec }) => {
 const meta: CalculateMetadataFunction<Props> = async ({ props }) => {
   const tl = (await (await fetch(staticFile(`${props.dir}/timeline.json`))).json()) as TL;
   const spec = (await (await fetch(staticFile(`${props.dir}/long.json`))).json()) as Spec;
+  // check every media file once, in parallel (a sequential check of ~40 files timed out on the runner, 18 Nov)
+  const files = [...new Set(spec.scenes.flatMap((s) => [s.img, s.video]).filter((x): x is string => !!x))];
+  const ok = new Map(await Promise.all(files.map(async (f) => [f, (await fetch(staticFile(f), { method: "HEAD" })).ok] as const)));
   for (const s of spec.scenes) {
     for (const k of ["img", "video"] as const) {
       const v = s[k];
-      if (v && !(await fetch(staticFile(v))).ok) { console.warn(`missing ${v}`); s[k] = undefined; }
+      if (v && !ok.get(v)) { console.warn(`missing ${v}`); s[k] = undefined; }
     }
   }
   return { durationInFrames: Math.ceil((tl.total + 0.5) * FPS), props: { ...props, tl, spec } };

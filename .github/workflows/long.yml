@@ -89,7 +89,13 @@ jobs:
               exit 1
             fi
             echo "::endgroup::"
-            (cd studio && npx remotion render src/index.ts Long "../out/$n.mp4" --props="{\"dir\":\"$n\"}" --log=warn --concurrency=4)
+            # save the voices and timing before the render, so a render failure never costs a re-voice
+            rm -rf /tmp/pub && mkdir -p /tmp/pub && cp "studio/public/$n/timeline.json" "studio/public/$n/voice.wav" "studio/public/$n/listen.txt" /tmp/pub/ 2>/dev/null || true
+            for d in studio/public/$n/ch*/; do c=$(basename $d); mkdir -p /tmp/pub/$c; cp $d/voice_raw.wav $d/tts.txt $d/timeline.json /tmp/pub/$c/ 2>/dev/null || true; done
+            (cd /tmp/pub && git init -q && git config user.name "render-bot" && git config user.email "render-bot@users.noreply.github.com" \
+              && git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" \
+              && git add . && git commit -qm "Voice of $n" && git push -qf origin "HEAD:refs/heads/render-$n")
+            (cd studio && npx remotion render src/index.ts Long "../out/$n.mp4" --props="{\"dir\":\"$n\"}" --log=warn --concurrency=4 --timeout=120000)
             ffmpeg -y -v error -i "out/$n.mp4" -vf scale=640:-2 -c:v libx264 -crf 30 -preset veryfast -c:a aac -b:a 64k "out/$n-360.mp4"
             rm -rf /tmp/pub && mkdir -p /tmp/pub
             # the full mp4 is over GitHub's 100 MB file limit, so it goes to a release (public download link); the branch keeps the small copy
