@@ -3,13 +3,77 @@
  "note": "SOURCES: INDIABLOOMS (VIA HT), ASIANET NEWSABLE, KIDDAAN · NOV 2026",
  "loopTail": 0.5,
  "scenes": [
-  {"at": 0, "big": "Rs 36,000 FINE?", "color": "gold", "tag": "SIRF TRAIN TAK CHHODNE GAYE THE", "img": "20261119-vande-bharat-36k-fine/real/wk-1.jpg", "fit": "blur", "credit": "PHOTO VIA WIKIPEDIA"},
-  {"at": "where", "big": "KANPUR CENTRAL", "color": "white", "tag": "22415 VARANASI-NEW DELHI VANDE BHARAT · 15 NOV", "img": "20261119-vande-bharat-36k-fine/real/wk-2.jpg", "fit": "blur", "credit": "PHOTO VIA WIKIPEDIA"},
-  {"at": "doors", "big": "DARWAZE AUTO-LOCK", "color": "red", "tag": "12 LOG ANDAR · TRAIN CHAL PADI", "img": "20261119-vande-bharat-36k-fine/real/news-3.jpg", "fit": "blur", "credit": "PHOTO VIA GULTE"},
-  {"at": "stop", "big": "SEEDHA ETAWAH", "color": "white", "tag": "79 MINUTE · 10:49 AM PE RUKI", "img": "20261119-vande-bharat-36k-fine/real/wk-3.jpg", "fit": "blur", "credit": "PHOTO VIA WIKIPEDIA"},
-  {"at": "fine", "big": "Rs 3,000 x 12", "color": "gold", "tag": "= Rs 36,000 · RPF/GRP NE UTAARA", "img": "20261119-vande-bharat-36k-fine/real/wk-0.jpg", "fit": "blur", "credit": "PHOTO VIA WIKIPEDIA"},
-  {"at": "why", "big": "BINA TICKET = POORA KIRAYA + PENALTY", "color": "red", "tag": "SHURU SE AAKHRI STATION TAK KA KIRAYA", "img": "20261119-vande-bharat-36k-fine/real/wk-6.jpg", "fit": "blur", "credit": "PHOTO: KPINFOMEDIAINDIA, CC BY-SA 4.0"},
-  {"at": "quote", "big": "\"ANNOUNCEMENT PE UTAR JAAYEIN\"", "color": "white", "tag": "SR DCM ARIJIT SINGH, RAILWAYS (VIA HT)", "img": "20261119-vande-bharat-36k-fine/real/wk-7.jpg", "fit": "blur", "credit": "PHOTO: KPINFOMEDIAINDIA, CC BY-SA 4.0"},
-  {"at": "end", "big": "DARWAZE TAK HI JAAO", "color": "green", "tag": "AAPKE SAATH HUA? COMMENT KARO", "img": "20261119-vande-bharat-36k-fine/real/wk-1.jpg", "fit": "blur", "credit": "PHOTO VIA WIKIPEDIA"}
+  {
+   "at": 0,
+   "big": "Rs 36,000 FINE?",
+   "color": "gold",
+   "tag": "SIRF TRAIN TAK CHHODNE GAYE THE",
+   "img": "20261119-vande-bharat-36k-fine/real/wk-1.jpg",
+   "fit": "blur",
+   "credit": "PHOTO VIA WIKIPEDIA"
+  },
+  {
+   "at": "where",
+   "big": "KANPUR CENTRAL",
+   "color": "white",
+   "tag": "22415 VARANASI-NEW DELHI VANDE BHARAT · 15 NOV",
+   "img": "20261119-vande-bharat-36k-fine/real/wk-2.jpg",
+   "fit": "blur",
+   "credit": "PHOTO VIA WIKIPEDIA"
+  },
+  {
+   "at": "doors",
+   "big": "DARWAZE AUTO-LOCK",
+   "color": "red",
+   "tag": "12 LOG ANDAR · TRAIN CHAL PADI",
+   "img": "20261119-vande-bharat-36k-fine/real/news-3.jpg",
+   "fit": "blur",
+   "credit": "PHOTO VIA GULTE"
+  },
+  {
+   "at": "stop",
+   "big": "SEEDHA ETAWAH",
+   "color": "white",
+   "tag": "79 MINUTE · 10:49 AM PE RUKI",
+   "img": "20261119-vande-bharat-36k-fine/real/wk-3.jpg",
+   "fit": "blur",
+   "credit": "PHOTO VIA WIKIPEDIA"
+  },
+  {
+   "at": "fine",
+   "big": "Rs 3,000 x 12",
+   "color": "gold",
+   "tag": "= Rs 36,000 · RPF/GRP NE UTAARA",
+   "img": "20261119-vande-bharat-36k-fine/real/wk-0.jpg",
+   "fit": "blur",
+   "credit": "PHOTO VIA WIKIPEDIA"
+  },
+  {
+   "at": "why",
+   "big": "POORA KIRAYA + PENALTY",
+   "color": "red",
+   "tag": "BINA TICKET = SHURU SE AAKHRI STATION TAK",
+   "img": "20261119-vande-bharat-36k-fine/real/wk-6.jpg",
+   "fit": "blur",
+   "credit": "PHOTO: KPINFOMEDIAINDIA, CC BY-SA 4.0"
+  },
+  {
+   "at": "quote",
+   "big": "\"ANNOUNCEMENT PE UTAR JAAYEIN\"",
+   "color": "white",
+   "tag": "SR DCM ARIJIT SINGH, RAILWAYS (VIA HT)",
+   "img": "20261119-vande-bharat-36k-fine/real/wk-7.jpg",
+   "fit": "blur",
+   "credit": "PHOTO: KPINFOMEDIAINDIA, CC BY-SA 4.0"
+  },
+  {
+   "at": "end",
+   "big": "DARWAZE TAK HI JAAO",
+   "color": "green",
+   "tag": "AAPKE SAATH HUA? COMMENT KARO",
+   "img": "20261119-vande-bharat-36k-fine/real/wk-1.jpg",
+   "fit": "blur",
+   "credit": "PHOTO VIA WIKIPEDIA"
+  }
  ]
 }
