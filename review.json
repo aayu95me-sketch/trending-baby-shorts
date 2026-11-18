@@ -1,0 +1,26 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "Unattributed claim of a 36,000 rupee fine",
+    "Unattributed claim that twelve people boarded the Vande Bharat",
+    "Unattributed claim of a 3,000 rupee fine per person",
+    "Unattributed claim about railway rule requiring full fare and penalty for travelling without a ticket"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "use of English 'where' in 'where Central pe' is unnatural",
+    "phrase 'train tak chhodne jaata hai' sounds awkward"
+   ],
+   "one_line_verdict": "No number mismatches, but the script contains several unverified factual claims and minor Hinglish phrasing issues; no hook options provided."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}
