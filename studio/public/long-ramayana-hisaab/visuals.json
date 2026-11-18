@@ -1,7 +1,32 @@
 {
- "hall": [{"wiki": "Raj Mandir cinema Jaipur", "n": 3}, {"wiki": "cinema hall India audience", "n": 3}, {"wiki": "Maratha Mandir cinema", "n": 2}, {"wiki": "single screen theatre India", "n": 3}],
- "diwali": [{"wiki": "Diwali lights night India", "n": 3}, {"wiki": "Diwali diyas", "n": 2}],
- "world": [{"wiki": "world map night lights", "n": 2}],
- "chandrayaan": [{"wiki": "Chandrayaan-3 launch LVM3", "n": 3}],
- "ticket": [{"wiki": "cinema ticket counter India", "n": 3}]
+ "rupee": [
+  {
+   "wiki": "Indian rupee 500 banknotes",
+   "n": 3
+  },
+  {
+   "wiki": "Indian currency notes bundle",
+   "n": 3
+  }
+ ],
+ "rama": [
+  {
+   "wiki": "Raja Ravi Varma Rama",
+   "n": 3
+  },
+  {
+   "wiki": "Rama bow painting Ramayana",
+   "n": 3
+  }
+ ],
+ "crowdin": [
+  {
+   "wiki": "audience in Indian cinema hall",
+   "n": 3
+  },
+  {
+   "wiki": "movie theatre audience India",
+   "n": 3
+  }
+ ]
 }
