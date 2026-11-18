@@ -201,8 +201,8 @@ const Scale: React.FC<{ c: Extract<Chart, { type: "scale" }>; at: number }> = ({
   );
   return (
     <div style={{ display: "flex", flexDirection: "column", alignItems: "center" }}><Title text={c.title} />
-      <div style={{ width: 1300, height: 10, background: "#cfd6dd", borderRadius: 5, transform: `rotate(${-tilt}deg)`, marginTop: 60 }} />
-      <div style={{ display: "flex", justifyContent: "space-between", width: 1300, marginTop: 30, transform: `rotate(${-tilt}deg)` }}>{pan(c.left[0], c.left[1], GOLD)}{pan(c.right[0], c.right[1], RED)}</div>
+      <div style={{ width: 1300, height: 10, background: "#cfd6dd", borderRadius: 5, transform: `rotate(${tilt}deg)`, marginTop: 60 }} />
+      <div style={{ display: "flex", justifyContent: "space-between", width: 1300, marginTop: 30, transform: `rotate(${tilt}deg)` }}>{pan(c.left[0], c.left[1], GOLD)}{pan(c.right[0], c.right[1], RED)}</div>
     </div>
   );
 };
