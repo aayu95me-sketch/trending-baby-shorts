@@ -11,7 +11,46 @@ The Learning step updates this at 72 h after each batch and weekly, from `analys
 | Alice Huang kaun hai | Business / world | suspicion question | surprise + suspicion | comment |
 | Galaxy S27 launch? | Tech | "launch ho gaya?" myth check | excitement | comment |
 
-Results: pending (72 h read on 13 Nov evening IST).
+72 h read (13 Nov, Analytics API): Ramayana 1,485 (80% viewed), Delhi AQI 1,296 (51%), Alice Huang 714 (55%), Galaxy S27 22
+(never entered the Shorts feed). 95%+ of views came from the Shorts feed, not search. Winners held through the middle; everyone
+left in the last 10-20%.
+
+## 18 Nov review: all 28 Shorts (9-18 Nov), topics, hooks, times, comments
+Source: YouTube Studio (Content list + Analytics advanced mode, lifetime). Table and topic ranking: `analysis/scorecard.md`.
+
+What the numbers say:
+1. **Stayed-to-watch decides reach.** Above 60% stayed -> 1,000+ views (Mexico 71%, Toxic 61%, 89 all out 61%, series win 62%).
+   Under 45% -> usually under 300. Frame 1 + the first line are the whole game; the feed tests every Short on ~50-100 people first.
+2. **Topic ranking (median views):** viral video real-or-AI (3,048) > Bollywood box office with a hook (1,550) > India men's cricket
+   big result (356, but 1,000-1,900 for shock results) > civic myth check with a scary number (1,332, one Short) > football (260) >
+   world/politics (142) > celebrity personal life (141) > junior cricket (78) > tech/AI/space/Hollywood (42).
+3. **What the winners share:** a thing lakhs of Indians already saw or argued about in the last 24 h (a viral clip, a celebrity jab,
+   a shock scoreline), a yes/no doubt in the title, and a strong picture for frame 1 (dinosaur, "89", Samay/Toxic).
+4. **What the losers share:** we explain something nobody was arguing about (Census, Smog, Starship, Navi Mumbai), a foreign or
+   niche audience (Hollywood, US politics, AI models, phones), personal-life gossip (Pawan, Kavya), or a repeat of a story we already
+   did that week (Ramayana vs Jawan: 5 views).
+5. **Follow-ups decay fast.** 89 all out 1,923 -> "89 lowest score?" 241 next day -> series win 1,081 only because it was a new result.
+   One Short per story unless there is a genuinely new result.
+6. **Posting time doesn't rescue a weak topic.** The 19:00 slot got 5, 41 and 92 on 15-17 Nov. Hits came at 08:00, 12:00, 15:30 and 21:30.
+7. **Comments are near zero** (5 viewer comments from ~15K views, all three pinned questions got no answers). Subs: 12, from India
+   cricket (7), Toxic and Mexico (4) and Diwali odds (1). Shares: 1. Pinned "aapke hisaab se...?" questions aren't working; try a sharper either/or.
+
+Comments handled 18 Nov: replied to @ZuberMd-s2h on the pterodactyl Short (Quetzalcoatlus joke, kept to confirmed facts) and hearted it.
+Still held: "S" by @tvigneshrao6480 on Ramayana (held as potentially inappropriate since 11 Nov, left for Ayush). No spam or abuse.
+
+### Topic-picking rules for the daily top 3 (from 18 Nov; re-check on 25 Nov)
+1. **Each pick must pass the "already arguing" test:** lakhs of Indians saw this or argued about it in the last 24 h. If we would
+   have to explain why it matters, drop it.
+2. **Prefer these lanes, in order:** (a) viral video or claim, real or AI/fake; (b) Bollywood box office or a celebrity controversy
+   with a number to check; (c) India men's cricket the morning after a big or shocking result, or a legend moment (Dhoni-level);
+   (d) a civic scare with a number-vs-number doubt (AQI, prices, exam results).
+3. **Skip by default:** tech launches, AI models, space, Hollywood, US/world politics, celebrity personal life (marriage, divorce),
+   junior or minor sports, plain government-process explainers. Use one only if it is the #1 trend in India that day.
+4. **No repeat stories within 7 days** unless there's a new result (new match, new box-office milestone).
+5. **Frame-1 test at gate 1:** name the one picture and the one number/claim that make a thumb stop. No picture, no pick.
+6. **Times:** post the strongest pick at the slot closest to when the story breaks (08:00 for overnight results, 12:00 for morning
+   virals), not saved for 19:00. Keep 3 a day, 3 h apart.
+7. **Track it:** tag each pick with its lane in `youtube.md`; after 7 more days, re-rank lanes by median views and stayed %.
 
 ## Carried over from Chunav Diary (to re-test)
 See PLAYBOOK.md section 8.

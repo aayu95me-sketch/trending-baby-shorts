@@ -198,6 +198,11 @@ Topics pick the segment here, so tag each reel with one segment and its default 
 Hook patterns (3-5 words, end on a question or a stop): number vs number ("1700 ya 500?"), "sach kya hai?", wait/stop, hidden detail,
 myth check, "launch ho gaya?". Avoid "secret", "everyone gets this wrong", and any hook that gives the answer in second 1.
 
+**Topic picks (18 Nov data, see LESSONS.md "Topic-picking rules"):** pick from the lanes that worked: viral video real-or-AI,
+Bollywood box office or celebrity controversy with a number, India men's cricket the morning after a big result, civic scare with a
+number-vs-number doubt. Skip tech/AI/space/Hollywood/world politics/celebrity personal life/junior sports unless it's India's #1 trend.
+No repeat story within 7 days. Every pick needs a frame-1 picture and a claim people are already arguing about.
+
 **Safety (kept):** never call a company or person a scam or criminal unless confirmed; allegations stay allegations; no investment
 or medical advice; verify every claim at gate 1.
 
