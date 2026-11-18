@@ -95,7 +95,7 @@ jobs:
             # the full mp4 is over GitHub's 100 MB file limit, so it goes to a release (public download link); the branch keeps the small copy
             gh release view "$n" >/dev/null 2>&1 || gh release create "$n" --prerelease --title "$n" --notes "Long video render" --target "${GITHUB_SHA}"
             gh release upload "$n" "out/$n.mp4" --clobber
-            cp "out/$n-360.mp4" "studio/public/$n/timeline.json" "studio/public/$n/voice.wav" /tmp/pub/
+            cp "out/$n-360.mp4" "studio/public/$n/listen.txt" "studio/public/$n/timeline.json" "studio/public/$n/voice.wav" /tmp/pub/
             for d in studio/public/$n/ch*/; do c=$(basename $d); mkdir -p /tmp/pub/$c; cp $d/voice_raw.wav $d/tts.txt $d/timeline.json /tmp/pub/$c/ 2>/dev/null || true; done
             (cd /tmp/pub && git init -q && git config user.name "render-bot" && git config user.email "render-bot@users.noreply.github.com" \
               && git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" \

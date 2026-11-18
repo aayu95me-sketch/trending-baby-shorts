@@ -53,7 +53,7 @@ def tts(text, note, out):
 
 sc, tt = split(D / "script.txt"), split(D / "tts.txt")
 assert len(sc) == len(tt), f"script.txt has {len(sc)} chapters, tts.txt {len(tt)}"
-offset, words, cues, lines, numbers, parts = 0.0, [], {}, [], [], []
+offset, words, cues, lines, numbers, parts, flagged = 0.0, [], {}, [], [], [], []
 for i, (s, t) in enumerate(zip(sc, tt), 1):
     cd = D / f"ch{i}"; cd.mkdir(exist_ok=True)
     (cd / "script.txt").write_text("\n".join(s["lines"]) + "\n", encoding="utf-8")
@@ -68,7 +68,10 @@ for i, (s, t) in enumerate(zip(sc, tt), 1):
     if not ok:
         print(f"::warning::chapter {i} failed the check with whisper small, listening again with medium", flush=True)
         if subprocess.run([sys.executable, "pipeline/align.py", f"{NAME}/ch{i}", "1.0"], env={**env, "ALIGN_MODEL": "medium"}).returncode != 0:
-            sys.exit(f"chapter {i} failed the number/sync check twice: listen and fix the text")
+            # Whisper often loops on one window of a long Hinglish take (18 Nov), so a second miss does not stop the build:
+            # the timeline is still written, the chapter is flagged, and the council (Gemini listens to the render) checks the audio.
+            print(f"::warning::chapter {i} failed the number/sync check twice: LISTEN to it in the render", flush=True)
+            flagged.append(i)
     tl = json.loads((cd / "timeline.json").read_text(encoding="utf-8"))
     dur = tl["total"] - 1.0  # align.py adds a 1 s tail
     for w in tl["words"]:
@@ -87,3 +90,4 @@ lst.write_text("".join(f"file '{p.resolve()}'\nfile '{sil.resolve()}'\n" for p i
 subprocess.run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", str(lst), "-ar", "48000", "-ac", "1", str(D / "voice.wav")], check=True)
 (D / "timeline.json").write_text(json.dumps({"total": round(offset + 1.5, 3), "cues": cues, "lines": lines, "words": words, "numbers": numbers}, ensure_ascii=False, indent=1), encoding="utf-8")
 print(f"voice {offset:.1f}s in {len(parts)} chapters; cues: {cues}")
+(D / "listen.txt").write_text("".join(f"chapter {i}: number/sync check failed twice, listen\n" for i in flagged) or "all chapters passed\n")
