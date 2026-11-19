@@ -1,37 +1,94 @@
 {
- "ram": [{"og": "https://www.hollywoodreporterindia.com/features/insight/ramayana-trailer-ranbir-kapoors-lord-ram-and-yashs-raavan-take-centre-stage-in-nitesh-tiwaris-epic"},
-         {"og": "https://comicbookmovie.com/fantasy/ramayana-trailer-reveals-first-look-at-ranbir-kapoor-as-lord-rama-promises-an-unprecedented-visual-spectacle-a227144"},
-         {"og": "https://www.thestatesman.com/entertainment/bollywood/first-glimpse-of-ranbir-kapoor-as-lord-ram-is-here-a-cinematic-journey-through-duty-sacrifice-and-epic-visuals-1503576875.html"},
-         {"og": "https://www.hollywoodreporterindia.com/features/insight/ramayana-part-1-officially-titled-ramayana-rise-of-a-legend-set-to-release-in-imax"}],
- "ravan": [{"og": "https://www.oneindia.com/entertainment/ramayana-trailer-review-ranbir-kapoor-shines-yash-owns-the-show-as-ravana-8161303.html"},
-           {"og": "https://varietyindia.com/ramayana-trailer-yash-steals-the-show-in-nitesh-tiwaris-epic-adaptation-starring-ranbir-kapoor-and-sai-pallavi/"},
-           {"og": "https://deccanherald.com/entertainment/from-yashs-menacing-ravana-to-lord-vishnus-divine-appearance-5-major-highlights-from-ramayana-trailer-4093089"},
-           {"og": "https://www.deccanherald.com/entertainment/soulless-dud-to-grand-and-divine-ramayana-trailer-divides-fans-but-yashs-ravana-shines-4092715"}],
- "sita": [{"og": "https://www.outlookindia.com/art-entertainment/ramayana-drops-first-motion-poster-featuring-ram-sitas-delicate-riverside-moment"},
-          {"og": "https://sundayguardianlive.com/entertainment-news/ramayana-motion-poster-ranbir-kapoor-and-sai-pallavis-serene-ram-sita-moment-leaves-fans-intrigued-284343/"},
-          {"og": "https://www.dtnext.in/entertainment/cinema/ranbir-kapoor-sai-pallavi-yash-shine-in-first-trailer-of-ramayana-part-1"}],
- "poster": [{"og": "https://comicbookmovie.com/fantasy/ramayana-rise-of-a-legend-new-posters-reveal-new-title-as-first-song-bts-featurette-are-released-a230230"},
-            {"og": "https://www.malaymail.com/news/showbiz/2026/09/30/sony-drops-poster-for-hindi-epic-ramayana-rise-of-a-legend-ahead-of-november-release-video/237065"},
-            {"og": "https://www.freepressjournal.in/entertainment/ranbir-kapoor-sai-pallavis-ramayana-part-1-to-release-in-2026-check-films-first-poster"},
-            {"og": "https://www.outlookindia.com/art-entertainment/ranbir-kapoor-yashs-ramayana-part-1-is-officially-titled-as-ramayana-rise-of-a-legend-makers-reaffirm-global-release-date"}],
- "trailer": [{"og": "https://www.hollywoodreporterindia.com/features/insight/ramayana-trailer-five-highlights-from-ranbir-kapoor-yashs-epic"},
-             {"og": "https://www.hollywoodreporterindia.com/features/insight/ramayana-ranbir-kapoor-yash-star-in-first-glimpse-from-film-hans-zimmer-ar-rahman-lead-with-thrilling-music"},
-             {"og": "https://www.esquireindia.co.in/entertainment/at-the-movies/ramayana-part-1-trailer-ranbir-kapoors-epic-journey-from-ayodhya-to-lanka-unveiled"},
-             {"og": "https://www.pinkvilla.com/cinema/ramayana-trailer-review-ranbir-kapoors-lord-rama-is-ready-to-take-on-yashs-dangerous-raavan-in-the-epic-1404625"},
-             {"og": "https://www.theweek.in/news/entertainment/2025/07/03/ramayana-first-look-nitesh-tiwaris-epic-film-teases-a-mythic-showdown.html"}],
- "boxoffice": [{"og": "https://www.businesstoday.in/trending/box-office/story/ramayana-box-office-ranbir-kapoor-yash-epic-storms-past-rs1384-cr-worldwide-overtakes-rrr-and-kgf-chapter-2-567542-2026-11-16"},
-               {"og": "https://www.newsbytesapp.com/news/entertainment/ramayana-earns-rs138450-cr-worldwide-ranks-2nd-behind-ebenezer/tldr"},
-               {"og": "https://www.sacnilk.com/quicknews/ramayana_part_1_2026_Box_Office_Collection_Day_13"}],
- "budget": [{"og": "https://www.indiatvnews.com/entertainment/news/namit-malhotra-reveals-real-budget-of-ramayana-1-2-it-is-8-times-the-cost-of-kalki-2898-ad-and-rrr-2025-07-15-998917"},
-            {"og": "https://www.businesstoday.in/latest/trends/photo/ramayanas-rs4000-crore-budget-equals-6-5-chandrayaan-3-missions-566016-2026-11-06"},
-            {"og": "https://www.theweek.in/news/entertainment/2026/04/03/ramayana-makers-want-to-sell-ott-rights-to-biggest-bidder-highest-ever-for-an-indian-film-report.amp.html"}],
- "nitesh": [{"wiki": "Nitesh Tiwari director", "n": 3}],
- "namit": [{"wiki": "Namit Malhotra", "n": 3}],
- "ranbir": [{"wiki": "Ranbir Kapoor", "n": 2}],
- "yash": [{"wiki": "Yash Kannada actor", "n": 2}],
- "saipallavi": [{"wiki": "Sai Pallavi", "n": 2}],
- "aamir": [{"wiki": "Aamir Khan Dangal", "n": 3}],
- "allu": [{"wiki": "Allu Arjun", "n": 2}],
- "prabhas": [{"wiki": "Prabhas actor", "n": 2}],
- "ranveer": [{"wiki": "Ranveer Singh", "n": 2}]
+ "ram": [
+  {
+   "og": "https://www.hollywoodreporterindia.com/features/insight/ramayana-trailer-ranbir-kapoors-lord-ram-and-yashs-raavan-take-centre-stage-in-nitesh-tiwaris-epic"
+  },
+  {
+   "og": "https://comicbookmovie.com/fantasy/ramayana-trailer-reveals-first-look-at-ranbir-kapoor-as-lord-rama-promises-an-unprecedented-visual-spectacle-a227144"
+  },
+  {
+   "og": "https://www.thestatesman.com/entertainment/bollywood/first-glimpse-of-ranbir-kapoor-as-lord-ram-is-here-a-cinematic-journey-through-duty-sacrifice-and-epic-visuals-1503576875.html"
+  },
+  {
+   "og": "https://www.hollywoodreporterindia.com/features/insight/ramayana-part-1-officially-titled-ramayana-rise-of-a-legend-set-to-release-in-imax"
+  }
+ ],
+ "ravan": [
+  {
+   "og": "https://www.oneindia.com/entertainment/ramayana-trailer-review-ranbir-kapoor-shines-yash-owns-the-show-as-ravana-8161303.html"
+  },
+  {
+   "og": "https://varietyindia.com/ramayana-trailer-yash-steals-the-show-in-nitesh-tiwaris-epic-adaptation-starring-ranbir-kapoor-and-sai-pallavi/"
+  },
+  {
+   "og": "https://deccanherald.com/entertainment/from-yashs-menacing-ravana-to-lord-vishnus-divine-appearance-5-major-highlights-from-ramayana-trailer-4093089"
+  },
+  {
+   "og": "https://www.deccanherald.com/entertainment/soulless-dud-to-grand-and-divine-ramayana-trailer-divides-fans-but-yashs-ravana-shines-4092715"
+  }
+ ],
+ "sita": [
+  {
+   "og": "https://www.outlookindia.com/art-entertainment/ramayana-drops-first-motion-poster-featuring-ram-sitas-delicate-riverside-moment"
+  },
+  {
+   "og": "https://sundayguardianlive.com/entertainment-news/ramayana-motion-poster-ranbir-kapoor-and-sai-pallavis-serene-ram-sita-moment-leaves-fans-intrigued-284343/"
+  },
+  {
+   "og": "https://www.dtnext.in/entertainment/cinema/ranbir-kapoor-sai-pallavi-yash-shine-in-first-trailer-of-ramayana-part-1"
+  }
+ ],
+ "poster": [
+  {
+   "og": "https://comicbookmovie.com/fantasy/ramayana-rise-of-a-legend-new-posters-reveal-new-title-as-first-song-bts-featurette-are-released-a230230"
+  },
+  {
+   "og": "https://www.malaymail.com/news/showbiz/2026/09/30/sony-drops-poster-for-hindi-epic-ramayana-rise-of-a-legend-ahead-of-november-release-video/237065"
+  },
+  {
+   "og": "https://www.freepressjournal.in/entertainment/ranbir-kapoor-sai-pallavis-ramayana-part-1-to-release-in-2026-check-films-first-poster"
+  },
+  {
+   "og": "https://www.outlookindia.com/art-entertainment/ranbir-kapoor-yashs-ramayana-part-1-is-officially-titled-as-ramayana-rise-of-a-legend-makers-reaffirm-global-release-date"
+  }
+ ],
+ "trailer": [
+  {
+   "og": "https://www.hollywoodreporterindia.com/features/insight/ramayana-trailer-five-highlights-from-ranbir-kapoor-yashs-epic"
+  },
+  {
+   "og": "https://www.hollywoodreporterindia.com/features/insight/ramayana-ranbir-kapoor-yash-star-in-first-glimpse-from-film-hans-zimmer-ar-rahman-lead-with-thrilling-music"
+  },
+  {
+   "og": "https://www.esquireindia.co.in/entertainment/at-the-movies/ramayana-part-1-trailer-ranbir-kapoors-epic-journey-from-ayodhya-to-lanka-unveiled"
+  },
+  {
+   "og": "https://www.pinkvilla.com/cinema/ramayana-trailer-review-ranbir-kapoors-lord-rama-is-ready-to-take-on-yashs-dangerous-raavan-in-the-epic-1404625"
+  },
+  {
+   "og": "https://www.theweek.in/news/entertainment/2025/07/03/ramayana-first-look-nitesh-tiwaris-epic-film-teases-a-mythic-showdown.html"
+  }
+ ],
+ "boxoffice": [
+  {
+   "og": "https://www.businesstoday.in/trending/box-office/story/ramayana-box-office-ranbir-kapoor-yash-epic-storms-past-rs1384-cr-worldwide-overtakes-rrr-and-kgf-chapter-2-567542-2026-11-16"
+  },
+  {
+   "og": "https://www.newsbytesapp.com/news/entertainment/ramayana-earns-rs138450-cr-worldwide-ranks-2nd-behind-ebenezer/tldr"
+  },
+  {
+   "og": "https://www.sacnilk.com/quicknews/ramayana_part_1_2026_Box_Office_Collection_Day_13"
+  }
+ ],
+ "budget": [
+  {
+   "og": "https://www.indiatvnews.com/entertainment/news/namit-malhotra-reveals-real-budget-of-ramayana-1-2-it-is-8-times-the-cost-of-kalki-2898-ad-and-rrr-2025-07-15-998917"
+  },
+  {
+   "og": "https://www.businesstoday.in/latest/trends/photo/ramayanas-rs4000-crore-budget-equals-6-5-chandrayaan-3-missions-566016-2026-11-06"
+  },
+  {
+   "og": "https://www.theweek.in/news/entertainment/2026/04/03/ramayana-makers-want-to-sell-ott-rights-to-biggest-bidder-highest-ever-for-an-indian-film-report.amp.html"
+  }
+ ]
 }
