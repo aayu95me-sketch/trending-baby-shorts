@@ -38,9 +38,17 @@
    "video": "long-ramayana-hisaab/ft/crowd.mp4"
   },
   {
+   "at": "w:Ramayana",
+   "img": "long-ramayana-hisaab/real/poster-3.jpg",
+   "tag": "RAMAYANA · 13 DIN",
+   "big": "SABSE TEZ KAMAI",
+   "color": "gold",
+   "credit": "STILL: RAMAYANA (OFFICIAL) · VIA OUTLOOKINDIA.COM"
+  },
+  {
    "at": "q1",
    "img": "long-ramayana-hisaab/real/hall-1.jpg",
-   "big": "DANGAL KA RECORD?",
+   "big": "DANGAL KA RECORD? ₹2,070 CR",
    "color": "white",
    "credit": "PHOTO: CHAINWIT., CC BY-SA 4.0 · WIKIMEDIA COMMONS"
   },
@@ -50,7 +58,7 @@
    "tag": "BUDGET",
    "color": "red",
    "img": "long-ramayana-hisaab/real/ticket-2.jpg",
-   "credit": "PHOTO: SANDRA COHEN-ROSE AND   COLIN ROSE FROM , CC BY-SA 2.0 · WIKIMEDIA COMMONS"
+   "credit": "PHOTO: SANDRA COHEN-ROSE & COLIN ROSE, CC BY-SA 2.0 · WIKIMEDIA COMMONS"
   },
   {
    "at": "q3",
@@ -59,18 +67,50 @@
    "color": "gold"
   },
   {
+   "at": "w:Video khatam",
+   "video": "long-ramayana-hisaab/ft/calc.mp4",
+   "big": "3 NUMBER · SCREENSHOT LO",
+   "color": "white"
+  },
+  {
    "at": "c1",
    "chapter": "Ab tak ki kamai",
-   "img": "long-ramayana-hisaab/real/hall-2.jpg",
-   "credit": "PHOTO: ANTOINE TAVENEAUX, CC BY-SA 3.0 · WIKIMEDIA COMMONS"
+   "img": "long-ramayana-hisaab/real/ram-3.jpg",
+   "credit": "STILL: RAMAYANA (OFFICIAL) · VIA HOLLYWOODREPORTERINDIA.COM"
   },
   {
    "at": "release",
    "tag": "5 NOVEMBER 2026",
    "big": "NITESH TIWARI KI RAMAYANA",
    "color": "white",
-   "img": "long-ramayana-hisaab/real/rama-2.jpg",
-   "credit": "PAINTING: RAJA RAVI VARMA, PUBLIC DOMAIN · WIKIMEDIA COMMONS"
+   "img": "long-ramayana-hisaab/real/poster-0.jpg",
+   "credit": "STILL: RAMAYANA (OFFICIAL) · VIA COMICBOOKMOVIE.COM"
+  },
+  {
+   "at": "w:Ranbir",
+   "img": "long-ramayana-hisaab/real/ram-0.jpg",
+   "tag": "RAM",
+   "big": "RANBIR KAPOOR",
+   "color": "white",
+   "credit": "STILL: RAMAYANA (OFFICIAL) · VIA HOLLYWOODREPORTERINDIA.COM",
+   "focus": "45% 30%"
+  },
+  {
+   "at": "w:Yash,",
+   "img": "long-ramayana-hisaab/real/trailer-3.jpg",
+   "tag": "RAVAN",
+   "big": "YASH",
+   "color": "white",
+   "credit": "STILL: RAMAYANA (OFFICIAL) · VIA PINKVILLA.COM",
+   "focus": "88% 30%"
+  },
+  {
+   "at": "w:Sai",
+   "img": "long-ramayana-hisaab/real/sita-0.jpg",
+   "tag": "SITA",
+   "big": "SAI PALLAVI",
+   "color": "white",
+   "credit": "STILL: RAMAYANA (OFFICIAL) · VIA OUTLOOKINDIA.COM"
   },
   {
    "at": "days",
@@ -127,6 +167,14 @@
    "credit": "PHOTO: ALOKJAIN19883105, CC BY-SA 4.0 · WIKIMEDIA COMMONS"
   },
   {
+   "at": "w:Pehle aath",
+   "img": "long-ramayana-hisaab/real/poster-1.jpg",
+   "tag": "PEHLE 8 DIN · INDIA NET",
+   "big": "₹564.6 CR",
+   "color": "gold",
+   "credit": "STILL: RAMAYANA (OFFICIAL) · VIA MALAYMAIL.COM"
+  },
+  {
    "at": "wk2",
    "chart": {
     "type": "bars",
@@ -164,10 +212,17 @@
      4
     ]
    },
-   "video": "long-ramayana-hisaab/ft/crowd.mp4"
+   "video": "long-ramayana-hisaab/ft/crowd.mp4",
+   "say": [
+    "Friday,",
+    "Saturday,",
+    "Sunday",
+    "Monday",
+    "Tuesday"
+   ]
   },
   {
-   "at": "slow",
+   "at": "w:Chhutiyaan",
    "video": "long-ramayana-hisaab/ft/office.mp4",
    "big": "CHHUTTIYAN KHATAM",
    "color": "white"
@@ -195,12 +250,18 @@
      ],
      [
       "Worldwide",
-      "₹1,483.5 Cr",
+      "₹1,483 Cr",
       "gold"
      ]
     ]
    },
-   "video": "long-ramayana-hisaab/ft/crowd.mp4"
+   "video": "long-ramayana-hisaab/ft/crowd.mp4",
+   "say": [
+    "821",
+    "981.5",
+    "502",
+    "1,483"
+   ]
   },
   {
    "at": "grossnet",
@@ -213,13 +274,18 @@
      "Producer ka hissa = in dono se kaafi kam"
     ]
    },
-   "video": "long-ramayana-hisaab/ft/popcorn.mp4"
+   "video": "long-ramayana-hisaab/ft/popcorn.mp4",
+   "say": [
+    "Gross",
+    "Net",
+    "producer"
+   ]
   },
   {
    "at": "c2",
    "chapter": "Paisa kahan se",
-   "img": "long-ramayana-hisaab/real/hall-3.jpg",
-   "credit": "PHOTO: CINZIA007, CC BY-SA 4.0 · WIKIMEDIA COMMONS"
+   "img": "long-ramayana-hisaab/real/poster-1.jpg",
+   "credit": "STILL: RAMAYANA (OFFICIAL) · VIA MALAYMAIL.COM"
   },
   {
    "at": "lang",
@@ -251,7 +317,23 @@
     ]
    },
    "img": "long-ramayana-hisaab/real/hall-6.jpg",
-   "credit": "PHOTO: MAHAVEER INDRA, CC BY-SA 4.0 · WIKIMEDIA COMMONS"
+   "credit": "PHOTO: MAHAVEER INDRA, CC BY-SA 4.0 · WIKIMEDIA COMMONS",
+   "say": [
+    "627",
+    "Kannada",
+    "Baaki",
+    "Baaki",
+    "Baaki"
+   ]
+  },
+  {
+   "at": "w:Yash ka",
+   "img": "long-ramayana-hisaab/real/trailer-0.jpg",
+   "tag": "KANNADA ₹67 CR",
+   "big": "YASH KA ASAR",
+   "color": "gold",
+   "credit": "STILL: RAMAYANA (OFFICIAL) · VIA HOLLYWOODREPORTERINDIA.COM",
+   "focus": "50% 30%"
   },
   {
    "at": "pushpa",
@@ -272,7 +354,11 @@
       "gold"
      ]
     ]
-   }
+   },
+   "say": [
+    "66",
+    "76"
+   ]
   },
   {
    "at": "engine",
@@ -299,7 +385,19 @@
       "blue"
      ]
     ]
-   }
+   },
+   "say": [
+    "Videsh",
+    "502"
+   ]
+  },
+  {
+   "at": "w:chhe naye",
+   "img": "long-ramayana-hisaab/real/world-0.jpg",
+   "tag": "DOOSRE WEEKEND",
+   "big": "6 NAYE DESH",
+   "color": "white",
+   "credit": "IMAGE: NASA, PUBLIC DOMAIN · WIKIMEDIA COMMONS"
   },
   {
    "at": "tease",
@@ -345,7 +443,11 @@
     ]
    },
    "stamp": "hold: 66%",
-   "video": "long-ramayana-hisaab/ft/calc.mp4"
+   "video": "long-ramayana-hisaab/ft/calc.mp4",
+   "say": [
+    "511",
+    "337"
+   ]
   },
   {
    "at": "cases",
@@ -396,7 +498,12 @@
       "green"
      ]
     ]
-   }
+   },
+   "say": [
+    "Dheema",
+    "Beech",
+    "Mazboot"
+   ]
   },
   {
    "at": "table",
@@ -420,7 +527,12 @@
       "green"
      ]
     ]
-   }
+   },
+   "say": [
+    "Dheema",
+    "Beech",
+    "Mazboot"
+   ]
   },
   {
    "at": "notprophecy",
@@ -432,8 +544,8 @@
   {
    "at": "c4",
    "chapter": "Records",
-   "img": "long-ramayana-hisaab/real/hall-4.jpg",
-   "credit": "PHOTO: MAHAVEER INDRA, CC BY-SA 4.0 · WIKIMEDIA COMMONS"
+   "img": "long-ramayana-hisaab/real/ravan-1.jpg",
+   "credit": "STILL: RAMAYANA (OFFICIAL) · VIA VARIETYINDIA.COM"
   },
   {
    "at": "board",
@@ -484,8 +596,18 @@
      ]
     ]
    },
-   "img": "long-ramayana-hisaab/real/hall-4.jpg",
-   "credit": "PHOTO: MAHAVEER INDRA, CC BY-SA 4.0 · WIKIMEDIA COMMONS"
+   "img": "long-ramayana-hisaab/real/boxoffice-0.jpg",
+   "credit": "STILLS: RRR, RAMAYANA, KGF 2 · VIA BUSINESSTODAY.IN",
+   "say": [
+    "Dangal",
+    "Dhurandhar two",
+    "Baahubali",
+    "Pushpa",
+    "Ramayana",
+    "pehli",
+    "RRR",
+    "KGF"
+   ]
   },
   {
    "at": "slowcase",
@@ -531,10 +653,27 @@
       "gold"
      ]
     ]
-   }
+   },
+   "say": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "1,890",
+    "2,075"
+   ]
   },
   {
    "at": "twist",
+   "img": "long-ramayana-hisaab/real/world-1.jpg",
+   "tag": "TWIST",
+   "big": "DANGAL: ₹1,535 CR VIDESH SE",
+   "color": "white",
+   "credit": "IMAGE: NASA, PUBLIC DOMAIN · WIKIMEDIA COMMONS"
+  },
+  {
+   "at": "w:India ke andar Dangal",
    "chart": {
     "type": "compare",
     "title": "Sirf India ke andar gross (₹ crore)",
@@ -551,14 +690,19 @@
      ]
     ]
    },
+   "say": [
+    "535",
+    "981"
+   ],
    "stamp": "twist"
   },
   {
    "at": "china",
    "img": "long-ramayana-hisaab/real/world-0.jpg",
-   "big": "DANGAL: ₹1,535 CR VIDESH SE",
+   "big": "RECORD: CHINA YA 3RD-4TH HAFTA",
    "color": "white",
-   "credit": "IMAGE: NASA, PUBLIC DOMAIN · WIKIMEDIA COMMONS"
+   "credit": "IMAGE: NASA, PUBLIC DOMAIN · WIKIMEDIA COMMONS",
+   "tag": "WORLDWIDE KE LIYE"
   },
   {
    "at": "c5",
@@ -570,8 +714,9 @@
    "tag": "DONO PARTS · PRODUCER KE SHABDON MEIN",
    "big": "$500M = ₹4,000 CR",
    "color": "red",
-   "img": "long-ramayana-hisaab/real/rama-0.jpg",
-   "credit": "PAINTING: RAJA RAVI VARMA, PUBLIC DOMAIN · WIKIMEDIA COMMONS"
+   "img": "long-ramayana-hisaab/real/namit-0.jpg",
+   "credit": "PHOTO: DNEG, CC BY-SA 4.0 · WIKIMEDIA COMMONS",
+   "focus": "60% 30%"
   },
   {
    "at": "chandrayaan",
@@ -605,7 +750,12 @@
     ]
    },
    "img": "long-ramayana-hisaab/real/ticket-2.jpg",
-   "credit": "PHOTO: SANDRA COHEN-ROSE & COLIN ROSE, CC BY-SA 2.0 · WIKIMEDIA COMMONS"
+   "credit": "PHOTO: SANDRA COHEN-ROSE & COLIN ROSE, CC BY-SA 2.0 · WIKIMEDIA COMMONS",
+   "say": [
+    "16",
+    "theatre",
+    "40"
+   ]
   },
   {
    "at": "tally",
@@ -630,7 +780,12 @@
      ]
     ]
    },
-   "video": "long-ramayana-hisaab/ft/popcorn.mp4"
+   "video": "long-ramayana-hisaab/ft/popcorn.mp4",
+   "say": [
+    "530",
+    "265",
+    "500"
+   ]
   },
   {
    "at": "scale",
@@ -653,14 +808,14 @@
    "big": "ASLI HISAAB: DIWALI 2027",
    "tag": "PART 2",
    "color": "gold",
-   "img": "long-ramayana-hisaab/real/rama-4.jpg",
-   "credit": "PAINTING: ANONYMOUS, PUBLIC DOMAIN · WIKIMEDIA COMMONS"
+   "img": "long-ramayana-hisaab/real/trailer-3.jpg",
+   "credit": "STILL: RAMAYANA (OFFICIAL) · VIA PINKVILLA.COM"
   },
   {
    "at": "c6",
    "chapter": "Faisla",
-   "img": "long-ramayana-hisaab/real/hall-0.jpg",
-   "credit": "PHOTO: CHAINWIT., CC BY-SA 4.0 · WIKIMEDIA COMMONS"
+   "img": "long-ramayana-hisaab/real/sita-2.jpg",
+   "credit": "STILL: RAMAYANA (OFFICIAL) · VIA DTNEXT.IN"
   },
   {
    "at": "verdict",
@@ -673,16 +828,21 @@
      "₹4,000 Cr do filmon ka; Part 1 se ~₹1,300 Cr"
     ]
    },
-   "img": "long-ramayana-hisaab/real/hall-0.jpg",
-   "credit": "PHOTO: CHAINWIT., CC BY-SA 4.0 · WIKIMEDIA COMMONS"
+   "img": "long-ramayana-hisaab/real/poster-3.jpg",
+   "credit": "STILL: RAMAYANA (OFFICIAL) · VIA OUTLOOKINDIA.COM",
+   "say": [
+    "Ek: terah",
+    "Do: Dangal",
+    "Teen: chaar"
+   ]
   },
   {
    "at": "ask",
-   "img": "long-ramayana-hisaab/real/hall-1.jpg",
+   "img": "long-ramayana-hisaab/real/ram-2.jpg",
    "big": "HAFTA 3: ___ CR?",
    "tag": "COMMENT KARO",
    "color": "gold",
-   "credit": "PHOTO: CHAINWIT., CC BY-SA 4.0 · WIKIMEDIA COMMONS"
+   "credit": "STILL: RAMAYANA (OFFICIAL) · VIA THESTATESMAN.COM"
   }
  ],
  "sources": "Sources: Sacnilk, Business Today, NewsBytes, India TV, The Week. Projection and ticket split: Doubt Clear estimates."

@@ -20,9 +20,9 @@ type Chart =
   | { type: "scale"; left: [string, number]; right: [string, number]; title?: string }
   | { type: "numbers"; items: [string, string, string?][]; title?: string }
   | { type: "steps"; items: string[]; title?: string };
-type Scene = { at: string | number; img?: string; video?: string; credit?: string; chapter?: string; big?: string; tag?: string; color?: string; chart?: Chart; focus?: string; stamp?: string };
+type Scene = { at: string | number; say?: string[]; img?: string; video?: string; credit?: string; chapter?: string; big?: string; tag?: string; color?: string; chart?: Chart; focus?: string; stamp?: string };
 type Spec = { chapters: { at: string | number; title: string }[]; scenes: Scene[]; sources?: string };
-type TL = { total: number; cues: Record<string, number> };
+type TL = { total: number; cues: Record<string, number>; words?: { w: string; start: number }[] };
 type Props = { dir: string; tl: TL | null; spec: Spec | null };
 
 const W = 1920, H = 1080, XF = 0.6;
@@ -38,6 +38,19 @@ const inr = (n: number, d = 0) => {
 };
 const ease = (x: number) => 1 - Math.pow(1 - x, 3);
 const useP = (at: number, dur = 0.8) => { const t = useT(); return ease(Math.min(1, Math.max(0, (t - at) / dur))); };
+// Chart items appear when the voice says them: ChartView gets one time per item (from the scene's "say" words), charts ask r(i, fallback).
+const RevealCtx = React.createContext<number[]>([]);
+const useRev = () => { const ts = React.useContext(RevealCtx); return (i: number, def: number) => (ts[i] !== undefined ? ts[i] : def); };
+const norm = (x: string) => x.toLowerCase().replace(/[^a-z0-9]/g, "");
+// First spoken word at or after `after` that starts with the pattern (several words: all must follow in order).
+const findWord = (tl: TL, pat: string, after: number): number | undefined => {
+  const ws = tl.words ?? []; const ps = pat.split(" ").map(norm).filter(Boolean);
+  for (let i = 0; i < ws.length; i++) {
+    if (ws[i].start < after - 0.05) continue;
+    if (ps.every((q, k) => ws[i + k] && norm(ws[i + k].w).startsWith(q))) return ws[i].start;
+  }
+  return undefined;
+};
 const isImg = (x?: string) => !!x && /\.(jpe?g|png|webp)$/i.test(x);
 
 // One slow, smooth shot (push in / pull out with a gentle drift), never a jump; crossfades in.
@@ -61,14 +74,14 @@ const Shot: React.FC<{ s: Scene; from: number; to: number; i: number; dark: bool
 const Title: React.FC<{ text?: string }> = ({ text }) => text ? <div style={{ fontFamily: DISPLAY, fontSize: 54, color: GOLD, letterSpacing: 2, marginBottom: 30 }}>{text.toUpperCase()}</div> : null;
 
 const Bars: React.FC<{ c: Extract<Chart, { type: "bars" }>; at: number }> = ({ c, at }) => {
-  const t = useT();
+  const t = useT(); const r = useRev();
   const max = Math.max(...c.bars.map((b) => b[1]));
   const step = Math.min(0.35, 4 / c.bars.length);
   return (
     <div><Title text={c.title} />
       <div style={{ display: "flex", alignItems: "flex-end", gap: 18, height: 560 }}>
         {c.bars.map(([l, v], i) => {
-          const p = ease(Math.min(1, Math.max(0, (t - at - i * step) / 0.6)));
+          const p = ease(Math.min(1, Math.max(0, (t - r(i, at + i * step)) / 0.6)));
           const colr = c.hi?.includes(i) ? GOLD : c.dim?.includes(i) ? "#59616b" : "#e8ecf0";
           return (
             <div key={i} style={{ flex: 1, display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "flex-end", height: "100%" }}>
@@ -85,12 +98,12 @@ const Bars: React.FC<{ c: Extract<Chart, { type: "bars" }>; at: number }> = ({ c
 };
 
 const HBars: React.FC<{ rows: [string, number, string?][]; at: number; unit?: string; max?: number; markers?: [string, number, string][] }> = ({ rows, at, unit, max: mx, markers }) => {
-  const t = useT();
+  const t = useT(); const r = useRev();
   const max = mx ?? Math.max(...rows.map((r) => r[1]), ...(markers ?? []).map((m) => m[1])) * 1.05;
   return (
     <div style={{ display: "flex", flexDirection: "column", gap: 16, position: "relative" }}>
       {rows.map(([l, v, c], i) => {
-        const p = ease(Math.min(1, Math.max(0, (t - at - i * 0.25) / 0.7)));
+        const p = ease(Math.min(1, Math.max(0, (t - r(i, at + i * 0.25)) / 0.7)));
         return (
           <div key={i} style={{ display: "flex", alignItems: "center", gap: 24 }}>
             <div style={{ width: 380, fontFamily: BODY, fontSize: 38, color: "#fff", textAlign: "right" }}>{l}</div>
@@ -102,7 +115,7 @@ const HBars: React.FC<{ rows: [string, number, string?][]; at: number; unit?: st
         );
       })}
       {markers?.map(([l, v, c], i) => {
-        const p = useP(at + rows.length * 0.25 + 0.8 + i * 1.2, 0.6);
+        const p = useP(r(rows.length + i, at + rows.length * 0.25 + 0.8 + i * 1.2), 0.6);
         return (
           <div key={`m${i}`} style={{ position: "absolute", top: -40, bottom: -10, left: `calc(404px + (100% - 404px) * ${(v / max) * p})`, borderLeft: `5px dashed ${col(c)}`, opacity: p }}>
             <div style={{ position: "absolute", top: i % 2 ? -95 : -50, left: -10, whiteSpace: "nowrap", fontFamily: DISPLAY, fontSize: 34, color: col(c) }}>{l}</div>
@@ -114,15 +127,16 @@ const HBars: React.FC<{ rows: [string, number, string?][]; at: number; unit?: st
 };
 
 const Stack: React.FC<{ c: Extract<Chart, { type: "stack" }>; at: number }> = ({ c, at }) => {
+  const r = useRev();
   const total = c.parts.reduce((a, p) => a + p[1], 0);
   const palette = [GOLD, "#ff9f43", "#4db8ff", GREEN, "#c084fc", "#ff6b81"];
   return (
     <div><Title text={c.title} />
       <div style={{ display: "flex", height: 130, borderRadius: 14, overflow: "hidden" }}>
-        {c.parts.map(([l, v, cc], i) => { const p = useP(at + i * 0.5, 0.6); return <div key={i} style={{ width: `${(v / total) * 100 * p}%`, background: cc ? col(cc) : palette[i % palette.length] }} />; })}
+        {c.parts.map(([l, v, cc], i) => { const p = useP(r(i, at + i * 0.5), 0.6); return <div key={i} style={{ width: `${(v / total) * 100 * p}%`, background: cc ? col(cc) : palette[i % palette.length] }} />; })}
       </div>
       <div style={{ display: "flex", flexWrap: "wrap", gap: "18px 40px", marginTop: 34 }}>
-        {c.parts.map(([l, v, cc], i) => { const p = useP(at + i * 0.5, 0.6); return (
+        {c.parts.map(([l, v, cc], i) => { const p = useP(r(i, at + i * 0.5), 0.6); return (
           <div key={i} style={{ display: "flex", alignItems: "center", gap: 14, opacity: p }}>
             <div style={{ width: 30, height: 30, borderRadius: 6, background: cc ? col(cc) : palette[i % palette.length] }} />
             <div style={{ fontFamily: BODY, fontSize: 40, color: "#fff" }}>{l} <span style={{ fontFamily: DISPLAY, color: GOLD }}>{inr(v)}{c.unit ?? ""}</span> <span style={{ color: "#9aa3ad" }}>({Math.round((v / total) * 100)}%)</span></div>
@@ -134,7 +148,7 @@ const Stack: React.FC<{ c: Extract<Chart, { type: "stack" }>; at: number }> = ({
 
 // Cumulative line: actual points solid, each case dashed from the last actual point; horizontal reference lines (records).
 const Fan: React.FC<{ c: Extract<Chart, { type: "fan" }>; at: number }> = ({ c, at }) => {
-  const t = useT();
+  const t = useT(); const r = useRev();
   const n = Math.max(c.actual.length, ...c.cases.map((k) => c.actual.length - 1 + k[1].length));
   const max = Math.max(...c.actual, ...c.cases.flatMap((k) => k[1]), ...(c.lines ?? []).map((l) => l[1])) * 1.08;
   const w = 1500, h = 600;
@@ -157,7 +171,7 @@ const Fan: React.FC<{ c: Extract<Chart, { type: "fan" }>; at: number }> = ({ c, 
         ))}
         <path d={path(c.actual, 0)} stroke="#fff" strokeWidth={8} fill="none" strokeDasharray={3000} strokeDashoffset={3000 * (1 - pa)} />
         {c.cases.map(([l, pts, cc], i) => {
-          const p = ease(Math.min(1, Math.max(0, (t - at - 1.4 - i * 1.6) / 1.2)));
+          const p = ease(Math.min(1, Math.max(0, (t - r(i, at + 1.4 + i * 1.6)) / 1.2)));
           const full = [c.actual[last], ...pts];
           const end = full[full.length - 1];
           return (
@@ -174,12 +188,13 @@ const Fan: React.FC<{ c: Extract<Chart, { type: "fan" }>; at: number }> = ({ c, 
 };
 
 const Ticket: React.FC<{ c: Extract<Chart, { type: "ticket" }>; at: number }> = ({ c, at }) => {
+  const r = useRev();
   const total = c.parts.reduce((a, p) => a + p[1], 0);
   const p0 = useP(at, 0.6);
   return (
     <div><Title text={c.title} />
       <div style={{ display: "flex", height: 260, gap: 12, transform: `scale(${0.9 + 0.1 * p0})`, opacity: p0 }}>
-        {c.parts.map(([l, v, cc], i) => { const p = useP(at + 0.8 + i * 1.4, 0.6); return (
+        {c.parts.map(([l, v, cc], i) => { const p = useP(r(i, at + 0.8 + i * 1.4), 0.6); return (
           <div key={i} style={{ width: `${(v / total) * 100}%`, background: col(cc), borderRadius: 18, display: "flex", flexDirection: "column", justifyContent: "center", alignItems: "center",
             transform: `translateY(${(1 - p) * -40}px)`, border: "4px dashed #0006", opacity: 0.35 + 0.65 * p }}>
             <div style={{ fontFamily: DISPLAY, fontSize: 90, color: "#000" }}>₹{v}</div>
@@ -191,7 +206,7 @@ const Ticket: React.FC<{ c: Extract<Chart, { type: "ticket" }>; at: number }> = 
 };
 
 const Scale: React.FC<{ c: Extract<Chart, { type: "scale" }>; at: number }> = ({ c, at }) => {
-  const p = useP(at + 0.6, 1.4);
+  const p = useP(useRev()(0, at + 0.6), 1.4);
   const tilt = (c.left[1] < c.right[1] ? 1 : -1) * 9 * p;
   const pan = (label: string, v: number, colr: string) => (
     <div style={{ width: 560, textAlign: "center" }}>
@@ -207,29 +222,29 @@ const Scale: React.FC<{ c: Extract<Chart, { type: "scale" }>; at: number }> = ({
   );
 };
 
-const Numbers: React.FC<{ c: Extract<Chart, { type: "numbers" }>; at: number }> = ({ c, at }) => (
+const Numbers: React.FC<{ c: Extract<Chart, { type: "numbers" }>; at: number }> = ({ c, at }) => { const r = useRev(); return (
   <div><Title text={c.title} />
     <div style={{ display: "flex", gap: 30, flexWrap: "wrap" }}>
-      {c.items.map(([label, value, cc], i) => { const p = useP(at + i * 0.9, 0.5); return (
+      {c.items.map(([label, value, cc], i) => { const p = useP(r(i, at + i * 0.9), 0.5); return (
         <div key={i} style={{ flex: "1 1 360px", background: "#0b0f14dd", border: `3px solid ${col(cc)}`, borderRadius: 22, padding: "30px 36px", opacity: p, transform: `translateY(${(1 - p) * 40}px)` }}>
           <div style={{ fontFamily: BODY, fontSize: 36, color: "#cfd6dd" }}>{label}</div>
           <div style={{ fontFamily: DISPLAY, fontSize: 96, color: col(cc), lineHeight: 1.1 }}>{value}</div>
         </div>); })}
     </div>
   </div>
-);
+); };
 
-const Steps: React.FC<{ c: Extract<Chart, { type: "steps" }>; at: number }> = ({ c, at }) => (
+const Steps: React.FC<{ c: Extract<Chart, { type: "steps" }>; at: number }> = ({ c, at }) => { const r = useRev(); return (
   <div><Title text={c.title} />
-    {c.items.map((s, i) => { const p = useP(at + i * 2.2, 0.5); return (
+    {c.items.map((s, i) => { const p = useP(r(i, at + i * 2.2), 0.5); return (
       <div key={i} style={{ display: "flex", gap: 30, alignItems: "center", marginBottom: 34, opacity: p, transform: `translateX(${(1 - p) * -50}px)` }}>
         <div style={{ fontFamily: DISPLAY, fontSize: 100, color: "#000", background: GOLD, borderRadius: 20, width: 140, textAlign: "center" }}>{i + 1}</div>
         <div style={{ fontFamily: BODY, fontSize: 52, color: "#fff", lineHeight: 1.2 }}>{s}</div>
       </div>); })}
   </div>
-);
+); };
 
-const ChartView: React.FC<{ c: Chart; at: number }> = ({ c, at }) => {
+const ChartView: React.FC<{ c: Chart; at: number; times?: number[] }> = ({ c, at, times }) => {
   const body = (() => {
     switch (c.type) {
       case "bars": return <Bars c={c} at={at} />;
@@ -243,7 +258,7 @@ const ChartView: React.FC<{ c: Chart; at: number }> = ({ c, at }) => {
       case "steps": return <Steps c={c} at={at} />;
     }
   })();
-  return <AbsoluteFill style={{ padding: "110px 150px 150px", justifyContent: "center" }}>{body}</AbsoluteFill>;
+  return <RevealCtx.Provider value={times ?? []}><AbsoluteFill style={{ padding: "110px 150px 150px", justifyContent: "center" }}>{body}</AbsoluteFill></RevealCtx.Provider>;
 };
 
 const ChapterCard: React.FC<{ n: number; title: string; at: number }> = ({ n, title, at }) => {
@@ -273,7 +288,14 @@ const LongVideo: React.FC<Props> = ({ dir, tl, spec }) => {
   const t = useT();
   if (!tl || !spec) return <AbsoluteFill style={{ background: "#000" }} />;
   const when = (a: string | number) => (typeof a === "number" ? a : tl.cues[a] ?? 0);
-  const scenes = spec.scenes.map((s) => ({ ...s, t0: when(s.at) })).sort((a, b) => a.t0 - b.t0);
+  // "w:<word>" = the first time that word is spoken after the scene listed before it (fine-grained sync without re-voicing).
+  let prev = 0;
+  const scenes = spec.scenes.map((s) => {
+    const t0 = typeof s.at === "string" && s.at.startsWith("w:") ? findWord(tl, s.at.slice(2), prev + 0.1) ?? prev + 2 : when(s.at);
+    // each "say" word is looked up from the scene start; "" keeps the chart's own timing
+    const times = (s.say ?? []).map((w) => (w ? findWord(tl, w, t0 - 0.4) : undefined)) as number[];
+    prev = t0; return { ...s, t0, times };
+  }).sort((a, b) => a.t0 - b.t0);
   const chapters = spec.chapters.map((c) => ({ ...c, t0: when(c.at) }));
   const end = tl.total;
   const idx = Math.max(0, scenes.findIndex((s, i) => t >= s.t0 && (i === scenes.length - 1 || t < scenes[i + 1].t0)));
@@ -293,8 +315,8 @@ const LongVideo: React.FC<Props> = ({ dir, tl, spec }) => {
         const dark = !!s.chart || !!s.chapter;
         return <Shot key={`${b}-${dark}`} s={scenes[b]} from={scenes[b].t0} to={to} i={b} dark={dark} />;
       })}
-      {cur.chapter && <ChapterCard n={chapters.findIndex((c) => c.title === cur.chapter) + 1} title={cur.chapter} at={cur.t0} />}
-      {cur.chart && <ChartView key={idx} c={cur.chart} at={cur.t0} />}
+      {cur.chapter && <ChapterCard n={chapters.findIndex((c) => c.title === cur.chapter)} title={cur.chapter} at={cur.t0} />}
+      {cur.chart && <ChartView key={idx} c={cur.chart} at={cur.t0} times={cur.times} />}
       {!cur.chart && !cur.chapter && (cur.big || cur.tag) && <BigText key={idx} s={cur} at={cur.t0} />}
       {cur.stamp && <div style={{ position: "absolute", right: 120, top: 120, fontFamily: DISPLAY, fontSize: 44, color: RED, border: `5px solid ${RED}`, borderRadius: 12, padding: "4px 20px", transform: "rotate(6deg)" }}>{cur.stamp.toUpperCase()}</div>}
       {/* corner mark + chapter bar (YouTube-style segments) + credit */}
