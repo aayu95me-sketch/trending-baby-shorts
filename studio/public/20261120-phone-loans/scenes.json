@@ -1,0 +1,88 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCE: BUSINESS TODAY / LENTRA, 19 NOV 2026",
+ "loopTail": 0.5,
+ "scenes": [
+  {
+   "at": 0,
+   "big": "RUKO! 74/100",
+   "color": "red",
+   "tag": "DIWALI LOAN = SIRF PHONE",
+   "img": "20261120-phone-loans/real/news-0.jpg",
+   "credit": "IMAGE VIA BUSINESS TODAY",
+   "fit": "blur"
+  },
+  {
+   "at": "stat",
+   "big": "74 / 100",
+   "color": "gold",
+   "tag": "LENTRA DIWALI 2026 DATA",
+   "img": "20261120-phone-loans/real/wk-1.jpg",
+   "credit": "PHOTO: WIKIMEDIA COMMONS, CC BY-SA 3.0",
+   "fit": "blur"
+  },
+  {
+   "at": "ticket",
+   "big": "Rs 28,000",
+   "color": "gold",
+   "tag": "AVERAGE PHONE LOAN",
+   "img": "20261120-phone-loans/real/wk-0.jpg",
+   "credit": "PHOTO: WIKIMEDIA COMMONS, CC BY-SA 3.0",
+   "fit": "blur"
+  },
+  {
+   "at": "young",
+   "big": "62% UNDER 35",
+   "color": "white",
+   "tag": "HAR 100 MEIN 62",
+   "img": "20261120-phone-loans/real/news-0.jpg",
+   "credit": "IMAGE VIA BUSINESS TODAY",
+   "fit": "blur"
+  },
+  {
+   "at": "emi",
+   "big": "Rs 2,527 / MAHINA",
+   "color": "gold",
+   "tag": "15% BYAAJ · 12 MAHINE",
+   "img": "20261120-phone-loans/real/news-1.jpg",
+   "credit": "IMAGE VIA UJJIVAN SFB",
+   "fit": "blur"
+  },
+  {
+   "at": "total",
+   "big": "Rs 30,320",
+   "color": "red",
+   "tag": "Rs 2,320 SIRF BYAAJ",
+   "img": "20261120-ps5-price-hike/real/wk-5.jpg",
+   "credit": "PHOTO: WIKIMEDIA COMMONS, CC BY-SA 4.0",
+   "fit": "blur"
+  },
+  {
+   "at": "rule",
+   "big": "KAAM KA PHONE? LO",
+   "color": "green",
+   "tag": "KAMAAI HOTI HAI TOH THEEK",
+   "img": "20261120-phone-loans/real/wk-1.jpg",
+   "credit": "PHOTO: WIKIMEDIA COMMONS, CC BY-SA 3.0",
+   "focus": "70% 50%"
+  },
+  {
+   "at": "show",
+   "big": "DIKHAWA? MAT LO",
+   "color": "red",
+   "tag": "3 MAHINE BACHAO · CASH LO",
+   "img": "20261120-phone-loans/real/wk-0.jpg",
+   "credit": "PHOTO: WIKIMEDIA COMMONS, CC BY-SA 3.0",
+   "focus": "50% 50%"
+  },
+  {
+   "at": "end",
+   "big": "CASH YA EMI?",
+   "color": "gold",
+   "tag": "COMMENT KARO",
+   "img": "20261120-phone-loans/real/news-0.jpg",
+   "credit": "IMAGE VIA BUSINESS TODAY",
+   "fit": "blur"
+  }
+ ]
+}

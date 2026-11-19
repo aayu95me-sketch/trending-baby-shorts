@@ -1,0 +1,88 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: WIKIPEDIA, THEPRINT, NAVBHARAT LIVE, ZEE NEWS · NOV 2026",
+ "loopTail": 0.5,
+ "scenes": [
+  {
+   "at": 0,
+   "big": "Rs 1 LAKH KI GHADI?",
+   "color": "gold",
+   "tag": "FARAH KHAN KE COOK DILIP KO GIFT",
+   "img": "20261120-ananya-birla/real/news-0.jpg",
+   "credit": "PHOTO VIA NAVBHARAT LIVE / FARAH KHAN VLOG",
+   "fit": "blur"
+  },
+  {
+   "at": "who",
+   "big": "KUMAR MANGALAM BIRLA KI BETI",
+   "color": "white",
+   "tag": "ADITYA BIRLA GROUP",
+   "img": "20261120-ananya-birla/real/wk-1.jpg",
+   "credit": "PHOTO VIA WIKIPEDIA",
+   "fit": "blur"
+  },
+  {
+   "at": "micro",
+   "big": "17 SAAL MEIN COMPANY",
+   "color": "gold",
+   "tag": "SVATANTRA MICROFIN",
+   "img": "20261120-ananya-birla/real/wk-0.jpg",
+   "credit": "PHOTO VIA WIKIPEDIA",
+   "fit": "blur"
+  },
+  {
+   "at": "singer",
+   "big": "SINGER BHI",
+   "color": "white",
+   "tag": "'MEANT TO BE' · PLATINUM",
+   "img": "20261120-ananya-birla/real/wk-0.jpg",
+   "credit": "PHOTO VIA WIKIPEDIA",
+   "focus": "50% 25%"
+  },
+  {
+   "at": "kwk",
+   "big": "KOFFEE WITH KARAN",
+   "color": "gold",
+   "tag": "ANANYA PANDAY KE SAATH · 18 NOV",
+   "img": "20261120-ananya-birla/real/wk-2.jpg",
+   "credit": "PHOTO VIA WIKIPEDIA",
+   "fit": "blur"
+  },
+  {
+   "at": "money",
+   "big": "Rs 1,000-1,770 CR?",
+   "color": "gold",
+   "tag": "REPORTS · OFFICIAL NUMBER NAHI",
+   "img": "20261120-ananya-birla/real/news-1.jpg",
+   "credit": "PHOTO VIA MANORAMA / FARAH KHAN VLOG",
+   "fit": "blur"
+  },
+  {
+   "at": "father",
+   "big": "$24 BILLION",
+   "color": "gold",
+   "tag": "PAPA · FORBES, AUG 2026",
+   "img": "20261120-ananya-birla/real/wk-4.jpg",
+   "credit": "PHOTO: PIB, GODL-INDIA",
+   "fit": "blur"
+  },
+  {
+   "at": "watch",
+   "big": "Re 1 KA GIFT",
+   "color": "red",
+   "tag": "AAPKE Rs 1 LAKH KE HISAAB SE",
+   "img": "20261120-ananya-birla/real/news-0.jpg",
+   "credit": "PHOTO VIA NAVBHARAT LIVE / FARAH KHAN VLOG",
+   "fit": "blur"
+  },
+  {
+   "at": "end",
+   "big": "AAP KYA GIFT KARTE?",
+   "color": "gold",
+   "tag": "COMMENT KARO",
+   "img": "20261120-ananya-birla/real/wk-0.jpg",
+   "credit": "PHOTO VIA WIKIPEDIA",
+   "fit": "blur"
+  }
+ ]
+}
