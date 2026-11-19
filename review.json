@@ -1,0 +1,28 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "Reports hazaar se satrah sau crore batati hain – numeric claim without a cited source",
+    "Ananya Birla ne 17 saal ki umar mein microfinance company Svatantra shuru ki – claim presented as fact without source",
+    "Unka pehla gaana Meant to Be platinum hua tha – music‑achievement claim without source"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "micro saal (mix of English ‘micro’ with Hindi ‘saal’ is unnatural)",
+    "kwk (non‑standard abbreviation)",
+    "Singer@singer (redundant and awkward)",
+    "watch ek lakh ki ghadi (mix of English ‘watch’ with Hindi phrase)",
+    "Aap@end (odd placement of ‘end’)"
+   ],
+   "one_line_verdict": "Script has un‑sourced numeric/claim statements and several awkward Hinglish phrases, but no shown/spoken number mismatches."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}
