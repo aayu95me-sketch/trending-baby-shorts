@@ -1,10 +1,10 @@
 # YouTube metadata, 19 Nov ~22:00 IST Delhi CSVs 1d/2d/7d (to schedule 20 Nov 2026, IST)
 Rule: max 3 a day, 3 h apart. First pass found no lane fit; Ayush then picked 3 himself (19 Nov 22:06 IST): PS5 with a GTA angle, Ananya Birla with a Bollywood angle, latest loan update. Tone notes (22:12 IST): PS5/GTA = friendly flex "in front of a rural man"; loan = warning that pushes a take/don't-take decision.
-Proposed slots (pending Ayush's typed line): 08:00 phone loans, 12:00 Ananya Birla, 15:00 PS5 + GTA 6.
+Scheduled 20 Nov 01:40 IST after Ayush's typed line (01:21 IST): 08:00 phone loans kDSXPNq8IUs, 12:00 Ananya Birla Z-sDvDlHaTY, 15:00 PS5 + GTA 6 argEAZpmXY8. Pinned comments to post after each goes live.
 Every description ends with the channel footer from the upload defaults (AI voice disclosure). "Altered content" answer: No (AI narration only).
 Skipped: anthropic share price (tech/AI), वाहन (no confirmed story), men's day (wishes/explainer), Kapil Sibal (politics). Not used for Ananya: restaurant-date story (not confirmed; only a 2023 US restaurant incident).
 
-## 1. Phone loans warning, 08:00 IST 20 Nov (lane: civic/money number scare)
+## 1. Phone loans warning, 08:00 IST 20 Nov (lane: civic/money number scare) (kDSXPNq8IUs)
 File: 20261120-phone-loans
 Title: Diwali pe 100 mein 74 loan sirf PHONE ke liye! EMI lene se pehle dekho ⚠️ #shorts
 Description:
@@ -16,7 +16,7 @@ Tags: phone emi, phone loan, emi pe phone, diwali loan, consumer durable loan, l
 Pinned comment: Aapne phone cash liya ya EMI pe? 👇
 Related video: Diwali bumper odds.
 
-## 2. Ananya Birla kaun hai, kitni ameer, 12:00 IST 20 Nov (lane: Ayush pick, Bollywood + money)
+## 2. Ananya Birla kaun hai, kitni ameer, 12:00 IST 20 Nov (lane: Ayush pick, Bollywood + money) (Z-sDvDlHaTY)
 File: 20261120-ananya-birla
 Title: Farah Khan ke cook ko Rs 1 lakh ki ghadi! Ananya Birla kaun hai? 💰 #shorts
 Description:
@@ -28,7 +28,7 @@ Tags: ananya birla, ananya birla net worth, who is ananya birla, farah khan cook
 Pinned comment: Aap unki jagah hote toh kya gift karte? 👇
 Related video: Toxic box office.
 
-## 3. PS5 + GTA 6 flex, 15:00 IST 20 Nov (lane: Ayush pick, gaming follow-up to the GTA 6 Short)
+## 3. PS5 + GTA 6 flex, 15:00 IST 20 Nov (lane: Ayush pick, gaming follow-up to the GTA 6 Short) (argEAZpmXY8)
 File: 20261120-ps5-price-hike
 Title: PS5 pe GTA 6 dekh bhai! Par PS5 Rs 15,000 mehenga kyun? 🎮 #shorts
 Description:
