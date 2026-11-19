@@ -1,10 +1,10 @@
 # YouTube metadata, 18 Nov 19:00 IST Delhi CSV (to schedule 19 Nov 2026, IST)
 Rule: max 3 a day, 3 h apart; topic rules from LESSONS.md (18 Nov). Only 2 topics passed, so 2 reels.
-Planned: GTA 6 19 Nov 08:00 IST (morning after the 12 AM unlock), Vande Bharat fine 19 Nov 12:00 IST, pending Ayush's typed line. 18 Nov already has 3 posts (SAFF, pterodactyl, Dhoni), so nothing more on 18 Nov.
+Final plan (19 Nov 09:37 IST, Ayush picked on the card): Vande Bharat 12:00 IST, GTA 6 15:00 IST. The 08:00 GTA slot had passed when Ayush's approval line arrived (09:25 IST).
 Every description ends with the channel footer from the upload defaults (AI voice disclosure). "Altered content" answer: No (AI narration only).
 Skipped from the CSV: 2025-27 WTC table (NZ vs IND 1st Test starts 19 Nov, no result yet = plain explainer), PS5 (merged into GTA 6, same doubt).
 
-## 1. GTA 6 India price + platforms, 08:00 IST 19 Nov (lane: exception, #1 trend, launch night)
+## 1. GTA 6 India price + platforms, 15:00 IST 19 Nov (lane: exception, #1 trend, launch night)
 File: 20261119-gta-6-india-price
 Title: GTA 6 India mein kitne ka? PS5 + game ka asli kharcha 🎮 #shorts
 Description:
