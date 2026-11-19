@@ -1,0 +1,993 @@
+{
+ "total": 47.516,
+ "voice": "20261120-ananya-birla/voice.wav",
+ "lines": [
+  {
+   "start": 0.16,
+   "text": "Farah Khan ke cook ko ek lakh ki ghadi gift? Yeh Ananya Birla kaun hai?",
+   "end": 4.631
+  },
+  {
+   "start": 4.988,
+   "text": "Yeh Kumar Mangalam Birla ki sabse badi beti hain, Aditya Birla Group wale.",
+   "end": 8.527
+  },
+  {
+   "start": 8.914,
+   "text": "Satrah saal ki umar mein unhone apni microfinance company Svatantra shuru ki.",
+   "end": 12.297
+  },
+  {
+   "start": 12.531,
+   "text": "Singer bhi hain. Unka pehla gaana Meant to Be platinum hua tha.",
+   "end": 15.915
+  },
+  {
+   "start": 16.08,
+   "text": "Is hafte woh Ananya Panday ke saath Koffee With Karan pe aayi, aur Farah ke vlog mein apna Mumbai ghar dikhaya.",
+   "end": 21.0
+  },
+  {
+   "start": 21.0,
+   "text": "Ab paisa. Unki apni net worth ka koi official number nahi. Reports hazaar se satrah sau crore batati hain.",
+   "end": 27.8
+  },
+  {
+   "start": 27.8,
+   "text": "Asli daulat papa ki hai. Forbes ke hisaab se chaubees billion dollar, yaani do lakh crore se zyada.",
+   "end": 34.546
+  },
+  {
+   "start": 34.931,
+   "text": "Toh ek lakh ki ghadi unke liye? Aapke paas ek lakh ho, toh yeh zyada se zyada ek rupaye ka gift hai.",
+   "end": 40.326
+  },
+  {
+   "start": 40.725,
+   "text": "Aap unki jagah hote toh kya gift karte? Comment karo, aur us dost ko bhejo jo kehta hai ameer log kanjoos hote hain.",
+   "end": 46.01
+  }
+ ],
+ "words": [
+  {
+   "w": "Farah",
+   "start": 0.16,
+   "end": 0.7
+  },
+  {
+   "w": "Khan",
+   "start": 0.72,
+   "end": 0.92
+  },
+  {
+   "w": "ke",
+   "start": 0.94,
+   "end": 1.0
+  },
+  {
+   "w": "cook",
+   "start": 1.02,
+   "end": 1.08
+  },
+  {
+   "w": "ko",
+   "start": 1.1,
+   "end": 1.44
+  },
+  {
+   "w": "ek",
+   "start": 1.46,
+   "end": 1.86
+  },
+  {
+   "w": "lakh",
+   "start": 1.88,
+   "end": 2.12
+  },
+  {
+   "w": "ki",
+   "start": 2.14,
+   "end": 2.28
+  },
+  {
+   "w": "ghadi",
+   "start": 2.3,
+   "end": 2.56
+  },
+  {
+   "w": "gift?",
+   "start": 2.58,
+   "end": 3.287
+  },
+  {
+   "w": "Yeh",
+   "start": 3.307,
+   "end": 3.46
+  },
+  {
+   "w": "Ananya",
+   "start": 3.48,
+   "end": 4.0
+  },
+  {
+   "w": "Birla",
+   "start": 4.02,
+   "end": 4.26
+  },
+  {
+   "w": "kaun",
+   "start": 4.28,
+   "end": 4.52
+  },
+  {
+   "w": "hai?",
+   "start": 4.54,
+   "end": 4.968
+  },
+  {
+   "w": "Yeh",
+   "start": 4.988,
+   "end": 5.14
+  },
+  {
+   "w": "Kumar",
+   "start": 5.16,
+   "end": 5.48
+  },
+  {
+   "w": "Mangalam",
+   "start": 5.5,
+   "end": 5.8
+  },
+  {
+   "w": "Birla",
+   "start": 5.82,
+   "end": 6.08
+  },
+  {
+   "w": "ki",
+   "start": 6.1,
+   "end": 6.24
+  },
+  {
+   "w": "sabse",
+   "start": 6.26,
+   "end": 6.58
+  },
+  {
+   "w": "badi",
+   "start": 6.6,
+   "end": 6.76
+  },
+  {
+   "w": "beti",
+   "start": 6.78,
+   "end": 7.02
+  },
+  {
+   "w": "hain,",
+   "start": 7.04,
+   "end": 7.42
+  },
+  {
+   "w": "Aditya",
+   "start": 7.44,
+   "end": 7.82
+  },
+  {
+   "w": "Birla",
+   "start": 7.84,
+   "end": 8.05
+  },
+  {
+   "w": "Group",
+   "start": 8.07,
+   "end": 8.28
+  },
+  {
+   "w": "wale.",
+   "start": 8.3,
+   "end": 8.894
+  },
+  {
+   "w": "Satrah",
+   "start": 8.914,
+   "end": 9.22
+  },
+  {
+   "w": "saal",
+   "start": 9.24,
+   "end": 9.46
+  },
+  {
+   "w": "ki",
+   "start": 9.48,
+   "end": 9.58
+  },
+  {
+   "w": "umar",
+   "start": 9.6,
+   "end": 9.78
+  },
+  {
+   "w": "mein",
+   "start": 9.8,
+   "end": 9.92
+  },
+  {
+   "w": "unhone",
+   "start": 9.94,
+   "end": 10.3
+  },
+  {
+   "w": "apni",
+   "start": 10.32,
+   "end": 10.68
+  },
+  {
+   "w": "microfinance",
+   "start": 10.7,
+   "end": 11.04
+  },
+  {
+   "w": "company",
+   "start": 11.06,
+   "end": 11.4
+  },
+  {
+   "w": "Svatantra",
+   "start": 11.42,
+   "end": 11.88
+  },
+  {
+   "w": "shuru",
+   "start": 11.9,
+   "end": 12.1
+  },
+  {
+   "w": "ki.",
+   "start": 12.12,
+   "end": 12.511
+  },
+  {
+   "w": "Singer",
+   "start": 12.531,
+   "end": 12.98
+  },
+  {
+   "w": "bhi",
+   "start": 13.0,
+   "end": 13.1
+  },
+  {
+   "w": "hain.",
+   "start": 13.12,
+   "end": 13.52
+  },
+  {
+   "w": "Unka",
+   "start": 13.54,
+   "end": 13.84
+  },
+  {
+   "w": "pehla",
+   "start": 13.86,
+   "end": 14.16
+  },
+  {
+   "w": "gaana",
+   "start": 14.18,
+   "end": 14.44
+  },
+  {
+   "w": "Meant",
+   "start": 14.46,
+   "end": 14.78
+  },
+  {
+   "w": "to",
+   "start": 14.8,
+   "end": 14.96
+  },
+  {
+   "w": "Be",
+   "start": 14.98,
+   "end": 15.18
+  },
+  {
+   "w": "platinum",
+   "start": 15.2,
+   "end": 15.58
+  },
+  {
+   "w": "hua",
+   "start": 15.6,
+   "end": 15.7
+  },
+  {
+   "w": "tha.",
+   "start": 15.72,
+   "end": 16.06
+  },
+  {
+   "w": "Is",
+   "start": 16.08,
+   "end": 16.44
+  },
+  {
+   "w": "hafte",
+   "start": 16.46,
+   "end": 16.72
+  },
+  {
+   "w": "woh",
+   "start": 16.74,
+   "end": 16.9
+  },
+  {
+   "w": "Ananya",
+   "start": 16.92,
+   "end": 17.26
+  },
+  {
+   "w": "Panday",
+   "start": 17.28,
+   "end": 17.54
+  },
+  {
+   "w": "ke",
+   "start": 17.56,
+   "end": 17.66
+  },
+  {
+   "w": "saath",
+   "start": 17.68,
+   "end": 17.84
+  },
+  {
+   "w": "Koffee",
+   "start": 17.86,
+   "end": 18.12
+  },
+  {
+   "w": "With",
+   "start": 18.14,
+   "end": 18.26
+  },
+  {
+   "w": "Karan",
+   "start": 18.28,
+   "end": 18.64
+  },
+  {
+   "w": "pe",
+   "start": 18.66,
+   "end": 18.74
+  },
+  {
+   "w": "aayi,",
+   "start": 18.76,
+   "end": 18.84
+  },
+  {
+   "w": "aur",
+   "start": 18.86,
+   "end": 19.38
+  },
+  {
+   "w": "Farah",
+   "start": 19.4,
+   "end": 19.58
+  },
+  {
+   "w": "ke",
+   "start": 19.6,
+   "end": 19.78
+  },
+  {
+   "w": "vlog",
+   "start": 19.8,
+   "end": 20.06
+  },
+  {
+   "w": "mein",
+   "start": 20.08,
+   "end": 20.24
+  },
+  {
+   "w": "apna",
+   "start": 20.26,
+   "end": 20.38
+  },
+  {
+   "w": "Mumbai",
+   "start": 20.4,
+   "end": 20.7
+  },
+  {
+   "w": "ghar",
+   "start": 20.72,
+   "end": 20.88
+  },
+  {
+   "w": "dikhaya.",
+   "start": 20.9,
+   "end": 20.98
+  },
+  {
+   "w": "Ab",
+   "start": 21.0,
+   "end": 21.8
+  },
+  {
+   "w": "paisa.",
+   "start": 22.289,
+   "end": 22.904
+  },
+  {
+   "w": "Unki",
+   "start": 22.924,
+   "end": 23.22
+  },
+  {
+   "w": "apni",
+   "start": 23.24,
+   "end": 23.46
+  },
+  {
+   "w": "net",
+   "start": 23.48,
+   "end": 23.67
+  },
+  {
+   "w": "worth",
+   "start": 23.69,
+   "end": 23.88
+  },
+  {
+   "w": "ka",
+   "start": 23.9,
+   "end": 24.02
+  },
+  {
+   "w": "koi",
+   "start": 24.04,
+   "end": 24.2
+  },
+  {
+   "w": "official",
+   "start": 24.22,
+   "end": 24.68
+  },
+  {
+   "w": "number",
+   "start": 24.7,
+   "end": 24.96
+  },
+  {
+   "w": "nahi.",
+   "start": 24.98,
+   "end": 25.493
+  },
+  {
+   "w": "Reports",
+   "start": 25.513,
+   "end": 25.96
+  },
+  {
+   "w": "hazaar",
+   "start": 25.98,
+   "end": 26.4
+  },
+  {
+   "w": "se",
+   "start": 26.42,
+   "end": 26.62
+  },
+  {
+   "w": "satrah",
+   "start": 26.64,
+   "end": 27.0
+  },
+  {
+   "w": "sau",
+   "start": 27.02,
+   "end": 27.12
+  },
+  {
+   "w": "crore",
+   "start": 27.14,
+   "end": 27.32
+  },
+  {
+   "w": "batati",
+   "start": 27.34,
+   "end": 27.7
+  },
+  {
+   "w": "hain.",
+   "start": 27.72,
+   "end": 27.78
+  },
+  {
+   "w": "Asli",
+   "start": 27.8,
+   "end": 28.46
+  },
+  {
+   "w": "daulat",
+   "start": 28.48,
+   "end": 28.873
+  },
+  {
+   "w": "papa",
+   "start": 28.893,
+   "end": 29.14
+  },
+  {
+   "w": "ki",
+   "start": 29.16,
+   "end": 29.3
+  },
+  {
+   "w": "hai.",
+   "start": 29.32,
+   "end": 29.9
+  },
+  {
+   "w": "Forbes",
+   "start": 29.92,
+   "end": 30.1
+  },
+  {
+   "w": "ke",
+   "start": 30.12,
+   "end": 30.28
+  },
+  {
+   "w": "hisaab",
+   "start": 30.3,
+   "end": 30.64
+  },
+  {
+   "w": "se",
+   "start": 30.66,
+   "end": 30.975
+  },
+  {
+   "w": "chaubees",
+   "start": 30.995,
+   "end": 31.4
+  },
+  {
+   "w": "billion",
+   "start": 31.42,
+   "end": 31.72
+  },
+  {
+   "w": "dollar,",
+   "start": 31.74,
+   "end": 32.04
+  },
+  {
+   "w": "yaani",
+   "start": 32.06,
+   "end": 32.86
+  },
+  {
+   "w": "do",
+   "start": 33.04,
+   "end": 33.32
+  },
+  {
+   "w": "lakh",
+   "start": 33.34,
+   "end": 33.811
+  },
+  {
+   "w": "crore",
+   "start": 33.831,
+   "end": 34.08
+  },
+  {
+   "w": "se",
+   "start": 34.1,
+   "end": 34.24
+  },
+  {
+   "w": "zyada.",
+   "start": 34.26,
+   "end": 34.911
+  },
+  {
+   "w": "Toh",
+   "start": 34.931,
+   "end": 35.077
+  },
+  {
+   "w": "ek",
+   "start": 35.097,
+   "end": 35.3
+  },
+  {
+   "w": "lakh",
+   "start": 35.32,
+   "end": 35.52
+  },
+  {
+   "w": "ki",
+   "start": 35.54,
+   "end": 35.64
+  },
+  {
+   "w": "ghadi",
+   "start": 35.66,
+   "end": 35.9
+  },
+  {
+   "w": "unke",
+   "start": 35.92,
+   "end": 36.18
+  },
+  {
+   "w": "liye?",
+   "start": 36.2,
+   "end": 36.854
+  },
+  {
+   "w": "Aapke",
+   "start": 36.874,
+   "end": 37.16
+  },
+  {
+   "w": "paas",
+   "start": 37.18,
+   "end": 37.36
+  },
+  {
+   "w": "ek",
+   "start": 37.38,
+   "end": 37.56
+  },
+  {
+   "w": "lakh",
+   "start": 37.58,
+   "end": 37.76
+  },
+  {
+   "w": "ho,",
+   "start": 37.78,
+   "end": 38.22
+  },
+  {
+   "w": "toh",
+   "start": 38.24,
+   "end": 38.34
+  },
+  {
+   "w": "yeh",
+   "start": 38.36,
+   "end": 38.44
+  },
+  {
+   "w": "zyada",
+   "start": 38.46,
+   "end": 38.76
+  },
+  {
+   "w": "se",
+   "start": 38.78,
+   "end": 38.88
+  },
+  {
+   "w": "zyada",
+   "start": 38.9,
+   "end": 39.366
+  },
+  {
+   "w": "ek",
+   "start": 39.386,
+   "end": 39.58
+  },
+  {
+   "w": "rupaye",
+   "start": 39.6,
+   "end": 39.84
+  },
+  {
+   "w": "ka",
+   "start": 39.86,
+   "end": 40.0
+  },
+  {
+   "w": "gift",
+   "start": 40.02,
+   "end": 40.2
+  },
+  {
+   "w": "hai.",
+   "start": 40.22,
+   "end": 40.705
+  },
+  {
+   "w": "Aap",
+   "start": 40.725,
+   "end": 40.9
+  },
+  {
+   "w": "unki",
+   "start": 40.92,
+   "end": 41.14
+  },
+  {
+   "w": "jagah",
+   "start": 41.16,
+   "end": 41.3
+  },
+  {
+   "w": "hote",
+   "start": 41.32,
+   "end": 41.5
+  },
+  {
+   "w": "toh",
+   "start": 41.52,
+   "end": 41.62
+  },
+  {
+   "w": "kya",
+   "start": 41.64,
+   "end": 41.8
+  },
+  {
+   "w": "gift",
+   "start": 41.82,
+   "end": 41.98
+  },
+  {
+   "w": "karte?",
+   "start": 42.0,
+   "end": 42.621
+  },
+  {
+   "w": "Comment",
+   "start": 42.641,
+   "end": 42.96
+  },
+  {
+   "w": "karo,",
+   "start": 42.98,
+   "end": 43.381
+  },
+  {
+   "w": "aur",
+   "start": 43.401,
+   "end": 43.54
+  },
+  {
+   "w": "us",
+   "start": 43.56,
+   "end": 43.7
+  },
+  {
+   "w": "dost",
+   "start": 43.72,
+   "end": 43.94
+  },
+  {
+   "w": "ko",
+   "start": 43.96,
+   "end": 44.04
+  },
+  {
+   "w": "bhejo",
+   "start": 44.06,
+   "end": 44.26
+  },
+  {
+   "w": "jo",
+   "start": 44.28,
+   "end": 44.42
+  },
+  {
+   "w": "kehta",
+   "start": 44.44,
+   "end": 44.66
+  },
+  {
+   "w": "hai",
+   "start": 44.68,
+   "end": 44.84
+  },
+  {
+   "w": "ameer",
+   "start": 44.86,
+   "end": 45.14
+  },
+  {
+   "w": "log",
+   "start": 45.16,
+   "end": 45.32
+  },
+  {
+   "w": "kanjoos",
+   "start": 45.34,
+   "end": 45.68
+  },
+  {
+   "w": "hote",
+   "start": 45.7,
+   "end": 45.86
+  },
+  {
+   "w": "hain.",
+   "start": 45.88,
+   "end": 46.516
+  }
+ ],
+ "cues": {
+  "hook": 0.16,
+  "who": 4.988,
+  "micro": 8.914,
+  "singer": 12.531,
+  "kwk": 16.08,
+  "money": 21.0,
+  "father": 27.8,
+  "watch": 34.931,
+  "end": 40.725
+ },
+ "numbers": [],
+ "heard": [
+  "फरा",
+  "खान",
+  "के",
+  "कुक्को",
+  "एक",
+  "लाक",
+  "की",
+  "गडी",
+  "गिव्ट,",
+  "ये",
+  "अनन्न्या",
+  "बिल्ला",
+  "कोन",
+  "है",
+  "ये",
+  "कुमार",
+  "मंगलम",
+  "बिल्ला",
+  "की",
+  "सब",
+  "से",
+  "बड़ी",
+  "बेटी",
+  "है",
+  "बिड्लाग्रोब",
+  "वाले",
+  "सत्रा",
+  "साल",
+  "की",
+  "उम्रे",
+  "में",
+  "अपनी",
+  "माईक्रो",
+  "फाँनान्स",
+  "कंपनी",
+  "स्वतन्त्रा",
+  "शुदू",
+  "की",
+  "सिंगर",
+  "भी",
+  "है,",
+  "उनका",
+  "पहला",
+  "गाना",
+  "मेंट",
+  "तू",
+  "भी",
+  "प्लाटनेम",
+  "हो",
+  "आता",
+  "इस",
+  "अबते",
+  "वो",
+  "अनन्न्या",
+  "पान्दे",
+  "की",
+  "साथ",
+  "कोफी",
+  "विद",
+  "करन्पे",
+  "आई",
+  "और",
+  "फराके",
+  "व्लोग",
+  "में",
+  "अपना",
+  "मुमभाई",
+  "गर",
+  "दिखाया",
+  "अब",
+  "पैसा",
+  "उनकी",
+  "अपनी",
+  "नेट्वोद",
+  "का",
+  "कोई",
+  "अफिष्यल",
+  "नमवर",
+  "नहीं",
+  "रिएपोट्स",
+  "हजार",
+  "से",
+  "सतरा",
+  "सो",
+  "क्रोड",
+  "बताती",
+  "है",
+  "आस्ली",
+  "दोलत",
+  "पा...",
+  "की",
+  "है।",
+  "तो",
+  "फोभ्छ",
+  "के",
+  "हजाभ",
+  "से",
+  "चोबीज",
+  "भिल्यां",
+  "डोलर",
+  "यानी,",
+  "दो",
+  "लाक",
+  "करोद",
+  "से",
+  "जादा",
+  "तो",
+  "एक",
+  "लाक",
+  "की",
+  "गड़ी।",
+  "उनके",
+  "लिए",
+  "आपके",
+  "पस",
+  "एक",
+  "लाग",
+  "हो,",
+  "तो",
+  "यह",
+  "जादा",
+  "से",
+  "जादा",
+  "एक",
+  "रूपै",
+  "का",
+  "गिft",
+  "हैं.",
+  "आप",
+  "उनकी",
+  "जगे",
+  "होते",
+  "तो",
+  "क्या",
+  "गिft",
+  "करतें?",
+  "कोमेंट",
+  "करो,",
+  "और",
+  "उस",
+  "दोस्ट",
+  "को",
+  "बेजो",
+  "जब",
+  "कहता",
+  "है,",
+  "अमीर",
+  "लोग",
+  "कनजूस",
+  "होता",
+  "है"
+ ]
+}

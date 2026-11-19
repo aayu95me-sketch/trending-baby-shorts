@@ -1,0 +1,879 @@
+{
+ "total": 44.796,
+ "voice": "20261120-phone-loans/voice.wav",
+ "lines": [
+  {
+   "start": 0.114,
+   "text": "Ruko ruko! EMI pe phone lene wale ho? Pehle yeh number suno.",
+   "end": 3.82
+  },
+  {
+   "start": 4.213,
+   "text": "Is Diwali har sau mein se chauhattar loan sirf phone ke liye the. Lentra ka data, aaj Business Today mein.",
+   "end": 9.674
+  },
+  {
+   "start": 9.92,
+   "text": "Average loan lagbhag atthais hazaar ka.",
+   "end": 11.88
+  },
+  {
+   "start": 12.158,
+   "text": "Aur sau mein baasath lene wale pentees saal se kam umar ke.",
+   "end": 14.878
+  },
+  {
+   "start": 15.032,
+   "text": "Ab hisaab. Pandrah percent byaaj pe saal bhar, har mahine pachchees sau se upar.",
+   "end": 20.02
+  },
+  {
+   "start": 20.02,
+   "text": "Total tees hazaar se zyada. Do hazaar se upar sirf byaaj, aur phone ki keemat har mahine girti hai.",
+   "end": 26.37
+  },
+  {
+   "start": 26.661,
+   "text": "Toh seedhi baat. Phone se kamaai hoti hai, kaam ke liye zaroori hai, toh lo.",
+   "end": 30.712
+  },
+  {
+   "start": 31.1,
+   "text": "Sirf dikhane ke liye? Mat lo. Teen mahine bachao, cash mein lo, aur byaaj ke paise jeb mein rakho.",
+   "end": 36.924
+  },
+  {
+   "start": 37.264,
+   "text": "Aapne kya kiya, cash ya EMI? Comment karo, aur us dost ko bhejo jo agle hafte EMI pe phone lene wala hai.",
+   "end": 43.385
+  }
+ ],
+ "words": [
+  {
+   "w": "Ruko",
+   "start": 0.114,
+   "end": 0.36
+  },
+  {
+   "w": "ruko!",
+   "start": 0.38,
+   "end": 1.0
+  },
+  {
+   "w": "EMI",
+   "start": 1.02,
+   "end": 1.42
+  },
+  {
+   "w": "pe",
+   "start": 1.44,
+   "end": 1.6
+  },
+  {
+   "w": "phone",
+   "start": 1.62,
+   "end": 1.82
+  },
+  {
+   "w": "lene",
+   "start": 1.84,
+   "end": 2.06
+  },
+  {
+   "w": "wale",
+   "start": 2.08,
+   "end": 2.28
+  },
+  {
+   "w": "ho?",
+   "start": 2.3,
+   "end": 2.66
+  },
+  {
+   "w": "Pehle",
+   "start": 2.68,
+   "end": 2.94
+  },
+  {
+   "w": "yeh",
+   "start": 2.96,
+   "end": 3.06
+  },
+  {
+   "w": "number",
+   "start": 3.08,
+   "end": 3.38
+  },
+  {
+   "w": "suno.",
+   "start": 3.4,
+   "end": 4.193
+  },
+  {
+   "w": "Is",
+   "start": 4.213,
+   "end": 4.34
+  },
+  {
+   "w": "Diwali",
+   "start": 4.36,
+   "end": 4.74
+  },
+  {
+   "w": "har",
+   "start": 4.76,
+   "end": 4.94
+  },
+  {
+   "w": "sau",
+   "start": 4.96,
+   "end": 5.17
+  },
+  {
+   "w": "mein",
+   "start": 5.19,
+   "end": 5.4
+  },
+  {
+   "w": "se",
+   "start": 5.42,
+   "end": 5.61
+  },
+  {
+   "w": "chauhattar",
+   "start": 5.63,
+   "end": 5.82
+  },
+  {
+   "w": "loan",
+   "start": 5.84,
+   "end": 6.32
+  },
+  {
+   "w": "sirf",
+   "start": 6.34,
+   "end": 6.58
+  },
+  {
+   "w": "phone",
+   "start": 6.6,
+   "end": 6.86
+  },
+  {
+   "w": "ke",
+   "start": 6.88,
+   "end": 7.06
+  },
+  {
+   "w": "liye",
+   "start": 7.08,
+   "end": 7.668
+  },
+  {
+   "w": "the.",
+   "start": 7.688,
+   "end": 7.801
+  },
+  {
+   "w": "Lentra",
+   "start": 7.821,
+   "end": 7.934
+  },
+  {
+   "w": "ka",
+   "start": 7.954,
+   "end": 8.067
+  },
+  {
+   "w": "data,",
+   "start": 8.087,
+   "end": 8.2
+  },
+  {
+   "w": "aaj",
+   "start": 8.22,
+   "end": 8.86
+  },
+  {
+   "w": "Business",
+   "start": 8.88,
+   "end": 9.28
+  },
+  {
+   "w": "Today",
+   "start": 9.3,
+   "end": 9.46
+  },
+  {
+   "w": "mein.",
+   "start": 9.48,
+   "end": 9.9
+  },
+  {
+   "w": "Average",
+   "start": 9.92,
+   "end": 10.34
+  },
+  {
+   "w": "loan",
+   "start": 10.36,
+   "end": 10.54
+  },
+  {
+   "w": "lagbhag",
+   "start": 10.56,
+   "end": 10.9
+  },
+  {
+   "w": "atthais",
+   "start": 10.92,
+   "end": 11.38
+  },
+  {
+   "w": "hazaar",
+   "start": 11.4,
+   "end": 11.7
+  },
+  {
+   "w": "ka.",
+   "start": 11.72,
+   "end": 12.138
+  },
+  {
+   "w": "Aur",
+   "start": 12.158,
+   "end": 12.28
+  },
+  {
+   "w": "sau",
+   "start": 12.3,
+   "end": 12.48
+  },
+  {
+   "w": "mein",
+   "start": 12.5,
+   "end": 12.68
+  },
+  {
+   "w": "baasath",
+   "start": 12.7,
+   "end": 13.06
+  },
+  {
+   "w": "lene",
+   "start": 13.08,
+   "end": 13.26
+  },
+  {
+   "w": "wale",
+   "start": 13.28,
+   "end": 13.629
+  },
+  {
+   "w": "pentees",
+   "start": 13.649,
+   "end": 13.88
+  },
+  {
+   "w": "saal",
+   "start": 13.9,
+   "end": 14.16
+  },
+  {
+   "w": "se",
+   "start": 14.18,
+   "end": 14.23
+  },
+  {
+   "w": "kam",
+   "start": 14.25,
+   "end": 14.3
+  },
+  {
+   "w": "umar",
+   "start": 14.32,
+   "end": 14.656
+  },
+  {
+   "w": "ke.",
+   "start": 14.676,
+   "end": 15.013
+  },
+  {
+   "w": "Ab",
+   "start": 15.033,
+   "end": 15.369
+  },
+  {
+   "w": "hisaab.",
+   "start": 15.389,
+   "end": 15.725
+  },
+  {
+   "w": "Pandrah",
+   "start": 15.745,
+   "end": 16.081
+  },
+  {
+   "w": "percent",
+   "start": 16.101,
+   "end": 16.437
+  },
+  {
+   "w": "byaaj",
+   "start": 16.457,
+   "end": 16.794
+  },
+  {
+   "w": "pe",
+   "start": 16.814,
+   "end": 17.15
+  },
+  {
+   "w": "saal",
+   "start": 17.17,
+   "end": 17.506
+  },
+  {
+   "w": "bhar,",
+   "start": 17.526,
+   "end": 17.863
+  },
+  {
+   "w": "har",
+   "start": 17.883,
+   "end": 18.219
+  },
+  {
+   "w": "mahine",
+   "start": 18.239,
+   "end": 18.575
+  },
+  {
+   "w": "pachchees",
+   "start": 18.595,
+   "end": 18.931
+  },
+  {
+   "w": "sau",
+   "start": 18.951,
+   "end": 19.287
+  },
+  {
+   "w": "se",
+   "start": 19.307,
+   "end": 19.644
+  },
+  {
+   "w": "upar.",
+   "start": 19.664,
+   "end": 20.0
+  },
+  {
+   "w": "Total",
+   "start": 20.02,
+   "end": 20.82
+  },
+  {
+   "w": "tees",
+   "start": 21.215,
+   "end": 21.52
+  },
+  {
+   "w": "hazaar",
+   "start": 21.54,
+   "end": 21.88
+  },
+  {
+   "w": "se",
+   "start": 21.9,
+   "end": 22.165
+  },
+  {
+   "w": "zyada.",
+   "start": 22.185,
+   "end": 22.45
+  },
+  {
+   "w": "Do",
+   "start": 22.47,
+   "end": 22.735
+  },
+  {
+   "w": "hazaar",
+   "start": 22.755,
+   "end": 23.02
+  },
+  {
+   "w": "se",
+   "start": 23.04,
+   "end": 23.42
+  },
+  {
+   "w": "upar",
+   "start": 23.44,
+   "end": 23.52
+  },
+  {
+   "w": "sirf",
+   "start": 23.54,
+   "end": 23.62
+  },
+  {
+   "w": "byaaj,",
+   "start": 23.64,
+   "end": 24.44
+  },
+  {
+   "w": "aur",
+   "start": 24.553,
+   "end": 24.7
+  },
+  {
+   "w": "phone",
+   "start": 24.72,
+   "end": 24.98
+  },
+  {
+   "w": "ki",
+   "start": 25.0,
+   "end": 25.14
+  },
+  {
+   "w": "keemat",
+   "start": 25.16,
+   "end": 25.38
+  },
+  {
+   "w": "har",
+   "start": 25.4,
+   "end": 25.68
+  },
+  {
+   "w": "mahine",
+   "start": 25.7,
+   "end": 25.96
+  },
+  {
+   "w": "girti",
+   "start": 25.98,
+   "end": 26.24
+  },
+  {
+   "w": "hai.",
+   "start": 26.26,
+   "end": 26.641
+  },
+  {
+   "w": "Toh",
+   "start": 26.661,
+   "end": 27.02
+  },
+  {
+   "w": "seedhi",
+   "start": 27.04,
+   "end": 27.38
+  },
+  {
+   "w": "baat.",
+   "start": 27.4,
+   "end": 27.895
+  },
+  {
+   "w": "Phone",
+   "start": 27.915,
+   "end": 28.1
+  },
+  {
+   "w": "se",
+   "start": 28.12,
+   "end": 28.24
+  },
+  {
+   "w": "kamaai",
+   "start": 28.26,
+   "end": 28.5
+  },
+  {
+   "w": "hoti",
+   "start": 28.52,
+   "end": 28.78
+  },
+  {
+   "w": "hai,",
+   "start": 28.8,
+   "end": 29.14
+  },
+  {
+   "w": "kaam",
+   "start": 29.16,
+   "end": 29.42
+  },
+  {
+   "w": "ke",
+   "start": 29.44,
+   "end": 29.6
+  },
+  {
+   "w": "liye",
+   "start": 29.62,
+   "end": 29.66
+  },
+  {
+   "w": "zaroori",
+   "start": 29.68,
+   "end": 30.02
+  },
+  {
+   "w": "hai,",
+   "start": 30.04,
+   "end": 30.2
+  },
+  {
+   "w": "toh",
+   "start": 30.22,
+   "end": 30.56
+  },
+  {
+   "w": "lo.",
+   "start": 30.58,
+   "end": 31.08
+  },
+  {
+   "w": "Sirf",
+   "start": 31.1,
+   "end": 31.38
+  },
+  {
+   "w": "dikhane",
+   "start": 31.4,
+   "end": 31.76
+  },
+  {
+   "w": "ke",
+   "start": 31.78,
+   "end": 31.9
+  },
+  {
+   "w": "liye?",
+   "start": 31.92,
+   "end": 32.32
+  },
+  {
+   "w": "Mat",
+   "start": 32.34,
+   "end": 32.7
+  },
+  {
+   "w": "lo.",
+   "start": 32.72,
+   "end": 33.235
+  },
+  {
+   "w": "Teen",
+   "start": 33.255,
+   "end": 33.48
+  },
+  {
+   "w": "mahine",
+   "start": 33.5,
+   "end": 33.74
+  },
+  {
+   "w": "bachao,",
+   "start": 33.76,
+   "end": 34.22
+  },
+  {
+   "w": "cash",
+   "start": 34.24,
+   "end": 34.7
+  },
+  {
+   "w": "mein",
+   "start": 34.72,
+   "end": 34.9
+  },
+  {
+   "w": "lo,",
+   "start": 34.92,
+   "end": 35.208
+  },
+  {
+   "w": "aur",
+   "start": 35.228,
+   "end": 35.34
+  },
+  {
+   "w": "byaaj",
+   "start": 35.36,
+   "end": 35.66
+  },
+  {
+   "w": "ke",
+   "start": 35.68,
+   "end": 35.82
+  },
+  {
+   "w": "paise",
+   "start": 35.84,
+   "end": 36.12
+  },
+  {
+   "w": "jeb",
+   "start": 36.14,
+   "end": 36.46
+  },
+  {
+   "w": "mein",
+   "start": 36.48,
+   "end": 36.58
+  },
+  {
+   "w": "rakho.",
+   "start": 36.6,
+   "end": 37.244
+  },
+  {
+   "w": "Aapne",
+   "start": 37.264,
+   "end": 37.58
+  },
+  {
+   "w": "kya",
+   "start": 37.6,
+   "end": 37.78
+  },
+  {
+   "w": "kiya,",
+   "start": 37.8,
+   "end": 38.312
+  },
+  {
+   "w": "cash",
+   "start": 38.332,
+   "end": 38.62
+  },
+  {
+   "w": "ya",
+   "start": 38.64,
+   "end": 38.82
+  },
+  {
+   "w": "EMI?",
+   "start": 38.84,
+   "end": 39.499
+  },
+  {
+   "w": "Comment",
+   "start": 39.519,
+   "end": 39.86
+  },
+  {
+   "w": "karo,",
+   "start": 39.88,
+   "end": 40.1
+  },
+  {
+   "w": "aur",
+   "start": 40.12,
+   "end": 40.42
+  },
+  {
+   "w": "us",
+   "start": 40.44,
+   "end": 40.54
+  },
+  {
+   "w": "dost",
+   "start": 40.56,
+   "end": 40.8
+  },
+  {
+   "w": "ko",
+   "start": 40.82,
+   "end": 40.92
+  },
+  {
+   "w": "bhejo",
+   "start": 40.94,
+   "end": 41.24
+  },
+  {
+   "w": "jo",
+   "start": 41.26,
+   "end": 41.34
+  },
+  {
+   "w": "agle",
+   "start": 41.36,
+   "end": 41.6
+  },
+  {
+   "w": "hafte",
+   "start": 41.62,
+   "end": 41.9
+  },
+  {
+   "w": "EMI",
+   "start": 41.92,
+   "end": 42.3
+  },
+  {
+   "w": "pe",
+   "start": 42.32,
+   "end": 42.46
+  },
+  {
+   "w": "phone",
+   "start": 42.48,
+   "end": 42.7
+  },
+  {
+   "w": "lene",
+   "start": 42.72,
+   "end": 42.94
+  },
+  {
+   "w": "wala",
+   "start": 42.96,
+   "end": 43.18
+  },
+  {
+   "w": "hai.",
+   "start": 43.2,
+   "end": 43.796
+  }
+ ],
+ "cues": {
+  "hook": 0.114,
+  "stat": 4.213,
+  "ticket": 9.92,
+  "young": 12.158,
+  "emi": 15.033,
+  "total": 20.02,
+  "rule": 26.661,
+  "show": 31.1,
+  "end": 37.264
+ },
+ "numbers": [],
+ "heard": [
+  "रूको",
+  "रूको,",
+  "EMI",
+  "पे",
+  "phone",
+  "लिने",
+  "वाले",
+  "हो,",
+  "पहले",
+  "ये",
+  "number",
+  "सुनो.",
+  "इस",
+  "दिवाली",
+  "हर",
+  "सोमे",
+  "से",
+  "4",
+  "लों",
+  "सरव",
+  "phone",
+  "के",
+  "लिए",
+  "the...",
+  "अज",
+  "बिस्निस",
+  "तुधे",
+  "में,",
+  "अबरीज",
+  "लोन",
+  "लगबग",
+  "अट्टाए",
+  "सधार",
+  "का,",
+  "और",
+  "सोमे",
+  "बासरत",
+  "लेने",
+  "वाले",
+  "पैंती",
+  "साल",
+  "से",
+  "कमुम्रकिख।",
+  "तोटल",
+  "तीश",
+  "धीशाजार",
+  "से",
+  "दीशाजार",
+  "2000",
+  "से",
+  "उबर",
+  "स्व्व्याज",
+  "और",
+  "फोन",
+  "की",
+  "कीमत",
+  "हर",
+  "मेंने",
+  "गिरती",
+  "है",
+  "तो",
+  "सीदी",
+  "ही",
+  "बात",
+  "फोन",
+  "से",
+  "कमाई",
+  "होती",
+  "है",
+  "काम",
+  "के",
+  "ले",
+  "ज़रूरी",
+  "है",
+  "तो",
+  "लो.",
+  "सरभ",
+  "दिखाने",
+  "के",
+  "लिए",
+  "मत",
+  "लो.",
+  "तीन",
+  "महीने",
+  "बचाओ.",
+  "केछ",
+  "में",
+  "लो.",
+  "और",
+  "भीाज",
+  "के",
+  "पेस...",
+  "जेब",
+  "में",
+  "रखो.",
+  "आप",
+  "ने",
+  "क्या",
+  "किया?",
+  "केश",
+  "या",
+  "EMI?",
+  "कोमेंट",
+  "करो",
+  "और",
+  "उस",
+  "दोस्ट",
+  "को",
+  "भीचो,",
+  "जो",
+  "अगले",
+  "हबते",
+  "EMI",
+  "पे",
+  "फोन",
+  "लेनेवा...",
+  "है"
+ ]
+}
