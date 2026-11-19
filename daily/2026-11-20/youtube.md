@@ -32,10 +32,10 @@ Related video: Toxic box office.
 File: 20261120-ps5-price-hike
 Title: PS5 pe GTA 6 dekh bhai! Par PS5 Rs 15,000 mehenga kyun? 🎮 #shorts
 Description:
-GTA 6 aa gaya, GTA V (2013) ke 13 saal baad. Vice City wapas, do lead Lucia aur Jason. PS5 pe 4K graphics, tez SSD loading, DualSense controller ka haptic feedback. Lekin isi mahine India mein PS5 (disc) Rs 54,990 se Rs 69,990 ho gaya (Cashify, 4 Nov 2026), lagbhag 27%. Wajah GTA nahi: Sony ne manufacturing, memory aur storage ki badhti keemat batayi, aur US, UK, Japan mein bhi daam badhe. PS5 + GTA 6 Standard (Rs 5,999) = Rs 75,989.
+GTA 6 aa gaya, GTA V (2013) ke 13 saal baad. Vice City wapas, do lead Lucia aur Jason. PS5 pe 4K graphics aur tez SSD loading. Lekin isi mahine India mein PS5 (disc) Rs 54,990 se Rs 69,990 ho gaya (Cashify, 4 Nov 2026), lagbhag 27%. Wajah GTA nahi: Sony ne manufacturing, memory aur storage ki badhti keemat batayi, aur US, UK, Japan mein bhi daam badhe. PS5 + GTA 6 Standard (Rs 5,999) = Rs 75,989.
 Sources: Cashify (4 Nov 2026), Business Standard (Nov 2026), Wikipedia (PlayStation 5, GTA VI).
 Photos: see credits.txt.
 #gta6 #ps5 #gaming
 Tags: ps5 price in india, ps5 price hike, ps5 69990, gta 6, gta 6 ps5, gta 6 review, gta 6 india price, playstation 5 india, gta vi
-Pinned comment: PS5 abhi loge ya daam girne ka wait? 👇
+Pinned comment: PS5 abhi loge ya wait? Us dost ko tag karo jo GTA ke liye PS5 lene wala hai 👇
 Related video: GTA 6 India price (5yPFfXIUo28).
