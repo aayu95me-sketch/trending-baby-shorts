@@ -1,0 +1,28 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "Claim that PS5 price rose from ₹55,000 to ₹70,000 this month – no source cited",
+    "Statement that GTA 6 will be on PS5 – unreleased game, speculative",
+    "Assertion that memory and storage costs have risen globally (US, UK, Japan) without citation",
+    "Total cost estimate of ~₹78,000 for PS5 + GTA 6 presented as fact"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "\"hook dekh\" sounds forced; native speakers would say \"dekho\" or \"sun\"",
+    "\"four K graphics\" is awkward; usually said as \"4K graphics\"",
+    "\"GTA ki dhai copies\" is unnatural phrasing",
+    "\"Us dost ko bhej jo bolta tha GTA aate hi PS5 uthaunga\" is clunky and overly long for a short"
+   ],
+   "one_line_verdict": "The script contains several unverified price and release claims and a few awkward Hinglish phrases, but no numeric mismatches or hook options to score."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}
