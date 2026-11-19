@@ -4,7 +4,7 @@ Final plan (19 Nov 09:37 IST, Ayush picked on the card): Vande Bharat 12:00 IST,
 Every description ends with the channel footer from the upload defaults (AI voice disclosure). "Altered content" answer: No (AI narration only).
 Skipped from the CSV: 2025-27 WTC table (NZ vs IND 1st Test starts 19 Nov, no result yet = plain explainer), PS5 (merged into GTA 6, same doubt).
 
-## 1. GTA 6 India price + platforms, 15:00 IST 19 Nov (lane: exception, #1 trend, launch night)
+## 1. GTA 6 India price + platforms, 15:00 IST 19 Nov (lane: exception, #1 trend, launch night) (5yPFfXIUo28)
 File: 20261119-gta-6-india-price
 Title: GTA 6 India mein kitne ka? PS5 + game ka asli kharcha 🎮 #shorts
 Description:
