@@ -1,0 +1,107 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: CAQM, IMD VIA OUTLOOK (10 NOV 2026) · WIKIPEDIA",
+ "loopTail": 0.7,
+ "save": {
+  "title": "SMOG KA SACH",
+  "lines": [
+   [
+    "SMOG",
+    "SMOKE + FOG"
+   ],
+   [
+    "SARDI",
+    "HAWA KA DHAKKAN"
+   ],
+   [
+    "PARALI, DIWALI DIN",
+    "1248 vs 135",
+    "red"
+   ],
+   [
+    "LONDON 1952",
+    "~12,000 MAUTEIN",
+    "red"
+   ]
+  ],
+  "footer": "IMD: 15 NOV TAK BAARISH NAHI · FOLLOW: DOUBT CLEAR"
+ },
+ "scenes": [
+  {
+   "at": 0,
+   "tag": "DILLI · NOVEMBER",
+   "big": "KOHRA YA ZEHER?",
+   "color": "red",
+   "videos": [
+    "20261110-smog/real/hook-3.jpg",
+    "20261110-smog/real/hook-0.jpg"
+   ],
+   "credit": "S. ROY DUTTA CC BY-SA · WIKIMEDIA / OUTLOOK"
+  },
+  {
+   "at": "word",
+   "tag": "SMOG =",
+   "big": "SMOKE + FOG",
+   "color": "white",
+   "videos": [
+    "20261110-smog/real/word-4.jpg",
+    "20261110-smog/real/hook-3.jpg"
+   ],
+   "credit": "MOEFCC GODL / S. ROY DUTTA CC BY-SA · WIKIMEDIA"
+  },
+  {
+   "at": "lid",
+   "tag": "SARDI: GARAM PARAT UPAR",
+   "big": "HAWA KA DHAKKAN",
+   "color": "gold",
+   "credit": "NASA MODIS PD / SAURABH KUMAR CC BY-SA · WIKIMEDIA",
+   "videos": [
+    "20261110-smog/real/lid-1.jpg",
+    "20261110-smog/real/hook-5.jpg"
+   ]
+  },
+  {
+   "at": "fire",
+   "tag": "DIWALI DIN PARALI KI AAG",
+   "counter": {
+    "from": 0,
+    "to": 1248,
+    "prefix": "",
+    "label": "PICHHLE SAAL: 135"
+   },
+   "videos": [
+    "20261110-smog/real/fire-0.jpg",
+    "20261110-smog/real/xb-0.jpg"
+   ],
+   "credit": "CIAT CC BY-SA · WIKIMEDIA / WIKIPEDIA · DATA: CAQM"
+  },
+  {
+   "at": "london",
+   "tag": "LONDON 1952 · MODERN ESTIMATE",
+   "big": "~12,000 MAUTEIN",
+   "color": "red",
+   "img": "20261110-smog/real/xa-0.jpg",
+   "fit": "blur",
+   "note": "PHIR AAYA CLEAN AIR ACT 1956",
+   "credit": "N T STOBBS CC BY-SA 2.0 · WIKIMEDIA"
+  },
+  {
+   "at": "end",
+   "tag": "IMD: 15 NOV TAK BAARISH NAHI",
+   "big": "SIRF KOHRA?",
+   "color": "gold",
+   "videos": [
+    "20261110-smog/real/hook-6.jpg",
+    "20261110-smog/real/hook-4.jpg"
+   ],
+   "credit": "S. ROY DUTTA CC BY-SA / WILI HYBRID CC BY · WIKIMEDIA"
+  },
+  {
+   "at": "end",
+   "tag": "DILLI · NOVEMBER",
+   "big": "KOHRA YA ZEHER?",
+   "color": "red",
+   "img": "20261110-smog/real/hook-3.jpg"
+  }
+ ]
+}

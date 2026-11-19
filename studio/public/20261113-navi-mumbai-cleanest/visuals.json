@@ -1,0 +1,9 @@
+{
+ "news": [{"og": "https://www.freepressjournal.in/mumbai/navi-mumbai-ranks-indias-cleanest-city-among-4751-urban-centres-in-swachh-survekshan-2025-26-video"},
+          {"og": "https://theopenpress.in/article/navi-mumbai-cleanest-city-india-swachh-survekshan-2025-26-indore-eight-year-streak-ends"},
+          {"og": "https://www.mypunepulse.com/navi-mumbai-surpasses-indore-to-claim-indias-cleanest-city-title-in-swachh-survekshan-2025-26/"}],
+ "wk":   [{"og": "https://en.wikipedia.org/wiki/Navi_Mumbai"}, {"og": "https://en.wikipedia.org/wiki/Indore"},
+          {"og": "https://en.wikipedia.org/wiki/Swachh_Survekshan"}, {"og": "https://en.wikipedia.org/wiki/Vigyan_Bhawan"},
+          {"wiki": "Navi Mumbai Vashi skyline", "n": 3}, {"wiki": "Navi Mumbai Palm Beach Road", "n": 2},
+          {"wiki": "Indore Rajwada", "n": 2}, {"wiki": "Depalpur", "n": 1}]
+}

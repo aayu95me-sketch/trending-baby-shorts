@@ -1,0 +1,93 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: PTI VIA THEPRINT, DT NEXT · IANS VIA MORUNG EXPRESS · 11 NOV 2026",
+ "loopTail": 0.7,
+ "save": {
+  "title": "AIR INDIA · KOLKATA",
+  "lines": [
+   [
+    "HIJACK?",
+    "NAHI",
+    "green"
+   ],
+   [
+    "TOILET MEIN",
+    "DHAMKI WALA NOTE"
+   ],
+   [
+    "105 YATRI",
+    "UTAARE GAYE"
+   ],
+   [
+    "OFFICIALS",
+    "HOAX",
+    "green"
+   ]
+  ],
+  "footer": "AS OF 11 NOV 2026 · FOLLOW: DOUBT CLEAR"
+ },
+ "scenes": [
+  {
+   "at": 0,
+   "tag": "KOLKATA → MUMBAI · AIR INDIA",
+   "big": "HIJACK HUA?",
+   "color": "red",
+   "videos": [
+    "20261111-air-india-kolkata/real/wk-2.jpg",
+    "20261111-air-india-kolkata/real/news-0.jpg"
+   ],
+   "credit": "MD SHAIFUZZAMAN AYON CC BY-SA · WIKIMEDIA / PTI VIA THEPRINT"
+  },
+  {
+   "at": "no",
+   "tag": "TAKE OFF SE PEHLE · TOILET MEIN NOTE",
+   "big": "NAHI",
+   "color": "green",
+   "img": "20261111-air-india-kolkata/real/wk-6.jpg",
+   "low": true,
+   "credit": "REPRESENTATIVE: AHMADELQ CC BY-SA · WIKIMEDIA"
+  },
+  {
+   "at": "bay",
+   "tag": "ISOLATION BAY",
+   "big": "105 YATRI UTARE",
+   "color": "white",
+   "img": "20261111-air-india-kolkata/real/news-0.jpg",
+   "low": true,
+   "credit": "PHOTO: PTI VIA THEPRINT"
+  },
+  {
+   "at": "hoax",
+   "tag": "JAANCH KE BAAD",
+   "big": "HOAX",
+   "color": "green",
+   "img": "20261111-air-india-kolkata/real/wk-0.jpg",
+   "low": true,
+   "credit": "KOLKATA AIRPORT · FILE PHOTO VIA WIKIPEDIA"
+  },
+  {
+   "at": "twist",
+   "tag": "PICHHLE MAHINE · KOLKATA AIRPORT",
+   "big": "2 AUR JHOOTHI DHAMKI",
+   "color": "red",
+   "img": "20261111-air-india-kolkata/real/wk-4.jpg",
+   "low": true,
+   "credit": "ANKAN CC BY-SA · WIKIMEDIA"
+  },
+  {
+   "at": "end",
+   "big": "HIJACK HUA?",
+   "color": "red",
+   "img": "20261111-air-india-kolkata/real/wk-3.jpg",
+   "low": true,
+   "credit": "MD SHAIFUZZAMAN AYON CC BY-SA · WIKIMEDIA"
+  },
+  {
+   "at": "end",
+   "tag": "KOLKATA → MUMBAI · AIR INDIA",
+   "big": "HIJACK HUA?",
+   "color": "red",
+   "img": "20261111-air-india-kolkata/real/wk-2.jpg"
+  }
+ ]
+}

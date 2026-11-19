@@ -1,0 +1,32 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCE: ANI VIA PRAMEYA, INDIA.COM · 10 NOV 2026",
+ "loopTail": 0.7,
+ "save": {
+  "title": "IND vs NZ · 3RD ODI",
+  "lines": [
+   ["HAMILTON", "0 GEND, ABANDONED", "red"],
+   ["SERIES", "5 MATCH"],
+   ["INDIA", "2-0 AAGE", "green"],
+   ["SERIES KHATAM?", "NAHI"]
+  ],
+  "footer": "AS OF 10 NOV 2026 · FOLLOW: DOUBT CLEAR"
+ },
+ "scenes": [
+  {"at": 0, "tag": "IND vs NZ · 3RD ODI", "big": "LIVE SCORE?", "color": "gold",
+   "videos": ["20261110-ind-vs-nz-3rd-odi/real/xa-1.jpg", "20261110-ind-vs-nz-3rd-odi/real/xb-0.jpg"],
+   "credit": "SEDDON PARK, FILE PHOTOS VIA GULF NEWS / WIKIPEDIA"},
+  {"at": "rain", "tag": "HAMILTON · BAARISH", "big": "0 GEND", "color": "red",
+   "img": "20261110-ind-vs-nz-3rd-odi/real/xa-3.jpg", "low": true, "credit": "FILE PHOTO VIA OUTLOOK"},
+  {"at": "series", "tag": "5 MATCH KI SERIES", "big": "2-0 INDIA", "color": "green",
+   "videos": ["20261110-ind-vs-nz-3rd-odi/real/xa-2.jpg", "20261110-ind-vs-nz-3rd-odi/real/xb-1.jpg"], "focus": "60% 30%", "low": true,
+   "credit": "FILE PHOTOS VIA SENTINEL ASSAM / WIKIPEDIA"},
+  {"at": "need", "tag": "NZ KO DONO JEETNE HONGE", "big": "BAS 1 JEET", "color": "green",
+   "videos": ["20261110-ind-vs-nz-3rd-odi/real/xa-0.jpg", "20261110-ind-vs-nz-3rd-odi/real/xb-2.jpg"], "focus": "50% 30%", "low": true,
+   "credit": "PHOTOS VIA THE QUINT / WIKIPEDIA"},
+  {"at": "end", "big": "SERIES KHATAM?", "color": "gold",
+   "img": "20261110-ind-vs-nz-3rd-odi/real/xb-1.jpg", "focus": "50% 30%", "low": true, "credit": "PHOTO VIA WIKIPEDIA"},
+  {"at": "end", "tag": "IND vs NZ · 3RD ODI", "big": "LIVE SCORE?", "color": "gold",
+   "img": "20261110-ind-vs-nz-3rd-odi/real/xa-1.jpg"}
+ ]
+}

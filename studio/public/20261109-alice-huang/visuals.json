@@ -1,0 +1,51 @@
+{
+ "hook": [
+  {
+   "wiki": "Jensen Huang",
+   "n": 4
+  },
+  {
+   "yt": "ytsearch1:Jensen Huang keynote 2026",
+   "start": 40,
+   "dur": 7
+  }
+ ],
+ "who": [
+  {
+   "og": "https://www.tweaktown.com/news/114387/nvidia-pushes-back-against-report-linking-ceo-jensen-huang-to-suspected-chinese-intelligence-asset/index.html"
+  },
+  {
+   "og": "https://ibtimes.co.uk/nvidia-jensen-huang-megaspeed-china-chip-controls-1828930"
+  },
+  {
+   "og": "https://www.hngn.com/articles/273649/20261030/huang-calls-nvidias-megaspeed-ties-normal-amid-china-spy-probe.htm"
+  },
+  {
+   "wiki": "Singapore skyline night",
+   "n": 2
+  }
+ ],
+ "memo": [
+  {
+   "og": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+  }
+ ],
+ "probe": [
+  {
+   "og": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+  },
+  {
+   "wiki": "Nvidia headquarters Santa Clara",
+   "n": 3
+  }
+ ],
+ "board": [
+  {
+   "og": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors"
+  },
+  {
+   "wiki": "Nvidia Voyager building",
+   "n": 2
+  }
+ ]
+}

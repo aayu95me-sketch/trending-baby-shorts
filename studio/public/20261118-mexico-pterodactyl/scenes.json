@@ -1,0 +1,79 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: SNOPES, EASTERN EYE, CIVIL PROTECTION JUAREZ · NOV 2026",
+ "loopTail": 0.5,
+ "scenes": [
+  {
+   "at": 0,
+   "big": "ASLI YA AI?",
+   "color": "gold",
+   "tag": "MEXICO MEIN 'UDTA DINOSAUR'",
+   "img": "20261118-mexico-pterodactyl/real/news-0.jpg",
+   "fit": "blur",
+   "credit": "VIRAL VIDEO STILL VIA X / RT"
+  },
+  {
+   "at": "where",
+   "big": "CIUDAD JUAREZ, MEXICO",
+   "color": "white",
+   "tag": "VIRAL VIDEO · NOV 2026",
+   "img": "20261118-mexico-pterodactyl/real/wk-8.jpg",
+   "focus": "50% 50%",
+   "credit": "PHOTO: ALEJANDRO, CC BY-SA 4.0"
+  },
+  {
+   "at": "fake",
+   "big": "FAKE NIKLA",
+   "color": "red",
+   "tag": "SNOPES · BUILDING KE AKSHAR BADALTE HAIN",
+   "img": "20261118-mexico-pterodactyl/real/news-2.jpg",
+   "fit": "blur",
+   "credit": "CLIP STILL VIA SNOPES"
+  },
+  {
+   "at": "official",
+   "big": "\"KOI ASLI AADHAAR NAHI\"",
+   "color": "white",
+   "tag": "CIVIL PROTECTION, CIUDAD JUAREZ",
+   "img": "20261118-mexico-pterodactyl/real/wk-9.jpg",
+   "focus": "50% 50%",
+   "credit": "PHOTO: ALEJANDRO, CC BY-SA 3.0"
+  },
+  {
+   "at": "science",
+   "big": "6.6 CRORE SAAL PEHLE",
+   "color": "gold",
+   "tag": "PTEROSAURS KHATAM · ZINDA SABOOT: 0",
+   "img": "20261118-mexico-pterodactyl/real/wk-6.jpg",
+   "credit": "PHOTO: NINJATACOSHELL, CC BY-SA 3.0",
+   "focus": "50% 50%"
+  },
+  {
+   "at": "twist",
+   "big": "DINOSAUR THA HI NAHI",
+   "color": "green",
+   "tag": "UDNE WALE REPTILE · ALAG PARIVAAR",
+   "img": "20261118-mexico-pterodactyl/real/wk-7.jpg",
+   "focus": "50% 40%",
+   "credit": "PHOTO: PTERANODON, MUSEUM OF ANCIENT LIFE, CC BY-SA 2.0"
+  },
+  {
+   "at": "end",
+   "big": "ASLI YA AI?",
+   "color": "gold",
+   "tag": "TIP: BACKGROUND DEKHO · COMMENT KARO",
+   "img": "20261118-mexico-pterodactyl/real/news-1.jpg",
+   "fit": "blur",
+   "credit": "CLIP STILL VIA SNOPES"
+  },
+  {
+   "at": "end",
+   "big": "ASLI YA AI?",
+   "color": "gold",
+   "tag": "MEXICO MEIN 'UDTA DINOSAUR'",
+   "img": "20261118-mexico-pterodactyl/real/news-0.jpg",
+   "fit": "blur",
+   "credit": "VIRAL VIDEO STILL VIA X / RT"
+  }
+ ]
+}

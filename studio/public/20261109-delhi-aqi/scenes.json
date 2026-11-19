@@ -1,0 +1,110 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCE: CPCB, DPCC VIA BUSINESS STANDARD · 9 NOV 2026",
+ "loopTail": 0.7,
+ "save": {
+  "title": "DELHI AQI · 9 NOV",
+  "lines": [
+   [
+    "CPCB MAX SCALE",
+    "500"
+   ],
+   [
+    "DELHI, 7 AM",
+    "368 VERY POOR",
+    "red"
+   ],
+   [
+    "SEVERE STATIONS",
+    "15",
+    "red"
+   ],
+   [
+    "APPS SHOWING 1700",
+    "ALAG FORMULA"
+   ]
+  ],
+  "footer": "SOURCE: CPCB VIA BUSINESS STANDARD · FOLLOW: DOUBT CLEAR"
+ },
+ "scenes": [
+  {
+   "at": 0,
+   "tag": "APPS vs SARKAR",
+   "big": "1700 YA 500?",
+   "color": "red",
+   "videos": [
+    "20261109-delhi-aqi/real/hook-0.jpg",
+    "20261109-delhi-aqi/real/hook-1.jpg"
+   ],
+   "credit": "PHOTOS: B. POUSMAN CC BY / MIN. OF CULTURE GODL · WIKIMEDIA"
+  },
+  {
+   "at": "truth",
+   "tag": "CPCB SCALE",
+   "big": "MAX 500",
+   "color": "green",
+   "img": "20261109-delhi-aqi/real/apps-1.jpg",
+   "credit": "NAQI LAUNCH: MOEFCC, GODL-INDIA · WIKIMEDIA"
+  },
+  {
+   "at": "apps",
+   "tag": "1700 = PRIVATE APPS",
+   "big": "ALAG FORMULA",
+   "color": "white",
+   "img": "20261109-delhi-aqi/real/apps-0.jpg",
+   "credit": "PHOTO: NEWSGRAM"
+  },
+  {
+   "at": "real",
+   "tag": "9 NOV, 7 AM",
+   "headline": {
+    "source": "Business Standard",
+    "date": "9 Nov 2026",
+    "title": "Delhi's post-Diwali air remains 'very poor'; 15 locations record severe AQI"
+   },
+   "img": "20261109-delhi-aqi/real/real-0.jpg",
+   "credit": "PHOTO: BUSINESS STANDARD"
+  },
+  {
+   "at": "but",
+   "tag": "SEVERE 400+",
+   "big": "15 JAGAH",
+   "color": "red",
+   "videos": [
+    "20261109-delhi-aqi/real/but-0.jpg",
+    "20261109-delhi-aqi/real/real-2.jpg"
+   ],
+   "credit": "PHOTOS: THE NEWS MINUTE / DOWN TO EARTH"
+  },
+  {
+   "at": "pm",
+   "tag": "PM2.5 · WHO 24H LIMIT 15",
+   "big": "50x",
+   "color": "red",
+   "note": "DPCC HOURLY READING, AKSHARDHAM, 11 PM 8 NOV",
+   "videos": [
+    "20261109-delhi-aqi/real/pm-0.jpg",
+    "20261109-delhi-aqi/real/pm-3.jpg"
+   ],
+   "fit": "blur",
+   "credit": "AKSHARDHAM CC BY-SA / NOAA SATELLITE · WIKIMEDIA"
+  },
+  {
+   "at": "end",
+   "big": "AAPKA AQI?",
+   "color": "gold",
+   "videos": [
+    "20261109-delhi-aqi/real/end-0.jpg",
+    "20261109-delhi-aqi/real/real-1.jpg"
+   ],
+   "credit": "PHOTOS: OUTLOOK"
+  },
+  {
+   "at": "end",
+   "tag": "APPS vs SARKAR",
+   "big": "1700 YA 500?",
+   "color": "red",
+   "img": "20261109-delhi-aqi/real/hook-0.jpg"
+  }
+ ]
+}

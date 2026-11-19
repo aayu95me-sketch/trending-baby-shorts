@@ -1,0 +1,101 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: SKY SPORTS, TRIBUNE (ANI), JAGRAN · 15 NOV 2026",
+ "loopTail": 0.5,
+ "scenes": [
+  {
+   "at": 0,
+   "big": "89 ALL OUT → SERIES WIN?",
+   "color": "gold",
+   "tag": "IND vs NZ · 5TH ODI · MOUNT MAUNGANUI",
+   "img": "20261116-ind-vs-nz-series-win/real/news-1.jpg",
+   "focus": "50% 35%",
+   "credit": "PHOTO VIA TRIBUNE (ANI)"
+  },
+  {
+   "at": "yes",
+   "big": "INDIA JEETA · 3-1",
+   "color": "green",
+   "tag": "22 RUN SE · 5TH ODI",
+   "img": "20261116-ind-vs-nz-series-win/real/news-5.jpg",
+   "focus": "40% 35%",
+   "credit": "PHOTO VIA OUTLOOK INDIA"
+  },
+  {
+   "at": "bat",
+   "tag": "ISHAN 46 · AXAR 46 · 42.1 OVER",
+   "counter": {
+    "from": 0,
+    "to": 209,
+    "prefix": "",
+    "suffix": " ALL OUT",
+    "label": "INDIA"
+   },
+   "img": "20261116-ind-vs-nz-series-win/real/news-2.jpg",
+   "focus": "50% 35%",
+   "credit": "PHOTO VIA DAILY JAGRAN"
+  },
+  {
+   "at": "fight",
+   "big": "NZ 119/6",
+   "color": "red",
+   "tag": "TARGET 210 · NZ 187 ALL OUT",
+   "img": "20261116-ind-vs-nz-series-win/real/news-0.jpg",
+   "focus": "40% 35%",
+   "credit": "PHOTO VIA SKY SPORTS"
+  },
+  {
+   "at": "yash",
+   "tag": "YASH THAKUR · ODI DEBUT · CAP 267",
+   "bars": [
+    [
+     "ARSHDEEP",
+     3
+    ],
+    [
+     "AXAR",
+     2
+    ],
+    [
+     "SIRAJ",
+     2
+    ],
+    [
+     "YASH",
+     1
+    ]
+   ],
+   "barUnit": " WKT",
+   "img": "20261116-ind-vs-nz-series-win/real/news-3.jpg",
+   "focus": "50% 30%",
+   "credit": "PHOTO VIA CRICTRACKER"
+  },
+  {
+   "at": "streak",
+   "big": "11 SERIES STREAK KHATAM",
+   "color": "gold",
+   "tag": "NZ KI 2019 KE BAAD PEHLI HOME ODI SERIES HAAR",
+   "img": "20261116-ind-vs-nz-series-win/real/news-4.jpg",
+   "focus": "50% 35%",
+   "credit": "PHOTO VIA TELANGANA TODAY"
+  },
+  {
+   "at": "end",
+   "big": "89 WALI HAAR MAAF?",
+   "color": "gold",
+   "tag": "4TH ODI: 89 ALL OUT · 5TH ODI: SERIES WIN",
+   "img": "20261116-ind-vs-nz-series-win/real/news-1.jpg",
+   "focus": "60% 35%",
+   "credit": "PHOTO VIA TRIBUNE (ANI)"
+  },
+  {
+   "at": "end",
+   "big": "89 ALL OUT → SERIES WIN?",
+   "color": "gold",
+   "tag": "IND vs NZ · 5TH ODI · MOUNT MAUNGANUI",
+   "img": "20261116-ind-vs-nz-series-win/real/news-1.jpg",
+   "focus": "50% 35%",
+   "credit": "PHOTO VIA TRIBUNE (ANI)"
+  }
+ ]
+}

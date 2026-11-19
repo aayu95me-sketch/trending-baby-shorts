@@ -1,0 +1,60 @@
+{
+ "hook": [
+  {
+   "og": "https://www.gizbot.com/mobile/news/samsung-galaxy-s27-spotted-on-bis-database-what-we-know-so-far-129651.html"
+  },
+  {
+   "og": "https://www.91mobiles.com/hub/samsung-galaxy-s27-bis-certification-india/"
+  },
+  {
+   "og": "https://www.sammyfans.com/2026/11/05/india-clears-samsungs-flagship-galaxy-s27-for-launch/"
+  },
+  {
+   "yt": "ytsearch1:Samsung Galaxy S27 leaks",
+   "start": 10,
+   "dur": 7
+  }
+ ],
+ "why": [
+  {
+   "og": "https://www.thetechoutlook.com/tech-whispers/samsung-galaxy-s27-spotted-on-indias-bis-database-with-sm-s952b-ds-model-number/"
+  },
+  {
+   "og": "https://www.digit.in/news/mobile-phones/samsung-galaxy-s27-spotted-on-bis-listing-check-expected-specs-launch-timeline-indian-price-and-more.html"
+  },
+  {
+   "og": "https://ascendants.in/industry_events/samsung-galaxy-s27-bis-certification-india-launch-specifications/"
+  }
+ ],
+ "leak": [
+  {
+   "og": "https://www.phonearena.com/news/galaxy-s27-pro-moves-along-nicely_id183375"
+  },
+  {
+   "og": "https://gulfnews.com/technology/galaxy-s27-pro-leaks-could-samsungs-new-tier-be-the-sweet-spot-between-plus-and-ultra-1.500678192"
+  },
+  {
+   "og": "https://androidheadlines.com/2026/09/galaxy-s27-pro-battery-spotted-bis-certification.html"
+  }
+ ],
+ "price": [
+  {
+   "wiki": "Samsung Galaxy S25 Ultra",
+   "n": 2
+  },
+  {
+   "wiki": "Samsung store India",
+   "n": 2
+  }
+ ],
+ "end": [
+  {
+   "wiki": "Samsung Galaxy S26",
+   "n": 2
+  },
+  {
+   "wiki": "Samsung Galaxy Unpacked",
+   "n": 2
+  }
+ ]
+}

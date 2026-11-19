@@ -1,0 +1,10 @@
+{
+ "smog": ["smog", "pollution"],
+ "citynight": ["city-traffic", "traffic"],
+ "cinema": ["cinema", "movie-theater"],
+ "crowd": ["crowd", "audience"],
+ "temple": ["temple", "candle"],
+ "chip": ["circuit-board", "technology"],
+ "server": ["data-center", "server"],
+ "newspaper": ["newspaper", "news"]
+}

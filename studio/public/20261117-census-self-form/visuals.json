@@ -1,0 +1,13 @@
+{
+ "news": [{"og": "https://www.business-standard.com/india-news/centre-prepones-census-exercise-in-poll-bound-up-goa-punjab-uttarakhand-126090500990_1.html"},
+          {"og": "https://www.orissapost.com/census-population-enumeration-in-4-poll-bound-states-from-dec-1-2026-to-jan-4-2027/"},
+          {"og": "https://www.devdiscourse.com/article/headlines/4000672-uttarakhand-census-2027-to-be-held-from-dec-1-to-jan-4-self-enumeration-begins-nov-16"},
+          {"og": "https://www.freepressjournal.in/india/up-census-2027-self-enumeration-begins-november-16-online-registration-open-until-nov-30"},
+          {"og": "https://www.prabhatkhabar.com/state/uttar-pradesh/agra-census-2027-self-enumeration-form-online-process-16-november-2026"},
+          {"og": "https://www.amarujala.com/lucknow/census-self-enumeration-begins-on-the-16th-enumerators-to-visit-homes-starting-december-1st-lucknow-news-c-13-1-lko1029-1991607-2026-11-01"},
+          {"og": "https://www.theweek.in/wire-updates/national/2026/11/03/no-individual-or-family-should-be-left-out-up-governor-seeks-accurate-census-data.html"},
+          {"og": "https://telanganatoday.com/census-2027-population-enumeration-set-for-up-punjab-goa-from-december"},
+          {"og": "https://www.nationalheraldindia.com/national/census-enumeration-advanced-in-four-poll-bound-states-from-1-december"}],
+ "wk":   [{"og": "https://en.wikipedia.org/wiki/2027_census_of_India"}, {"og": "https://en.wikipedia.org/wiki/Census_of_India"},
+          {"wiki": "Census of India enumerator", "n": 3}, {"wiki": "Uttar Pradesh Vidhan Sabha", "n": 2}]
+}

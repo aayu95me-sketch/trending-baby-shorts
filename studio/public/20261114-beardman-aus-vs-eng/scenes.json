@@ -1,0 +1,67 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: ANI (ICC), WISDEN, WIKIPEDIA · 13 NOV 2026",
+ "loopTail": 0.5,
+ "scenes": [
+  {
+   "at": 0,
+   "big": "YEH LADKA YAAD HAI?",
+   "color": "gold",
+   "tag": "U19 WORLD CUP FINAL 2024 · INDIA KE KHILAAF 3/15",
+   "img": "20261114-beardman-aus-vs-eng/real/news-1.jpg",
+   "focus": "50% 30%",
+   "credit": "PHOTO VIA CODE SPORTS"
+  },
+  {
+   "at": "today",
+   "big": "DEBUT PAR 6/24",
+   "color": "green",
+   "tag": "AUS vs ENG · 1ST ODI · PERTH",
+   "img": "20261114-beardman-aus-vs-eng/real/news-0.jpg",
+   "focus": "50% 30%",
+   "credit": "PHOTO VIA WISDEN"
+  },
+  {
+   "at": "all",
+   "big": "ENGLAND 131 ALL OUT",
+   "color": "red",
+   "tag": "BROOK 1 · ROOT 17 · DONO BEARDMAN KE SHIKAAR",
+   "credit": "PERTH STADIUM · VIA WIKIPEDIA",
+   "img": "20261114-beardman-aus-vs-eng/real/wk-0.jpg"
+  },
+  {
+   "at": "win",
+   "big": "7 WICKET SE JEET",
+   "color": "white",
+   "tag": "23.3 OVER MEIN · MARSH 50 (30 BALL)",
+   "img": "20261114-beardman-aus-vs-eng/real/news-1.jpg",
+   "credit": "PHOTO VIA CODE SPORTS",
+   "focus": "50% 30%"
+  },
+  {
+   "at": "name",
+   "big": "MAHLI BEARDMAN",
+   "color": "gold",
+   "tag": "21 SAAL · 38 SAAL PURANA RECORD TOOTA",
+   "img": "20261114-beardman-aus-vs-eng/real/news-0.jpg",
+   "credit": "PHOTO VIA WISDEN",
+   "focus": "50% 20%"
+  },
+  {
+   "at": "end",
+   "big": "AGLA STARC?",
+   "color": "gold",
+   "img": "20261114-beardman-aus-vs-eng/real/wk-2.jpg",
+   "focus": "50% 30%",
+   "credit": "MITCHELL STARC · VIA WIKIPEDIA"
+  },
+  {
+   "at": "end",
+   "big": "YEH LADKA YAAD HAI?",
+   "color": "gold",
+   "tag": "U19 WORLD CUP FINAL 2024 · INDIA KE KHILAAF 3/15",
+   "img": "20261114-beardman-aus-vs-eng/real/news-1.jpg",
+   "focus": "50% 30%"
+  }
+ ]
+}

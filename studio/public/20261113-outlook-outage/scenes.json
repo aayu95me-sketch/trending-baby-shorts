@@ -1,0 +1,96 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: MICROSOFT VIA OPEN MAGAZINE, ABC, BUSINESS STANDARD, AL JAZEERA · 13 NOV 2026",
+ "loopTail": 0.7,
+ "save": {
+  "title": "OUTLOOK DOWN",
+  "lines": [
+   [
+    "SIRF AAPKA?",
+    "NAHI, DUNIYA BHAR",
+    "green"
+   ],
+   [
+    "SHIKAYAT",
+    "74 DESH, 1.3 LAKH+"
+   ],
+   [
+    "MICROSOFT",
+    "SERVERS BAND, HACKING NAHI"
+   ],
+   [
+    "PEHLA FIX",
+    "TIKA NAHI",
+    "red"
+   ]
+  ],
+  "footer": "AS OF 13 NOV 2026 · FOLLOW: DOUBT CLEAR"
+ },
+ "scenes": [
+  {
+   "at": 0,
+   "big": "SIRF AAPKA?",
+   "color": "gold",
+   "tag": "OUTLOOK · TEAMS · MICROSOFT 365",
+   "videos": [
+    "20261113-outlook-outage/real/news-5.jpg",
+    "20261113-outlook-outage/real/news-1.jpg"
+   ],
+   "credit": "PHOTOS VIA TOM'S GUIDE · OPEN MAGAZINE"
+  },
+  {
+   "at": "world",
+   "big": "74 DESH",
+   "color": "white",
+   "tag": "1,30,000+ SHIKAYAT · DOWNDETECTOR",
+   "img": "20261113-outlook-outage/real/news-1.jpg",
+   "low": true,
+   "credit": "PHOTO VIA OPEN MAGAZINE"
+  },
+  {
+   "at": "cause",
+   "big": "HACKING NAHI",
+   "color": "green",
+   "tag": "MICROSOFT: SERVERS ACHANAK BAND",
+   "videos": [
+    "20261113-outlook-outage/real/wk-6.jpg",
+    "20261113-outlook-outage/real/wk-3.jpg"
+   ],
+   "low": true,
+   "credit": "REPRESENTATIVE: PIDATACENTERS CC BY-SA · COOLCAESAR CC BY-SA"
+  },
+  {
+   "at": "twist",
+   "big": "FIX TIKA NAHI",
+   "color": "red",
+   "tag": "SERVERS PHIR ATAK GAYE",
+   "img": "20261113-outlook-outage/real/news-3.jpg",
+   "low": true,
+   "credit": "PHOTO VIA THE NATIONAL"
+  },
+  {
+   "at": "tip",
+   "big": "PASSWORD MAT BADLO",
+   "color": "white",
+   "tag": "GALTI AAPKI NAHI",
+   "img": "20261113-outlook-outage/real/news-6.jpg",
+   "low": true,
+   "credit": "PHOTO VIA ABC NEWS"
+  },
+  {
+   "at": "end",
+   "big": "SYSTEM KHARAB?",
+   "color": "gold",
+   "img": "20261113-outlook-outage/real/news-4.jpg",
+   "low": true,
+   "credit": "PHOTO VIA TOM'S GUIDE"
+  },
+  {
+   "at": "end",
+   "big": "SIRF AAPKA?",
+   "color": "gold",
+   "tag": "OUTLOOK · TEAMS · MICROSOFT 365",
+   "img": "20261113-outlook-outage/real/news-5.jpg"
+  }
+ ]
+}

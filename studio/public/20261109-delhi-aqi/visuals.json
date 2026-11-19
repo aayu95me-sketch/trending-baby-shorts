@@ -1,0 +1,72 @@
+{
+ "hook": [
+  {
+   "wiki": "Diwali fireworks Delhi",
+   "n": 3
+  },
+  {
+   "yt": "ytsearch1:Delhi Diwali fireworks night smog 2026",
+   "start": 15,
+   "dur": 6
+  }
+ ],
+ "truth": [
+  {
+   "wiki": "Delhi smog India Gate",
+   "n": 3
+  },
+  {
+   "og": "https://www.outlookindia.com/national/masks-low-visibility-and-a-very-poor-aqi-in-delhi-pollution"
+  }
+ ],
+ "apps": [
+  {
+   "og": "https://www.newsgram.com/delhi/2026/11/09/delhi-diwali-aqi-1700"
+  },
+  {
+   "wiki": "air quality index Delhi display",
+   "n": 2
+  }
+ ],
+ "real": [
+  {
+   "og": "https://www.business-standard.com/india-news/delhi-s-post-diwali-air-remains-very-poor-15-locations-record-severe-aqi-126110900063_1.html"
+  },
+  {
+   "og": "https://www.outlookbusiness.com/planet/climate/delhi-air-quality-improves-still-very-poor-grap3-on-hold"
+  },
+  {
+   "og": "https://www.downtoearth.org.in/air/the-morning-after-diwali-delhi-ncrs-air-worsened-in-eight-of-the-past-nine-years-and-2026-tells-a-familiar-story"
+  }
+ ],
+ "but": [
+  {
+   "og": "https://www.thenewsminute.com/news/smog-chokes-delhi-ncr-as-aqi-breaches-400-mark-in-several-places"
+  },
+  {
+   "og": "https://www.zeebiz.com/india/news-delhi-smog-aqi-severe-toxic-sunday-air-pollution-breaches-400-ncr-382842"
+  },
+  {
+   "og": "https://openthemagazine.com/india/delhi-aqi-hits-389-as-rohini-and-iit-delhi-record-severe-air-at-474"
+  }
+ ],
+ "pm": [
+  {
+   "wiki": "Akshardham Delhi",
+   "n": 2
+  },
+  {
+   "wiki": "Delhi pollution mask",
+   "n": 3
+  }
+ ],
+ "end": [
+  {
+   "wiki": "Delhi smog traffic",
+   "n": 3
+  },
+  {
+   "og": "https://www.outlookindia.com/national/in-pictures-delhi-chokes-as-air-quality-remains-in-severe-category-aqi-nears-500"
+  }
+ ]
+}

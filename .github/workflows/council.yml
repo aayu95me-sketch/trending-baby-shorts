@@ -1,0 +1,52 @@
+# Reel council: script, voice, visuals, whole reel. Claude (leader) + Gemini (watches the reel) + gpt-oss (Groq) debate the
+# chance of going viral and agree on one version. Runs when council/<folder>/run.txt is pushed; several folders in one push run one by one.
+# Secrets: GEMINI_API_KEY (or GOOGLE_API_KEY), GROQ_API_KEY (free tiers). Writes only inside council/.
+name: Reel council
+
+on:
+  push:
+    branches: ["claude/**", "main"]
+    paths: ["council/*/run.txt", "council/*/claude-final.md"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: council-${{ github.ref }}
+
+jobs:
+  council:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 45
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY || secrets.GOOGLE_API_KEY }}
+      GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 2
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: "3.11"
+      - name: Run the council for each reel in this push
+        run: |
+          sudo apt-get -qq update >/dev/null && sudo apt-get -qq install -y ffmpeg >/dev/null
+          pip install -q requests
+          for n in $(git diff --name-only HEAD~1 HEAD | grep -E '^council/[^/]+/(run.txt|claude-final.md)$' | cut -d/ -f2 | sort -u); do
+            echo "::group::$n"
+            if [ ! -f "council/$n/reel.mp4" ]; then
+              git fetch -q --depth 1 origin "render-$n" && git show "FETCH_HEAD:$n.mp4" > /tmp/full.mp4 \
+                && ffmpeg -y -v error -i /tmp/full.mp4 -vf scale=360:-2 -c:v libx264 -crf 30 -preset veryfast -c:a aac -b:a 64k "council/$n/reel.mp4" \
+                || echo "::warning::no render for $n, council judges from the files only"
+            fi
+            python pipeline/council.py "$n" || echo "::warning::council failed for $n"
+            echo "::endgroup::"
+          done
+      - name: Save replies to the branch
+        if: always()
+        run: |
+          git config user.name "council-bot" && git config user.email "council-bot@users.noreply.github.com"
+          git add council
+          git diff --cached --quiet && exit 0
+          git commit -qm "Council replies"
+          git pull -q --rebase origin "${GITHUB_REF_NAME}" && git push -q origin "HEAD:${GITHUB_REF_NAME}"

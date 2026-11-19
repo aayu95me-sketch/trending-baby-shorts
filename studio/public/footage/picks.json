@@ -1,0 +1,50 @@
+{
+ "smog": {
+  "url": "https://assets.mixkit.co/videos/4360/4360-360.mp4",
+  "title": "4360-360.mp4",
+  "start": 0.3,
+  "dur": 5
+ },
+ "smog2": {
+  "url": "https://assets.mixkit.co/videos/47741/47741-720.mp4",
+  "title": "47741-720.mp4",
+  "start": 0.3,
+  "dur": 5
+ },
+ "cinema": {
+  "url": "https://assets.mixkit.co/videos/33312/33312-360.mp4",
+  "title": "33312-360.mp4",
+  "start": 0.3,
+  "dur": 5
+ },
+ "cinema2": {
+  "url": "https://assets.mixkit.co/videos/25478/25478-720.mp4",
+  "title": "25478-720.mp4",
+  "start": 0.3,
+  "dur": 5
+ },
+ "crowd": {
+  "url": "https://assets.mixkit.co/videos/14084/14084-360.mp4",
+  "title": "14084-360.mp4",
+  "start": 0.3,
+  "dur": 5
+ },
+ "datacenter": {
+  "url": "https://assets.mixkit.co/videos/23282/23282-360.mp4",
+  "title": "23282-360.mp4",
+  "start": 0.3,
+  "dur": 5
+ },
+ "datacenter2": {
+  "url": "https://assets.mixkit.co/videos/22966/22966-360.mp4",
+  "title": "22966-360.mp4",
+  "start": 0.3,
+  "dur": 5
+ },
+ "temple": {
+  "url": "https://assets.mixkit.co/videos/11072/11072-720.mp4",
+  "title": "11072-720.mp4",
+  "start": 0.3,
+  "dur": 5
+ }
+}

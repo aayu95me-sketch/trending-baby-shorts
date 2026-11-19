@@ -1,0 +1,97 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: AMAZON MGM STUDIOS, EURONEWS · 16 NOV 2026",
+ "loopTail": 0.5,
+ "scenes": [
+  {
+   "at": 0,
+   "big": "VAMPIRE → JAMES BOND?",
+   "color": "gold",
+   "tag": "ROBERT PATTINSON · 007",
+   "img": "20261117-pattinson-bond/real/news-4.jpg",
+   "credit": "PHOTO VIA KOTAKU / AMAZON MGM",
+   "focus": "80% 40%"
+  },
+  {
+   "at": "yes",
+   "big": "OFFICIAL ✔",
+   "color": "green",
+   "tag": "AMAZON MGM STUDIOS · 16 NOV 2026",
+   "img": "20261117-pattinson-bond/real/news-1.jpg",
+   "credit": "PHOTO VIA EURONEWS",
+   "fit": "blur"
+  },
+  {
+   "at": "seven",
+   "big": "7TH BOND",
+   "color": "gold",
+   "tag": "DANIEL CRAIG KI JAGAH",
+   "img": "20261117-pattinson-bond/real/wk-1.jpg",
+   "focus": "50% 25%",
+   "credit": "PHOTO VIA WIKIPEDIA"
+  },
+  {
+   "at": "team",
+   "big": "DUNE + PEAKY BLINDERS",
+   "color": "white",
+   "tag": "DENIS VILLENEUVE · STEVEN KNIGHT",
+   "img": "20261117-pattinson-bond/real/wk-2.jpg",
+   "focus": "50% 25%",
+   "credit": "PHOTO VIA WIKIPEDIA",
+   "videos": [
+    "20261117-pattinson-bond/real/wk-2.jpg",
+    "20261117-pattinson-bond/real/wk-3.jpg"
+   ]
+  },
+  {
+   "at": "race",
+   "big": "BAZI PATTINSON KI",
+   "color": "gold",
+   "tag": "CALLUM TURNER · NICHOLAS HOULT · JOSH O'CONNOR",
+   "img": "20261117-pattinson-bond/real/wk-4.jpg",
+   "focus": "50% 25%",
+   "credit": "PHOTO VIA WIKIPEDIA",
+   "videos": [
+    "20261117-pattinson-bond/real/wk-4.jpg",
+    "20261117-pattinson-bond/real/wk-5.jpg",
+    "20261117-pattinson-bond/real/wk-6.jpg"
+   ]
+  },
+  {
+   "at": "when",
+   "big": "2028 SE PEHLE NAHI",
+   "color": "gold",
+   "tag": "SHOOTING 2027 (EXPECTED) · EURONEWS",
+   "img": "20261117-pattinson-bond/real/news-5.jpg",
+   "fit": "blur",
+   "credit": "PHOTO VIA CNN"
+  },
+  {
+   "at": "quote",
+   "big": "\"HONOUR OF A LIFETIME\"",
+   "color": "white",
+   "tag": "ROBERT PATTINSON",
+   "img": "20261117-pattinson-bond/real/wk-8.jpg",
+   "focus": "50% 25%",
+   "credit": "PHOTO: HARALD KRICHEL, CC BY-SA 4.0"
+  },
+  {
+   "at": "end",
+   "big": "SAHI CHOICE?",
+   "color": "gold",
+   "tag": "BATMAN → BOND · COMMENT KARO",
+   "img": "20261117-pattinson-bond/real/wk-7.jpg",
+   "focus": "50% 25%",
+   "credit": "PHOTO: ELENA TERNOVAJA, CC BY-SA 3.0"
+  },
+  {
+   "at": "end",
+   "big": "VAMPIRE → JAMES BOND?",
+   "color": "gold",
+   "tag": "ROBERT PATTINSON · 007",
+   "img": "20261117-pattinson-bond/real/news-4.jpg",
+   "credit": "PHOTO VIA KOTAKU / AMAZON MGM",
+   "focus": "80% 40%"
+  }
+ ]
+}

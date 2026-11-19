@@ -1,0 +1,11 @@
+node_modules/
+.venv/
+out/
+.env
+**/voice_raw*.wav
+**/response.json
+studio/public/01-brahmastra-vs-gauntlet/
+studio/node_modules/
+.DS_Store
+studio/public/longvid/*.mp4
+__pycache__/

@@ -1,0 +1,110 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: PUNJAB STATE LOTTERIES SCHEME (VIA LOTTERYKHABAR), ASIANET · 16 NOV 2026",
+ "loopTail": 0.5,
+ "scenes": [
+  {
+   "at": 0,
+   "big": "12 CRORE: ASLI CHANCE?",
+   "color": "gold",
+   "tag": "PUNJAB DIWALI BUMPER 2026",
+   "img": "20261117-diwali-bumper-odds/real/news-2.jpg",
+   "focus": "50% 12%",
+   "credit": "IMAGE VIA PUNJABSTATELOTTERY.CO.IN"
+  },
+  {
+   "at": "truth",
+   "tag": "PEHLA INAAM SIRF 1",
+   "counter": {
+    "from": 0,
+    "to": 3600000,
+    "prefix": "",
+    "suffix": "",
+    "label": "TICKETS"
+   },
+   "img": "20261117-diwali-bumper-odds/real/news-2.jpg",
+   "focus": "50% 70%",
+   "credit": "IMAGE VIA PUNJABSTATELOTTERY.CO.IN"
+  },
+  {
+   "at": "odds",
+   "big": "36 LAKH MEIN 1",
+   "color": "red",
+   "tag": "PEHLE INAAM KA CHANCE",
+   "img": "20261117-diwali-bumper-odds/real/wk-3.jpg",
+   "focus": "50% 60%",
+   "credit": "PHOTO: MCKAY SAVAGE, CC BY 2.0"
+  },
+  {
+   "at": "prizes",
+   "tag": "KUL 1,90,842 INAAM",
+   "bars": [
+    [
+     "₹1,000",
+     180000
+    ],
+    [
+     "₹3,000",
+     3600
+    ],
+    [
+     "₹9,000",
+     3600
+    ],
+    [
+     "₹1 CR+",
+     4
+    ]
+   ],
+   "barUnit": "",
+   "img": "20261117-diwali-bumper-odds/real/news-1.jpg",
+   "fit": "blur",
+   "credit": "IMAGE VIA GOODRETURNS"
+  },
+  {
+   "at": "money",
+   "big": "₹180 CR → ₹48 CR",
+   "color": "red",
+   "tag": "AGAR SAARE BIKE → KUL INAAM",
+   "img": "20261117-diwali-bumper-odds/real/wk-2.jpg",
+   "fit": "blur",
+   "credit": "RBI · GODL-INDIA"
+  },
+  {
+   "at": "tax",
+   "big": "30% TDS",
+   "color": "red",
+   "tag": "12 CRORE POORE NAHI MILTE",
+   "img": "20261117-diwali-bumper-odds/real/wk-2.jpg",
+   "focus": "40% 50%",
+   "credit": "RBI · GODL-INDIA"
+  },
+  {
+   "at": "check",
+   "big": "SERIES + NUMBER",
+   "color": "white",
+   "tag": "RESULT SIRF OFFICIAL GAZETTE SE MILAAO",
+   "img": "20261117-diwali-bumper-odds/real/news-2.jpg",
+   "focus": "50% 75%",
+   "credit": "IMAGE VIA PUNJABSTATELOTTERY.CO.IN"
+  },
+  {
+   "at": "end",
+   "big": "PHIR BHI LOGE?",
+   "color": "gold",
+   "tag": "COMMENT KARO",
+   "img": "20261117-diwali-bumper-odds/real/wk-4.jpg",
+   "focus": "50% 60%",
+   "credit": "PHOTO: MCKAY SAVAGE, CC BY 2.0"
+  },
+  {
+   "at": "end",
+   "big": "12 CRORE: ASLI CHANCE?",
+   "color": "gold",
+   "tag": "PUNJAB DIWALI BUMPER 2026",
+   "img": "20261117-diwali-bumper-odds/real/news-2.jpg",
+   "focus": "50% 12%",
+   "credit": "IMAGE VIA PUNJABSTATELOTTERY.CO.IN"
+  }
+ ]
+}

@@ -1,0 +1,7 @@
+# Claude (leader), round 0. Written before any council reply.
+Reel: 12 people boarded the 22415 Varanasi-New Delhi Vande Bharat at Kanpur Central (Sun 15 Nov 2026) to load a relative's luggage; auto doors locked, train left; unscheduled halt Etawah 10:49 am (79 min); RPF/GRP took them off; commercial staff fined Rs 3,000 each = Rs 36,000 (IndiaBlooms via Hindustan Times, Asianet Newsable, Kiddaan, all 18 Nov). NER Sr DCM Arijit Singh (via HT): see-off people must get down on the announcement; anyone left without a ticket pays fare from origin to destination plus penalty. Gulte says 13 people / Rs 36,140: left out (conflicts).
+Lane: civic number scare (LESSONS.md topic rule 2d). Post 19 Nov 12:00 IST. CSV: vande bharat express 200+ Delhi, started 16:40 IST 18 Nov.
+My scores: Script 7.5, Voice 7.5, Visuals 7, Whole 7.5. Length 37.8 s (a bit long).
+Already fixing: "why" beat big text ran 3 lines and hit the source line -> shortened to "POORA KIRAYA + PENALTY".
+Not using: the outlets' lead images are AI illustrations (Gemini/ChatGPT credited), so only real Vande Bharat / Kanpur / Etawah photos.
+Questions: 1) Hook: "Sirf relative ko train mein bithaane gaye, aur 36,000 ka fine?" vs "Train tak chhodne gaye, 36,000 ka fine?" Which stops the thumb harder? 2) Which line to cut to get near 32 s (the "Officer ne saaf kaha" line repeats the rule)? 3) Is the end tip "Saamaan darwaze tak do, andar mat jao" useful enough to make people share?

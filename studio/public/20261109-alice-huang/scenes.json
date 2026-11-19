@@ -1,0 +1,122 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: NYT, FT, BLOOMBERG VIA TECHCRUNCH · NVIDIA BOARD STATEMENT 8 NOV",
+ "loopTail": 0.7,
+ "save": {
+  "title": "ALICE HUANG CASE",
+  "lines": [
+   [
+    "JASOOSI",
+    "SIRF DAAWA",
+    "red"
+   ],
+   [
+    "AFFAIR",
+    "MAANA (REPORTS)"
+   ],
+   [
+    "NVIDIA BOARD",
+    "JAANCH SHURU",
+    "green"
+   ],
+   [
+    "RAAZ LEAK?",
+    "SABUT NAHI"
+   ]
+  ],
+  "footer": "AS OF 9 NOV 2026 · FOLLOW: DOUBT CLEAR"
+ },
+ "scenes": [
+  {
+   "at": 0,
+   "tag": "NVIDIA CEO",
+   "big": "JASOOS?",
+   "color": "red",
+   "videos": [
+    "20261109-alice-huang/real/hook-3.jpg",
+    "20261109-alice-huang/real/who-1.jpg"
+   ],
+   "focus": "35% 30%",
+   "credit": "JENSEN HUANG: A. EIDESVIK CC BY-SA · WIKIMEDIA / HNGN",
+   "low": true
+  },
+  {
+   "at": "who",
+   "tag": "ALICE HUANG · MEGASPEED",
+   "headline": {
+    "source": "TechCrunch",
+    "date": "7 Nov 2026",
+    "title": "Chinese exec was recruited to spy on Nvidia CEO, according to US intelligence memo"
+   },
+   "img": "20261109-alice-huang/real/who-4.jpg",
+   "credit": "SINGAPORE: B. MORIN CC BY-SA · WIKIMEDIA"
+  },
+  {
+   "at": "memo",
+   "tag": "MEMO KA DAAWA",
+   "big": "CHINA?",
+   "color": "red",
+   "img": "20261109-alice-huang/real/memo-0.jpg",
+   "credit": "PHOTO: TECHCRUNCH",
+   "low": true
+  },
+  {
+   "at": "claim",
+   "tag": "SACH",
+   "big": "SAABIT NAHI",
+   "color": "green",
+   "img": "20261109-alice-huang/real/hook-1.jpg",
+   "focus": "50% 30%",
+   "credit": "A. EIDESVIK CC BY-SA · WIKIMEDIA",
+   "low": true
+  },
+  {
+   "at": "affair",
+   "tag": "REPORTS",
+   "headline": {
+    "source": "TechCrunch",
+    "date": "8 Nov 2026",
+    "title": "Nvidia says it's investigating CEO Jensen Huang's relationship with possible Chinese spy"
+   },
+   "img": "20261109-alice-huang/real/probe-3.jpg",
+   "credit": "NVIDIA HQ: COOLCAESAR CC BY-SA · WIKIMEDIA"
+  },
+  {
+   "at": "probe",
+   "tag": "SACH vs DAAWA",
+   "headline": {
+    "source": "Doubt Clear",
+    "title": "Jasoosi: sirf daawa. Affair: maana (reports). Board ki jaanch: shuru."
+   },
+   "img": "20261109-alice-huang/real/probe-2.jpg",
+   "credit": "W. BUCKNER CC BY · WIKIMEDIA"
+  },
+  {
+   "at": "board",
+   "tag": "NVIDIA BOARD",
+   "big": "KOI SABUT NAHI",
+   "color": "green",
+   "img": "20261109-alice-huang/real/board-0.jpg",
+   "fit": "blur",
+   "credit": "NVIDIA"
+  },
+  {
+   "at": "end",
+   "big": "SHARE KARO",
+   "color": "gold",
+   "img": "20261109-alice-huang/real/hook-0.jpg",
+   "focus": "50% 25%",
+   "credit": "PMO INDIA, GODL · WIKIMEDIA",
+   "low": true
+  },
+  {
+   "at": "end",
+   "tag": "NVIDIA CEO",
+   "big": "JASOOS?",
+   "color": "red",
+   "img": "20261109-alice-huang/real/hook-3.jpg",
+   "focus": "35% 30%",
+   "low": true
+  }
+ ]
+}
