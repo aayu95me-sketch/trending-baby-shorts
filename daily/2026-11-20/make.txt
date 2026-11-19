@@ -1,2 +1,2 @@
 20261120-ps5-price-hike
-# v3: review-score line replaced (unconfirmed)
+# v4: retry v3 (v2 run finished last and overwrote it)
