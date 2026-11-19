@@ -1,0 +1,36 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "Average ticket loan lagbhag atthais hazaar ka – numeric claim without a source",
+    "Pandrah percent byaaj pe saal bhar, har mahine pachchees sau se upar – interest‑rate and monthly‑payment claim without a source",
+    "Total tees hazaar se zyada. Do hazaar se upar sirf byaaj, aur phone ki keemat har mahine girti hai – total‑cost and depreciation claim without a source",
+    "Teen mahine bachao, cash mein lo, aur byaaj ke paise jeb mein rakho – financial advice to take cash instead of EMI without disclaimer"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "hook",
+    "stat",
+    "ticket",
+    "young",
+    "emi hisaab",
+    "rule",
+    "show",
+    "end",
+    "chauhattar (as used in ‘har sau mein se chauhattar’)",
+    "atthais",
+    "pentees",
+    "baasath"
+   ],
+   "one_line_verdict": "The script has no numeric shown/spoken mismatches but contains several unsupported financial claims, advice without disclaimer, and many unnatural Hinglish words that hurt credibility and flow."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}
