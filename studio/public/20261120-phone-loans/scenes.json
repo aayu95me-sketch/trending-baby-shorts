@@ -1,6 +1,6 @@
 {
  "banner": "DOUBT CLEAR",
- "note": "SOURCE: BUSINESS TODAY / LENTRA, 19 NOV 2026",
+ "note": "SOURCE: BUSINESS TODAY / LENTRA, 19 NOV 2026 · HISAAB HAI, FINANCIAL ADVICE NAHI",
  "loopTail": 0.5,
  "scenes": [
   {
@@ -44,17 +44,17 @@
    "big": "Rs 2,527 / MAHINA",
    "color": "gold",
    "tag": "15% BYAAJ · 12 MAHINE",
-   "img": "20261120-phone-loans/real/news-1.jpg",
-   "credit": "IMAGE VIA UJJIVAN SFB",
-   "fit": "blur"
+   "img": "20261120-phone-loans/real/wk-1.jpg",
+   "credit": "PHOTO: WIKIMEDIA COMMONS, CC BY-SA 3.0",
+   "focus": "40% 50%"
   },
   {
    "at": "total",
    "big": "Rs 30,320",
    "color": "red",
    "tag": "Rs 2,320 SIRF BYAAJ",
-   "img": "20261120-ps5-price-hike/real/wk-5.jpg",
-   "credit": "PHOTO: WIKIMEDIA COMMONS, CC BY-SA 4.0",
+   "img": "20261120-phone-loans/real/news-1.jpg",
+   "credit": "IMAGE VIA UJJIVAN SFB",
    "fit": "blur"
   },
   {

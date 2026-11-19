@@ -1,0 +1,916 @@
+{
+ "total": 46.798,
+ "voice": "20261120-ps5-price-hike/voice.wav",
+ "lines": [
+  {
+   "start": 0.0,
+   "text": "Bhai dekh, yeh hai PS5, aur aaj se ismein chal raha hai GTA 6.",
+   "end": 5.039
+  },
+  {
+   "start": 5.46,
+   "text": "Terah saal ke intezaar ke baad Rockstar ka naya GTA aaya hai.",
+   "end": 9.074
+  },
+  {
+   "start": 9.448,
+   "text": "Vice City wapas aayi hai. Do hero, Lucia aur Jason, aur ghoomne ko poora state.",
+   "end": 15.379
+  },
+  {
+   "start": 15.635,
+   "text": "Aur PS5? Four K graphics, aur SSD itni tez ki loading screen dikhti hi nahi.",
+   "end": 20.659
+  },
+  {
+   "start": 21.0,
+   "text": "Controller haath mein vibrate karke batata hai gaadi kaunsi sadak pe chal rahi hai.",
+   "end": 24.776
+  },
+  {
+   "start": 25.162,
+   "text": "Ab lene chalega? Isi mahine PS5 pachpan hazaar se sattar hazaar ka ho gaya.",
+   "end": 30.18
+  },
+  {
+   "start": 30.18,
+   "text": "GTA ki wajah se nahi. Memory aur storage mehengi hui, US, UK, Japan mein bhi daam badhe.",
+   "end": 34.353
+  },
+  {
+   "start": 34.76,
+   "text": "Game milaake lagbhag chhihattar hazaar. Sirf hike ke paison mein GTA ki dhai copies aa jaati.",
+   "end": 40.101
+  },
+  {
+   "start": 40.46,
+   "text": "Tu lega ya wait karega? Comment kar, aur us dost ko bhej jo bolta hai game bachchon ka khel hai.",
+   "end": 45.444
+  }
+ ],
+ "words": [
+  {
+   "w": "Bhai",
+   "start": 0.0,
+   "end": 0.38
+  },
+  {
+   "w": "dekh,",
+   "start": 0.4,
+   "end": 1.086
+  },
+  {
+   "w": "yeh",
+   "start": 1.106,
+   "end": 1.44
+  },
+  {
+   "w": "hai",
+   "start": 1.46,
+   "end": 1.62
+  },
+  {
+   "w": "PS5,",
+   "start": 1.64,
+   "end": 2.44
+  },
+  {
+   "w": "aur",
+   "start": 2.543,
+   "end": 2.812
+  },
+  {
+   "w": "aaj",
+   "start": 2.832,
+   "end": 3.22
+  },
+  {
+   "w": "se",
+   "start": 3.24,
+   "end": 3.34
+  },
+  {
+   "w": "ismein",
+   "start": 3.36,
+   "end": 3.68
+  },
+  {
+   "w": "chal",
+   "start": 3.7,
+   "end": 3.86
+  },
+  {
+   "w": "raha",
+   "start": 3.88,
+   "end": 4.12
+  },
+  {
+   "w": "hai",
+   "start": 4.14,
+   "end": 4.26
+  },
+  {
+   "w": "GTA",
+   "start": 4.28,
+   "end": 4.84
+  },
+  {
+   "w": "6.",
+   "start": 4.86,
+   "end": 5.44
+  },
+  {
+   "w": "Terah",
+   "start": 5.46,
+   "end": 6.04
+  },
+  {
+   "w": "saal",
+   "start": 6.06,
+   "end": 6.42
+  },
+  {
+   "w": "ke",
+   "start": 6.44,
+   "end": 6.5
+  },
+  {
+   "w": "intezaar",
+   "start": 6.52,
+   "end": 6.94
+  },
+  {
+   "w": "ke",
+   "start": 6.96,
+   "end": 7.06
+  },
+  {
+   "w": "baad",
+   "start": 7.08,
+   "end": 7.32
+  },
+  {
+   "w": "Rockstar",
+   "start": 7.34,
+   "end": 7.86
+  },
+  {
+   "w": "ka",
+   "start": 7.88,
+   "end": 8.0
+  },
+  {
+   "w": "naya",
+   "start": 8.02,
+   "end": 8.54
+  },
+  {
+   "w": "GTA",
+   "start": 8.56,
+   "end": 8.66
+  },
+  {
+   "w": "aaya",
+   "start": 8.68,
+   "end": 8.94
+  },
+  {
+   "w": "hai.",
+   "start": 8.96,
+   "end": 9.428
+  },
+  {
+   "w": "Vice",
+   "start": 9.448,
+   "end": 9.86
+  },
+  {
+   "w": "City",
+   "start": 9.88,
+   "end": 10.06
+  },
+  {
+   "w": "wapas",
+   "start": 10.08,
+   "end": 10.38
+  },
+  {
+   "w": "aayi",
+   "start": 10.4,
+   "end": 10.56
+  },
+  {
+   "w": "hai.",
+   "start": 10.58,
+   "end": 11.06
+  },
+  {
+   "w": "Do",
+   "start": 11.08,
+   "end": 11.3
+  },
+  {
+   "w": "hero,",
+   "start": 11.32,
+   "end": 11.773
+  },
+  {
+   "w": "Lucia",
+   "start": 11.793,
+   "end": 12.46
+  },
+  {
+   "w": "aur",
+   "start": 12.48,
+   "end": 12.6
+  },
+  {
+   "w": "Jason,",
+   "start": 12.62,
+   "end": 13.18
+  },
+  {
+   "w": "aur",
+   "start": 13.2,
+   "end": 13.54
+  },
+  {
+   "w": "ghoomne",
+   "start": 13.56,
+   "end": 14.12
+  },
+  {
+   "w": "ko",
+   "start": 14.14,
+   "end": 14.42
+  },
+  {
+   "w": "poora",
+   "start": 14.44,
+   "end": 14.86
+  },
+  {
+   "w": "state.",
+   "start": 14.88,
+   "end": 15.615
+  },
+  {
+   "w": "Aur",
+   "start": 15.635,
+   "end": 15.8
+  },
+  {
+   "w": "PS5?",
+   "start": 15.82,
+   "end": 16.14
+  },
+  {
+   "w": "Four",
+   "start": 16.16,
+   "end": 16.48
+  },
+  {
+   "w": "K",
+   "start": 16.5,
+   "end": 17.3
+  },
+  {
+   "w": "graphics,",
+   "start": 17.36,
+   "end": 18.06
+  },
+  {
+   "w": "aur",
+   "start": 18.08,
+   "end": 18.3
+  },
+  {
+   "w": "SSD",
+   "start": 18.32,
+   "end": 18.72
+  },
+  {
+   "w": "itni",
+   "start": 18.74,
+   "end": 19.12
+  },
+  {
+   "w": "tez",
+   "start": 19.14,
+   "end": 19.4
+  },
+  {
+   "w": "ki",
+   "start": 19.42,
+   "end": 19.5
+  },
+  {
+   "w": "loading",
+   "start": 19.52,
+   "end": 19.81
+  },
+  {
+   "w": "screen",
+   "start": 19.83,
+   "end": 20.12
+  },
+  {
+   "w": "dikhti",
+   "start": 20.14,
+   "end": 20.46
+  },
+  {
+   "w": "hi",
+   "start": 20.48,
+   "end": 20.56
+  },
+  {
+   "w": "nahi.",
+   "start": 20.58,
+   "end": 20.98
+  },
+  {
+   "w": "Controller",
+   "start": 21.0,
+   "end": 21.62
+  },
+  {
+   "w": "haath",
+   "start": 21.64,
+   "end": 21.96
+  },
+  {
+   "w": "mein",
+   "start": 21.98,
+   "end": 22.1
+  },
+  {
+   "w": "vibrate",
+   "start": 22.12,
+   "end": 22.5
+  },
+  {
+   "w": "karke",
+   "start": 22.52,
+   "end": 22.74
+  },
+  {
+   "w": "batata",
+   "start": 22.76,
+   "end": 23.12
+  },
+  {
+   "w": "hai",
+   "start": 23.14,
+   "end": 23.3
+  },
+  {
+   "w": "gaadi",
+   "start": 23.32,
+   "end": 23.66
+  },
+  {
+   "w": "kaunsi",
+   "start": 23.68,
+   "end": 23.98
+  },
+  {
+   "w": "sadak",
+   "start": 24.0,
+   "end": 24.26
+  },
+  {
+   "w": "pe",
+   "start": 24.28,
+   "end": 24.36
+  },
+  {
+   "w": "chal",
+   "start": 24.38,
+   "end": 24.54
+  },
+  {
+   "w": "rahi",
+   "start": 24.56,
+   "end": 24.68
+  },
+  {
+   "w": "hai.",
+   "start": 24.7,
+   "end": 25.142
+  },
+  {
+   "w": "Ab",
+   "start": 25.162,
+   "end": 25.26
+  },
+  {
+   "w": "lene",
+   "start": 25.28,
+   "end": 25.5
+  },
+  {
+   "w": "chalega?",
+   "start": 25.52,
+   "end": 26.134
+  },
+  {
+   "w": "Isi",
+   "start": 26.154,
+   "end": 26.5
+  },
+  {
+   "w": "mahine",
+   "start": 26.52,
+   "end": 26.917
+  },
+  {
+   "w": "PS5",
+   "start": 26.937,
+   "end": 27.338
+  },
+  {
+   "w": "pachpan",
+   "start": 27.358,
+   "end": 27.759
+  },
+  {
+   "w": "hazaar",
+   "start": 27.779,
+   "end": 28.18
+  },
+  {
+   "w": "se",
+   "start": 28.2,
+   "end": 28.48
+  },
+  {
+   "w": "sattar",
+   "start": 28.5,
+   "end": 28.78
+  },
+  {
+   "w": "hazaar",
+   "start": 28.8,
+   "end": 29.02
+  },
+  {
+   "w": "ka",
+   "start": 29.04,
+   "end": 29.14
+  },
+  {
+   "w": "ho",
+   "start": 29.16,
+   "end": 29.3
+  },
+  {
+   "w": "gaya.",
+   "start": 29.32,
+   "end": 30.12
+  },
+  {
+   "w": "GTA",
+   "start": 30.18,
+   "end": 30.28
+  },
+  {
+   "w": "ki",
+   "start": 30.3,
+   "end": 30.38
+  },
+  {
+   "w": "wajah",
+   "start": 30.4,
+   "end": 30.54
+  },
+  {
+   "w": "se",
+   "start": 30.56,
+   "end": 30.72
+  },
+  {
+   "w": "nahi.",
+   "start": 30.74,
+   "end": 31.24
+  },
+  {
+   "w": "Memory",
+   "start": 31.26,
+   "end": 31.64
+  },
+  {
+   "w": "aur",
+   "start": 31.66,
+   "end": 31.76
+  },
+  {
+   "w": "storage",
+   "start": 31.78,
+   "end": 32.12
+  },
+  {
+   "w": "mehengi",
+   "start": 32.14,
+   "end": 32.42
+  },
+  {
+   "w": "hui,",
+   "start": 32.44,
+   "end": 32.76
+  },
+  {
+   "w": "US,",
+   "start": 32.78,
+   "end": 33.24
+  },
+  {
+   "w": "UK,",
+   "start": 33.26,
+   "end": 33.58
+  },
+  {
+   "w": "Japan",
+   "start": 33.6,
+   "end": 33.76
+  },
+  {
+   "w": "mein",
+   "start": 33.78,
+   "end": 33.94
+  },
+  {
+   "w": "bhi",
+   "start": 33.96,
+   "end": 34.05
+  },
+  {
+   "w": "daam",
+   "start": 34.07,
+   "end": 34.16
+  },
+  {
+   "w": "badhe.",
+   "start": 34.18,
+   "end": 34.74
+  },
+  {
+   "w": "Game",
+   "start": 34.76,
+   "end": 35.08
+  },
+  {
+   "w": "milaake",
+   "start": 35.1,
+   "end": 35.48
+  },
+  {
+   "w": "lagbhag",
+   "start": 35.5,
+   "end": 35.9
+  },
+  {
+   "w": "chhihattar",
+   "start": 35.92,
+   "end": 36.46
+  },
+  {
+   "w": "hazaar.",
+   "start": 36.48,
+   "end": 37.22
+  },
+  {
+   "w": "Sirf",
+   "start": 37.24,
+   "end": 37.54
+  },
+  {
+   "w": "hike",
+   "start": 37.56,
+   "end": 37.74
+  },
+  {
+   "w": "ke",
+   "start": 37.76,
+   "end": 37.86
+  },
+  {
+   "w": "paison",
+   "start": 37.88,
+   "end": 38.2
+  },
+  {
+   "w": "mein",
+   "start": 38.22,
+   "end": 38.56
+  },
+  {
+   "w": "GTA",
+   "start": 38.58,
+   "end": 38.98
+  },
+  {
+   "w": "ki",
+   "start": 39.0,
+   "end": 39.24
+  },
+  {
+   "w": "dhai",
+   "start": 39.26,
+   "end": 39.44
+  },
+  {
+   "w": "copies",
+   "start": 39.46,
+   "end": 39.58
+  },
+  {
+   "w": "aa",
+   "start": 39.6,
+   "end": 39.72
+  },
+  {
+   "w": "jaati.",
+   "start": 39.74,
+   "end": 40.44
+  },
+  {
+   "w": "Tu",
+   "start": 40.46,
+   "end": 40.62
+  },
+  {
+   "w": "lega",
+   "start": 40.64,
+   "end": 40.96
+  },
+  {
+   "w": "ya",
+   "start": 40.98,
+   "end": 41.04
+  },
+  {
+   "w": "wait",
+   "start": 41.06,
+   "end": 41.3
+  },
+  {
+   "w": "karega?",
+   "start": 41.32,
+   "end": 41.86
+  },
+  {
+   "w": "Comment",
+   "start": 41.88,
+   "end": 42.18
+  },
+  {
+   "w": "kar,",
+   "start": 42.2,
+   "end": 42.443
+  },
+  {
+   "w": "aur",
+   "start": 42.463,
+   "end": 42.86
+  },
+  {
+   "w": "us",
+   "start": 42.88,
+   "end": 42.98
+  },
+  {
+   "w": "dost",
+   "start": 43.0,
+   "end": 43.26
+  },
+  {
+   "w": "ko",
+   "start": 43.28,
+   "end": 43.34
+  },
+  {
+   "w": "bhej",
+   "start": 43.36,
+   "end": 43.82
+  },
+  {
+   "w": "jo",
+   "start": 43.84,
+   "end": 43.98
+  },
+  {
+   "w": "bolta",
+   "start": 44.0,
+   "end": 44.32
+  },
+  {
+   "w": "hai",
+   "start": 44.34,
+   "end": 44.4
+  },
+  {
+   "w": "game",
+   "start": 44.42,
+   "end": 44.68
+  },
+  {
+   "w": "bachchon",
+   "start": 44.7,
+   "end": 45.06
+  },
+  {
+   "w": "ka",
+   "start": 45.08,
+   "end": 45.16
+  },
+  {
+   "w": "khel",
+   "start": 45.18,
+   "end": 45.32
+  },
+  {
+   "w": "hai.",
+   "start": 45.34,
+   "end": 45.798
+  }
+ ],
+ "cues": {
+  "hook": 0.0,
+  "game": 5.46,
+  "city": 9.448,
+  "ps5": 15.635,
+  "pad": 21.0,
+  "price": 25.162,
+  "why": 30.18,
+  "total": 34.76,
+  "cta": 40.46
+ },
+ "numbers": [
+  {
+   "show": "PS5,",
+   "spoken": "PS5,",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "6.",
+   "spoken": "6.",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "PS5?",
+   "spoken": "PS5?",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "PS5",
+   "spoken": "PS5",
+   "heard": 1.0,
+   "digit_diff": 0
+  }
+ ],
+ "heard": [
+  "बही",
+  "देख",
+  "ये",
+  "है",
+  "PS5",
+  "और",
+  "आज",
+  "से",
+  "इसमें",
+  "चल",
+  "रहा",
+  "है",
+  "GTS",
+  "6",
+  "13",
+  "साल",
+  "के",
+  "इंतजार",
+  "के",
+  "बाद।",
+  "रॉकस्टार",
+  "का",
+  "नया",
+  "गी",
+  "टी",
+  "आया",
+  "है",
+  "वाइस",
+  "सिटी",
+  "वापस",
+  "आयी",
+  "हैं",
+  "दो",
+  "हीरो",
+  "लूसिया",
+  "और",
+  "जेसन",
+  "और",
+  "घूमने",
+  "को",
+  "पूढा",
+  "स्टेव",
+  "और",
+  "PS5",
+  "4K",
+  "ग्राफिक्स",
+  "और",
+  "SSD",
+  "इतनी",
+  "तेस",
+  "की",
+  "लोडिंग",
+  "अधिगटी",
+  "लिगती",
+  "ही",
+  "नि",
+  "कंट्रोलर",
+  "हाथ",
+  "में",
+  "वाइब्रेट",
+  "कर",
+  "कि",
+  "बताता",
+  "हैं",
+  "गाडी",
+  "कौन",
+  "सी",
+  "सडक",
+  "पे",
+  "चल",
+  "रही",
+  "हैं",
+  "अब",
+  "लेने",
+  "चलेगा",
+  "इसी",
+  "महिने",
+  "PS5",
+  "55000",
+  "से",
+  "70000",
+  "अजार",
+  "का",
+  "हो",
+  "गया",
+  "गी",
+  "टीए",
+  "की",
+  "वज़े",
+  "से",
+  "नहीं",
+  "मेम्री",
+  "और",
+  "सोरेज",
+  "मेहंगी",
+  "हुई",
+  "यूस",
+  "यूके",
+  "जपन",
+  "में",
+  "भी",
+  "बढ़े",
+  "गेम",
+  "मिलाके",
+  "लगभाग",
+  "चेव",
+  "पाइंगा",
+  ",000",
+  "आएगा।",
+  "सिर्फ",
+  "हाइक",
+  "के",
+  "पैसों",
+  "में",
+  "गीटी",
+  "एकी",
+  "धाइ",
+  "कौपीज",
+  "आजाजाथीं",
+  "तू",
+  "लेगा",
+  "या",
+  "वेट",
+  "करेगा,",
+  "कौमेंट",
+  "कर",
+  "और",
+  "उस",
+  "दोस्त",
+  "को",
+  "भेज",
+  "जो",
+  "बोलता",
+  "है",
+  "गेम",
+  "बच्छों",
+  "का",
+  "खेल",
+  "है।"
+ ]
+}
