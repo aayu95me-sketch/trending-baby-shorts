@@ -1,2 +1,2 @@
 20261120-ps5-price-hike
-# v4: retry v3 (v2 run finished last and overwrote it)
+# v5: council fixes (conflict in hook, shorter flex)
