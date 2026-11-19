@@ -2,7 +2,7 @@
 
 File: /mnt/project-files/trending-baby/long/long-ramayana-hisaab-v2.mp4 (8:03, 1920x1080, 237 MB). Too big for Chrome's file tool: drag it in or use the normal file picker.
 Channel: Doubt Clear (switch from "Ayush Sharma" first). Not made for kids. Altered/synthetic content: YES (AI voice + one AI still).
-Category: Entertainment. Language: Hindi. Thumbnail: auto frame for now (planned design in script.md).
+Category: Entertainment. Language: Hindi. Thumbnail: thumbnail.jpg (same folder; ₹1,483 Cr vs ₹4,000 Cr, "Wapas aayenge?").
 
 ## Title
 Ramayana ne 1,483 crore kamaye... phir bhi 4,000 crore wapas aayenge? Poora hisaab
