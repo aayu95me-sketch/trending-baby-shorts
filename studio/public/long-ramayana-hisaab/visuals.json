@@ -1,32 +1,13 @@
 {
- "rupee": [
-  {
-   "wiki": "Indian rupee 500 banknotes",
-   "n": 3
-  },
-  {
-   "wiki": "Indian currency notes bundle",
-   "n": 3
-  }
- ],
- "rama": [
-  {
-   "wiki": "Raja Ravi Varma Rama",
-   "n": 3
-  },
-  {
-   "wiki": "Rama bow painting Ramayana",
-   "n": 3
-  }
- ],
- "crowdin": [
-  {
-   "wiki": "audience in Indian cinema hall",
-   "n": 3
-  },
-  {
-   "wiki": "movie theatre audience India",
-   "n": 3
-  }
- ]
+ "ranbir": [{"wiki": "Ranbir Kapoor", "n": 4}],
+ "yash": [{"wiki": "Yash Kannada actor", "n": 3}, {"wiki": "Yash KGF actor", "n": 2}],
+ "saipallavi": [{"wiki": "Sai Pallavi", "n": 3}],
+ "nitesh": [{"wiki": "Nitesh Tiwari director", "n": 3}],
+ "namit": [{"wiki": "Namit Malhotra", "n": 3}],
+ "ramafilm": [{"wiki": "Ramayana 2026 film", "n": 3}, {"wiki": "Ramayana Ranbir Kapoor film", "n": 3}],
+ "aamir": [{"wiki": "Aamir Khan Dangal", "n": 3}],
+ "ranveer": [{"wiki": "Ranveer Singh", "n": 2}],
+ "prabhas": [{"wiki": "Prabhas actor", "n": 2}],
+ "allu": [{"wiki": "Allu Arjun", "n": 2}],
+ "china": [{"wiki": "cinema in China audience", "n": 2}]
 }
