@@ -4,3 +4,4 @@ Answer (Business Today, 19 Nov 2026, Lentra Diwali 2026 data): 74 of every 100 c
 Second-1 feeling: "74 of 100?!" shock -> "how much did my EMI cost?"
 Ask: cash or EMI? + share to the friend who took a Diwali phone EMI.
 Not said: defaults (not in source), no-cost EMI fees (not in source).
+REWRITE (Ayush 19 Nov 22:12 IST): tone = warning, push a clear take/don't-take decision from the facts. Rule given: take it only if the phone earns money / is needed for work; for show, save ~3 months (Rs 28k / Rs 2,527 EMI ~ 11 months of EMI; "3 months" is advice, not a sourced number) and pay cash, saving ~Rs 2,320 interest. Phone value falls every month = general depreciation, not a sourced figure.

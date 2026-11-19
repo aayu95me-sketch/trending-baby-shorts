@@ -1,8 +1,9 @@
-Diwali@hook pe har sau mein se chauhattar loan sirf phone ke liye liye gaye.
-Yeh@source digital lending platform Lentra ka Diwali data hai, aaj Business Today mein chhapa.
-Average@ticket loan lagbhag atthais hazaar rupaye ka tha.
-Aur@young lene walon mein sau mein baasath log pentees saal se kam ke.
-Gaon@rural aage hai. Sau mein atthavan loan gaon se aaye.
-Ab@emi hisaab. Pandrah percent byaaj pe saal bhar ki EMI, har mahine pachchees sau se upar.
-Total@total lagbhag tees hazaar. Matlab phone pe do hazaar se zyada sirf byaaj.
-Aapne@end naya phone cash liya ya EMI pe? Comment karo, aur us dost ko bhejo jisne Diwali pe EMI pe phone liya.
+Ruko@hook! EMI pe phone lene wale ho? Pehle yeh number suno.
+Is@stat Diwali har sau mein se chauhattar loan sirf phone ke liye the. Lentra ka data, aaj Business Today mein.
+Average@ticket loan lagbhag atthais hazaar ka.
+Aur@young sau mein baasath lene wale pentees saal se kam umar ke.
+Ab@emi hisaab. Pandrah percent byaaj pe saal bhar, har mahine pachchees sau se upar.
+Total@total tees hazaar se zyada. Do hazaar se upar sirf byaaj, aur phone ki keemat har mahine girti hai.
+Toh@rule seedhi baat. Phone se kamaai hoti hai, kaam ke liye zaroori hai, toh lo.
+Sirf@show dikhane ke liye? Mat lo. Teen mahine bachao, cash mein lo, aur byaaj ke paise jeb mein rakho.
+Aapne@end kya kiya, cash ya EMI? Comment karo, aur us dost ko bhejo jo agle hafte EMI pe phone lene wala hai.
