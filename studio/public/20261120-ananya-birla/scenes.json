@@ -14,9 +14,9 @@
   },
   {
    "at": "who",
-   "big": "KUMAR MANGALAM BIRLA KI BETI",
+   "big": "BIRLA KI BETI",
    "color": "white",
-   "tag": "ADITYA BIRLA GROUP",
+   "tag": "KUMAR MANGALAM BIRLA · ADITYA BIRLA GROUP",
    "img": "20261120-ananya-birla/real/wk-1.jpg",
    "credit": "PHOTO VIA WIKIPEDIA",
    "fit": "blur"
@@ -76,12 +76,21 @@
    "fit": "blur"
   },
   {
-   "at": "end",
+   "at": "cta",
    "big": "AAP KYA GIFT KARTE?",
    "color": "gold",
    "tag": "COMMENT KARO",
    "img": "20261120-ananya-birla/real/wk-0.jpg",
    "credit": "PHOTO VIA WIKIPEDIA",
+   "fit": "blur"
+  },
+  {
+   "at": "end",
+   "big": "Rs 1 LAKH KI GHADI?",
+   "color": "gold",
+   "tag": "FARAH KHAN KE COOK DILIP KO GIFT",
+   "img": "20261120-ananya-birla/real/news-0.jpg",
+   "credit": "PHOTO VIA NAVBHARAT LIVE / FARAH KHAN VLOG",
    "fit": "blur"
   }
  ]

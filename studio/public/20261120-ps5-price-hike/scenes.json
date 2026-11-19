@@ -17,8 +17,8 @@
    "big": "IGN 10/10",
    "color": "gold",
    "tag": "METACRITIC 99",
-   "img": "20261119-gta-6-india-price/real/news-3.jpg",
-   "credit": "ROCKSTAR GAMES ART VIA DIGIT",
+   "img": "20261120-ps5-price-hike/real/news-2.jpg",
+   "credit": "ROCKSTAR GAMES ART VIA BUSINESS STANDARD",
    "fit": "blur"
   },
   {
@@ -26,8 +26,8 @@
    "big": "VICE CITY WAPAS",
    "color": "white",
    "tag": "LUCIA + JASON",
-   "img": "20261119-gta-6-india-price/real/news-5.jpg",
-   "credit": "ROCKSTAR GAMES ART VIA BEEBOM",
+   "img": "20261119-gta-6-india-price/real/news-3.jpg",
+   "credit": "ROCKSTAR GAMES ART VIA DIGIT",
    "fit": "blur"
   },
   {
@@ -50,9 +50,9 @@
   },
   {
    "at": "price",
-   "big": "Rs 54,990 → Rs 69,990",
+   "big": "Rs 69,990",
    "color": "red",
-   "tag": "Rs 15,000 MEHENGA · ~27%",
+   "tag": "PEHLE Rs 54,990 · +Rs 15,000",
    "img": "20261120-ps5-price-hike/real/wk-0.jpg",
    "credit": "PHOTO VIA WIKIPEDIA",
    "fit": "blur"
@@ -76,12 +76,20 @@
    "fit": "blur"
   },
   {
-   "at": "end",
+   "at": "cta",
    "big": "LEGA YA WAIT?",
    "color": "gold",
    "tag": "COMMENT KAR",
-   "img": "20261119-gta-6-india-price/real/news-0.jpg",
-   "credit": "ROCKSTAR GAMES ART VIA BUSINESS STANDARD",
+   "img": "20261120-ps5-price-hike/real/wk-3.jpg",
+   "credit": "PHOTO: WIKIMEDIA COMMONS, CC BY-SA 4.0"
+  },
+  {
+   "at": "end",
+   "big": "PS5 + GTA 6",
+   "color": "gold",
+   "tag": "BHAI DEKH · AAJ SE LIVE",
+   "img": "20261120-ps5-price-hike/real/news-0.jpg",
+   "credit": "PHOTO: SONY VIA SMARTPRIX",
    "fit": "blur"
   }
  ]

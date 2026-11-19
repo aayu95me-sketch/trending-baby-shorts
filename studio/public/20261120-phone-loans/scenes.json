@@ -76,10 +76,19 @@
    "focus": "50% 50%"
   },
   {
-   "at": "end",
+   "at": "cta",
    "big": "CASH YA EMI?",
    "color": "gold",
    "tag": "COMMENT KARO",
+   "img": "20261120-phone-loans/real/news-0.jpg",
+   "credit": "IMAGE VIA BUSINESS TODAY",
+   "fit": "blur"
+  },
+  {
+   "at": "end",
+   "big": "RUKO! 74/100",
+   "color": "red",
+   "tag": "DIWALI LOAN = SIRF PHONE",
    "img": "20261120-phone-loans/real/news-0.jpg",
    "credit": "IMAGE VIA BUSINESS TODAY",
    "fit": "blur"
