@@ -1,0 +1,29 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "India A’s 330‑run total is presented as a fact without source",
+    "Tilak Varma and Kumar Kushagra each scoring a century is stated without attribution",
+    "Nepal being all‑out for 26 runs in 11 overs is claimed without source",
+    "Prince Yadav taking 5 wickets for 6 runs is asserted without verification",
+    "Harshit Rana’s four (runs/wickets) is mentioned without context or source",
+    "India A’s 306‑run List A record is declared without citation",
+    "Lowest score of 26 being the 5th smallest in List A history is stated without evidence"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "tika (should be “tike” or “ruk gaya”)",
+    "Harshit Rana ke chaar (incomplete/unnatural phrasing)"
+   ],
+   "one_line_verdict": "The script contains several unverified factual claims and a few awkward Hinglish expressions, lacks a defined hook, but has no shown/spoken number mismatches."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}

@@ -1,0 +1,675 @@
+{
+ "total": 37.436,
+ "voice": "20261121-india-a-nepal-26/voice.wav",
+ "lines": [
+  {
+   "start": 0.212,
+   "text": "India A ne banaye teen sau battees. Nepal? Sirf chhabbees pe all out. Yeh record hai ya mazaak?",
+   "end": 5.987
+  },
+  {
+   "start": 6.06,
+   "text": "Doha mein Asia Cup Rising Stars, pachaas over ka match. Tilak Varma aur Kumar Kushagra, dono ki century.",
+   "end": 12.461
+  },
+  {
+   "start": 12.839,
+   "text": "Phir Nepal sirf gyarah over tika. Paanch batsman zero pe out, captain Lamichhane bhi.",
+   "end": 17.93
+  },
+  {
+   "start": 18.296,
+   "text": "Prince Yadav ne sirf chhe run dekar paanch wicket liye. Harshit Rana ke chaar.",
+   "end": 21.804
+  },
+  {
+   "start": 21.87,
+   "text": "Toh record hai? Haan. Teen sau chhe run, India A ki List A mein sabse badi jeet.",
+   "end": 27.467
+  },
+  {
+   "start": 27.775,
+   "text": "Aur chhabbees, List A itihaas ka paanchwa sabse chhota score.",
+   "end": 31.534
+  },
+  {
+   "start": 31.932,
+   "text": "Nepal itna kamzor, ya India A itni khatarnak? Comment mein ek word likho.",
+   "end": 36.041
+  }
+ ],
+ "words": [
+  {
+   "w": "India",
+   "start": 0.212,
+   "end": 0.68
+  },
+  {
+   "w": "A",
+   "start": 0.7,
+   "end": 0.86
+  },
+  {
+   "w": "ne",
+   "start": 0.88,
+   "end": 0.96
+  },
+  {
+   "w": "banaye",
+   "start": 0.98,
+   "end": 1.342
+  },
+  {
+   "w": "teen",
+   "start": 1.362,
+   "end": 1.5
+  },
+  {
+   "w": "sau",
+   "start": 1.52,
+   "end": 1.66
+  },
+  {
+   "w": "battees.",
+   "start": 1.68,
+   "end": 2.447
+  },
+  {
+   "w": "Nepal?",
+   "start": 2.467,
+   "end": 3.065
+  },
+  {
+   "w": "Sirf",
+   "start": 3.085,
+   "end": 3.549
+  },
+  {
+   "w": "chhabbees",
+   "start": 3.569,
+   "end": 3.739
+  },
+  {
+   "w": "pe",
+   "start": 3.759,
+   "end": 3.93
+  },
+  {
+   "w": "all",
+   "start": 3.95,
+   "end": 4.12
+  },
+  {
+   "w": "out.",
+   "start": 4.14,
+   "end": 4.54
+  },
+  {
+   "w": "Yeh",
+   "start": 4.56,
+   "end": 5.0
+  },
+  {
+   "w": "record",
+   "start": 5.02,
+   "end": 5.38
+  },
+  {
+   "w": "hai",
+   "start": 5.4,
+   "end": 5.48
+  },
+  {
+   "w": "ya",
+   "start": 5.5,
+   "end": 5.58
+  },
+  {
+   "w": "mazaak?",
+   "start": 5.6,
+   "end": 6.04
+  },
+  {
+   "w": "Doha",
+   "start": 6.06,
+   "end": 6.5
+  },
+  {
+   "w": "mein",
+   "start": 6.52,
+   "end": 6.84
+  },
+  {
+   "w": "Asia",
+   "start": 6.86,
+   "end": 7.08
+  },
+  {
+   "w": "Cup",
+   "start": 7.1,
+   "end": 7.32
+  },
+  {
+   "w": "Rising",
+   "start": 7.34,
+   "end": 7.68
+  },
+  {
+   "w": "Stars,",
+   "start": 7.7,
+   "end": 8.374
+  },
+  {
+   "w": "pachaas",
+   "start": 8.394,
+   "end": 8.76
+  },
+  {
+   "w": "over",
+   "start": 8.78,
+   "end": 9.0
+  },
+  {
+   "w": "ka",
+   "start": 9.02,
+   "end": 9.14
+  },
+  {
+   "w": "match.",
+   "start": 9.16,
+   "end": 9.656
+  },
+  {
+   "w": "Tilak",
+   "start": 9.676,
+   "end": 10.32
+  },
+  {
+   "w": "Varma",
+   "start": 10.34,
+   "end": 10.4
+  },
+  {
+   "w": "aur",
+   "start": 10.42,
+   "end": 10.7
+  },
+  {
+   "w": "Kumar",
+   "start": 10.72,
+   "end": 10.82
+  },
+  {
+   "w": "Kushagra,",
+   "start": 10.84,
+   "end": 11.18
+  },
+  {
+   "w": "dono",
+   "start": 11.2,
+   "end": 11.88
+  },
+  {
+   "w": "ki",
+   "start": 11.9,
+   "end": 12.349
+  },
+  {
+   "w": "century.",
+   "start": 12.369,
+   "end": 12.819
+  },
+  {
+   "w": "Phir",
+   "start": 12.839,
+   "end": 12.96
+  },
+  {
+   "w": "Nepal",
+   "start": 12.98,
+   "end": 13.32
+  },
+  {
+   "w": "sirf",
+   "start": 13.34,
+   "end": 13.58
+  },
+  {
+   "w": "gyarah",
+   "start": 13.6,
+   "end": 14.06
+  },
+  {
+   "w": "over",
+   "start": 14.08,
+   "end": 14.18
+  },
+  {
+   "w": "tika.",
+   "start": 14.2,
+   "end": 14.985
+  },
+  {
+   "w": "Paanch",
+   "start": 15.005,
+   "end": 15.24
+  },
+  {
+   "w": "batsman",
+   "start": 15.26,
+   "end": 15.72
+  },
+  {
+   "w": "zero",
+   "start": 15.74,
+   "end": 16.16
+  },
+  {
+   "w": "pe",
+   "start": 16.18,
+   "end": 16.593
+  },
+  {
+   "w": "out,",
+   "start": 16.613,
+   "end": 17.027
+  },
+  {
+   "w": "captain",
+   "start": 17.047,
+   "end": 17.46
+  },
+  {
+   "w": "Lamichhane",
+   "start": 17.48,
+   "end": 17.76
+  },
+  {
+   "w": "bhi.",
+   "start": 17.78,
+   "end": 18.276
+  },
+  {
+   "w": "Prince",
+   "start": 18.296,
+   "end": 18.5
+  },
+  {
+   "w": "Yadav",
+   "start": 18.52,
+   "end": 18.78
+  },
+  {
+   "w": "ne",
+   "start": 18.8,
+   "end": 18.92
+  },
+  {
+   "w": "sirf",
+   "start": 18.94,
+   "end": 18.99
+  },
+  {
+   "w": "chhe",
+   "start": 19.01,
+   "end": 19.06
+  },
+  {
+   "w": "run",
+   "start": 19.08,
+   "end": 19.52
+  },
+  {
+   "w": "dekar",
+   "start": 19.54,
+   "end": 19.78
+  },
+  {
+   "w": "paanch",
+   "start": 19.8,
+   "end": 20.0
+  },
+  {
+   "w": "wicket",
+   "start": 20.02,
+   "end": 20.26
+  },
+  {
+   "w": "liye.",
+   "start": 20.28,
+   "end": 20.863
+  },
+  {
+   "w": "Harshit",
+   "start": 20.883,
+   "end": 21.14
+  },
+  {
+   "w": "Rana",
+   "start": 21.16,
+   "end": 21.38
+  },
+  {
+   "w": "ke",
+   "start": 21.4,
+   "end": 21.48
+  },
+  {
+   "w": "chaar.",
+   "start": 21.5,
+   "end": 21.85
+  },
+  {
+   "w": "Toh",
+   "start": 21.87,
+   "end": 22.22
+  },
+  {
+   "w": "record",
+   "start": 22.24,
+   "end": 22.62
+  },
+  {
+   "w": "hai?",
+   "start": 22.64,
+   "end": 23.275
+  },
+  {
+   "w": "Haan.",
+   "start": 23.295,
+   "end": 23.884
+  },
+  {
+   "w": "Teen",
+   "start": 23.904,
+   "end": 24.023
+  },
+  {
+   "w": "sau",
+   "start": 24.043,
+   "end": 24.161
+  },
+  {
+   "w": "chhe",
+   "start": 24.181,
+   "end": 24.3
+  },
+  {
+   "w": "run,",
+   "start": 24.32,
+   "end": 24.8
+  },
+  {
+   "w": "India",
+   "start": 24.82,
+   "end": 25.08
+  },
+  {
+   "w": "A",
+   "start": 25.1,
+   "end": 25.36
+  },
+  {
+   "w": "ki",
+   "start": 25.38,
+   "end": 25.64
+  },
+  {
+   "w": "List",
+   "start": 25.66,
+   "end": 26.02
+  },
+  {
+   "w": "A",
+   "start": 26.04,
+   "end": 26.1
+  },
+  {
+   "w": "mein",
+   "start": 26.12,
+   "end": 26.64
+  },
+  {
+   "w": "sabse",
+   "start": 26.66,
+   "end": 26.83
+  },
+  {
+   "w": "badi",
+   "start": 26.85,
+   "end": 27.02
+  },
+  {
+   "w": "jeet.",
+   "start": 27.04,
+   "end": 27.755
+  },
+  {
+   "w": "Aur",
+   "start": 27.775,
+   "end": 27.9
+  },
+  {
+   "w": "chhabbees,",
+   "start": 27.92,
+   "end": 28.497
+  },
+  {
+   "w": "List",
+   "start": 28.517,
+   "end": 29.1
+  },
+  {
+   "w": "A",
+   "start": 29.12,
+   "end": 29.28
+  },
+  {
+   "w": "itihaas",
+   "start": 29.3,
+   "end": 29.7
+  },
+  {
+   "w": "ka",
+   "start": 29.72,
+   "end": 30.009
+  },
+  {
+   "w": "paanchwa",
+   "start": 30.029,
+   "end": 30.42
+  },
+  {
+   "w": "sabse",
+   "start": 30.44,
+   "end": 30.94
+  },
+  {
+   "w": "chhota",
+   "start": 30.96,
+   "end": 31.24
+  },
+  {
+   "w": "score.",
+   "start": 31.26,
+   "end": 31.912
+  },
+  {
+   "w": "Nepal",
+   "start": 31.932,
+   "end": 32.22
+  },
+  {
+   "w": "itna",
+   "start": 32.24,
+   "end": 32.46
+  },
+  {
+   "w": "kamzor,",
+   "start": 32.48,
+   "end": 33.06
+  },
+  {
+   "w": "ya",
+   "start": 33.08,
+   "end": 33.26
+  },
+  {
+   "w": "India",
+   "start": 33.28,
+   "end": 33.72
+  },
+  {
+   "w": "A",
+   "start": 33.74,
+   "end": 33.9
+  },
+  {
+   "w": "itni",
+   "start": 33.92,
+   "end": 34.16
+  },
+  {
+   "w": "khatarnak?",
+   "start": 34.18,
+   "end": 34.98
+  },
+  {
+   "w": "Comment",
+   "start": 35.126,
+   "end": 35.42
+  },
+  {
+   "w": "mein",
+   "start": 35.44,
+   "end": 35.54
+  },
+  {
+   "w": "ek",
+   "start": 35.56,
+   "end": 35.62
+  },
+  {
+   "w": "word",
+   "start": 35.64,
+   "end": 35.8
+  },
+  {
+   "w": "likho.",
+   "start": 35.82,
+   "end": 36.436
+  }
+ ],
+ "cues": {
+  "hook": 0.212,
+  "match": 6.06,
+  "chase": 12.839,
+  "prince": 18.296,
+  "record": 21.87,
+  "lowest": 27.775,
+  "cta": 31.932
+ },
+ "numbers": [],
+ "heard": [
+  "इंटिया",
+  "आई",
+  "ने",
+  "बनाए",
+  "तीन",
+  "सो",
+  "बत्तिस",
+  "निपाल",
+  "सिर्फ",
+  "चब्विस्पे",
+  "अलाउट",
+  "ये",
+  "रेकोड",
+  "आई",
+  "ये",
+  "मजाख",
+  "तो",
+  "हमें",
+  "आश्या",
+  "का",
+  "ब्राइशिंच्टाज",
+  "स्टास,",
+  "पच्चास",
+  "अवर",
+  "का",
+  "मैच,",
+  "तिलक्वर्मा",
+  "और",
+  "कुमार",
+  "को",
+  "शागर",
+  "दोनो",
+  "की",
+  "सेंचूरी,",
+  "फिर",
+  "निपाल",
+  "सर्फ",
+  "गेरा",
+  "अवर्टिका.",
+  "वर्टिका,",
+  "पाज",
+  "बैट्स",
+  "में",
+  "जीरो",
+  "प्याउट,",
+  "काप्टन",
+  "लामी",
+  "चाने",
+  "भी,",
+  "प्रिन्स",
+  "यादम",
+  "ने",
+  "सर्फ",
+  "चेरन",
+  "देकर",
+  "पाज",
+  "विकित",
+  "लिए,",
+  "हर्षित",
+  "राना",
+  "के",
+  "चार.",
+  "रिकोड",
+  "है",
+  "हा",
+  "तीनसो",
+  "चेरन",
+  "इंदिया",
+  "एक",
+  "लिस्ट",
+  "ए",
+  "में",
+  "सब",
+  "से",
+  "बडीजीत",
+  "और",
+  "चब",
+  "विस",
+  "लिस्ट",
+  "येच्ताः",
+  "आई",
+  "इतिहास",
+  "का",
+  "पाच्वा",
+  "सबसे",
+  "चोटा",
+  "स्कोर",
+  "निपाल",
+  "इतना",
+  "कमजोर",
+  "या",
+  "इन्टिया",
+  "आई",
+  "इतनी",
+  "कहतरनाग",
+  "कोमेंट",
+  "में",
+  "एक",
+  "वर्ट",
+  "लिको"
+ ]
+}
