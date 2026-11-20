@@ -5,7 +5,7 @@
  "scenes": [
   {
    "at": 0,
-   "big": "-Rs 11,000",
+   "big": "↓ Rs 11,000",
    "color": "red",
    "tag": "10 DIN MEIN · KHARIDEIN YA WAIT?",
    "img": "20261121-gold-crash/real/news-1.jpg",
@@ -53,8 +53,8 @@
    "big": "3. AI SHARES CRASH",
    "color": "white",
    "tag": "INVESTORS NE SONA BECHA",
-   "img": "20261121-gold-crash/real/wk-2.jpg",
-   "credit": "LOGO VIA WIKIPEDIA",
+   "img": "20261121-gold-crash/real/wk-6.jpg",
+   "credit": "PHOTO: WIKIMEDIA COMMONS, CC BY 4.0",
    "fit": "blur"
   },
   {
@@ -70,14 +70,14 @@
    "at": "cta",
    "big": "ABHI LOGE YA WAIT?",
    "color": "gold",
-   "tag": "DOST KO BHEJO",
+   "tag": "COMMENT KARO · DOST KO BHEJO",
    "img": "20261121-gold-crash/real/news-1.jpg",
    "credit": "PHOTO: ETV BHARAT",
    "fit": "blur"
   },
   {
    "at": "end",
-   "big": "-Rs 11,000",
+   "big": "↓ Rs 11,000",
    "color": "red",
    "tag": "10 DIN MEIN · KHARIDEIN YA WAIT?",
    "img": "20261121-gold-crash/real/news-1.jpg",

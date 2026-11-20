@@ -10,7 +10,7 @@
    "tag": "1977 KA YAAN · SACH?",
    "img": "20261121-voyager-light-day/real/news-2.jpg",
    "credit": "IMAGE: NASA/JPL VIA EARTHSKY",
-   "fit": "blur"
+   "focus": "50% 50%"
   },
   {
    "at": "yes",
@@ -19,7 +19,7 @@
    "tag": "NASA CONFIRMED · NOV 2026",
    "img": "20261121-voyager-light-day/real/news-0.jpg",
    "credit": "IMAGE: NASA",
-   "fit": "blur"
+   "focus": "60% 50%"
   },
   {
    "at": "mean",
@@ -28,7 +28,7 @@
    "tag": "1 SECOND = DHARTI KE 7+ CHAKKAR",
    "img": "20261121-voyager-light-day/real/news-1.jpg",
    "credit": "IMAGE: NASA VIA CNN",
-   "fit": "blur"
+   "focus": "55% 50%"
   },
   {
    "at": "km",
@@ -37,7 +37,7 @@
    "tag": "INSAAN KI SABSE DOOR KI CHEEZ",
    "img": "20261121-voyager-light-day/real/wk-3.jpg",
    "credit": "IMAGE: NASA/JPL, PUBLIC DOMAIN",
-   "fit": "blur"
+   "focus": "35% 50%"
   },
   {
    "at": "old",
@@ -55,7 +55,7 @@
    "tag": "INSTRUMENT EK EK KARKE BAND",
    "img": "20261121-voyager-light-day/real/wk-6.jpg",
    "credit": "PHOTO: NASA, PUBLIC DOMAIN",
-   "fit": "blur"
+   "focus": "62% 50%"
   },
   {
    "at": "cta",
@@ -64,7 +64,7 @@
    "tag": "USKO TAG KARO",
    "img": "20261121-voyager-light-day/real/wk-1.jpg",
    "credit": "IMAGE: NASA/JPL VIA WIKIPEDIA",
-   "fit": "blur"
+   "focus": "50% 50%"
   },
   {
    "at": "end",
@@ -73,7 +73,7 @@
    "tag": "1977 KA YAAN · SACH?",
    "img": "20261121-voyager-light-day/real/news-2.jpg",
    "credit": "IMAGE: NASA/JPL VIA EARTHSKY",
-   "fit": "blur"
+   "focus": "50% 50%"
   }
  ]
 }
