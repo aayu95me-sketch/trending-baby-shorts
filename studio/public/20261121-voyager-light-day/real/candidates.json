@@ -1,0 +1,82 @@
+{
+ "news-0.jpg": {
+  "page": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+  "lic": "news photo (copyright of the publisher; used as news clip, Ayush's risk)",
+  "url": "https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-light-day-horizontal.png"
+ },
+ "news-1.jpg": {
+  "page": "https://www.cnn.com/2026/11/18/science/voyager-1-light-day",
+  "lic": "news photo (copyright of the publisher; used as news clip, Ayush's risk)",
+  "url": "https://media.cnn.com/api/v1/images/stellar/prod/voyager-1-advisory-image-2-nov-10.jpg?c=16x9&q=w_800,c_fill"
+ },
+ "news-2.jpg": {
+  "page": "https://earthsky.org/space/voyager-1-1-light-day-from-earth-november-17-18-2026/",
+  "lic": "news photo (copyright of the publisher; used as news clip, Ayush's risk)",
+  "url": "https://earthsky.org/upl/2024/03/Voyager-artists-concept-Caltech-NASAJPL-e1710555598128.jpg"
+ },
+ "news-3.jpg": {
+  "page": "https://www.space.com/space-exploration/voyager/voyager-1-team-unbowed-by-communications-glitch-celebrates-epic-1-light-day-distance-milestone",
+  "lic": "news photo (copyright of the publisher; used as news clip, Ayush's risk)",
+  "url": "https://cdn.mos.cms.futurecdn.net/V2VwaZ35KwrhuT5CZCWXhR-1920-80.jpg"
+ },
+ "news-4.jpg": {
+  "page": "https://www.space.com/space-exploration/voyager/voyager-1-team-unbowed-by-communications-glitch-celebrates-epic-1-light-day-distance-milestone",
+  "lic": "news photo (copyright of the publisher; used as news clip, Ayush's risk)",
+  "url": "https://cdn.mos.cms.futurecdn.net/V2VwaZ35KwrhuT5CZCWXhR-1200-80.jpg"
+ },
+ "news-5.jpg": {
+  "page": "https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/",
+  "lic": "news photo (copyright of the publisher; used as news clip, Ayush's risk)",
+  "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia21/pia21839/PIA21839.tif/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+ },
+ "wk-0.jpg": {
+  "page": "https://en.wikipedia.org/wiki/Voyager_1",
+  "lic": "news photo (copyright of the publisher; used as news clip, Ayush's risk)",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Voyager_spacecraft_model.png/1280px-Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+ },
+ "wk-1.jpg": {
+  "page": "https://en.wikipedia.org/wiki/Voyager_Golden_Record",
+  "lic": "news photo (copyright of the publisher; used as news clip, Ayush's risk)",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/The_Sounds_of_Earth_-_GPN-2000-001976.jpg/1280px-The_Sounds_of_Earth_-_GPN-2000-001976.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+ },
+ "wk-2.jpg": {
+  "page": "https://en.wikipedia.org/wiki/Pale_Blue_Dot",
+  "lic": "news photo (copyright of the publisher; used as news clip, Ayush's risk)",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Pale_Blue_Dot.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+ },
+ "wk-3.jpg": {
+  "page": "https://commons.wikimedia.org/wiki/File:Voyager_spacecraft.jpg",
+  "title": "File:Voyager spacecraft.jpg",
+  "lic": "Public domain",
+  "author": "NASA/JPL",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Voyager_spacecraft.jpg/1920px-Voyager_spacecraft.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
+ "wk-4.jpg": {
+  "page": "https://commons.wikimedia.org/wiki/File:Voyager_testing_at_JPL.jpg",
+  "title": "File:Voyager testing at JPL.jpg",
+  "lic": "Public domain",
+  "author": "JOHN GREGOIRE, NASA/JPL",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Voyager_testing_at_JPL.jpg/1920px-Voyager_testing_at_JPL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
+ "wk-5.jpg": {
+  "page": "https://commons.wikimedia.org/wiki/File:Voyager_spacecraft_(cropped2).jpg",
+  "title": "File:Voyager spacecraft (cropped2).jpg",
+  "lic": "Public domain",
+  "author": "NASA/JPL",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Voyager_spacecraft_%28cropped2%29.jpg/1920px-Voyager_spacecraft_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
+ "wk-6.jpg": {
+  "page": "https://commons.wikimedia.org/wiki/File:Watching_Over_the_Deep_Space_Network_Before_Artemis_II_Signal_Acquisition.jpg",
+  "title": "File:Watching Over the Deep Space Network Before Artemis II Signal Acquisition.jpg",
+  "lic": "Public domain",
+  "author": "NASA/JPL-Caltech",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Watching_Over_the_Deep_Space_Network_Before_Artemis_II_Signal_Acquisition.jpg/1920px-Watching_Over_the_Deep_Space_Network_Before_Artemis_II_Signal_Acquisition.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
+ "wk-7.jpg": {
+  "page": "https://commons.wikimedia.org/wiki/File:Webb_and_the_Deep_Space_Network_(01HE5JBMEVP7EJKJD12XE590VQ).png",
+  "title": "File:Webb and the Deep Space Network (01HE5JBMEVP7EJKJD12XE590VQ).png",
+  "lic": "Public domain",
+  "author": "Illustration NASA, ESA, CSA, Pam Jeffries (STScI)",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Webb_and_the_Deep_Space_Network_%2801HE5JBMEVP7EJKJD12XE590VQ%29.png/1920px-Webb_and_the_Deep_Space_Network_%2801HE5JBMEVP7EJKJD12XE590VQ%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ }
+}
