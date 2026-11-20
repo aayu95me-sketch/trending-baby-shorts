@@ -1,0 +1,11 @@
+{
+ "news": [{"og": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/"},
+          {"og": "https://www.cnn.com/2026/11/18/science/voyager-1-light-day"},
+          {"og": "https://earthsky.org/space/voyager-1-1-light-day-from-earth-november-17-18-2026/"},
+          {"og": "https://www.space.com/space-exploration/voyager/voyager-1-team-unbowed-by-communications-glitch-celebrates-epic-1-light-day-distance-milestone"},
+          {"og": "https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/"}],
+ "wk":   [{"og": "https://en.wikipedia.org/wiki/Voyager_1"}, {"og": "https://en.wikipedia.org/wiki/Voyager_Golden_Record"},
+          {"og": "https://en.wikipedia.org/wiki/Pale_Blue_Dot"}, {"og": "https://en.wikipedia.org/wiki/Goldstone_Deep_Space_Communications_Complex"},
+          {"og": "https://en.wikipedia.org/wiki/Titan_IIIE"},
+          {"wiki": "Voyager spacecraft", "n": 3}, {"wiki": "Deep Space Network antenna", "n": 2}]
+}
