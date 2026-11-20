@@ -1,0 +1,32 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent"
+  },
+  "groq": {
+   "number_mismatches": [
+    "Unnees@hook",
+    "Aur@old",
+    "Par@power",
+    "Ek@cta"
+   ],
+   "compliance_flags": [
+    "Claim that Voyager 1 is \"a light day\" away is inaccurate (actual distance ~21 light‑hours) and is presented without a source.",
+    "Statement that NASA is shutting down Voyager 1 instruments \"ek ek karke\" is unverified and lacks citation."
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "Unnees (should be \"unni\" for 19) – odd for a Delhi youth.",
+    "sau satattar – cumbersome number expression.",
+    "hook, old, power, cta – English placeholders shown on screen, sound unnatural.",
+    "dharti ke saat – should be \"dharti ke saath\".",
+    "unchaas – rarely used colloquial for 55, could be replaced with \"pachpan\"."
+   ],
+   "one_line_verdict": "Multiple shown/spoken mismatches, unverified scientific claims, and several unnatural Hinglish terms need correction."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}
