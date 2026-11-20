@@ -1,0 +1,28 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "Provides investment advice (buy/sell recommendation) for gold, which is prohibited",
+    "Numerical claims (e.g., \"gyarah hazaar\", \"chaubees carat\", \"ek lakh chawaalees hazaar\", \"ek lakh taintees hazaar\", \"chaudah mahine\", \"tees percent neeche\") are presented without any source"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "\"din mein\" sounds unnatural; use \"din mein\" rarely used in Delhi slang",
+    "\"chaubees carat\" mixes weight unit with price, awkward phrasing",
+    "\"taintees\" is not a recognized Hindi number; should be \"tees\" or \"tentees\"",
+    "\"chaudah mahine\" unclear meaning; likely a typo",
+    "\"Shaadi ke liye lena hai\" could be smoother as \"Shaadi ke liye lena ho\"",
+    "\"Jaldi paisa banane ke liye, ruko\" is clunky; better phrasing needed"
+   ],
+   "one_line_verdict": "The script contains unverified numeric claims and prohibited gold investment advice, plus several unnatural Hinglish expressions that need correction."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}

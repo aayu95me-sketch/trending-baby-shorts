@@ -1,0 +1,837 @@
+{
+ "total": 43.859,
+ "voice": "20261121-gold-crash/voice.wav",
+ "lines": [
+  {
+   "start": 0.225,
+   "text": "Das din mein sona gyarah hazaar sasta! Ab kharidein, ya aur girega?",
+   "end": 4.011
+  },
+  {
+   "start": 4.276,
+   "text": "Das November ko chaubees carat, das gram, ek lakh chawaalees hazaar ka tha. Bees November ko ek lakh taintees hazaar.",
+   "end": 10.735
+  },
+  {
+   "start": 11.066,
+   "text": "Duniya mein sona chaudah mahine ke sabse neeche bhaav pe. January ke peak se tees percent neeche.",
+   "end": 16.557
+  },
+  {
+   "start": 16.663,
+   "text": "Kyun gira? Pehli wajah, dollar mazboot hai.",
+   "end": 19.424
+  },
+  {
+   "start": 19.8,
+   "text": "Doosri America mein byaaj dar badhne ki ummeed. Byaaj badhe toh sona rakhne ka fayda kam lagta hai.",
+   "end": 24.788
+  },
+  {
+   "start": 25.156,
+   "text": "Teesri AI aur tech shares gire, toh bade investors ne nuksaan bharne ke liye sona becha.",
+   "end": 29.78
+  },
+  {
+   "start": 29.78,
+   "text": "Toh kya karein? Shaadi ke liye lena hai toh ek saath nahi, thoda thoda lo. Jaldi paisa banane ke liye, ruko. Yeh advice nahi, sirf hisaab hai.",
+   "end": 38.98
+  },
+  {
+   "start": 38.98,
+   "text": "Aap abhi loge ya wait? Us dost ko bhejo jo sona lene wala tha.",
+   "end": 42.318
+  }
+ ],
+ "words": [
+  {
+   "w": "Das",
+   "start": 0.225,
+   "end": 0.5
+  },
+  {
+   "w": "din",
+   "start": 0.52,
+   "end": 0.74
+  },
+  {
+   "w": "mein",
+   "start": 0.76,
+   "end": 1.0
+  },
+  {
+   "w": "sona",
+   "start": 1.02,
+   "end": 1.36
+  },
+  {
+   "w": "gyarah",
+   "start": 1.38,
+   "end": 1.86
+  },
+  {
+   "w": "hazaar",
+   "start": 1.88,
+   "end": 2.26
+  },
+  {
+   "w": "sasta!",
+   "start": 2.28,
+   "end": 2.928
+  },
+  {
+   "w": "Ab",
+   "start": 2.948,
+   "end": 3.1
+  },
+  {
+   "w": "kharidein,",
+   "start": 3.12,
+   "end": 3.28
+  },
+  {
+   "w": "ya",
+   "start": 3.3,
+   "end": 3.46
+  },
+  {
+   "w": "aur",
+   "start": 3.48,
+   "end": 3.64
+  },
+  {
+   "w": "girega?",
+   "start": 3.66,
+   "end": 4.256
+  },
+  {
+   "w": "Das",
+   "start": 4.276,
+   "end": 4.62
+  },
+  {
+   "w": "November",
+   "start": 4.64,
+   "end": 5.0
+  },
+  {
+   "w": "ko",
+   "start": 5.02,
+   "end": 5.26
+  },
+  {
+   "w": "chaubees",
+   "start": 5.28,
+   "end": 5.76
+  },
+  {
+   "w": "carat,",
+   "start": 5.78,
+   "end": 6.1
+  },
+  {
+   "w": "das",
+   "start": 6.12,
+   "end": 6.28
+  },
+  {
+   "w": "gram,",
+   "start": 6.3,
+   "end": 6.748
+  },
+  {
+   "w": "ek",
+   "start": 6.768,
+   "end": 7.0
+  },
+  {
+   "w": "lakh",
+   "start": 7.02,
+   "end": 7.34
+  },
+  {
+   "w": "chawaalees",
+   "start": 7.36,
+   "end": 7.72
+  },
+  {
+   "w": "hazaar",
+   "start": 7.74,
+   "end": 8.009
+  },
+  {
+   "w": "ka",
+   "start": 8.029,
+   "end": 8.298
+  },
+  {
+   "w": "tha.",
+   "start": 8.318,
+   "end": 8.587
+  },
+  {
+   "w": "Bees",
+   "start": 8.607,
+   "end": 8.86
+  },
+  {
+   "w": "November",
+   "start": 8.88,
+   "end": 9.24
+  },
+  {
+   "w": "ko",
+   "start": 9.26,
+   "end": 9.48
+  },
+  {
+   "w": "ek",
+   "start": 9.5,
+   "end": 9.72
+  },
+  {
+   "w": "lakh",
+   "start": 9.74,
+   "end": 10.38
+  },
+  {
+   "w": "taintees",
+   "start": 10.4,
+   "end": 10.713
+  },
+  {
+   "w": "hazaar.",
+   "start": 10.733,
+   "end": 11.046
+  },
+  {
+   "w": "Duniya",
+   "start": 11.066,
+   "end": 11.32
+  },
+  {
+   "w": "mein",
+   "start": 11.34,
+   "end": 11.46
+  },
+  {
+   "w": "sona",
+   "start": 11.48,
+   "end": 11.7
+  },
+  {
+   "w": "chaudah",
+   "start": 11.72,
+   "end": 12.04
+  },
+  {
+   "w": "mahine",
+   "start": 12.06,
+   "end": 12.34
+  },
+  {
+   "w": "ke",
+   "start": 12.36,
+   "end": 12.5
+  },
+  {
+   "w": "sabse",
+   "start": 12.52,
+   "end": 12.9
+  },
+  {
+   "w": "neeche",
+   "start": 12.92,
+   "end": 13.14
+  },
+  {
+   "w": "bhaav",
+   "start": 13.16,
+   "end": 13.42
+  },
+  {
+   "w": "pe.",
+   "start": 13.44,
+   "end": 13.52
+  },
+  {
+   "w": "January",
+   "start": 13.54,
+   "end": 14.34
+  },
+  {
+   "w": "ke",
+   "start": 14.42,
+   "end": 14.58
+  },
+  {
+   "w": "peak",
+   "start": 14.6,
+   "end": 14.84
+  },
+  {
+   "w": "se",
+   "start": 14.86,
+   "end": 15.117
+  },
+  {
+   "w": "tees",
+   "start": 15.137,
+   "end": 15.393
+  },
+  {
+   "w": "percent",
+   "start": 15.413,
+   "end": 15.67
+  },
+  {
+   "w": "neeche.",
+   "start": 15.69,
+   "end": 16.49
+  },
+  {
+   "w": "Kyun",
+   "start": 16.663,
+   "end": 17.04
+  },
+  {
+   "w": "gira?",
+   "start": 17.06,
+   "end": 17.74
+  },
+  {
+   "w": "Pehli",
+   "start": 17.76,
+   "end": 18.02
+  },
+  {
+   "w": "wajah,",
+   "start": 18.04,
+   "end": 18.456
+  },
+  {
+   "w": "dollar",
+   "start": 18.476,
+   "end": 18.9
+  },
+  {
+   "w": "mazboot",
+   "start": 18.92,
+   "end": 19.3
+  },
+  {
+   "w": "hai.",
+   "start": 19.32,
+   "end": 19.78
+  },
+  {
+   "w": "Doosri",
+   "start": 19.8,
+   "end": 20.48
+  },
+  {
+   "w": "America",
+   "start": 20.5,
+   "end": 20.9
+  },
+  {
+   "w": "mein",
+   "start": 20.92,
+   "end": 21.12
+  },
+  {
+   "w": "byaaj",
+   "start": 21.14,
+   "end": 21.36
+  },
+  {
+   "w": "dar",
+   "start": 21.38,
+   "end": 21.6
+  },
+  {
+   "w": "badhne",
+   "start": 21.62,
+   "end": 21.88
+  },
+  {
+   "w": "ki",
+   "start": 21.9,
+   "end": 22.02
+  },
+  {
+   "w": "ummeed.",
+   "start": 22.04,
+   "end": 22.59
+  },
+  {
+   "w": "Byaaj",
+   "start": 22.61,
+   "end": 22.88
+  },
+  {
+   "w": "badhe",
+   "start": 22.9,
+   "end": 23.12
+  },
+  {
+   "w": "toh",
+   "start": 23.14,
+   "end": 23.3
+  },
+  {
+   "w": "sona",
+   "start": 23.32,
+   "end": 23.54
+  },
+  {
+   "w": "rakhne",
+   "start": 23.56,
+   "end": 23.8
+  },
+  {
+   "w": "ka",
+   "start": 23.82,
+   "end": 23.94
+  },
+  {
+   "w": "fayda",
+   "start": 23.96,
+   "end": 24.2
+  },
+  {
+   "w": "kam",
+   "start": 24.22,
+   "end": 24.38
+  },
+  {
+   "w": "lagta",
+   "start": 24.4,
+   "end": 24.7
+  },
+  {
+   "w": "hai.",
+   "start": 24.72,
+   "end": 25.136
+  },
+  {
+   "w": "Teesri",
+   "start": 25.156,
+   "end": 25.9
+  },
+  {
+   "w": "AI",
+   "start": 25.92,
+   "end": 26.0
+  },
+  {
+   "w": "aur",
+   "start": 26.02,
+   "end": 26.26
+  },
+  {
+   "w": "tech",
+   "start": 26.28,
+   "end": 26.52
+  },
+  {
+   "w": "shares",
+   "start": 26.54,
+   "end": 26.72
+  },
+  {
+   "w": "gire,",
+   "start": 26.74,
+   "end": 27.02
+  },
+  {
+   "w": "toh",
+   "start": 27.04,
+   "end": 27.24
+  },
+  {
+   "w": "bade",
+   "start": 27.26,
+   "end": 27.495
+  },
+  {
+   "w": "investors",
+   "start": 27.515,
+   "end": 27.75
+  },
+  {
+   "w": "ne",
+   "start": 27.77,
+   "end": 28.005
+  },
+  {
+   "w": "nuksaan",
+   "start": 28.025,
+   "end": 28.26
+  },
+  {
+   "w": "bharne",
+   "start": 28.28,
+   "end": 28.9
+  },
+  {
+   "w": "ke",
+   "start": 28.92,
+   "end": 29.115
+  },
+  {
+   "w": "liye",
+   "start": 29.135,
+   "end": 29.33
+  },
+  {
+   "w": "sona",
+   "start": 29.35,
+   "end": 29.545
+  },
+  {
+   "w": "becha.",
+   "start": 29.565,
+   "end": 29.76
+  },
+  {
+   "w": "Toh",
+   "start": 29.78,
+   "end": 30.28
+  },
+  {
+   "w": "kya",
+   "start": 30.3,
+   "end": 30.44
+  },
+  {
+   "w": "karein?",
+   "start": 30.46,
+   "end": 31.0
+  },
+  {
+   "w": "Shaadi",
+   "start": 31.02,
+   "end": 31.4
+  },
+  {
+   "w": "ke",
+   "start": 31.42,
+   "end": 31.48
+  },
+  {
+   "w": "liye",
+   "start": 31.5,
+   "end": 31.56
+  },
+  {
+   "w": "lena",
+   "start": 31.58,
+   "end": 31.9
+  },
+  {
+   "w": "hai",
+   "start": 31.92,
+   "end": 32.0
+  },
+  {
+   "w": "toh",
+   "start": 32.02,
+   "end": 32.12
+  },
+  {
+   "w": "ek",
+   "start": 32.14,
+   "end": 32.26
+  },
+  {
+   "w": "saath",
+   "start": 32.28,
+   "end": 32.48
+  },
+  {
+   "w": "nahi,",
+   "start": 32.5,
+   "end": 32.86
+  },
+  {
+   "w": "thoda",
+   "start": 32.88,
+   "end": 33.14
+  },
+  {
+   "w": "thoda",
+   "start": 33.16,
+   "end": 33.36
+  },
+  {
+   "w": "lo.",
+   "start": 33.38,
+   "end": 33.657
+  },
+  {
+   "w": "Jaldi",
+   "start": 33.677,
+   "end": 34.26
+  },
+  {
+   "w": "paisa",
+   "start": 34.28,
+   "end": 34.52
+  },
+  {
+   "w": "banane",
+   "start": 34.54,
+   "end": 34.84
+  },
+  {
+   "w": "ke",
+   "start": 34.86,
+   "end": 34.98
+  },
+  {
+   "w": "liye,",
+   "start": 35.0,
+   "end": 35.22
+  },
+  {
+   "w": "ruko.",
+   "start": 35.24,
+   "end": 36.04
+  },
+  {
+   "w": "Yeh",
+   "start": 36.244,
+   "end": 37.044
+  },
+  {
+   "w": "advice",
+   "start": 37.248,
+   "end": 38.048
+  },
+  {
+   "w": "nahi,",
+   "start": 38.252,
+   "end": 38.436
+  },
+  {
+   "w": "sirf",
+   "start": 38.456,
+   "end": 38.64
+  },
+  {
+   "w": "hisaab",
+   "start": 38.66,
+   "end": 38.92
+  },
+  {
+   "w": "hai.",
+   "start": 38.94,
+   "end": 38.96
+  },
+  {
+   "w": "Aap",
+   "start": 38.98,
+   "end": 39.0
+  },
+  {
+   "w": "abhi",
+   "start": 39.02,
+   "end": 39.04
+  },
+  {
+   "w": "loge",
+   "start": 39.06,
+   "end": 39.34
+  },
+  {
+   "w": "ya",
+   "start": 39.36,
+   "end": 39.6
+  },
+  {
+   "w": "wait?",
+   "start": 39.62,
+   "end": 39.86
+  },
+  {
+   "w": "Us",
+   "start": 39.88,
+   "end": 40.42
+  },
+  {
+   "w": "dost",
+   "start": 40.44,
+   "end": 40.74
+  },
+  {
+   "w": "ko",
+   "start": 40.76,
+   "end": 40.84
+  },
+  {
+   "w": "bhejo",
+   "start": 40.86,
+   "end": 41.16
+  },
+  {
+   "w": "jo",
+   "start": 41.18,
+   "end": 41.32
+  },
+  {
+   "w": "sona",
+   "start": 41.34,
+   "end": 41.56
+  },
+  {
+   "w": "lene",
+   "start": 41.58,
+   "end": 41.82
+  },
+  {
+   "w": "wala",
+   "start": 41.84,
+   "end": 42.08
+  },
+  {
+   "w": "tha.",
+   "start": 42.1,
+   "end": 42.859
+  }
+ ],
+ "cues": {
+  "hook": 0.225,
+  "nov": 4.276,
+  "low": 11.066,
+  "why": 16.663,
+  "fed": 19.8,
+  "ai": 25.156,
+  "rule": 29.78,
+  "cta": 38.98
+ },
+ "numbers": [],
+ "heard": [
+  "दस",
+  "दिन",
+  "में",
+  "सोना",
+  "ग्यारा",
+  "हाजार",
+  "सस्ता",
+  "अब",
+  "खरी",
+  "नहीं",
+  "यार",
+  "गिरेगा",
+  "दस",
+  "नवंवर",
+  "को",
+  "चोवीस",
+  "कैरेट",
+  "दस",
+  "ग्राम",
+  "एक",
+  "लाक",
+  "चवाली",
+  "सजार",
+  "भीज",
+  "नवमभर",
+  "को",
+  "एक",
+  "लाक",
+  "तैहती",
+  "तुफनी",
+  "स्थार",
+  "दूनिया",
+  "में",
+  "सोना",
+  "चोदा",
+  "महेंने",
+  "के",
+  "सब",
+  "से",
+  "निचे",
+  "बहाज़",
+  "बे",
+  "जनवरी",
+  "की",
+  "पीक",
+  "से",
+  "वो",
+  "तीस",
+  "पस्टनेचे",
+  "क्यो",
+  "गिरा?",
+  "पहली",
+  "बज़ा",
+  "दोलर",
+  "मस्वोथ",
+  "है।",
+  "तुस्री,",
+  "आमरीका",
+  "में",
+  "भ्याजदर",
+  "बडने",
+  "की।",
+  "उमीद,",
+  "ब्याज",
+  "बड़े",
+  "तो",
+  "सोना",
+  "रखने",
+  "का",
+  "प्यदा",
+  "कम",
+  "लगता",
+  "है.",
+  "तीस्री,",
+  "A",
+  ".I.",
+  "and",
+  "share",
+  "गिरे",
+  "तो",
+  "बड़ी",
+  "ब्याज",
+  "दर",
+  "बड़ने",
+  "की",
+  "उमीद.",
+  "तो",
+  "क्या",
+  "गरें?",
+  "शादी",
+  "के",
+  "लेना",
+  "है",
+  "तो",
+  "एक",
+  "सात",
+  "नहीं",
+  "तोड़ा",
+  "तोड़ा",
+  "लो",
+  "जल्दी",
+  "पैसा",
+  "बनाने",
+  "के",
+  "लिए",
+  "रुको",
+  "अप",
+  "आब",
+  "ही",
+  "लोगे",
+  "या",
+  "वेट",
+  "उस",
+  "दोस्ट",
+  "को",
+  "बेजो",
+  "जो",
+  "सुन",
+  "वालेने",
+  "ने",
+  "था"
+ ]
+}
