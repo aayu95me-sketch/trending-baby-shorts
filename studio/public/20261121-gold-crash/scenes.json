@@ -1,0 +1,88 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: IIFL, UNIVEST, ETV BHARAT · 20 NOV 2026",
+ "loopTail": 0.5,
+ "scenes": [
+  {
+   "at": 0,
+   "big": "-Rs 11,000",
+   "color": "red",
+   "tag": "10 DIN MEIN · KHARIDEIN YA WAIT?",
+   "img": "20261121-gold-crash/real/news-1.jpg",
+   "credit": "PHOTO: ETV BHARAT",
+   "fit": "blur"
+  },
+  {
+   "at": "nov",
+   "big": "1,44,610 → 1,33,250",
+   "color": "gold",
+   "tag": "Rs · 24K · 10 GRAM · 10 NOV → 20 NOV",
+   "img": "20261121-gold-crash/real/wk-7.jpg",
+   "credit": "PHOTO: WIKIMEDIA COMMONS, PUBLIC DOMAIN",
+   "fit": "blur"
+  },
+  {
+   "at": "low",
+   "big": "14 MAHINE KA LOW",
+   "color": "red",
+   "tag": "JANUARY PEAK SE 30%+ NEECHE",
+   "img": "20261121-gold-crash/real/wk-6.jpg",
+   "credit": "PHOTO: WIKIMEDIA COMMONS, CC BY 4.0",
+   "fit": "blur"
+  },
+  {
+   "at": "why",
+   "big": "1. DOLLAR MAZBOOT",
+   "color": "white",
+   "tag": "GIRAWAT KI 3 WAJAH",
+   "img": "20261121-gold-crash/real/wk-0.jpg",
+   "credit": "PHOTO: WIKIMEDIA COMMONS",
+   "fit": "blur"
+  },
+  {
+   "at": "fed",
+   "big": "2. US BYAAJ DAR ↑",
+   "color": "white",
+   "tag": "DECEMBER HIKE KI UMMEED",
+   "img": "20261121-gold-crash/real/wk-3.jpg",
+   "credit": "SEAL VIA WIKIPEDIA",
+   "fit": "blur"
+  },
+  {
+   "at": "ai",
+   "big": "3. AI SHARES CRASH",
+   "color": "white",
+   "tag": "INVESTORS NE SONA BECHA",
+   "img": "20261121-gold-crash/real/wk-2.jpg",
+   "credit": "LOGO VIA WIKIPEDIA",
+   "fit": "blur"
+  },
+  {
+   "at": "rule",
+   "big": "SHAADI? THODA THODA",
+   "color": "gold",
+   "tag": "JALDI PAISA? RUKO · ADVICE NAHI, HISAAB",
+   "img": "20261121-gold-crash/real/wk-8.jpg",
+   "credit": "PHOTO: WIKIMEDIA COMMONS, CC BY-SA 4.0",
+   "fit": "blur"
+  },
+  {
+   "at": "cta",
+   "big": "ABHI LOGE YA WAIT?",
+   "color": "gold",
+   "tag": "DOST KO BHEJO",
+   "img": "20261121-gold-crash/real/news-1.jpg",
+   "credit": "PHOTO: ETV BHARAT",
+   "fit": "blur"
+  },
+  {
+   "at": "end",
+   "big": "-Rs 11,000",
+   "color": "red",
+   "tag": "10 DIN MEIN · KHARIDEIN YA WAIT?",
+   "img": "20261121-gold-crash/real/news-1.jpg",
+   "credit": "PHOTO: ETV BHARAT",
+   "fit": "blur"
+  }
+ ]
+}

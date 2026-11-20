@@ -1,0 +1,79 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: NASA, EARTHSKY, WIKIPEDIA · NOV 2026",
+ "loopTail": 0.5,
+ "scenes": [
+  {
+   "at": 0,
+   "big": "JAWAB 2 DIN BAAD",
+   "color": "gold",
+   "tag": "1977 KA YAAN · SACH?",
+   "img": "20261121-voyager-light-day/real/news-2.jpg",
+   "credit": "IMAGE: NASA/JPL VIA EARTHSKY",
+   "fit": "blur"
+  },
+  {
+   "at": "yes",
+   "big": "1 LIGHT DAY",
+   "color": "gold",
+   "tag": "NASA CONFIRMED · NOV 2026",
+   "img": "20261121-voyager-light-day/real/news-0.jpg",
+   "credit": "IMAGE: NASA",
+   "fit": "blur"
+  },
+  {
+   "at": "mean",
+   "big": "ROSHNI KO BHI 1 DIN",
+   "color": "white",
+   "tag": "1 SECOND = DHARTI KE 7+ CHAKKAR",
+   "img": "20261121-voyager-light-day/real/news-1.jpg",
+   "credit": "IMAGE: NASA VIA CNN",
+   "fit": "blur"
+  },
+  {
+   "at": "km",
+   "big": "~26 ARAB KM",
+   "color": "gold",
+   "tag": "INSAAN KI SABSE DOOR KI CHEEZ",
+   "img": "20261121-voyager-light-day/real/wk-3.jpg",
+   "credit": "IMAGE: NASA/JPL, PUBLIC DOMAIN",
+   "fit": "blur"
+  },
+  {
+   "at": "old",
+   "big": "49 SAAL SE CHALU",
+   "color": "white",
+   "tag": "LAUNCH: 5 SEPT 1977",
+   "img": "20261121-voyager-light-day/real/wk-4.jpg",
+   "credit": "IMAGE: NASA/JPL, PUBLIC DOMAIN",
+   "focus": "50% 40%"
+  },
+  {
+   "at": "power",
+   "big": "POWER KAM",
+   "color": "red",
+   "tag": "INSTRUMENT EK EK KARKE BAND",
+   "img": "20261121-voyager-light-day/real/wk-6.jpg",
+   "credit": "PHOTO: NASA, PUBLIC DOMAIN",
+   "fit": "blur"
+  },
+  {
+   "at": "cta",
+   "big": "LATE REPLY WALA DOST?",
+   "color": "gold",
+   "tag": "USKO TAG KARO",
+   "img": "20261121-voyager-light-day/real/wk-1.jpg",
+   "credit": "IMAGE: NASA/JPL VIA WIKIPEDIA",
+   "fit": "blur"
+  },
+  {
+   "at": "end",
+   "big": "JAWAB 2 DIN BAAD",
+   "color": "gold",
+   "tag": "1977 KA YAAN · SACH?",
+   "img": "20261121-voyager-light-day/real/news-2.jpg",
+   "credit": "IMAGE: NASA/JPL VIA EARTHSKY",
+   "fit": "blur"
+  }
+ ]
+}

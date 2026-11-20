@@ -1,0 +1,79 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: ANI/ASIANET, SUNDAY GUARDIAN, OUTLOOK · 20 NOV 2026",
+ "loopTail": 0.5,
+ "scenes": [
+  {
+   "at": 0,
+   "big": "332 vs 26",
+   "color": "gold",
+   "tag": "RECORD YA MAZAAK?",
+   "img": "20261121-india-a-nepal-26/real/news-2.jpg",
+   "credit": "PHOTO: OUTLOOK",
+   "fit": "blur"
+  },
+  {
+   "at": "match",
+   "big": "DO CENTURY",
+   "color": "white",
+   "tag": "KUSHAGRA 117 · TILAK 107",
+   "img": "20261121-india-a-nepal-26/real/news-1.jpg",
+   "credit": "PHOTO: ASIANET NEWSABLE",
+   "fit": "blur"
+  },
+  {
+   "at": "chase",
+   "big": "26 ALL OUT",
+   "color": "red",
+   "tag": "11.3 OVER · 5 DUCK · CAPTAIN BHI 0",
+   "img": "20261121-india-a-nepal-26/real/wk-2.jpg",
+   "credit": "PHOTO: WIKIMEDIA COMMONS, CC BY-SA",
+   "fit": "blur"
+  },
+  {
+   "at": "prince",
+   "big": "5 WICKET, 6 RUN",
+   "color": "gold",
+   "tag": "PRINCE YADAV · HARSHIT RANA 4/16",
+   "img": "20261121-india-a-nepal-26/real/news-2.jpg",
+   "credit": "PHOTO: OUTLOOK",
+   "fit": "blur"
+  },
+  {
+   "at": "record",
+   "big": "306 RUN SE JEET",
+   "color": "gold",
+   "tag": "INDIA A KI SABSE BADI LIST A JEET",
+   "img": "20261121-india-a-nepal-26/real/news-1.jpg",
+   "credit": "PHOTO: ASIANET NEWSABLE",
+   "fit": "blur"
+  },
+  {
+   "at": "lowest",
+   "big": "26 = 5th LOWEST",
+   "color": "red",
+   "tag": "LIST A ITIHAAS MEIN",
+   "img": "20261121-india-a-nepal-26/real/wk-0.jpg",
+   "credit": "LOGO VIA WIKIPEDIA",
+   "fit": "blur"
+  },
+  {
+   "at": "cta",
+   "big": "KAMZOR YA KHATARNAK?",
+   "color": "gold",
+   "tag": "COMMENT MEIN 1 WORD",
+   "img": "20261121-india-a-nepal-26/real/news-2.jpg",
+   "credit": "PHOTO: OUTLOOK",
+   "fit": "blur"
+  },
+  {
+   "at": "end",
+   "big": "332 vs 26",
+   "color": "gold",
+   "tag": "RECORD YA MAZAAK?",
+   "img": "20261121-india-a-nepal-26/real/news-2.jpg",
+   "credit": "PHOTO: OUTLOOK",
+   "fit": "blur"
+  }
+ ]
+}
