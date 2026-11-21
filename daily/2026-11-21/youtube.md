@@ -4,7 +4,7 @@ Picks (18 Nov lane rules): India A vs Nepal (#1 trend 1M+, lane c shock result, 
 Skipped: Samantha baby (celebrity personal life, and no birth confirmed; due December), Pakistan A vs UAE / Shamyl Hussain (not India), Iron Man, Yogi Adityanath's mother, salary/Modi, Antilia (no fresh confirmed story found), GTA 6 (covered 19-20 Nov).
 Every description ends with the channel footer from the upload defaults (AI voice disclosure). "Altered content" answer: No (AI narration only).
 
-## 1. India A 332 vs Nepal 26, 08:00 IST 21 Nov (lane c: India cricket shock result)
+## 1. India A 332 vs Nepal 26, 09:30 IST 21 Nov (moved from 08:00, approval came 08:12) (lane c: India cricket shock result) (CSo03EKtQ7U)
 File: 20261121-india-a-nepal-26
 Title: India A 332, Nepal 26 ALL OUT! Record hai ya mazaak? 🏏 #shorts
 Description:
@@ -16,7 +16,7 @@ Tags: india a vs nepal, ind a vs nep, india a vs nepal highlights, nepal 26 all 
 Pinned comment: Ek word mein: Nepal KAMZOR ya India A KHATARNAK? 👇
 Related video: India 89 record (pilgp9OG3t4).
 
-## 2. Gold Rs 11,000 sasta, 12:00 IST 21 Nov (lane d: money number scare)
+## 2. Gold Rs 11,000 sasta, 12:00 IST 21 Nov (lane d: money number scare) (GGCvptk1WoE)
 File: 20261121-gold-crash
 Title: 10 din mein SONA Rs 11,000 sasta! Ab kharidein ya aur girega? 🪙 #shorts
 Description:
@@ -28,7 +28,7 @@ Tags: gold price today, gold rate today, why gold is falling, gold price falling
 Pinned comment: Sona abhi LOGE ya WAIT karoge? 👇
 Related video: Phone loans (kDSXPNq8IUs).
 
-## 3. Voyager 1 one light-day, 15:00 IST 21 Nov (outside lanes: space, viral number claim)
+## 3. Voyager 1 one light-day, 15:00 IST 21 Nov (outside lanes: space, viral number claim) (b1FETka_dRw)
 File: 20261121-voyager-light-day
 Title: 1977 ka yaan, jawab 2 DIN baad! Voyager 1 sach mein itna door? 🚀 #shorts
 Description:
