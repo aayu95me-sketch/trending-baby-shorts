@@ -1,0 +1,8 @@
+Gratuity@hook ab ek saal mein milegi? Sach yeh hai, sabko nahi.
+Naye@code labour code mein ek saal wala rule sirf fixed term employees ke liye hai.
+Matlab@fte jinhe contract pe tay muddat ke liye rakha gaya, unhe ek saal baad bhi gratuity milegi.
+Permanent@perm employee? Unke liye ab bhi paanch saal ka hi rule hai.
+Hisaab@calc simple hai. Pandrah din ki salary, guna saal, chhabbees se bhaag.
+Basic@ex aur DA tees hazaar hai, toh ek saal ki gratuity lagbhag satrah hazaar.
+Aur@wage naya twist. Basic aur DA ab total salary ka kam se kam aadha maane jaate hain, toh gratuity badh sakti hai.
+Aap@cta fixed term ho ya permanent? Comment mein ek word likho.

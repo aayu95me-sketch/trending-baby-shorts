@@ -1,0 +1,88 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: GOODRETURNS, OUTLOOK MONEY, BUSINESS TODAY · LABOUR CODES 2025",
+ "loopTail": 0.5,
+ "scenes": [
+  {
+   "at": 0,
+   "big": "1 SAAL ya 5 SAAL?",
+   "color": "gold",
+   "tag": "GRATUITY KA NAYA RULE · SABKO?",
+   "img": "20261123-gratuity-1-saal/real/news-3.jpg",
+   "credit": "PHOTO: GULF NEWS",
+   "fit": "blur"
+  },
+  {
+   "at": "code",
+   "big": "SIRF FIXED TERM",
+   "color": "white",
+   "tag": "NAYA LABOUR CODE · 21 NOV 2025 SE",
+   "img": "20261123-gratuity-1-saal/real/news-0.jpg",
+   "credit": "PHOTO: GOODRETURNS",
+   "fit": "blur"
+  },
+  {
+   "at": "fte",
+   "big": "1 SAAL = GRATUITY",
+   "color": "gold",
+   "tag": "CONTRACT PE TAY MUDDAT WALE",
+   "img": "20261123-gratuity-1-saal/real/emp-4.jpg",
+   "credit": "PHOTO: US DEPT OF STATE, PUBLIC DOMAIN",
+   "fit": "blur"
+  },
+  {
+   "at": "perm",
+   "big": "PERMANENT = 5 SAAL",
+   "color": "red",
+   "tag": "PURANA RULE AB BHI",
+   "img": "20261123-gratuity-1-saal/real/wk-2.jpg",
+   "credit": "PHOTO: BISWARUP GANGULY, CC BY 3.0",
+   "fit": "blur"
+  },
+  {
+   "at": "calc",
+   "big": "15 ÷ 26 × SAAL",
+   "color": "white",
+   "tag": "× AAKHRI BASIC + DA",
+   "img": "20261123-gratuity-1-saal/real/emp-5.jpg",
+   "credit": "PHOTO: LOMIT, CC BY-SA 4.0",
+   "fit": "blur"
+  },
+  {
+   "at": "ex",
+   "big": "≈ Rs 17,300",
+   "color": "gold",
+   "tag": "BASIC + DA Rs 30,000 · 1 SAAL",
+   "img": "20261123-gratuity-1-saal/real/wk-0.jpg",
+   "credit": "NOTES: RBI SPECIMEN VIA WIKIPEDIA",
+   "fit": "blur"
+  },
+  {
+   "at": "wage",
+   "big": "BASIC + DA ≥ 50%",
+   "color": "gold",
+   "tag": "TOTAL SALARY KA · GRATUITY ↑",
+   "img": "20261123-gratuity-1-saal/real/wk-4.jpg",
+   "credit": "PHOTO: RAVI DWIVEDI, CC BY-SA 4.0",
+   "fit": "blur"
+  },
+  {
+   "at": "cta",
+   "big": "FIXED TERM YA PERMANENT?",
+   "color": "gold",
+   "tag": "COMMENT MEIN 1 WORD",
+   "img": "20261123-gratuity-1-saal/real/emp-1.jpg",
+   "credit": "PHOTO: JORGE LASCAR, CC BY 2.0",
+   "fit": "blur"
+  },
+  {
+   "at": "end",
+   "big": "1 SAAL ya 5 SAAL?",
+   "color": "gold",
+   "tag": "GRATUITY KA NAYA RULE · SABKO?",
+   "img": "20261123-gratuity-1-saal/real/news-3.jpg",
+   "credit": "PHOTO: GULF NEWS",
+   "fit": "blur"
+  }
+ ]
+}
