@@ -1,0 +1,22 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "Claim about Labour Code introducing a one‑year gratuity rule for fixed‑term employees is presented as fact without source",
+    "Claim that permanent employees still need five years of service for gratuity is presented as fact without source",
+    "Statement that basic+DA now count as at least half of total salary for gratuity calculation is presented as fact without source"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [],
+   "one_line_verdict": "Script is clear and concise but contains several uncited legal claims; no number mismatches or hook options, and the Hinglish reads naturally."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}
