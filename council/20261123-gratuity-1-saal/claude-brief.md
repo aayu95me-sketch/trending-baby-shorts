@@ -1,0 +1,7 @@
+# Claude (leader), round 0. Written before any council reply.
+Reel: "Gratuity ab 1 saal mein? Sabko nahi." CSV 22 Nov: ग्रेच्युटी 5K+, কর্মচারী সুবিধা (employee benefits) 5K+, వేతనం (wages) 1K+, the day after the labour codes' first anniversary (in force 21 Nov 2025). Lane d: civic number-vs-number (1 saal vs 5 saal). Slot 12:00 IST 23 Nov. Weaker pick (low volume) but a live office argument with a usable answer.
+Facts (4 sources agree): 1-year gratuity = fixed-term employees only; permanent still 5 years; formula 15/26 x last wages x years; wages (basic + DA) must be at least 50% of total pay, excess allowances added back, so gratuity can rise. Own example: Rs 30,000 x 15/26 x 1 = Rs 17,308 ("lagbhag satrah hazaar", on screen ≈ Rs 17,300).
+Not said: Rs 20 lakh ceiling, "20-50% higher", 30-day deadline, death/disability rules (sources thin or differ).
+My scores: Script 7.5, Voice ?, Visuals 6.5, Whole 7.
+Known fixes I will make: scene 2 tag wraps and leaves "SE" alone on a line (shorten it); frame 1 photo has euro coins under the GRATUITY dice.
+Questions: 1) VOICE: our Whisper check heard the line from ~7.9 s to ~13 s ("Matlab jinhe contract pe tay muddat ke liye rakha gaya...") as a loop of "agar agar"; please listen to 4-14 s and say if the voice is clear or garbled. 2) Is frame 1 ("1 SAAL ya 5 SAAL?" on the GRATUITY dice photo) a thumb-stopper, or should the hook show real Indian office workers? 3) Is the formula beat too explainer-ish (LESSONS: losers explain)? Cut it and keep only the Rs 17,300 example?
