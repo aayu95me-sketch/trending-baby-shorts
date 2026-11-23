@@ -1,0 +1,97 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: BUSINESS STANDARD, REUTERS, THE WEEK · 23 NOV 2026",
+ "loopTail": 0.5,
+ "scenes": [
+  {
+   "at": 0,
+   "big": "BISLERI UNSAFE?",
+   "color": "red",
+   "tag": "FSSAI NE CASE KI MANZOORI DI",
+   "img": "20261124-bisleri-unsafe/real/news-1.jpg",
+   "credit": "PHOTO: THE DAILY STAR",
+   "fit": "blur"
+  },
+  {
+   "at": "case",
+   "big": "FSSAI: CASE CHALAO",
+   "color": "white",
+   "tag": "PROSECUTION KI MANZOORI",
+   "img": "20261124-bisleri-unsafe/real/wk-3.jpg",
+   "credit": "PHOTO: VEEVEN, CC BY-SA 4.0",
+   "fit": "blur"
+  },
+  {
+   "at": "batch",
+   "big": "SIRF 1 BATCH",
+   "color": "gold",
+   "tag": "GOA PLANT · SEPT 2025 · 143 MEIN SE 1",
+   "img": "20261124-bisleri-unsafe/real/news-0.jpg",
+   "credit": "FILE PHOTO: BUSINESS STANDARD",
+   "fit": "blur"
+  },
+  {
+   "at": "six",
+   "big": "6 MEIN SE 5 PASS",
+   "color": "white",
+   "tag": "30 SEPT 2025 KE SAMPLE",
+   "img": "20261124-bisleri-unsafe/real/wk-3.jpg",
+   "credit": "PHOTO: VEEVEN, CC BY-SA 4.0",
+   "fit": "blur"
+  },
+  {
+   "at": "bromate",
+   "big": "12 vs 10",
+   "color": "red",
+   "tag": "BROMATE (MICROGRAM/LITRE) · LIMIT 10",
+   "img": "20261124-bisleri-unsafe/real/wk-1.jpg",
+   "credit": "PHOTO: WIKIMEDIA COMMONS",
+   "fit": "blur"
+  },
+  {
+   "at": "twist",
+   "big": "BROMATE OK, PAH FLAG",
+   "color": "gold",
+   "tag": "DOOSRI LAB (APPEAL KE BAAD)",
+   "img": "20261124-bisleri-unsafe/real/wk-5.jpg",
+   "credit": "PHOTO: US EPA, PUBLIC DOMAIN",
+   "fit": "blur"
+  },
+  {
+   "at": "reply",
+   "big": "90+ TESTS",
+   "color": "white",
+   "tag": "BISLERI KA JAWAB · FSSAI KE SAATH",
+   "img": "20261124-bisleri-unsafe/real/news-0.jpg",
+   "credit": "FILE PHOTO: BUSINESS STANDARD",
+   "fit": "blur"
+  },
+  {
+   "at": "verdict",
+   "big": "RECALL: NAHI",
+   "color": "gold",
+   "tag": "CASE KA FAISLA ABHI BAAKI",
+   "img": "20261124-bisleri-unsafe/real/wk-1.jpg",
+   "credit": "PHOTO: WIKIMEDIA COMMONS",
+   "fit": "blur"
+  },
+  {
+   "at": "cta",
+   "big": "PEETE RAHOGE?",
+   "color": "gold",
+   "tag": "HAAN YA NA · COMMENT KARO",
+   "img": "20261124-bisleri-unsafe/real/news-1.jpg",
+   "credit": "PHOTO: THE DAILY STAR",
+   "fit": "blur"
+  },
+  {
+   "at": "end",
+   "big": "BISLERI UNSAFE?",
+   "color": "red",
+   "tag": "FSSAI NE CASE KI MANZOORI DI",
+   "img": "20261124-bisleri-unsafe/real/news-1.jpg",
+   "credit": "PHOTO: THE DAILY STAR",
+   "fit": "blur"
+  }
+ ]
+}

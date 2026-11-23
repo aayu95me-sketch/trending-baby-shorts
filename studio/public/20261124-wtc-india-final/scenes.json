@@ -1,0 +1,88 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: ETV BHARAT, CRICKET ADDICTOR, POSSIBLE11 · 23 NOV 2026",
+ "loopTail": 0.5,
+ "scenes": [
+  {
+   "at": 0,
+   "big": "720 RUN, PHIR BHI DRAW",
+   "color": "gold",
+   "tag": "WTC FINAL SE BAHAR?",
+   "img": "20261124-wtc-india-final/real/news-2.jpg",
+   "credit": "PHOTO: SPORTSTIGER",
+   "fit": "blur"
+  },
+  {
+   "at": "draw",
+   "big": "120 OVER, 5 WICKET",
+   "color": "white",
+   "tag": "NZ 239/5 · WELLINGTON TEST DRAW",
+   "img": "20261124-wtc-india-final/real/news-1.jpg",
+   "credit": "PHOTO: POSSIBLE11",
+   "fit": "blur"
+  },
+  {
+   "at": "table",
+   "big": "INDIA #4 · 50%",
+   "color": "red",
+   "tag": "SA 75 · AUS 69 · NZ 67",
+   "img": "20261124-wtc-india-final/real/news-0.jpg",
+   "credit": "PHOTO: ETV BHARAT",
+   "fit": "blur"
+  },
+  {
+   "at": "left",
+   "big": "6 TEST BAAKI",
+   "color": "white",
+   "tag": "1 NZ MEIN · 5 GHAR PE vs AUS",
+   "img": "20261124-wtc-india-final/real/wk-0.jpg",
+   "credit": "PHOTO: WIKIMEDIA COMMONS",
+   "fit": "blur"
+  },
+  {
+   "at": "calc",
+   "big": "6/6 JEETE = 66.7%",
+   "color": "gold",
+   "tag": "INDIA KA MAX POSSIBLE",
+   "img": "20261124-wtc-india-final/real/wk-5.jpg",
+   "credit": "PHOTO: RAE ALLEN, CC BY 2.0",
+   "fit": "blur"
+  },
+  {
+   "at": "past",
+   "big": "59% · 64%",
+   "color": "white",
+   "tag": "PICHHLE 2 FINAL: NO. 2 TEAM",
+   "img": "20261124-wtc-india-final/real/wk-6.jpg",
+   "credit": "PHOTO: MTAYLOR848, CC BY-SA 4.0",
+   "fit": "blur"
+  },
+  {
+   "at": "verdict",
+   "big": "1 HAAR CHALEGI, 2 NAHI",
+   "color": "gold",
+   "tag": "5-1 = 61% · 4-2 = 56%",
+   "img": "20261124-wtc-india-final/real/news-2.jpg",
+   "credit": "PHOTO: SPORTSTIGER",
+   "fit": "blur"
+  },
+  {
+   "at": "cta",
+   "big": "CHRISTCHURCH: JEETEGA?",
+   "color": "gold",
+   "tag": "27 NOV SE · HAAN YA NA",
+   "img": "20261124-wtc-india-final/real/wk-0.jpg",
+   "credit": "PHOTO: WIKIMEDIA COMMONS",
+   "fit": "blur"
+  },
+  {
+   "at": "end",
+   "big": "720 RUN, PHIR BHI DRAW",
+   "color": "gold",
+   "tag": "WTC FINAL SE BAHAR?",
+   "img": "20261124-wtc-india-final/real/news-2.jpg",
+   "credit": "PHOTO: SPORTSTIGER",
+   "fit": "blur"
+  }
+ ]
+}
