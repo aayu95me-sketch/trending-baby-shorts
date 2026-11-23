@@ -1,0 +1,6 @@
+# Claude (leader), round 0. Written before any council reply.
+Reel: "Bisleri ka paani unsafe?" CSV 23 Nov (Maharashtra 1d): "bisleri" 5K+, started 09:10 IST; Bloomberg, Reuters, Business Standard, The Week all ran it. Lane d: civic number-vs-number scare (12 vs 10, 5 of 6 passed). Slot 09:30 IST 24 Nov.
+Facts: FSSAI sanctioned prosecution vs Bisleri International (BS, The Week; Reuters: "would initiate legal proceedings"). One batch, Goa plant (1 of 143), Sept 2025. 30 Sept 2025: 6 samples, 5 passed, 1 had bromate 12 microgram/litre vs limit 10 (BS, Reuters). After appeal the referral lab found bromate within limit but flagged PAHs (BS, Reuters; The Week contradicts itself on bromate). Bisleri: "over 90 tests across our 10-step process", will cooperate. No recall reported anywhere.
+Not said: "Bisleri is safe now" (no test of current stock), penalty (no source), cancer claims.
+My scores: Script 7.5, Voice ?, Visuals 6.5, Whole 7.
+Questions: 1) Is the hook "Bisleri ka paani unsafe? Bottle phenkne se pehle poora sach suniye" + "BISLERI UNSAFE?" on real Bisleri bottles a thumb-stopper? 2) Is the verdict fair to both sides (not defending a brand, not scaring)? 3) Voice: listen to the PAH line (~25-32 s); are "PAH" and "bromate" clear? 4) The lab photo is a US EPA jar tester: OK or swap for something Indian?
