@@ -1,0 +1,33 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "India ab chauthe number pe hai, pachaas percent pe – no source cited",
+    "India ke chhe Test bache hain – no source cited",
+    "Chhe ke chhe jeete, toh India lagbhag sadsath percent tak pahunch sakta hai – no source cited",
+    "Pichhle do final mein doosre number wali team unsath aur chausath percent pe thi – no source cited",
+    "India bahar nahi hua – no source cited",
+    "New Zealand ne doosri innings mein ek sau bees over khele, sirf paanch wicket gire – no source cited"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "\"Sau bees\" instead of natural \"200\" or \"do sau\"",
+    "\"Wellington@draw Test draw hua\" redundant and awkward phrasing",
+    "\"Ek New Zealand mein, paanch ghar pe Australia se\" is incoherent",
+    "\"sadsath\" typo; should be \"sath‑sath\" or \"sath\"",
+    "\"unsath\" typo; unclear meaning",
+    "\"sattais\" unclear context and sounds odd",
+    "Use of \"@\" tags inside spoken lines is unnatural for a YouTube short"
+   ],
+   "one_line_verdict": "The script contains multiple unverified numeric claims and several unnatural Hinglish phrasing issues, and it lacks a clear hook."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}
