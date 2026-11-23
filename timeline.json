@@ -1,0 +1,842 @@
+{
+ "total": 42.425,
+ "voice": "20261123-ind-a-vs-pak-a/voice.wav",
+ "lines": [
+  {
+   "start": 0.17,
+   "text": "Tilak Varma ne century maari, phir bhi India A Pakistan A se haar gaya. Galti Tilak ki?",
+   "end": 4.96
+  },
+  {
+   "start": 4.96,
+   "text": "Pakistan A ne banaye teen sau terah. India A do sau painsath pe all out, adtaalees run se haar.",
+   "end": 10.889
+  },
+  {
+   "start": 11.26,
+   "text": "Abhishek Sharma ne bayaalees ball pe sattar maare, lekin phir ek sau chaubees pe paanch wicket gir gaye.",
+   "end": 16.35
+  },
+  {
+   "start": 16.611,
+   "text": "Tilak ne sau run banaye, par ek sau unchaas ball khel kar.",
+   "end": 19.998
+  },
+  {
+   "start": 20.372,
+   "text": "Hisaab dekho. Har ball pe ek run se zyada chahiye tha, Tilak ka strike rate sirf sadsath raha.",
+   "end": 25.512
+  },
+  {
+   "start": 25.658,
+   "text": "Shahbaz Ahmed ne unchaas ball pe chhappan maare, par target bahut door tha.",
+   "end": 29.701
+  },
+  {
+   "start": 29.807,
+   "text": "Toh sach kya hai? Haar sirf Tilak ki wajah se nahi, top order bhi gira. Lekin itne bade chase mein yeh speed kam padi.",
+   "end": 36.9
+  },
+  {
+   "start": 36.9,
+   "text": "Aapke hisaab se Tilak sahi ya slow? Comment mein ek word likho.",
+   "end": 41.006
+  }
+ ],
+ "words": [
+  {
+   "w": "Tilak",
+   "start": 0.17,
+   "end": 0.88
+  },
+  {
+   "w": "Varma",
+   "start": 0.9,
+   "end": 1.007
+  },
+  {
+   "w": "ne",
+   "start": 1.027,
+   "end": 1.133
+  },
+  {
+   "w": "century",
+   "start": 1.153,
+   "end": 1.26
+  },
+  {
+   "w": "maari,",
+   "start": 1.28,
+   "end": 1.54
+  },
+  {
+   "w": "phir",
+   "start": 1.56,
+   "end": 2.14
+  },
+  {
+   "w": "bhi",
+   "start": 2.16,
+   "end": 2.32
+  },
+  {
+   "w": "India",
+   "start": 2.34,
+   "end": 2.74
+  },
+  {
+   "w": "A",
+   "start": 2.76,
+   "end": 2.88
+  },
+  {
+   "w": "Pakistan",
+   "start": 2.9,
+   "end": 3.14
+  },
+  {
+   "w": "A",
+   "start": 3.16,
+   "end": 3.4
+  },
+  {
+   "w": "se",
+   "start": 3.42,
+   "end": 3.56
+  },
+  {
+   "w": "haar",
+   "start": 3.58,
+   "end": 3.74
+  },
+  {
+   "w": "gaya.",
+   "start": 3.76,
+   "end": 4.274
+  },
+  {
+   "w": "Galti",
+   "start": 4.294,
+   "end": 4.56
+  },
+  {
+   "w": "Tilak",
+   "start": 4.58,
+   "end": 4.75
+  },
+  {
+   "w": "ki?",
+   "start": 4.77,
+   "end": 4.94
+  },
+  {
+   "w": "Pakistan",
+   "start": 4.96,
+   "end": 5.42
+  },
+  {
+   "w": "A",
+   "start": 5.44,
+   "end": 5.9
+  },
+  {
+   "w": "ne",
+   "start": 5.92,
+   "end": 6.04
+  },
+  {
+   "w": "banaye",
+   "start": 6.06,
+   "end": 6.23
+  },
+  {
+   "w": "teen",
+   "start": 6.25,
+   "end": 6.42
+  },
+  {
+   "w": "sau",
+   "start": 6.44,
+   "end": 6.61
+  },
+  {
+   "w": "terah.",
+   "start": 6.63,
+   "end": 6.8
+  },
+  {
+   "w": "India",
+   "start": 6.82,
+   "end": 7.62
+  },
+  {
+   "w": "A",
+   "start": 7.66,
+   "end": 7.867
+  },
+  {
+   "w": "do",
+   "start": 7.887,
+   "end": 8.093
+  },
+  {
+   "w": "sau",
+   "start": 8.113,
+   "end": 8.32
+  },
+  {
+   "w": "painsath",
+   "start": 8.34,
+   "end": 8.74
+  },
+  {
+   "w": "pe",
+   "start": 8.76,
+   "end": 8.94
+  },
+  {
+   "w": "all",
+   "start": 8.96,
+   "end": 9.45
+  },
+  {
+   "w": "out,",
+   "start": 9.47,
+   "end": 9.96
+  },
+  {
+   "w": "adtaalees",
+   "start": 9.98,
+   "end": 10.26
+  },
+  {
+   "w": "run",
+   "start": 10.28,
+   "end": 10.48
+  },
+  {
+   "w": "se",
+   "start": 10.5,
+   "end": 10.64
+  },
+  {
+   "w": "haar.",
+   "start": 10.66,
+   "end": 11.24
+  },
+  {
+   "w": "Abhishek",
+   "start": 11.26,
+   "end": 11.62
+  },
+  {
+   "w": "Sharma",
+   "start": 11.64,
+   "end": 11.82
+  },
+  {
+   "w": "ne",
+   "start": 11.84,
+   "end": 12.02
+  },
+  {
+   "w": "bayaalees",
+   "start": 12.04,
+   "end": 12.68
+  },
+  {
+   "w": "ball",
+   "start": 12.7,
+   "end": 12.84
+  },
+  {
+   "w": "pe",
+   "start": 12.86,
+   "end": 12.94
+  },
+  {
+   "w": "sattar",
+   "start": 12.96,
+   "end": 13.34
+  },
+  {
+   "w": "maare,",
+   "start": 13.36,
+   "end": 13.64
+  },
+  {
+   "w": "lekin",
+   "start": 13.66,
+   "end": 13.98
+  },
+  {
+   "w": "phir",
+   "start": 14.0,
+   "end": 14.376
+  },
+  {
+   "w": "ek",
+   "start": 14.396,
+   "end": 14.58
+  },
+  {
+   "w": "sau",
+   "start": 14.6,
+   "end": 14.74
+  },
+  {
+   "w": "chaubees",
+   "start": 14.76,
+   "end": 14.96
+  },
+  {
+   "w": "pe",
+   "start": 14.98,
+   "end": 15.22
+  },
+  {
+   "w": "paanch",
+   "start": 15.24,
+   "end": 15.582
+  },
+  {
+   "w": "wicket",
+   "start": 15.602,
+   "end": 16.06
+  },
+  {
+   "w": "gir",
+   "start": 16.08,
+   "end": 16.18
+  },
+  {
+   "w": "gaye.",
+   "start": 16.2,
+   "end": 16.591
+  },
+  {
+   "w": "Tilak",
+   "start": 16.611,
+   "end": 16.98
+  },
+  {
+   "w": "ne",
+   "start": 17.0,
+   "end": 17.07
+  },
+  {
+   "w": "sau",
+   "start": 17.09,
+   "end": 17.16
+  },
+  {
+   "w": "run",
+   "start": 17.18,
+   "end": 17.62
+  },
+  {
+   "w": "banaye,",
+   "start": 17.64,
+   "end": 18.211
+  },
+  {
+   "w": "par",
+   "start": 18.231,
+   "end": 18.316
+  },
+  {
+   "w": "ek",
+   "start": 18.336,
+   "end": 18.42
+  },
+  {
+   "w": "sau",
+   "start": 18.44,
+   "end": 18.94
+  },
+  {
+   "w": "unchaas",
+   "start": 18.96,
+   "end": 19.46
+  },
+  {
+   "w": "ball",
+   "start": 19.48,
+   "end": 19.66
+  },
+  {
+   "w": "khel",
+   "start": 19.68,
+   "end": 19.82
+  },
+  {
+   "w": "kar.",
+   "start": 19.84,
+   "end": 20.352
+  },
+  {
+   "w": "Hisaab",
+   "start": 20.372,
+   "end": 20.56
+  },
+  {
+   "w": "dekho.",
+   "start": 20.58,
+   "end": 21.14
+  },
+  {
+   "w": "Har",
+   "start": 21.16,
+   "end": 21.42
+  },
+  {
+   "w": "ball",
+   "start": 21.44,
+   "end": 21.7
+  },
+  {
+   "w": "pe",
+   "start": 21.72,
+   "end": 21.94
+  },
+  {
+   "w": "ek",
+   "start": 21.96,
+   "end": 22.18
+  },
+  {
+   "w": "run",
+   "start": 22.2,
+   "end": 22.27
+  },
+  {
+   "w": "se",
+   "start": 22.29,
+   "end": 22.36
+  },
+  {
+   "w": "zyada",
+   "start": 22.38,
+   "end": 22.68
+  },
+  {
+   "w": "chahiye",
+   "start": 22.7,
+   "end": 23.061
+  },
+  {
+   "w": "tha,",
+   "start": 23.081,
+   "end": 23.443
+  },
+  {
+   "w": "Tilak",
+   "start": 23.463,
+   "end": 23.62
+  },
+  {
+   "w": "ka",
+   "start": 23.64,
+   "end": 23.87
+  },
+  {
+   "w": "strike",
+   "start": 23.89,
+   "end": 24.12
+  },
+  {
+   "w": "rate",
+   "start": 24.14,
+   "end": 24.21
+  },
+  {
+   "w": "sirf",
+   "start": 24.23,
+   "end": 24.3
+  },
+  {
+   "w": "sadsath",
+   "start": 24.32,
+   "end": 25.02
+  },
+  {
+   "w": "raha.",
+   "start": 25.04,
+   "end": 25.638
+  },
+  {
+   "w": "Shahbaz",
+   "start": 25.658,
+   "end": 26.3
+  },
+  {
+   "w": "Ahmed",
+   "start": 26.32,
+   "end": 26.58
+  },
+  {
+   "w": "ne",
+   "start": 26.6,
+   "end": 26.82
+  },
+  {
+   "w": "unchaas",
+   "start": 26.84,
+   "end": 27.38
+  },
+  {
+   "w": "ball",
+   "start": 27.4,
+   "end": 27.56
+  },
+  {
+   "w": "pe",
+   "start": 27.58,
+   "end": 27.72
+  },
+  {
+   "w": "chhappan",
+   "start": 27.74,
+   "end": 28.02
+  },
+  {
+   "w": "maare,",
+   "start": 28.04,
+   "end": 28.319
+  },
+  {
+   "w": "par",
+   "start": 28.339,
+   "end": 28.54
+  },
+  {
+   "w": "target",
+   "start": 28.56,
+   "end": 29.12
+  },
+  {
+   "w": "bahut",
+   "start": 29.14,
+   "end": 29.36
+  },
+  {
+   "w": "door",
+   "start": 29.38,
+   "end": 29.5
+  },
+  {
+   "w": "tha.",
+   "start": 29.52,
+   "end": 29.787
+  },
+  {
+   "w": "Toh",
+   "start": 29.807,
+   "end": 30.073
+  },
+  {
+   "w": "sach",
+   "start": 30.093,
+   "end": 30.36
+  },
+  {
+   "w": "kya",
+   "start": 30.38,
+   "end": 30.54
+  },
+  {
+   "w": "hai?",
+   "start": 30.56,
+   "end": 30.96
+  },
+  {
+   "w": "Haar",
+   "start": 30.98,
+   "end": 31.28
+  },
+  {
+   "w": "sirf",
+   "start": 31.3,
+   "end": 31.659
+  },
+  {
+   "w": "Tilak",
+   "start": 31.679,
+   "end": 31.81
+  },
+  {
+   "w": "ki",
+   "start": 31.83,
+   "end": 31.96
+  },
+  {
+   "w": "wajah",
+   "start": 31.98,
+   "end": 32.11
+  },
+  {
+   "w": "se",
+   "start": 32.13,
+   "end": 32.26
+  },
+  {
+   "w": "nahi,",
+   "start": 32.28,
+   "end": 32.851
+  },
+  {
+   "w": "top",
+   "start": 32.871,
+   "end": 33.1
+  },
+  {
+   "w": "order",
+   "start": 33.12,
+   "end": 33.34
+  },
+  {
+   "w": "bhi",
+   "start": 33.36,
+   "end": 33.5
+  },
+  {
+   "w": "gira.",
+   "start": 33.52,
+   "end": 34.19
+  },
+  {
+   "w": "Lekin",
+   "start": 34.21,
+   "end": 34.54
+  },
+  {
+   "w": "itne",
+   "start": 34.56,
+   "end": 34.88
+  },
+  {
+   "w": "bade",
+   "start": 34.9,
+   "end": 35.14
+  },
+  {
+   "w": "chase",
+   "start": 35.16,
+   "end": 35.58
+  },
+  {
+   "w": "mein",
+   "start": 35.6,
+   "end": 35.92
+  },
+  {
+   "w": "yeh",
+   "start": 35.94,
+   "end": 36.08
+  },
+  {
+   "w": "speed",
+   "start": 36.1,
+   "end": 36.42
+  },
+  {
+   "w": "kam",
+   "start": 36.44,
+   "end": 36.64
+  },
+  {
+   "w": "padi.",
+   "start": 36.66,
+   "end": 36.88
+  },
+  {
+   "w": "Aapke",
+   "start": 36.9,
+   "end": 37.58
+  },
+  {
+   "w": "hisaab",
+   "start": 37.6,
+   "end": 37.88
+  },
+  {
+   "w": "se",
+   "start": 37.9,
+   "end": 38.02
+  },
+  {
+   "w": "Tilak",
+   "start": 38.04,
+   "end": 38.3
+  },
+  {
+   "w": "sahi",
+   "start": 38.32,
+   "end": 38.941
+  },
+  {
+   "w": "ya",
+   "start": 38.961,
+   "end": 39.12
+  },
+  {
+   "w": "slow?",
+   "start": 39.14,
+   "end": 39.779
+  },
+  {
+   "w": "Comment",
+   "start": 39.799,
+   "end": 40.14
+  },
+  {
+   "w": "mein",
+   "start": 40.16,
+   "end": 40.32
+  },
+  {
+   "w": "ek",
+   "start": 40.34,
+   "end": 40.52
+  },
+  {
+   "w": "word",
+   "start": 40.54,
+   "end": 40.66
+  },
+  {
+   "w": "likho.",
+   "start": 40.68,
+   "end": 41.425
+  }
+ ],
+ "cues": {
+  "hook": 0.17,
+  "score": 4.96,
+  "abhi": 11.26,
+  "tilak": 16.611,
+  "sr": 20.372,
+  "shahbaz": 25.658,
+  "verdict": 29.807,
+  "cta": 36.9
+ },
+ "numbers": [],
+ "heard": [
+  "तिलक्वार्माने",
+  "सेंच्री",
+  "मारी",
+  "फिर",
+  "भी",
+  "अंदिया",
+  "है",
+  "पाकिस्ताने",
+  "से",
+  "हार",
+  "गया",
+  "गल्ती",
+  "तिलकी",
+  "पाकिस्ताने",
+  "ने",
+  "बनाए",
+  "313",
+  "अंदिया",
+  "है",
+  "2",
+  "पैसर्ट",
+  "पे",
+  "अलाुट",
+  "अर",
+  "ताली",
+  "स्रन",
+  "से",
+  "हार",
+  "अबिशेख",
+  "शर्मने",
+  "बैयालीस",
+  "बाल",
+  "पे",
+  "सबतर",
+  "मारे",
+  "लेकिन",
+  "फिर",
+  "एक",
+  "सु",
+  "चोब",
+  "आपुशा।",
+  "पे",
+  "पाजविकट",
+  "गीर",
+  "गगे",
+  "तिलक",
+  "ने",
+  "सोरन",
+  "बनाए,",
+  "पर",
+  "एकसु",
+  "उन्चास",
+  "बाल",
+  "खेल",
+  "कर",
+  "इसाप",
+  "देखो,",
+  "हर",
+  "बाल",
+  "पे",
+  "एक",
+  "रनज",
+  "जावा",
+  "चाईईदा",
+  "दिलग",
+  "का",
+  "च्राएं",
+  "क्रीट",
+  "फराद",
+  "रहा",
+  "शेवाज",
+  "आमद",
+  "ने",
+  "उंचास",
+  "बल",
+  "पे",
+  "छबपन्मारे",
+  "पर",
+  "टारिएएग",
+  "बहुत",
+  "दूर",
+  "ता!",
+  "क्या",
+  "थो",
+  "क्या",
+  "है?",
+  "रार",
+  "स्र्व",
+  "ठिलक्की",
+  "वजिसे",
+  "नहीं,",
+  "त॑ब",
+  "वटर",
+  "भी",
+  "गीरा.",
+  "लेकिन",
+  "इतने",
+  "बड़े",
+  "चेज्ज",
+  "में",
+  "ये",
+  "स्पीट",
+  "कम",
+  "पडी",
+  "आपके",
+  "इसाप",
+  "से",
+  "तिलक",
+  "सही",
+  "या",
+  "स्लो",
+  "कोमेंट",
+  "में",
+  "एक",
+  "वर",
+  "लिखो"
+ ]
+}

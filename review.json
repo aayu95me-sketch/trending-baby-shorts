@@ -1,0 +1,27 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "India A Pakistan A",
+    "painsath",
+    "adtaalees",
+    "bayaalees",
+    "sadsath",
+    "Hisaab@sr",
+    "Aapke@cta",
+    "score A"
+   ],
+   "one_line_verdict": "No numeric mismatches or compliance problems, but the script contains several awkward Hinglish terms that sound unnatural for a young Delhi audience."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}
