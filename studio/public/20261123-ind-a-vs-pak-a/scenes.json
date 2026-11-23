@@ -1,11 +1,11 @@
 {
  "banner": "DOUBT CLEAR",
  "note": "SOURCES: ANI, INDIA.COM, ESPNCRICINFO · 22 NOV 2026",
- "loopTail": 0.5,
+ "loopTail": 0.2,
  "scenes": [
   {
    "at": 0,
-   "big": "100 RUN, PHIR BHI HAAR",
+   "big": "CENTURY, PHIR BHI HAAR?",
    "color": "gold",
    "tag": "TILAK KI GALTI? · IND A vs PAK A",
    "img": "20261123-ind-a-vs-pak-a/real/news-0.jpg",
@@ -43,7 +43,7 @@
    "at": "sr",
    "big": "67 vs 105",
    "color": "red",
-   "tag": "TILAK KA STRIKE RATE vs CHAHIYE THA",
+   "tag": "TILAK SR vs ZAROORI SR",
    "img": "20261123-ind-a-vs-pak-a/real/news-0.jpg",
    "credit": "PHOTO: FREE PRESS JOURNAL",
    "fit": "blur"
@@ -77,7 +77,7 @@
   },
   {
    "at": "end",
-   "big": "100 RUN, PHIR BHI HAAR",
+   "big": "CENTURY, PHIR BHI HAAR?",
    "color": "gold",
    "tag": "TILAK KI GALTI? · IND A vs PAK A",
    "img": "20261123-ind-a-vs-pak-a/real/news-0.jpg",
