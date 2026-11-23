@@ -1,0 +1,88 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: ANI, INDIA.COM, ESPNCRICINFO · 22 NOV 2026",
+ "loopTail": 0.5,
+ "scenes": [
+  {
+   "at": 0,
+   "big": "100 RUN, PHIR BHI HAAR",
+   "color": "gold",
+   "tag": "TILAK KI GALTI? · IND A vs PAK A",
+   "img": "20261123-ind-a-vs-pak-a/real/news-0.jpg",
+   "credit": "PHOTO: FREE PRESS JOURNAL",
+   "fit": "blur"
+  },
+  {
+   "at": "score",
+   "big": "313 vs 265",
+   "color": "red",
+   "tag": "PAKISTAN A 48 RUN SE JEETA",
+   "img": "20261123-ind-a-vs-pak-a/real/news-4.jpg",
+   "credit": "PHOTO: OUTLOOK (FILE)",
+   "fit": "blur"
+  },
+  {
+   "at": "abhi",
+   "big": "70 (42) → 124/5",
+   "color": "white",
+   "tag": "ABHISHEK KE BAAD 5 WICKET GIRE",
+   "img": "20261123-ind-a-vs-pak-a/real/news-2.jpg",
+   "credit": "PHOTO: GETTY VIA CRICKETNEWS (FILE)",
+   "fit": "blur"
+  },
+  {
+   "at": "tilak",
+   "big": "100 (149)",
+   "color": "gold",
+   "tag": "TILAK VARMA KI CENTURY",
+   "img": "20261123-ind-a-vs-pak-a/real/news-0.jpg",
+   "credit": "PHOTO: FREE PRESS JOURNAL",
+   "fit": "blur"
+  },
+  {
+   "at": "sr",
+   "big": "67 vs 105",
+   "color": "red",
+   "tag": "TILAK KA STRIKE RATE vs CHAHIYE THA",
+   "img": "20261123-ind-a-vs-pak-a/real/news-0.jpg",
+   "credit": "PHOTO: FREE PRESS JOURNAL",
+   "fit": "blur"
+  },
+  {
+   "at": "shahbaz",
+   "big": "56 (49)",
+   "color": "white",
+   "tag": "SHAHBAZ AHMED · TARGET DOOR",
+   "img": "20261123-ind-a-vs-pak-a/real/news-1.jpg",
+   "credit": "PHOTO: FREE PRESS JOURNAL",
+   "fit": "blur"
+  },
+  {
+   "at": "verdict",
+   "big": "SIRF TILAK NAHI",
+   "color": "gold",
+   "tag": "124/5 COLLAPSE + SLOW CHASE",
+   "img": "20261123-ind-a-vs-pak-a/real/news-4.jpg",
+   "credit": "PHOTO: OUTLOOK (FILE)",
+   "fit": "blur"
+  },
+  {
+   "at": "cta",
+   "big": "SAHI YA SLOW?",
+   "color": "gold",
+   "tag": "COMMENT MEIN 1 WORD",
+   "img": "20261123-ind-a-vs-pak-a/real/news-0.jpg",
+   "credit": "PHOTO: FREE PRESS JOURNAL",
+   "fit": "blur"
+  },
+  {
+   "at": "end",
+   "big": "100 RUN, PHIR BHI HAAR",
+   "color": "gold",
+   "tag": "TILAK KI GALTI? · IND A vs PAK A",
+   "img": "20261123-ind-a-vs-pak-a/real/news-0.jpg",
+   "credit": "PHOTO: FREE PRESS JOURNAL",
+   "fit": "blur"
+  }
+ ]
+}
