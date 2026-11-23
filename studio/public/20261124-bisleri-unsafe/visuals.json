@@ -1,0 +1,17 @@
+{
+ "news": [
+  {"og": "https://www.business-standard.com/companies/news/bisleri-stresses-water-safety-after-fssai-sanctions-prosecution-against-it-126112301180_1.html"},
+  {"og": "https://www.theweek.in/news/india/2026/11/23/fssai-sanctions-prosecution-against-bisleri.html"},
+  {"og": "https://www.thedailystar.net/news/world/news/bisleri-waters-sample-found-be-unsafe-4330956"}
+ ],
+ "wk": [
+  {"og": "https://en.wikipedia.org/wiki/Bisleri"},
+  {"og": "https://en.wikipedia.org/wiki/Food_Safety_and_Standards_Authority_of_India"},
+  {"og": "https://en.wikipedia.org/wiki/Bottled_water"},
+  {"wiki": "Bisleri bottle", "n": 3},
+  {"wiki": "packaged drinking water bottles India", "n": 3},
+  {"wiki": "water bottle plastic shop India", "n": 2},
+  {"wiki": "water testing laboratory", "n": 2},
+  {"wiki": "Goa", "n": 1}
+ ]
+}
