@@ -4,7 +4,7 @@ Picks (18 Nov lane rules): India A vs Pakistan A (#1 trend 1M+, lane c; Pakistan
 Skipped: weather/rain 500K+ (Cyclone Akvan had already weakened by 21 Nov; no checkable number), Barcelona/Real Madrid/Arsenal (football), gold (done 21 Nov), Suzuki Access 125 price (tech launch), Mahesh Babu, Robert Kiyosaki (no fresh confirmed story), SSC CHSL slip (plain explainer).
 Every description ends with the channel footer from the upload defaults (AI voice disclosure). "Altered content" answer: No (AI narration only).
 
-## 1. India A vs Pakistan A: Tilak 100, phir bhi haar, 09:30 IST 23 Nov (lane c: India cricket shock result)
+## 1. India A vs Pakistan A: Tilak 100, phir bhi haar, 14:00 IST 23 Nov (lane c: India cricket shock result)
 File: 20261123-ind-a-vs-pak-a
 Title: Tilak ki CENTURY, phir bhi Pakistan A se haar! Galti kiski? 🏏 #shorts
 Description:
@@ -16,7 +16,7 @@ Tags: india a vs pakistan a, ind a vs pak a, pakistan a vs india a, tilak varma 
 Pinned comment: Ek word mein: Tilak SAHI ya SLOW? 👇
 Related video: India A 332 vs Nepal 26 (CSo03EKtQ7U).
 
-## 2. Gratuity 1 saal ya 5 saal, 12:00 IST 23 Nov (lane d: civic number vs number)
+## 2. Gratuity 1 saal ya 5 saal, 17:00 IST 23 Nov (lane d: civic number vs number)
 File: 20261123-gratuity-1-saal
 Title: Gratuity ab 1 saal mein? SABKO nahi! 5 saal ka rule kiske liye 💼 #shorts
 Description:
