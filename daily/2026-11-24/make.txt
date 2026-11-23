@@ -1,3 +1,3 @@
-# remake 1 (council fixes)
+# remake 2 (no spoken year)
 20261124-bisleri-unsafe
-20261124-wtc-india-final
+# 20261124-wtc-india-final (voice done, cue fix rendered locally)
