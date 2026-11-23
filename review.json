@@ -1,0 +1,29 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "FSSAI gave permission to file a case against Bisleri – unverified claim",
+    "Batch is said to be from Goa plant, September last year – no source cited",
+    "Six samples were taken and five were “completely fine” – no evidence provided",
+    "Bromate level reported as 12 µg (limit 10 µg) – unverified",
+    "Another lab found bromate within limits but flagged PAH – unverified",
+    "Bisleri claims >90 tests per batch and cooperation with FSSAI – company statement, not independently verified",
+    "No recall order issued – claim without official confirmation"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "\"case chalane ki manzoori\" sounds unnatural; prefer \"case file karne ki ijazat\"",
+    "\"nabbe se zyada test\" could be phrased as \"90 se zyada tests\""
+   ],
+   "one_line_verdict": "The script contains several unverified allegations and lacks source attribution, requiring citations; otherwise the format and language are acceptable."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}

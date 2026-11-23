@@ -1,0 +1,743 @@
+{
+ "total": 37.352,
+ "voice": "20261124-bisleri-unsafe/voice.wav",
+ "lines": [
+  {
+   "start": 0.25,
+   "text": "Bisleri ka paani unsafe? Bottle phenkne se pehle poora sach suniye.",
+   "end": 1.958
+  },
+  {
+   "start": 2.044,
+   "text": "FSSAI ne Bisleri pe case chalane ki manzoori di hai.",
+   "end": 7.0
+  },
+  {
+   "start": 7.0,
+   "text": "Maamla ek purane batch ka hai. Goa plant, pichhle saal September ka.",
+   "end": 10.694
+  },
+  {
+   "start": 11.077,
+   "text": "Chhe sample liye gaye. Paanch bilkul theek nikle.",
+   "end": 13.026
+  },
+  {
+   "start": 13.417,
+   "text": "Ek mein bromate mila baarah microgram, jabki limit hai das.",
+   "end": 16.07
+  },
+  {
+   "start": 16.07,
+   "text": "Phir doosri lab mein bromate limit ke andar nikla, lekin PAH naam ka ek aur chemical flag hua.",
+   "end": 20.684
+  },
+  {
+   "start": 21.0,
+   "text": "Bisleri kehti hai, unke process mein nabbe se zyada test hote hain, aur woh FSSAI ke saath cooperate karegi.",
+   "end": 26.32
+  },
+  {
+   "start": 26.32,
+   "text": "Toh aaj ki bottle? Kisi recall ka order nahi aaya, maamla ek batch ka hai. Par case ka faisla abhi baaki hai.",
+   "end": 32.88
+  },
+  {
+   "start": 32.88,
+   "text": "Aap Bisleri peete rahoge? Haan ya na, comment karo.",
+   "end": 36.032
+  }
+ ],
+ "words": [
+  {
+   "w": "Bisleri",
+   "start": 0.25,
+   "end": 0.7
+  },
+  {
+   "w": "ka",
+   "start": 0.72,
+   "end": 0.88
+  },
+  {
+   "w": "paani",
+   "start": 0.9,
+   "end": 1.06
+  },
+  {
+   "w": "unsafe?",
+   "start": 1.08,
+   "end": 1.24
+  },
+  {
+   "w": "Bottle",
+   "start": 1.26,
+   "end": 1.352
+  },
+  {
+   "w": "phenkne",
+   "start": 1.372,
+   "end": 1.464
+  },
+  {
+   "w": "se",
+   "start": 1.484,
+   "end": 1.576
+  },
+  {
+   "w": "pehle",
+   "start": 1.596,
+   "end": 1.688
+  },
+  {
+   "w": "poora",
+   "start": 1.708,
+   "end": 1.8
+  },
+  {
+   "w": "sach",
+   "start": 1.82,
+   "end": 1.912
+  },
+  {
+   "w": "suniye.",
+   "start": 1.932,
+   "end": 2.024
+  },
+  {
+   "w": "FSSAI",
+   "start": 2.044,
+   "end": 2.136
+  },
+  {
+   "w": "ne",
+   "start": 2.156,
+   "end": 2.248
+  },
+  {
+   "w": "Bisleri",
+   "start": 2.268,
+   "end": 2.36
+  },
+  {
+   "w": "pe",
+   "start": 2.38,
+   "end": 2.472
+  },
+  {
+   "w": "case",
+   "start": 2.492,
+   "end": 2.584
+  },
+  {
+   "w": "chalane",
+   "start": 2.604,
+   "end": 2.696
+  },
+  {
+   "w": "ki",
+   "start": 2.716,
+   "end": 2.808
+  },
+  {
+   "w": "manzoori",
+   "start": 2.828,
+   "end": 2.92
+  },
+  {
+   "w": "di",
+   "start": 2.94,
+   "end": 3.74
+  },
+  {
+   "w": "hai.",
+   "start": 4.97,
+   "end": 5.77
+  },
+  {
+   "w": "Maamla",
+   "start": 7.0,
+   "end": 7.8
+  },
+  {
+   "w": "ek",
+   "start": 7.84,
+   "end": 7.96
+  },
+  {
+   "w": "purane",
+   "start": 7.98,
+   "end": 8.34
+  },
+  {
+   "w": "batch",
+   "start": 8.36,
+   "end": 8.52
+  },
+  {
+   "w": "ka",
+   "start": 8.54,
+   "end": 8.68
+  },
+  {
+   "w": "hai.",
+   "start": 8.7,
+   "end": 8.972
+  },
+  {
+   "w": "Goa",
+   "start": 8.992,
+   "end": 9.28
+  },
+  {
+   "w": "plant,",
+   "start": 9.3,
+   "end": 9.703
+  },
+  {
+   "w": "pichhle",
+   "start": 9.723,
+   "end": 9.96
+  },
+  {
+   "w": "saal",
+   "start": 9.98,
+   "end": 10.14
+  },
+  {
+   "w": "September",
+   "start": 10.16,
+   "end": 10.54
+  },
+  {
+   "w": "ka.",
+   "start": 10.56,
+   "end": 11.057
+  },
+  {
+   "w": "Chhe",
+   "start": 11.077,
+   "end": 11.24
+  },
+  {
+   "w": "sample",
+   "start": 11.26,
+   "end": 11.58
+  },
+  {
+   "w": "liye",
+   "start": 11.6,
+   "end": 11.74
+  },
+  {
+   "w": "gaye.",
+   "start": 11.76,
+   "end": 12.114
+  },
+  {
+   "w": "Paanch",
+   "start": 12.134,
+   "end": 12.38
+  },
+  {
+   "w": "bilkul",
+   "start": 12.4,
+   "end": 12.6
+  },
+  {
+   "w": "theek",
+   "start": 12.62,
+   "end": 12.78
+  },
+  {
+   "w": "nikle.",
+   "start": 12.8,
+   "end": 13.397
+  },
+  {
+   "w": "Ek",
+   "start": 13.417,
+   "end": 13.64
+  },
+  {
+   "w": "mein",
+   "start": 13.66,
+   "end": 13.82
+  },
+  {
+   "w": "bromate",
+   "start": 13.84,
+   "end": 14.16
+  },
+  {
+   "w": "mila",
+   "start": 14.18,
+   "end": 14.38
+  },
+  {
+   "w": "baarah",
+   "start": 14.4,
+   "end": 14.68
+  },
+  {
+   "w": "microgram,",
+   "start": 14.7,
+   "end": 14.954
+  },
+  {
+   "w": "jabki",
+   "start": 14.974,
+   "end": 15.228
+  },
+  {
+   "w": "limit",
+   "start": 15.248,
+   "end": 15.502
+  },
+  {
+   "w": "hai",
+   "start": 15.522,
+   "end": 15.776
+  },
+  {
+   "w": "das.",
+   "start": 15.796,
+   "end": 16.05
+  },
+  {
+   "w": "Phir",
+   "start": 16.07,
+   "end": 16.323
+  },
+  {
+   "w": "doosri",
+   "start": 16.343,
+   "end": 16.597
+  },
+  {
+   "w": "lab",
+   "start": 16.617,
+   "end": 16.871
+  },
+  {
+   "w": "mein",
+   "start": 16.891,
+   "end": 17.145
+  },
+  {
+   "w": "bromate",
+   "start": 17.165,
+   "end": 17.419
+  },
+  {
+   "w": "limit",
+   "start": 17.439,
+   "end": 17.693
+  },
+  {
+   "w": "ke",
+   "start": 17.713,
+   "end": 17.967
+  },
+  {
+   "w": "andar",
+   "start": 17.987,
+   "end": 18.241
+  },
+  {
+   "w": "nikla,",
+   "start": 18.261,
+   "end": 18.515
+  },
+  {
+   "w": "lekin",
+   "start": 18.535,
+   "end": 18.789
+  },
+  {
+   "w": "PAH",
+   "start": 18.809,
+   "end": 19.063
+  },
+  {
+   "w": "naam",
+   "start": 19.083,
+   "end": 19.337
+  },
+  {
+   "w": "ka",
+   "start": 19.357,
+   "end": 19.61
+  },
+  {
+   "w": "ek",
+   "start": 19.63,
+   "end": 19.884
+  },
+  {
+   "w": "aur",
+   "start": 19.904,
+   "end": 20.158
+  },
+  {
+   "w": "chemical",
+   "start": 20.178,
+   "end": 20.432
+  },
+  {
+   "w": "flag",
+   "start": 20.452,
+   "end": 20.706
+  },
+  {
+   "w": "hua.",
+   "start": 20.726,
+   "end": 20.98
+  },
+  {
+   "w": "Bisleri",
+   "start": 21.0,
+   "end": 21.54
+  },
+  {
+   "w": "kehti",
+   "start": 21.56,
+   "end": 21.76
+  },
+  {
+   "w": "hai,",
+   "start": 21.78,
+   "end": 21.87
+  },
+  {
+   "w": "unke",
+   "start": 21.89,
+   "end": 21.98
+  },
+  {
+   "w": "process",
+   "start": 22.0,
+   "end": 22.34
+  },
+  {
+   "w": "mein",
+   "start": 22.36,
+   "end": 22.6
+  },
+  {
+   "w": "nabbe",
+   "start": 22.62,
+   "end": 23.02
+  },
+  {
+   "w": "se",
+   "start": 23.04,
+   "end": 23.1
+  },
+  {
+   "w": "zyada",
+   "start": 23.12,
+   "end": 23.42
+  },
+  {
+   "w": "test",
+   "start": 23.44,
+   "end": 23.68
+  },
+  {
+   "w": "hote",
+   "start": 23.7,
+   "end": 23.86
+  },
+  {
+   "w": "hain,",
+   "start": 23.88,
+   "end": 24.26
+  },
+  {
+   "w": "aur",
+   "start": 24.28,
+   "end": 24.44
+  },
+  {
+   "w": "woh",
+   "start": 24.46,
+   "end": 24.88
+  },
+  {
+   "w": "FSSAI",
+   "start": 24.9,
+   "end": 25.32
+  },
+  {
+   "w": "ke",
+   "start": 25.34,
+   "end": 25.46
+  },
+  {
+   "w": "saath",
+   "start": 25.48,
+   "end": 25.6
+  },
+  {
+   "w": "cooperate",
+   "start": 25.62,
+   "end": 25.94
+  },
+  {
+   "w": "karegi.",
+   "start": 25.96,
+   "end": 26.3
+  },
+  {
+   "w": "Toh",
+   "start": 26.32,
+   "end": 26.84
+  },
+  {
+   "w": "aaj",
+   "start": 26.86,
+   "end": 27.66
+  },
+  {
+   "w": "ki",
+   "start": 28.037,
+   "end": 28.099
+  },
+  {
+   "w": "bottle?",
+   "start": 28.119,
+   "end": 28.18
+  },
+  {
+   "w": "Kisi",
+   "start": 28.2,
+   "end": 28.32
+  },
+  {
+   "w": "recall",
+   "start": 28.34,
+   "end": 28.64
+  },
+  {
+   "w": "ka",
+   "start": 28.66,
+   "end": 28.8
+  },
+  {
+   "w": "order",
+   "start": 28.82,
+   "end": 29.06
+  },
+  {
+   "w": "nahi",
+   "start": 29.08,
+   "end": 29.34
+  },
+  {
+   "w": "aaya,",
+   "start": 29.36,
+   "end": 29.62
+  },
+  {
+   "w": "maamla",
+   "start": 29.64,
+   "end": 30.12
+  },
+  {
+   "w": "ek",
+   "start": 30.14,
+   "end": 30.34
+  },
+  {
+   "w": "batch",
+   "start": 30.36,
+   "end": 30.54
+  },
+  {
+   "w": "ka",
+   "start": 30.56,
+   "end": 30.74
+  },
+  {
+   "w": "hai.",
+   "start": 30.76,
+   "end": 31.058
+  },
+  {
+   "w": "Par",
+   "start": 31.078,
+   "end": 31.28
+  },
+  {
+   "w": "case",
+   "start": 31.3,
+   "end": 31.56
+  },
+  {
+   "w": "ka",
+   "start": 31.58,
+   "end": 31.72
+  },
+  {
+   "w": "faisla",
+   "start": 31.74,
+   "end": 32.1
+  },
+  {
+   "w": "abhi",
+   "start": 32.12,
+   "end": 32.28
+  },
+  {
+   "w": "baaki",
+   "start": 32.3,
+   "end": 32.64
+  },
+  {
+   "w": "hai.",
+   "start": 32.66,
+   "end": 32.86
+  },
+  {
+   "w": "Aap",
+   "start": 32.88,
+   "end": 33.44
+  },
+  {
+   "w": "Bisleri",
+   "start": 33.46,
+   "end": 33.82
+  },
+  {
+   "w": "peete",
+   "start": 33.84,
+   "end": 34.08
+  },
+  {
+   "w": "rahoge?",
+   "start": 34.1,
+   "end": 34.42
+  },
+  {
+   "w": "Haan",
+   "start": 34.44,
+   "end": 34.74
+  },
+  {
+   "w": "ya",
+   "start": 34.76,
+   "end": 35.06
+  },
+  {
+   "w": "na,",
+   "start": 35.08,
+   "end": 35.32
+  },
+  {
+   "w": "comment",
+   "start": 35.34,
+   "end": 35.84
+  },
+  {
+   "w": "karo.",
+   "start": 35.86,
+   "end": 36.352
+  }
+ ],
+ "cues": {
+  "hook": 0.25,
+  "case": 2.044,
+  "batch": 7.0,
+  "six": 11.077,
+  "bromate": 13.417,
+  "twist": 16.07,
+  "reply": 21.0,
+  "verdict": 26.32,
+  "cta": 32.88
+ },
+ "numbers": [],
+ "heard": [
+  "बिस्लेरी",
+  "का",
+  "पानी",
+  "बिद़",
+  "द़़़़़़़़",
+  "द़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़़",
+  "मामला",
+  "एक",
+  "पुराने",
+  "बैज",
+  "का",
+  "है,",
+  "गोवा",
+  "पलान्त",
+  "पिछले",
+  "साल",
+  "सिटमबर",
+  "का,",
+  "चे",
+  "सामपल",
+  "लिए",
+  "गए",
+  "पाँज",
+  "बिलको",
+  "थीक",
+  "निकले,",
+  "एक",
+  "में",
+  "ब्रुमेट",
+  "मिला",
+  "बारा",
+  "माँक्रोग.",
+  "बिस्लेरी",
+  "केती",
+  "है",
+  "प्रोस्स",
+  "में",
+  "नब",
+  "भी",
+  "स",
+  "जादा",
+  "टेस्त",
+  "होते",
+  "हैं",
+  "और",
+  "वो",
+  "अप्सश",
+  "याई",
+  "के",
+  "साथ",
+  "कोबफरेट",
+  "करेगी",
+  "तो",
+  "आजकी",
+  "बोतल",
+  "की",
+  "सी",
+  "रीकाल",
+  "को",
+  "अड़़़़़़़़़ा",
+  "नहीं",
+  "आया",
+  "मामला",
+  "एक",
+  "बैचका",
+  "है",
+  "पर",
+  "केस",
+  "का",
+  "फैसला",
+  "भी",
+  "बाखी",
+  "है",
+  "आप",
+  "भिसलेरी",
+  "पीते",
+  "रहोगे",
+  "हाई",
+  "आना",
+  "कोमेंट",
+  "करो"
+ ]
+}
