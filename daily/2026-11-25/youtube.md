@@ -4,7 +4,7 @@ Pick (18 Nov lane rules): Vaibhav Sooryavanshi 204 off 53 vs UAE (lane c India c
 Skipped: Australia vs England T20 500K+ and Pakistan A vs Nepal 200K+ (not India), MCX gold "33% drop" 1K+ (gold done 21 Nov, inside 7 days, and the 33% figure is not confirmed anywhere), Nepal/Sikkim earthquake 20K+ (no confirmed number story for today), Rinku/Prabhsimran (same match, folded in), East Bengal / ISL / UCL (football), Gukesh vs Sindarov (chess), Karthigai Deepam (regional religious row), Innova Hycross, ColorOS, GTA Leonida (repeat), Dharmendra, triple star system, small rows.
 Every description ends with the channel footer from the upload defaults (AI voice disclosure). "Altered content" answer: No (AI narration only).
 
-## 1. Sooryavanshi 204: ODI world record ya nahi?, SLOT TBD 25 Nov (lane c: India cricket result)
+## 1. Sooryavanshi 204: ODI world record ya nahi?, 09:30 IST 25 Nov (lane c: India cricket result)
 File: 20261125-sooryavanshi-204
 Title: 15 saal, 53 ball mein 204! ODI WORLD RECORD hai ya NAHI? 🏏 #shorts
 Description:
