@@ -1,0 +1,106 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: TRIBUNE/ANI, SKY SPORTS, DAILY JAGRAN · 24 NOV 2026",
+ "loopTail": 0.5,
+ "scenes": [
+  {
+   "at": 0,
+   "big": "15 SAAL · 204 OFF 53",
+   "color": "gold",
+   "tag": "ODI WORLD RECORD?",
+   "img": "20261125-sooryavanshi-204/real/news-1.jpg",
+   "credit": "PHOTO: THE TRIBUNE",
+   "fit": "blur"
+  },
+  {
+   "at": "match",
+   "big": "250 · 14.2 OVER",
+   "color": "white",
+   "tag": "UAE 249/8 · INDIA A 254/3 · 7 WKT JEET",
+   "img": "20261125-sooryavanshi-204/real/news-3.jpg",
+   "credit": "PHOTO: MORUNG EXPRESS",
+   "fit": "blur"
+  },
+  {
+   "at": "sixes",
+   "big": "28 CHHAKKE!",
+   "color": "gold",
+   "tag": "SIRF 7 CHAUKE · DOHA",
+   "img": "20261125-sooryavanshi-204/real/news-5.jpg",
+   "credit": "PHOTO: CRICKETWINNER",
+   "fit": "blur"
+  },
+  {
+   "at": "hundred",
+   "big": "100 = 28 BALL",
+   "color": "white",
+   "tag": "PICHHLA LIST A RECORD: 29 BALL",
+   "img": "20261125-sooryavanshi-204/real/news-4.jpg",
+   "credit": "PHOTO: GEO TV",
+   "fit": "blur"
+  },
+  {
+   "at": "double",
+   "big": "200 = 52 BALL",
+   "color": "gold",
+   "tag": "PICHHLA: CHAD BOWES, 103 BALL",
+   "img": "20261125-sooryavanshi-204/real/news-2.jpg",
+   "credit": "PHOTO: DAILY JAGRAN",
+   "fit": "blur"
+  },
+  {
+   "at": "doubt",
+   "big": "ODI BOOK MEIN?",
+   "color": "white",
+   "tag": "ASLI SAWAAL",
+   "img": "20261125-sooryavanshi-204/real/news-0.jpg",
+   "credit": "PHOTO: SKY SPORTS",
+   "fit": "blur"
+  },
+  {
+   "at": "no",
+   "big": "NAHI · LIST A",
+   "color": "red",
+   "tag": "INDIA A ODI TEAM NAHI HAI",
+   "img": "20261125-sooryavanshi-204/real/news-4.jpg",
+   "credit": "PHOTO: GEO TV",
+   "fit": "blur"
+  },
+  {
+   "at": "odi",
+   "big": "ODI: AB DE VILLIERS 31",
+   "color": "white",
+   "tag": "ODI KA SABSE TEZ 100 ABHI BHI",
+   "img": "20261125-sooryavanshi-204/real/wk-1.jpg",
+   "credit": "PHOTO: WIKIMEDIA COMMONS",
+   "fit": "blur"
+  },
+  {
+   "at": "verdict",
+   "big": "LIST A WORLD RECORD",
+   "color": "gold",
+   "tag": "100 (28) · 150 (40) · 200 (52)",
+   "img": "20261125-sooryavanshi-204/real/news-3.jpg",
+   "credit": "PHOTO: MORUNG EXPRESS",
+   "fit": "blur"
+  },
+  {
+   "at": "cta",
+   "big": "SENIOR TEAM MEIN LO?",
+   "color": "gold",
+   "tag": "15 SAAL · HAAN YA NA",
+   "img": "20261125-sooryavanshi-204/real/news-2.jpg",
+   "credit": "PHOTO: DAILY JAGRAN",
+   "fit": "blur"
+  },
+  {
+   "at": "end",
+   "big": "15 SAAL · 204 OFF 53",
+   "color": "gold",
+   "tag": "ODI WORLD RECORD?",
+   "img": "20261125-sooryavanshi-204/real/news-1.jpg",
+   "credit": "PHOTO: THE TRIBUNE",
+   "fit": "blur"
+  }
+ ]
+}
