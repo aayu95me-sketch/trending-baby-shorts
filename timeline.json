@@ -1,0 +1,913 @@
+{
+ "total": 44.982,
+ "voice": "20261125-sooryavanshi-204/voice.wav",
+ "lines": [
+  {
+   "start": 0.273,
+   "text": "Pandrah saal ka ladka, tirpan gendon mein do sau chaar. Par kya ye ODI world record hai?",
+   "end": 4.903
+  },
+  {
+   "start": 5.262,
+   "text": "Doha mein UAE ne do sau pachaas ka target diya. India A ne pandrah over se pehle match khatam.",
+   "end": 10.027
+  },
+  {
+   "start": 10.406,
+   "text": "Vaibhav Sooryavanshi ne atthaais chhakke maare. Chauke sirf saat.",
+   "end": 13.896
+  },
+  {
+   "start": 13.998,
+   "text": "Sau run sirf atthaais gendon mein. Pichhla record unatees gendon ka tha.",
+   "end": 17.91
+  },
+  {
+   "start": 18.235,
+   "text": "Double century bawan gendon mein. Pichhla record ek sau teen ka. Aadhe se bhi kam.",
+   "end": 22.501
+  },
+  {
+   "start": 22.864,
+   "text": "Ab asli sawaal. Kya ye ODI record book mein jaayega?",
+   "end": 25.359
+  },
+  {
+   "start": 25.747,
+   "text": "Nahi jaayega. India A ODI team nahi hai. Ye List A match tha.",
+   "end": 29.076
+  },
+  {
+   "start": 29.237,
+   "text": "ODI ka sabse tez sau abhi bhi AB de Villiers ka hai, iktees gendon mein.",
+   "end": 33.278
+  },
+  {
+   "start": 33.658,
+   "text": "Par List A, yaani pachaas over cricket ka world record, pakka Vaibhav ka. Sau bhi, do sau bhi.",
+   "end": 39.749
+  },
+  {
+   "start": 40.095,
+   "text": "Pandrah saal mein senior India team mein lo? Haan ya na, comment karo.",
+   "end": 43.536
+  }
+ ],
+ "words": [
+  {
+   "w": "Pandrah",
+   "start": 0.273,
+   "end": 0.56
+  },
+  {
+   "w": "saal",
+   "start": 0.58,
+   "end": 0.86
+  },
+  {
+   "w": "ka",
+   "start": 0.88,
+   "end": 1.02
+  },
+  {
+   "w": "ladka,",
+   "start": 1.04,
+   "end": 1.54
+  },
+  {
+   "w": "tirpan",
+   "start": 1.56,
+   "end": 1.94
+  },
+  {
+   "w": "gendon",
+   "start": 1.96,
+   "end": 2.28
+  },
+  {
+   "w": "mein",
+   "start": 2.3,
+   "end": 2.35
+  },
+  {
+   "w": "do",
+   "start": 2.37,
+   "end": 2.42
+  },
+  {
+   "w": "sau",
+   "start": 2.44,
+   "end": 2.66
+  },
+  {
+   "w": "chaar.",
+   "start": 2.68,
+   "end": 3.32
+  },
+  {
+   "w": "Par",
+   "start": 3.34,
+   "end": 3.42
+  },
+  {
+   "w": "kya",
+   "start": 3.44,
+   "end": 3.58
+  },
+  {
+   "w": "ye",
+   "start": 3.6,
+   "end": 3.76
+  },
+  {
+   "w": "ODI",
+   "start": 3.78,
+   "end": 4.16
+  },
+  {
+   "w": "world",
+   "start": 4.18,
+   "end": 4.44
+  },
+  {
+   "w": "record",
+   "start": 4.46,
+   "end": 4.78
+  },
+  {
+   "w": "hai?",
+   "start": 4.8,
+   "end": 5.242
+  },
+  {
+   "w": "Doha",
+   "start": 5.262,
+   "end": 5.64
+  },
+  {
+   "w": "mein",
+   "start": 5.66,
+   "end": 5.88
+  },
+  {
+   "w": "UAE",
+   "start": 5.9,
+   "end": 6.22
+  },
+  {
+   "w": "ne",
+   "start": 6.24,
+   "end": 6.3
+  },
+  {
+   "w": "do",
+   "start": 6.32,
+   "end": 6.38
+  },
+  {
+   "w": "sau",
+   "start": 6.4,
+   "end": 6.7
+  },
+  {
+   "w": "pachaas",
+   "start": 6.72,
+   "end": 6.98
+  },
+  {
+   "w": "ka",
+   "start": 7.0,
+   "end": 7.12
+  },
+  {
+   "w": "target",
+   "start": 7.14,
+   "end": 7.44
+  },
+  {
+   "w": "diya.",
+   "start": 7.46,
+   "end": 7.743
+  },
+  {
+   "w": "India",
+   "start": 7.763,
+   "end": 8.031
+  },
+  {
+   "w": "A",
+   "start": 8.051,
+   "end": 8.32
+  },
+  {
+   "w": "ne",
+   "start": 8.34,
+   "end": 8.54
+  },
+  {
+   "w": "pandrah",
+   "start": 8.56,
+   "end": 8.88
+  },
+  {
+   "w": "over",
+   "start": 8.9,
+   "end": 9.1
+  },
+  {
+   "w": "se",
+   "start": 9.12,
+   "end": 9.26
+  },
+  {
+   "w": "pehle",
+   "start": 9.28,
+   "end": 9.5
+  },
+  {
+   "w": "match",
+   "start": 9.52,
+   "end": 9.72
+  },
+  {
+   "w": "khatam.",
+   "start": 9.74,
+   "end": 10.386
+  },
+  {
+   "w": "Vaibhav",
+   "start": 10.406,
+   "end": 11.14
+  },
+  {
+   "w": "Sooryavanshi",
+   "start": 11.16,
+   "end": 11.46
+  },
+  {
+   "w": "ne",
+   "start": 11.48,
+   "end": 11.66
+  },
+  {
+   "w": "atthaais",
+   "start": 11.68,
+   "end": 12.16
+  },
+  {
+   "w": "chhakke",
+   "start": 12.18,
+   "end": 12.52
+  },
+  {
+   "w": "maare.",
+   "start": 12.54,
+   "end": 13.017
+  },
+  {
+   "w": "Chauke",
+   "start": 13.037,
+   "end": 13.34
+  },
+  {
+   "w": "sirf",
+   "start": 13.36,
+   "end": 13.58
+  },
+  {
+   "w": "saat.",
+   "start": 13.6,
+   "end": 13.978
+  },
+  {
+   "w": "Sau",
+   "start": 13.998,
+   "end": 14.62
+  },
+  {
+   "w": "run",
+   "start": 14.64,
+   "end": 14.8
+  },
+  {
+   "w": "sirf",
+   "start": 14.82,
+   "end": 15.04
+  },
+  {
+   "w": "atthaais",
+   "start": 15.06,
+   "end": 15.38
+  },
+  {
+   "w": "gendon",
+   "start": 15.4,
+   "end": 15.62
+  },
+  {
+   "w": "mein.",
+   "start": 15.64,
+   "end": 16.119
+  },
+  {
+   "w": "Pichhla",
+   "start": 16.139,
+   "end": 16.46
+  },
+  {
+   "w": "record",
+   "start": 16.48,
+   "end": 16.8
+  },
+  {
+   "w": "unatees",
+   "start": 16.82,
+   "end": 17.26
+  },
+  {
+   "w": "gendon",
+   "start": 17.28,
+   "end": 17.42
+  },
+  {
+   "w": "ka",
+   "start": 17.44,
+   "end": 17.58
+  },
+  {
+   "w": "tha.",
+   "start": 17.6,
+   "end": 18.215
+  },
+  {
+   "w": "Double",
+   "start": 18.235,
+   "end": 18.607
+  },
+  {
+   "w": "century",
+   "start": 18.627,
+   "end": 19.0
+  },
+  {
+   "w": "bawan",
+   "start": 19.02,
+   "end": 19.46
+  },
+  {
+   "w": "gendon",
+   "start": 19.48,
+   "end": 19.72
+  },
+  {
+   "w": "mein.",
+   "start": 19.74,
+   "end": 20.189
+  },
+  {
+   "w": "Pichhla",
+   "start": 20.209,
+   "end": 20.48
+  },
+  {
+   "w": "record",
+   "start": 20.5,
+   "end": 20.62
+  },
+  {
+   "w": "ek",
+   "start": 20.64,
+   "end": 20.76
+  },
+  {
+   "w": "sau",
+   "start": 20.78,
+   "end": 21.02
+  },
+  {
+   "w": "teen",
+   "start": 21.04,
+   "end": 21.28
+  },
+  {
+   "w": "ka.",
+   "start": 21.3,
+   "end": 21.707
+  },
+  {
+   "w": "Aadhe",
+   "start": 21.727,
+   "end": 22.02
+  },
+  {
+   "w": "se",
+   "start": 22.04,
+   "end": 22.2
+  },
+  {
+   "w": "bhi",
+   "start": 22.22,
+   "end": 22.3
+  },
+  {
+   "w": "kam.",
+   "start": 22.32,
+   "end": 22.844
+  },
+  {
+   "w": "Ab",
+   "start": 22.864,
+   "end": 22.96
+  },
+  {
+   "w": "asli",
+   "start": 22.98,
+   "end": 23.18
+  },
+  {
+   "w": "sawaal.",
+   "start": 23.2,
+   "end": 23.86
+  },
+  {
+   "w": "Kya",
+   "start": 23.88,
+   "end": 24.0
+  },
+  {
+   "w": "ye",
+   "start": 24.02,
+   "end": 24.14
+  },
+  {
+   "w": "ODI",
+   "start": 24.16,
+   "end": 24.44
+  },
+  {
+   "w": "record",
+   "start": 24.46,
+   "end": 24.74
+  },
+  {
+   "w": "book",
+   "start": 24.76,
+   "end": 24.9
+  },
+  {
+   "w": "mein",
+   "start": 24.92,
+   "end": 25.04
+  },
+  {
+   "w": "jaayega?",
+   "start": 25.06,
+   "end": 25.727
+  },
+  {
+   "w": "Nahi",
+   "start": 25.747,
+   "end": 25.94
+  },
+  {
+   "w": "jaayega.",
+   "start": 25.96,
+   "end": 26.58
+  },
+  {
+   "w": "India",
+   "start": 26.6,
+   "end": 26.92
+  },
+  {
+   "w": "A",
+   "start": 26.94,
+   "end": 27.06
+  },
+  {
+   "w": "ODI",
+   "start": 27.08,
+   "end": 27.36
+  },
+  {
+   "w": "team",
+   "start": 27.38,
+   "end": 27.66
+  },
+  {
+   "w": "nahi",
+   "start": 27.68,
+   "end": 27.84
+  },
+  {
+   "w": "hai.",
+   "start": 27.86,
+   "end": 28.134
+  },
+  {
+   "w": "Ye",
+   "start": 28.154,
+   "end": 28.26
+  },
+  {
+   "w": "List",
+   "start": 28.28,
+   "end": 28.64
+  },
+  {
+   "w": "A",
+   "start": 28.66,
+   "end": 28.72
+  },
+  {
+   "w": "match",
+   "start": 28.74,
+   "end": 28.9
+  },
+  {
+   "w": "tha.",
+   "start": 28.92,
+   "end": 29.217
+  },
+  {
+   "w": "ODI",
+   "start": 29.237,
+   "end": 29.78
+  },
+  {
+   "w": "ka",
+   "start": 29.8,
+   "end": 29.9
+  },
+  {
+   "w": "sabse",
+   "start": 29.92,
+   "end": 30.26
+  },
+  {
+   "w": "tez",
+   "start": 30.28,
+   "end": 30.62
+  },
+  {
+   "w": "sau",
+   "start": 30.64,
+   "end": 30.88
+  },
+  {
+   "w": "abhi",
+   "start": 30.9,
+   "end": 31.18
+  },
+  {
+   "w": "bhi",
+   "start": 31.2,
+   "end": 31.28
+  },
+  {
+   "w": "AB",
+   "start": 31.3,
+   "end": 31.38
+  },
+  {
+   "w": "de",
+   "start": 31.4,
+   "end": 31.48
+  },
+  {
+   "w": "Villiers",
+   "start": 31.5,
+   "end": 31.94
+  },
+  {
+   "w": "ka",
+   "start": 31.96,
+   "end": 32.26
+  },
+  {
+   "w": "hai,",
+   "start": 32.28,
+   "end": 32.58
+  },
+  {
+   "w": "iktees",
+   "start": 32.6,
+   "end": 32.86
+  },
+  {
+   "w": "gendon",
+   "start": 32.88,
+   "end": 33.12
+  },
+  {
+   "w": "mein.",
+   "start": 33.14,
+   "end": 33.638
+  },
+  {
+   "w": "Par",
+   "start": 33.658,
+   "end": 33.76
+  },
+  {
+   "w": "List",
+   "start": 33.78,
+   "end": 34.18
+  },
+  {
+   "w": "A,",
+   "start": 34.2,
+   "end": 34.724
+  },
+  {
+   "w": "yaani",
+   "start": 34.744,
+   "end": 34.98
+  },
+  {
+   "w": "pachaas",
+   "start": 35.0,
+   "end": 35.44
+  },
+  {
+   "w": "over",
+   "start": 35.46,
+   "end": 35.68
+  },
+  {
+   "w": "cricket",
+   "start": 35.7,
+   "end": 35.92
+  },
+  {
+   "w": "ka",
+   "start": 35.94,
+   "end": 36.08
+  },
+  {
+   "w": "world",
+   "start": 36.1,
+   "end": 36.597
+  },
+  {
+   "w": "record,",
+   "start": 36.617,
+   "end": 37.113
+  },
+  {
+   "w": "pakka",
+   "start": 37.133,
+   "end": 37.38
+  },
+  {
+   "w": "Vaibhav",
+   "start": 37.4,
+   "end": 37.6
+  },
+  {
+   "w": "ka.",
+   "start": 37.62,
+   "end": 38.042
+  },
+  {
+   "w": "Sau",
+   "start": 38.062,
+   "end": 38.58
+  },
+  {
+   "w": "bhi,",
+   "start": 38.6,
+   "end": 39.207
+  },
+  {
+   "w": "do",
+   "start": 39.227,
+   "end": 39.36
+  },
+  {
+   "w": "sau",
+   "start": 39.38,
+   "end": 39.54
+  },
+  {
+   "w": "bhi.",
+   "start": 39.56,
+   "end": 40.075
+  },
+  {
+   "w": "Pandrah",
+   "start": 40.095,
+   "end": 40.36
+  },
+  {
+   "w": "saal",
+   "start": 40.38,
+   "end": 40.66
+  },
+  {
+   "w": "mein",
+   "start": 40.68,
+   "end": 40.86
+  },
+  {
+   "w": "senior",
+   "start": 40.88,
+   "end": 41.18
+  },
+  {
+   "w": "India",
+   "start": 41.2,
+   "end": 41.42
+  },
+  {
+   "w": "team",
+   "start": 41.44,
+   "end": 41.52
+  },
+  {
+   "w": "mein",
+   "start": 41.54,
+   "end": 41.7
+  },
+  {
+   "w": "lo?",
+   "start": 41.72,
+   "end": 41.82
+  },
+  {
+   "w": "Haan",
+   "start": 41.84,
+   "end": 42.261
+  },
+  {
+   "w": "ya",
+   "start": 42.281,
+   "end": 42.56
+  },
+  {
+   "w": "na,",
+   "start": 42.58,
+   "end": 42.963
+  },
+  {
+   "w": "comment",
+   "start": 42.983,
+   "end": 43.32
+  },
+  {
+   "w": "karo.",
+   "start": 43.34,
+   "end": 43.982
+  }
+ ],
+ "cues": {
+  "hook": 0.273,
+  "match": 5.262,
+  "sixes": 10.406,
+  "hundred": 13.998,
+  "double": 18.235,
+  "doubt": 22.864,
+  "no": 25.747,
+  "odi": 29.237,
+  "verdict": 33.658,
+  "cta": 40.095
+ },
+ "numbers": [],
+ "heard": [
+  "पन्द्रा",
+  "साल",
+  "का",
+  "लगक",
+  "का",
+  "त्रिपन",
+  "गेंदों",
+  "में",
+  "दोसो",
+  "चार",
+  "पर",
+  "क्या",
+  "ये",
+  "उडिय",
+  "वोल",
+  "रेकोड़",
+  "है?",
+  "दोहा",
+  "में",
+  "उएई",
+  "ने",
+  "दोसो",
+  "पचास",
+  "का",
+  "तार्गेट",
+  "दिया",
+  "इंदिया",
+  "येने",
+  "पन्द्रा",
+  "अवर",
+  "से",
+  "पहले",
+  "मैज",
+  "कहतम",
+  "वेबहव",
+  "सुरे",
+  "वनशी",
+  "ने",
+  "अट्टाइस",
+  "चھक्के",
+  "मारे",
+  "चोके",
+  "सर्फ",
+  "साथ",
+  "सो",
+  "रन",
+  "सर्फ",
+  "अथाइस",
+  "गिन्दो",
+  "में",
+  "पिछला",
+  "रेकोड",
+  "उंतीस",
+  "गिन्दों",
+  "काता",
+  "दबल",
+  "सेंचुरी",
+  "बावन",
+  "गिन्दो",
+  "में",
+  "पिछला",
+  "रेकोड",
+  "एकसो",
+  "तीन",
+  "का",
+  "अदे",
+  "से",
+  "भी",
+  "कम,",
+  "अब",
+  "अस्ली",
+  "सवाल,",
+  "क्या",
+  "ये",
+  "उदिया",
+  "ये",
+  "बुक",
+  "में",
+  "जाएगा?",
+  "नहीं",
+  "जाएगा,",
+  "अदिया",
+  "ये",
+  "उदिया",
+  "ये",
+  "नहीं",
+  "है,",
+  "ये",
+  "लिस्टे",
+  "ये",
+  "मैच्ट.",
+  "ता",
+  "अड्याई",
+  "का",
+  "सबसे",
+  "देई",
+  "सो",
+  "अबी",
+  "बी",
+  "दिविलिर्स",
+  "काई",
+  "एक",
+  "अत्तिस",
+  "गेंदो",
+  "में",
+  "पर",
+  "लिस्ट",
+  "अई",
+  "यब",
+  "पचास",
+  "अवर",
+  "ख्रिक्ट",
+  "का",
+  "वोल्ड्रेकोट",
+  "पक्का",
+  "वैब",
+  "हवका",
+  "सो",
+  "भी",
+  "तो",
+  "सो",
+  "भी",
+  "पन्द्रा",
+  "साल",
+  "में",
+  "सीन्यर",
+  "इंटिया",
+  "ती",
+  "में",
+  "लो",
+  "हायाना",
+  "हाया",
+  "ना",
+  "कोमेंट",
+  "करो"
+ ]
+}

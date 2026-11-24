@@ -1,0 +1,24 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "tirpan",
+    "Doha",
+    "sixes",
+    "cta",
+    "no (mixing English in Hindi sentence)"
+   ],
+   "one_line_verdict": "No numeric mismatches or compliance problems, but a few Hinglish terms sound unnatural for a young Delhi audience."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}
