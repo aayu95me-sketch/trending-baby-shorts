@@ -1,0 +1,6 @@
+# Claude (leader), final. Agreed fixes applied and re-rendered.
+Gemini could not join rounds 1-2 tonight (429 quota on every model), so round 1 was gpt-oss only.
+Taken: 1) Frame 1 is now the close-up of Sooryavanshi kissing his bat (Geo TV photo, this match) instead of the wide celebration shot, so the face reads at thumbnail size; the wide shot moved to the "100 = 28 ball" beat. I tried it full-screen (cover) but the source is 700 px wide and looked soft at 1080x1920, so it stays in blur fit (sharp photo on a blurred copy). 2) Earlier pass: shorter on-screen text so nothing wraps ("204 OFF 53!", "ABD: 31 BALL", "LIST A RECORD", "TEAM INDIA MEIN?").
+Not taken (Ayush's standing decisions or already there): human voice (faceless AI voice is the channel's format, disclosed); kinetic captions (Ayush: no on-screen captions); progress bar (already on, gold segments); scoreboard overlay (match beat already shows UAE 249/8 · IND A 254/3).
+Facts: all from viewer.md (Tribune/ANI, Sky Sports, Daily Jagran; ABD 31 from India TV's June 2026 list). Groq's "21 / 23 / 113 balls" were mishearings of iktees / unatees / ek sau teen.
+Round 3 ask: any blocker in script, voice (please listen: is "ODI" said clearly, and "India A" not heard as "India ye"?), visuals or whole reel? Scores?
