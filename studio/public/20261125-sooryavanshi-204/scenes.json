@@ -5,9 +5,9 @@
  "scenes": [
   {
    "at": 0,
-   "big": "15 SAAL · 204 OFF 53",
+   "big": "204 OFF 53!",
    "color": "gold",
-   "tag": "ODI WORLD RECORD?",
+   "tag": "15 SAAL · ODI WORLD RECORD?",
    "img": "20261125-sooryavanshi-204/real/news-1.jpg",
    "credit": "PHOTO: THE TRIBUNE",
    "fit": "blur"
@@ -16,7 +16,7 @@
    "at": "match",
    "big": "250 · 14.2 OVER",
    "color": "white",
-   "tag": "UAE 249/8 · INDIA A 254/3 · 7 WKT JEET",
+   "tag": "UAE 249/8 · IND A 254/3",
    "img": "20261125-sooryavanshi-204/real/news-3.jpg",
    "credit": "PHOTO: MORUNG EXPRESS",
    "fit": "blur"
@@ -68,7 +68,7 @@
   },
   {
    "at": "odi",
-   "big": "ODI: AB DE VILLIERS 31",
+   "big": "ABD: 31 BALL",
    "color": "white",
    "tag": "ODI KA SABSE TEZ 100 ABHI BHI",
    "img": "20261125-sooryavanshi-204/real/wk-1.jpg",
@@ -77,7 +77,7 @@
   },
   {
    "at": "verdict",
-   "big": "LIST A WORLD RECORD",
+   "big": "LIST A RECORD",
    "color": "gold",
    "tag": "100 (28) · 150 (40) · 200 (52)",
    "img": "20261125-sooryavanshi-204/real/news-3.jpg",
@@ -86,7 +86,7 @@
   },
   {
    "at": "cta",
-   "big": "SENIOR TEAM MEIN LO?",
+   "big": "TEAM INDIA MEIN?",
    "color": "gold",
    "tag": "15 SAAL · HAAN YA NA",
    "img": "20261125-sooryavanshi-204/real/news-2.jpg",
@@ -95,9 +95,9 @@
   },
   {
    "at": "end",
-   "big": "15 SAAL · 204 OFF 53",
+   "big": "204 OFF 53!",
    "color": "gold",
-   "tag": "ODI WORLD RECORD?",
+   "tag": "15 SAAL · ODI WORLD RECORD?",
    "img": "20261125-sooryavanshi-204/real/news-1.jpg",
    "credit": "PHOTO: THE TRIBUNE",
    "fit": "blur"
