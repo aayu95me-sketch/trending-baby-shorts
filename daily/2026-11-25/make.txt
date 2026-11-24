@@ -1,3 +1,4 @@
 20261125-sooryavanshi-204
 # remake 1 (shorter on-screen text, scenes only)
 # remake 2 (sharp full-screen hook photo, council fix)
+# remake 3 (hook back to blur fit: 700px source was soft full-screen; close-up kept)
