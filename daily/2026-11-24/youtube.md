@@ -4,7 +4,7 @@ Picks (18 Nov lane rules): Bisleri "unsafe" water (lane d civic number-vs-number
 Skipped: Nvidia share price 20K+ and Sensex/Nifty fall 10K+ (US tech/AI selloff + market move: outside the lanes, and Tuesday's market can reverse it before the post goes up), South Africa vs Bangladesh / Khaled Ahmed (not India), Liverpool vs Man Utd (football), Shloka Mehta, Bhuvan Bam (celeb personal life / no story), Avengers Doomsday (Hollywood), Guru Nanak Jayanti, PM Kisan, Panchayat S5 (plain explainers, low volume), Leonida (GTA 6, done 19 Nov), Tata, Jat Regiment, small leagues (no story / tiny).
 Every description ends with the channel footer from the upload defaults (AI voice disclosure). "Altered content" answer: No (AI narration only).
 
-## 1. Bisleri ka paani unsafe?, 09:30 IST 24 Nov (lane d: civic number vs number)
+## 1. Bisleri ka paani unsafe?, 13:00 IST 24 Nov (lane d: civic number vs number)
 File: 20261124-bisleri-unsafe
 Title: Bisleri ka paani UNSAFE? Bottle phenkne se pehle yeh sach suno 💧 #shorts
 Description:
@@ -16,7 +16,7 @@ Tags: bisleri, bisleri unsafe, bisleri water unsafe, bisleri fssai, fssai bisler
 Pinned comment: Ek word mein: Bisleri peete rahoge, HAAN ya NA? 👇
 Related video: Vande Bharat 36K fine (civic scare lane).
 
-## 2. 720 run, phir bhi draw: India WTC final se bahar?, 12:30 IST 24 Nov (lane c: India cricket result)
+## 2. 720 run, phir bhi draw: India WTC final se bahar?, 16:00 IST 24 Nov (lane c: India cricket result)
 File: 20261124-wtc-india-final
 Title: 720 run banake bhi DRAW! India WTC Final se BAHAR? Poora hisaab 🏏 #shorts
 Description:
