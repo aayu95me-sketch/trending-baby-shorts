@@ -8,9 +8,10 @@
    "big": "204 OFF 53!",
    "color": "gold",
    "tag": "15 SAAL · ODI WORLD RECORD?",
-   "img": "20261125-sooryavanshi-204/real/news-1.jpg",
-   "credit": "PHOTO: THE TRIBUNE",
-   "fit": "blur"
+   "img": "20261125-sooryavanshi-204/real/news-4.jpg",
+   "credit": "PHOTO: GEO TV",
+   "fit": "cover",
+   "focus": "62% 35%"
   },
   {
    "at": "match",
@@ -35,8 +36,8 @@
    "big": "100 = 28 BALL",
    "color": "white",
    "tag": "PICHHLA LIST A RECORD: 29 BALL",
-   "img": "20261125-sooryavanshi-204/real/news-4.jpg",
-   "credit": "PHOTO: GEO TV",
+   "img": "20261125-sooryavanshi-204/real/news-1.jpg",
+   "credit": "PHOTO: THE TRIBUNE",
    "fit": "blur"
   },
   {
@@ -98,9 +99,10 @@
    "big": "204 OFF 53!",
    "color": "gold",
    "tag": "15 SAAL · ODI WORLD RECORD?",
-   "img": "20261125-sooryavanshi-204/real/news-1.jpg",
-   "credit": "PHOTO: THE TRIBUNE",
-   "fit": "blur"
+   "img": "20261125-sooryavanshi-204/real/news-4.jpg",
+   "credit": "PHOTO: GEO TV",
+   "fit": "cover",
+   "focus": "62% 35%"
   }
  ]
 }
