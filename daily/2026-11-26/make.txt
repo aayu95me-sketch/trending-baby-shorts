@@ -1,1 +1,2 @@
 20261126-hycross-facelift-price
+# remake 1 (shorter note + no-wrap big text)

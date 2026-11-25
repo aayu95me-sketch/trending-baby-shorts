@@ -1,6 +1,6 @@
 {
  "banner": "DOUBT CLEAR",
- "note": "SOURCES: AUTOCAR INDIA, CARDEKHO, CARLELO, MANORAMA · 25 NOV 2026",
+ "note": "SOURCES: AUTOCAR, CARDEKHO, CARLELO, MANORAMA · 25 NOV",
  "loopTail": 0.5,
  "scenes": [
   {
@@ -23,9 +23,9 @@
   },
   {
    "at": "hybrid",
-   "big": "HYBRID ₹19.99 LAKH",
+   "big": "₹19.99 LAKH",
    "color": "gold",
-   "tag": "G STRONG HYBRID SE SHURU",
+   "tag": "HYBRID YAHAN SE SHURU (G)",
    "img": "20261126-hycross-facelift-price/real/news-2.jpg",
    "credit": "PHOTO: CARLELO",
    "fit": "blur"
@@ -86,9 +86,9 @@
   },
   {
    "at": "cta",
-   "big": "PETROL YA HYBRID?",
+   "big": "KAUNSA LOGE?",
    "color": "gold",
-   "tag": "COMMENT KARO",
+   "tag": "PETROL YA HYBRID · COMMENT",
    "img": "20261126-hycross-facelift-price/real/news-2.jpg",
    "credit": "PHOTO: CARLELO",
    "fit": "blur"
