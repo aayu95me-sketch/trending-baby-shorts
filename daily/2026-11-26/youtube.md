@@ -4,7 +4,7 @@ Pick (25 Nov lane re-rank, LESSONS.md): Toyota Innova Hycross facelift price (la
 Skipped: Real Madrid vs PSV 20K+, Man City vs Napoli, Arsenal vs Dortmund, Al-Nassr (football); Pakistan team, Bangladesh vs South Africa (not India); Yuvraj / fastest List A 100 (Sooryavanshi done 25 Nov); Salim Khan / Sohail Khan (91st birthday, personal); Riteish Deshmukh (Rahul Gandhi lap-photo row, politics); Hinjewadi, Bhau Flex Kadha, Mandar Kiwale (Pune local civic); Beaver Moon (space); ColorOS 17, Blade Runner 2099, PCE/US inflation, Sridevi, Neelam Devi, small rows.
 Every description ends with the channel footer from the upload defaults (AI voice disclosure). "Altered content" answer: No (AI narration only).
 
-## 1. Hycross facelift ₹19.59 lakh mein hybrid?, slot TBD by Ayush 26 Nov (lane b: India price search)
+## 1. Hycross facelift ₹19.59 lakh mein hybrid?, slot TBD by Ayush 26 Nov (ready: council round 3 passed, 41.9 s) (lane b: India price search)
 File: 20261126-hycross-facelift-price
 Title: Innova Hycross Facelift ₹19.59 Lakh mein HYBRID? Price ka sach 🚗 #shorts
 Description:
