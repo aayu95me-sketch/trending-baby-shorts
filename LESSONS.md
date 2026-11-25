@@ -54,3 +54,21 @@ Still held: "S" by @tvigneshrao6480 on Ramayana (held as potentially inappropria
 
 ## Carried over from Chunav Diary (to re-test)
 See PLAYBOOK.md section 8.
+
+## 25 Nov lane re-rank (42 Shorts, Data API 20:06 IST + Analytics through ~23 Nov)
+Search is the big new finding: the two 10K+ hits got most views from **YouTube search**, not the Shorts feed
+(GTA 6 price: 8,939 of 11,692 from search; Mexico pterodactyl: 9,885 of 11,544). Toxic (451) and PS5 (215) also got real search
+traffic. Feed-only Shorts top out around 1-2K.
+
+| Lane | Shorts | Median views | Notes |
+|---|---|---|---|
+| Viral video real/AI | 1 | 11,878 | Mexico; searchers typed the claim |
+| India price/cost of a big launch or market move (searchable) | 3 | 2,124 | GTA 6 12.3K, Gold 2.1K, PS5 1.5K |
+| Bollywood / celebrity money number | 4 | ~1,460 | Toxic 2.3K, Ramayana 1.55K, Ananya 1.4K, Ramayana vs Jawan 5 (repeat) |
+| India men's cricket result | 11 | ~1,105 | 89 all out 1.9K ... Dhoni 114; follow-ups and non-results fail |
+| Civic number scare | 7 | 244 | AQI 1.3K and Vande Bharat 1.25K, rest <260 (Bisleri, Gratuity, loans, Census, Navi Mumbai) |
+| Tech/space/Hollywood/world/personal life | 9 | <110 | unchanged, keep skipping |
+
+New lane order from 26 Nov: (a) viral real/AI, (b) **searchable India price question on a big launch** (title = the exact search
+phrase + "price in India" / "kitne ka"), (c) Bollywood money, (d) India men's cricket shock result, (e) civic scare only if national
+and AQI/Vande-Bharat size. Gaming/auto/phone launches are no longer auto-skip when the doubt is the India price. Re-check 2 Dec.
