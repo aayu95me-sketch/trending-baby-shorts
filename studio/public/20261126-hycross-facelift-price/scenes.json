@@ -1,0 +1,106 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: AUTOCAR INDIA, CARDEKHO, CARLELO, MANORAMA · 25 NOV 2026",
+ "loopTail": 0.5,
+ "scenes": [
+  {
+   "at": 0,
+   "big": "₹19.59 LAKH",
+   "color": "gold",
+   "tag": "NAYI HYCROSS · HYBRID MILEGA?",
+   "img": "20261126-hycross-facelift-price/real/news-0.jpg",
+   "credit": "PHOTO: AUTOCAR INDIA",
+   "fit": "blur"
+  },
+  {
+   "at": "no",
+   "big": "NAHI · SIRF PETROL",
+   "color": "red",
+   "tag": "₹19.59 LAKH = PETROL GX",
+   "img": "20261126-hycross-facelift-price/real/news-4.jpg",
+   "credit": "PHOTO: AUTOPUNDITZ",
+   "fit": "blur"
+  },
+  {
+   "at": "hybrid",
+   "big": "HYBRID ₹19.99 LAKH",
+   "color": "gold",
+   "tag": "G STRONG HYBRID SE SHURU",
+   "img": "20261126-hycross-facelift-price/real/news-2.jpg",
+   "credit": "PHOTO: CARLELO",
+   "fit": "blur"
+  },
+  {
+   "at": "top",
+   "big": "ZX ₹31.99 LAKH",
+   "color": "white",
+   "tag": "SABSE UPAR WALA HYBRID",
+   "img": "20261126-hycross-facelift-price/real/news-5.jpg",
+   "credit": "PHOTO: AUTO INDIA DAILY",
+   "fit": "blur"
+  },
+  {
+   "at": "e85",
+   "big": "E85 READY",
+   "color": "gold",
+   "tag": "85% ETHANOL · FLEX-FUEL HYBRID",
+   "img": "20261126-hycross-facelift-price/real/news-3.jpg",
+   "credit": "PHOTO: V3CARS",
+   "fit": "blur"
+  },
+  {
+   "at": "doubt",
+   "big": "E85 KAHAN?",
+   "color": "white",
+   "tag": "ASLI SAWAAL",
+   "img": "20261126-hycross-facelift-price/real/news-9.jpg",
+   "credit": "PHOTO: AUTOPUNDITZ",
+   "fit": "blur"
+  },
+  {
+   "at": "pumps",
+   "big": "48 SE 500 PUMP",
+   "color": "gold",
+   "tag": "JUNE 2026 SE · TARGET DEC 2026",
+   "img": "20261126-hycross-facelift-price/real/news-7.jpg",
+   "credit": "PHOTO: MANORAMA YEARBOOK",
+   "fit": "blur"
+  },
+  {
+   "at": "cheap",
+   "big": "~₹20/LITRE SASTA",
+   "color": "white",
+   "tag": "PAR MILEAGE THODA KAM",
+   "img": "20261126-hycross-facelift-price/real/wk-5.jpg",
+   "credit": "PHOTO: WIKIMEDIA COMMONS",
+   "fit": "blur"
+  },
+  {
+   "at": "verdict",
+   "big": "HYBRID = ₹20 LAKH",
+   "color": "gold",
+   "tag": "E85 TABHI, JAB PUMP PAAS HO",
+   "img": "20261126-hycross-facelift-price/real/news-1.jpg",
+   "credit": "PHOTO: CARDEKHO",
+   "fit": "blur"
+  },
+  {
+   "at": "cta",
+   "big": "PETROL YA HYBRID?",
+   "color": "gold",
+   "tag": "COMMENT KARO",
+   "img": "20261126-hycross-facelift-price/real/news-2.jpg",
+   "credit": "PHOTO: CARLELO",
+   "fit": "blur"
+  },
+  {
+   "at": "end",
+   "big": "₹19.59 LAKH",
+   "color": "gold",
+   "tag": "NAYI HYCROSS · HYBRID MILEGA?",
+   "img": "20261126-hycross-facelift-price/real/news-0.jpg",
+   "credit": "PHOTO: AUTOCAR INDIA",
+   "fit": "blur"
+  }
+ ]
+}
