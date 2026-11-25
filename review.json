@@ -1,0 +1,27 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "Hybrid price claim (unees lakh ninyanve hazaar) presented without source.",
+    "E85 price advantage claim (lagbhag bees rupaye sasta) without source.",
+    "Target of paanch sau pumps by December presented without source."
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "unsath (should be sath)",
+    "ninyanve (non‑standard)",
+    "adtaalees (non‑standard)",
+    "kaunsa loge (awkward)"
+   ],
+   "one_line_verdict": "No number mismatches, but three unsupported numeric claims and several unnatural Hinglish terms; no hook options to score."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}

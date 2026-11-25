@@ -1,0 +1,797 @@
+{
+ "total": 41.939,
+ "voice": "20261126-hycross-facelift-price/voice.wav",
+ "lines": [
+  {
+   "start": 0.0,
+   "text": "Innova Hycross facelift, unees lakh unsath hazaar rupaye mein. Kya is daam mein hybrid milega?",
+   "end": 5.162
+  },
+  {
+   "start": 5.52,
+   "text": "Nahi milega. Ye daam sirf petrol GX ka hai.",
+   "end": 8.288
+  },
+  {
+   "start": 8.64,
+   "text": "Hybrid shuru hota hai unees lakh ninyanve hazaar se. Yaani chaalees hazaar zyada.",
+   "end": 13.002
+  },
+  {
+   "start": 13.18,
+   "text": "Sabse upar wala ZX hybrid, iktees lakh ninyanve hazaar rupaye ka.",
+   "end": 17.125
+  },
+  {
+   "start": 17.472,
+   "text": "Aur ye hybrid pachaasi percent ethanol, yaani E85 pe bhi chalega. Par ye fuel milega kahan?",
+   "end": 23.5
+  },
+  {
+   "start": 23.5,
+   "text": "June mein adtaalees pumps se shuru hua. Target hai December tak paanch sau.",
+   "end": 27.86
+  },
+  {
+   "start": 27.86,
+   "text": "E85 petrol se lagbhag bees rupaye sasta. Par ethanol mein mileage thoda kam aata hai.",
+   "end": 32.438
+  },
+  {
+   "start": 32.804,
+   "text": "Toh hybrid chahiye toh budget bees lakh rakho. E85 ka fayda tabhi, jab pump aapke shehar mein ho.",
+   "end": 37.974
+  },
+  {
+   "start": 38.4,
+   "text": "Aap kaunsa loge, petrol ya hybrid? Comment karo.",
+   "end": 40.548
+  }
+ ],
+ "words": [
+  {
+   "w": "Innova",
+   "start": 0.0,
+   "end": 0.78
+  },
+  {
+   "w": "Hycross",
+   "start": 0.8,
+   "end": 1.44
+  },
+  {
+   "w": "facelift,",
+   "start": 1.46,
+   "end": 1.869
+  },
+  {
+   "w": "unees",
+   "start": 1.889,
+   "end": 2.32
+  },
+  {
+   "w": "lakh",
+   "start": 2.34,
+   "end": 2.56
+  },
+  {
+   "w": "unsath",
+   "start": 2.58,
+   "end": 2.96
+  },
+  {
+   "w": "hazaar",
+   "start": 2.98,
+   "end": 3.2
+  },
+  {
+   "w": "rupaye",
+   "start": 3.22,
+   "end": 3.4
+  },
+  {
+   "w": "mein.",
+   "start": 3.42,
+   "end": 3.879
+  },
+  {
+   "w": "Kya",
+   "start": 3.899,
+   "end": 4.04
+  },
+  {
+   "w": "is",
+   "start": 4.06,
+   "end": 4.18
+  },
+  {
+   "w": "daam",
+   "start": 4.2,
+   "end": 4.3
+  },
+  {
+   "w": "mein",
+   "start": 4.32,
+   "end": 4.42
+  },
+  {
+   "w": "hybrid",
+   "start": 4.44,
+   "end": 4.76
+  },
+  {
+   "w": "milega?",
+   "start": 4.78,
+   "end": 5.5
+  },
+  {
+   "w": "Nahi",
+   "start": 5.52,
+   "end": 5.7
+  },
+  {
+   "w": "milega.",
+   "start": 5.72,
+   "end": 6.44
+  },
+  {
+   "w": "Ye",
+   "start": 6.46,
+   "end": 6.54
+  },
+  {
+   "w": "daam",
+   "start": 6.56,
+   "end": 6.82
+  },
+  {
+   "w": "sirf",
+   "start": 6.84,
+   "end": 7.14
+  },
+  {
+   "w": "petrol",
+   "start": 7.16,
+   "end": 7.59
+  },
+  {
+   "w": "GX",
+   "start": 7.61,
+   "end": 8.04
+  },
+  {
+   "w": "ka",
+   "start": 8.06,
+   "end": 8.1
+  },
+  {
+   "w": "hai.",
+   "start": 8.12,
+   "end": 8.62
+  },
+  {
+   "w": "Hybrid",
+   "start": 8.64,
+   "end": 8.94
+  },
+  {
+   "w": "shuru",
+   "start": 8.96,
+   "end": 9.18
+  },
+  {
+   "w": "hota",
+   "start": 9.2,
+   "end": 9.44
+  },
+  {
+   "w": "hai",
+   "start": 9.46,
+   "end": 9.8
+  },
+  {
+   "w": "unees",
+   "start": 9.82,
+   "end": 10.28
+  },
+  {
+   "w": "lakh",
+   "start": 10.3,
+   "end": 10.48
+  },
+  {
+   "w": "ninyanve",
+   "start": 10.5,
+   "end": 10.9
+  },
+  {
+   "w": "hazaar",
+   "start": 10.92,
+   "end": 11.2
+  },
+  {
+   "w": "se.",
+   "start": 11.22,
+   "end": 11.553
+  },
+  {
+   "w": "Yaani",
+   "start": 11.573,
+   "end": 11.9
+  },
+  {
+   "w": "chaalees",
+   "start": 11.92,
+   "end": 12.4
+  },
+  {
+   "w": "hazaar",
+   "start": 12.42,
+   "end": 12.64
+  },
+  {
+   "w": "zyada.",
+   "start": 12.66,
+   "end": 13.16
+  },
+  {
+   "w": "Sabse",
+   "start": 13.18,
+   "end": 13.74
+  },
+  {
+   "w": "upar",
+   "start": 13.76,
+   "end": 14.14
+  },
+  {
+   "w": "wala",
+   "start": 14.16,
+   "end": 14.4
+  },
+  {
+   "w": "ZX",
+   "start": 14.42,
+   "end": 14.72
+  },
+  {
+   "w": "hybrid,",
+   "start": 14.74,
+   "end": 15.04
+  },
+  {
+   "w": "iktees",
+   "start": 15.06,
+   "end": 15.64
+  },
+  {
+   "w": "lakh",
+   "start": 15.66,
+   "end": 16.06
+  },
+  {
+   "w": "ninyanve",
+   "start": 16.08,
+   "end": 16.5
+  },
+  {
+   "w": "hazaar",
+   "start": 16.52,
+   "end": 16.74
+  },
+  {
+   "w": "rupaye",
+   "start": 16.76,
+   "end": 16.94
+  },
+  {
+   "w": "ka.",
+   "start": 16.96,
+   "end": 17.452
+  },
+  {
+   "w": "Aur",
+   "start": 17.472,
+   "end": 17.62
+  },
+  {
+   "w": "ye",
+   "start": 17.64,
+   "end": 17.74
+  },
+  {
+   "w": "hybrid",
+   "start": 17.76,
+   "end": 18.18
+  },
+  {
+   "w": "pachaasi",
+   "start": 18.2,
+   "end": 18.62
+  },
+  {
+   "w": "percent",
+   "start": 18.64,
+   "end": 19.06
+  },
+  {
+   "w": "ethanol,",
+   "start": 19.08,
+   "end": 19.52
+  },
+  {
+   "w": "yaani",
+   "start": 19.54,
+   "end": 20.112
+  },
+  {
+   "w": "E85",
+   "start": 20.132,
+   "end": 20.7
+  },
+  {
+   "w": "pe",
+   "start": 20.72,
+   "end": 20.86
+  },
+  {
+   "w": "bhi",
+   "start": 20.88,
+   "end": 20.98
+  },
+  {
+   "w": "chalega.",
+   "start": 21.0,
+   "end": 21.734
+  },
+  {
+   "w": "Par",
+   "start": 21.754,
+   "end": 21.86
+  },
+  {
+   "w": "ye",
+   "start": 21.88,
+   "end": 21.96
+  },
+  {
+   "w": "fuel",
+   "start": 21.98,
+   "end": 22.28
+  },
+  {
+   "w": "milega",
+   "start": 22.3,
+   "end": 22.7
+  },
+  {
+   "w": "kahan?",
+   "start": 22.72,
+   "end": 23.48
+  },
+  {
+   "w": "June",
+   "start": 23.5,
+   "end": 23.76
+  },
+  {
+   "w": "mein",
+   "start": 23.78,
+   "end": 24.047
+  },
+  {
+   "w": "adtaalees",
+   "start": 24.067,
+   "end": 24.333
+  },
+  {
+   "w": "pumps",
+   "start": 24.353,
+   "end": 24.62
+  },
+  {
+   "w": "se",
+   "start": 24.64,
+   "end": 24.76
+  },
+  {
+   "w": "shuru",
+   "start": 24.78,
+   "end": 25.0
+  },
+  {
+   "w": "hua.",
+   "start": 25.02,
+   "end": 25.42
+  },
+  {
+   "w": "Target",
+   "start": 25.44,
+   "end": 25.84
+  },
+  {
+   "w": "hai",
+   "start": 25.86,
+   "end": 25.96
+  },
+  {
+   "w": "December",
+   "start": 25.98,
+   "end": 26.46
+  },
+  {
+   "w": "tak",
+   "start": 26.48,
+   "end": 27.06
+  },
+  {
+   "w": "paanch",
+   "start": 27.08,
+   "end": 27.66
+  },
+  {
+   "w": "sau.",
+   "start": 27.68,
+   "end": 27.84
+  },
+  {
+   "w": "E85",
+   "start": 27.86,
+   "end": 28.22
+  },
+  {
+   "w": "petrol",
+   "start": 28.24,
+   "end": 28.7
+  },
+  {
+   "w": "se",
+   "start": 28.72,
+   "end": 28.86
+  },
+  {
+   "w": "lagbhag",
+   "start": 28.88,
+   "end": 29.56
+  },
+  {
+   "w": "bees",
+   "start": 29.58,
+   "end": 29.74
+  },
+  {
+   "w": "rupaye",
+   "start": 29.76,
+   "end": 29.92
+  },
+  {
+   "w": "sasta.",
+   "start": 29.94,
+   "end": 30.548
+  },
+  {
+   "w": "Par",
+   "start": 30.568,
+   "end": 30.68
+  },
+  {
+   "w": "ethanol",
+   "start": 30.7,
+   "end": 31.08
+  },
+  {
+   "w": "mein",
+   "start": 31.1,
+   "end": 31.24
+  },
+  {
+   "w": "mileage",
+   "start": 31.26,
+   "end": 31.6
+  },
+  {
+   "w": "thoda",
+   "start": 31.62,
+   "end": 31.96
+  },
+  {
+   "w": "kam",
+   "start": 31.98,
+   "end": 32.16
+  },
+  {
+   "w": "aata",
+   "start": 32.18,
+   "end": 32.36
+  },
+  {
+   "w": "hai.",
+   "start": 32.38,
+   "end": 32.784
+  },
+  {
+   "w": "Toh",
+   "start": 32.804,
+   "end": 32.92
+  },
+  {
+   "w": "hybrid",
+   "start": 32.94,
+   "end": 33.32
+  },
+  {
+   "w": "chahiye",
+   "start": 33.34,
+   "end": 33.64
+  },
+  {
+   "w": "toh",
+   "start": 33.66,
+   "end": 33.72
+  },
+  {
+   "w": "budget",
+   "start": 33.74,
+   "end": 34.02
+  },
+  {
+   "w": "bees",
+   "start": 34.04,
+   "end": 34.3
+  },
+  {
+   "w": "lakh",
+   "start": 34.32,
+   "end": 34.48
+  },
+  {
+   "w": "rakho.",
+   "start": 34.5,
+   "end": 35.3
+  },
+  {
+   "w": "E85",
+   "start": 35.36,
+   "end": 35.68
+  },
+  {
+   "w": "ka",
+   "start": 35.7,
+   "end": 35.88
+  },
+  {
+   "w": "fayda",
+   "start": 35.9,
+   "end": 36.18
+  },
+  {
+   "w": "tabhi,",
+   "start": 36.2,
+   "end": 36.684
+  },
+  {
+   "w": "jab",
+   "start": 36.704,
+   "end": 36.9
+  },
+  {
+   "w": "pump",
+   "start": 36.92,
+   "end": 37.22
+  },
+  {
+   "w": "aapke",
+   "start": 37.24,
+   "end": 37.46
+  },
+  {
+   "w": "shehar",
+   "start": 37.48,
+   "end": 37.8
+  },
+  {
+   "w": "mein",
+   "start": 37.82,
+   "end": 37.88
+  },
+  {
+   "w": "ho.",
+   "start": 37.9,
+   "end": 38.38
+  },
+  {
+   "w": "Aap",
+   "start": 38.4,
+   "end": 38.56
+  },
+  {
+   "w": "kaunsa",
+   "start": 38.58,
+   "end": 38.88
+  },
+  {
+   "w": "loge,",
+   "start": 38.9,
+   "end": 39.2
+  },
+  {
+   "w": "petrol",
+   "start": 39.22,
+   "end": 39.56
+  },
+  {
+   "w": "ya",
+   "start": 39.58,
+   "end": 39.83
+  },
+  {
+   "w": "hybrid?",
+   "start": 39.85,
+   "end": 40.1
+  },
+  {
+   "w": "Comment",
+   "start": 40.12,
+   "end": 40.38
+  },
+  {
+   "w": "karo.",
+   "start": 40.4,
+   "end": 40.939
+  }
+ ],
+ "cues": {
+  "hook": 0.0,
+  "no": 5.52,
+  "hybrid": 8.64,
+  "top": 13.18,
+  "e85": 17.472,
+  "pumps": 23.5,
+  "cheap": 27.86,
+  "verdict": 32.804,
+  "cta": 38.4
+ },
+ "numbers": [
+  {
+   "show": "E85",
+   "spoken": "E85",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "E85",
+   "spoken": "E85",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "E85",
+   "spoken": "E85",
+   "heard": 1.0,
+   "digit_diff": 0
+  }
+ ],
+ "heard": [
+  "इनोवा",
+  "हाई",
+  "क्रोस",
+  "फेस",
+  "लिफ्ट",
+  "उन्नेस",
+  "लाक",
+  "उन्साथ",
+  "हाथा",
+  "रूपय",
+  "में",
+  "क्या",
+  "इस",
+  "दाम",
+  "में",
+  "हाईब्रिट",
+  "मिलेगा?",
+  "नहीं",
+  "मिलेगा.",
+  "ये",
+  "दाम",
+  "सिर्फ",
+  "पेट्रोल",
+  "जी",
+  "एक्स",
+  "का",
+  "का",
+  "है।",
+  "हाइब्रिट",
+  "शुरू",
+  "होता",
+  "है",
+  "उन्निस",
+  "लाक",
+  "निनान्वे",
+  "हजार",
+  "से",
+  "यानि",
+  "चालिस",
+  "हजार",
+  "ज्यादा",
+  "सबसे",
+  "उपर",
+  "वाला",
+  "ZX",
+  "हाइब्रिट",
+  "एक",
+  "तिसलाक",
+  "निन्यान्मे",
+  "हजार",
+  "रूपय",
+  "का",
+  "और",
+  "ये",
+  "Hybrid",
+  "85",
+  "Ethanol",
+  "यानी",
+  "E85",
+  "पे",
+  "भी",
+  "चलेगा",
+  "पर",
+  "ये",
+  "फ्यूल",
+  "मेलेगा",
+  "कहां?",
+  "जून",
+  "में",
+  "48",
+  "पंपो",
+  "से",
+  "शुरूब",
+  "हुआ,",
+  "तार्गेट",
+  "है",
+  "दिसम्बर",
+  "तक",
+  "500,",
+  "ई",
+  "-85",
+  "पेट्रोल",
+  "से",
+  "लग...",
+  "बीस",
+  "रुपे",
+  "सब्सता",
+  "पर",
+  "एथनाल",
+  "में",
+  "माईलिज",
+  "थोड़ा",
+  "काम",
+  "आता",
+  "है",
+  "तो",
+  "हाईब्रिट",
+  "चाहिये",
+  "तो",
+  "बज़ड",
+  "बीस",
+  "लाक",
+  "रखो",
+  "E",
+  "-85",
+  "का",
+  "फाइदा",
+  "तभी",
+  "जब",
+  "पौमप",
+  "आपके",
+  "शहर",
+  "में",
+  "हो.",
+  "आप",
+  "कौन",
+  "सा",
+  "पेट्रोल",
+  "या",
+  "कौमेंट",
+  "करो."
+ ]
+}
