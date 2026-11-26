@@ -1,0 +1,840 @@
+{
+ "total": 42.786,
+ "voice": "20261127-vivo-x500-price/voice.wav",
+ "lines": [
+  {
+   "start": 0.0,
+   "text": "Vivo X five hundred India mein aaya, ek lakh unnees hazaar rupaye se. Par sabse mehenga wala kitne ka?",
+   "end": 5.331
+  },
+  {
+   "start": 5.574,
+   "text": "Sabse sasta X five hundred, baarah GB aur do sau chhappan GB, ek lakh unnees hazaar rupaye.",
+   "end": 10.275
+  },
+  {
+   "start": 10.6,
+   "text": "Uske upar X five hundred Pro, ek lakh unchaas hazaar rupaye.",
+   "end": 14.004
+  },
+  {
+   "start": 14.398,
+   "text": "Phir Pro Max, ek lakh chausath hazaar rupaye se shuru.",
+   "end": 17.151
+  },
+  {
+   "start": 17.524,
+   "text": "Aur sabse mehenga, Pro Max photography kit. Do lakh untees hazaar rupaye. Isme phone ke saath do ZEISS lens aate hain.",
+   "end": 24.182
+  },
+  {
+   "start": 24.586,
+   "text": "Farak kya hai? Pro Max mein do sau megapixel ka telephoto. Baaki dono mein sirf chausath.",
+   "end": 29.194
+  },
+  {
+   "start": 29.566,
+   "text": "Bank card pe das percent tak discount. Pre-booking aaj se, sale teen December se.",
+   "end": 34.232
+  },
+  {
+   "start": 34.584,
+   "text": "Toh sabse sasta bhi ek lakh se upar. Aur poora kit, do lakh se upar.",
+   "end": 38.376
+  },
+  {
+   "start": 38.741,
+   "text": "Aap kaunsa loge, vivo ya iPhone? Comment mein batao.",
+   "end": 41.401
+  }
+ ],
+ "words": [
+  {
+   "w": "Vivo",
+   "start": 0.0,
+   "end": 0.212
+  },
+  {
+   "w": "X",
+   "start": 0.232,
+   "end": 0.444
+  },
+  {
+   "w": "five",
+   "start": 0.464,
+   "end": 0.676
+  },
+  {
+   "w": "hundred",
+   "start": 0.696,
+   "end": 0.908
+  },
+  {
+   "w": "India",
+   "start": 0.928,
+   "end": 1.14
+  },
+  {
+   "w": "mein",
+   "start": 1.16,
+   "end": 1.26
+  },
+  {
+   "w": "aaya,",
+   "start": 1.28,
+   "end": 1.56
+  },
+  {
+   "w": "ek",
+   "start": 1.58,
+   "end": 1.86
+  },
+  {
+   "w": "lakh",
+   "start": 1.88,
+   "end": 2.16
+  },
+  {
+   "w": "unnees",
+   "start": 2.18,
+   "end": 2.725
+  },
+  {
+   "w": "hazaar",
+   "start": 2.745,
+   "end": 3.289
+  },
+  {
+   "w": "rupaye",
+   "start": 3.309,
+   "end": 3.854
+  },
+  {
+   "w": "se.",
+   "start": 3.874,
+   "end": 3.996
+  },
+  {
+   "w": "Par",
+   "start": 4.016,
+   "end": 4.137
+  },
+  {
+   "w": "sabse",
+   "start": 4.157,
+   "end": 4.279
+  },
+  {
+   "w": "mehenga",
+   "start": 4.299,
+   "end": 4.42
+  },
+  {
+   "w": "wala",
+   "start": 4.44,
+   "end": 4.82
+  },
+  {
+   "w": "kitne",
+   "start": 4.84,
+   "end": 5.08
+  },
+  {
+   "w": "ka?",
+   "start": 5.1,
+   "end": 5.554
+  },
+  {
+   "w": "Sabse",
+   "start": 5.574,
+   "end": 6.029
+  },
+  {
+   "w": "sasta",
+   "start": 6.049,
+   "end": 6.503
+  },
+  {
+   "w": "X",
+   "start": 6.523,
+   "end": 6.977
+  },
+  {
+   "w": "five",
+   "start": 6.997,
+   "end": 7.451
+  },
+  {
+   "w": "hundred,",
+   "start": 7.471,
+   "end": 7.926
+  },
+  {
+   "w": "baarah",
+   "start": 7.946,
+   "end": 8.4
+  },
+  {
+   "w": "GB",
+   "start": 8.42,
+   "end": 8.583
+  },
+  {
+   "w": "aur",
+   "start": 8.603,
+   "end": 8.766
+  },
+  {
+   "w": "do",
+   "start": 8.786,
+   "end": 8.949
+  },
+  {
+   "w": "sau",
+   "start": 8.969,
+   "end": 9.131
+  },
+  {
+   "w": "chhappan",
+   "start": 9.151,
+   "end": 9.314
+  },
+  {
+   "w": "GB,",
+   "start": 9.334,
+   "end": 9.497
+  },
+  {
+   "w": "ek",
+   "start": 9.517,
+   "end": 9.68
+  },
+  {
+   "w": "lakh",
+   "start": 9.7,
+   "end": 9.905
+  },
+  {
+   "w": "unnees",
+   "start": 9.925,
+   "end": 10.13
+  },
+  {
+   "w": "hazaar",
+   "start": 10.15,
+   "end": 10.355
+  },
+  {
+   "w": "rupaye.",
+   "start": 10.375,
+   "end": 10.58
+  },
+  {
+   "w": "Uske",
+   "start": 10.6,
+   "end": 10.9
+  },
+  {
+   "w": "upar",
+   "start": 10.92,
+   "end": 11.18
+  },
+  {
+   "w": "X",
+   "start": 11.2,
+   "end": 11.387
+  },
+  {
+   "w": "five",
+   "start": 11.407,
+   "end": 11.593
+  },
+  {
+   "w": "hundred",
+   "start": 11.613,
+   "end": 11.8
+  },
+  {
+   "w": "Pro,",
+   "start": 11.82,
+   "end": 12.51
+  },
+  {
+   "w": "ek",
+   "start": 12.53,
+   "end": 13.22
+  },
+  {
+   "w": "lakh",
+   "start": 13.24,
+   "end": 13.509
+  },
+  {
+   "w": "unchaas",
+   "start": 13.529,
+   "end": 13.799
+  },
+  {
+   "w": "hazaar",
+   "start": 13.819,
+   "end": 14.088
+  },
+  {
+   "w": "rupaye.",
+   "start": 14.108,
+   "end": 14.378
+  },
+  {
+   "w": "Phir",
+   "start": 14.398,
+   "end": 14.706
+  },
+  {
+   "w": "Pro",
+   "start": 14.726,
+   "end": 14.88
+  },
+  {
+   "w": "Max,",
+   "start": 14.9,
+   "end": 15.22
+  },
+  {
+   "w": "ek",
+   "start": 15.24,
+   "end": 15.68
+  },
+  {
+   "w": "lakh",
+   "start": 15.7,
+   "end": 16.029
+  },
+  {
+   "w": "chausath",
+   "start": 16.049,
+   "end": 16.32
+  },
+  {
+   "w": "hazaar",
+   "start": 16.34,
+   "end": 16.56
+  },
+  {
+   "w": "rupaye",
+   "start": 16.58,
+   "end": 16.78
+  },
+  {
+   "w": "se",
+   "start": 16.8,
+   "end": 16.92
+  },
+  {
+   "w": "shuru.",
+   "start": 16.94,
+   "end": 17.504
+  },
+  {
+   "w": "Aur",
+   "start": 17.524,
+   "end": 17.64
+  },
+  {
+   "w": "sabse",
+   "start": 17.66,
+   "end": 18.12
+  },
+  {
+   "w": "mehenga,",
+   "start": 18.14,
+   "end": 18.621
+  },
+  {
+   "w": "Pro",
+   "start": 18.641,
+   "end": 18.82
+  },
+  {
+   "w": "Max",
+   "start": 18.84,
+   "end": 19.08
+  },
+  {
+   "w": "photography",
+   "start": 19.1,
+   "end": 19.66
+  },
+  {
+   "w": "kit.",
+   "start": 19.68,
+   "end": 19.968
+  },
+  {
+   "w": "Do",
+   "start": 19.988,
+   "end": 20.5
+  },
+  {
+   "w": "lakh",
+   "start": 20.52,
+   "end": 20.88
+  },
+  {
+   "w": "untees",
+   "start": 20.9,
+   "end": 21.4
+  },
+  {
+   "w": "hazaar",
+   "start": 21.42,
+   "end": 21.8
+  },
+  {
+   "w": "rupaye.",
+   "start": 21.82,
+   "end": 22.388
+  },
+  {
+   "w": "Isme",
+   "start": 22.408,
+   "end": 22.5
+  },
+  {
+   "w": "phone",
+   "start": 22.52,
+   "end": 22.64
+  },
+  {
+   "w": "ke",
+   "start": 22.66,
+   "end": 23.0
+  },
+  {
+   "w": "saath",
+   "start": 23.02,
+   "end": 23.16
+  },
+  {
+   "w": "do",
+   "start": 23.18,
+   "end": 23.32
+  },
+  {
+   "w": "ZEISS",
+   "start": 23.34,
+   "end": 23.66
+  },
+  {
+   "w": "lens",
+   "start": 23.68,
+   "end": 23.9
+  },
+  {
+   "w": "aate",
+   "start": 23.92,
+   "end": 24.233
+  },
+  {
+   "w": "hain.",
+   "start": 24.253,
+   "end": 24.566
+  },
+  {
+   "w": "Farak",
+   "start": 24.586,
+   "end": 24.84
+  },
+  {
+   "w": "kya",
+   "start": 24.86,
+   "end": 25.0
+  },
+  {
+   "w": "hai?",
+   "start": 25.02,
+   "end": 25.448
+  },
+  {
+   "w": "Pro",
+   "start": 25.468,
+   "end": 25.694
+  },
+  {
+   "w": "Max",
+   "start": 25.714,
+   "end": 25.94
+  },
+  {
+   "w": "mein",
+   "start": 25.96,
+   "end": 26.13
+  },
+  {
+   "w": "do",
+   "start": 26.15,
+   "end": 26.32
+  },
+  {
+   "w": "sau",
+   "start": 26.34,
+   "end": 26.52
+  },
+  {
+   "w": "megapixel",
+   "start": 26.54,
+   "end": 27.04
+  },
+  {
+   "w": "ka",
+   "start": 27.06,
+   "end": 27.2
+  },
+  {
+   "w": "telephoto.",
+   "start": 27.22,
+   "end": 27.979
+  },
+  {
+   "w": "Baaki",
+   "start": 27.999,
+   "end": 28.26
+  },
+  {
+   "w": "dono",
+   "start": 28.28,
+   "end": 28.48
+  },
+  {
+   "w": "mein",
+   "start": 28.5,
+   "end": 28.6
+  },
+  {
+   "w": "sirf",
+   "start": 28.62,
+   "end": 28.78
+  },
+  {
+   "w": "chausath.",
+   "start": 28.8,
+   "end": 29.546
+  },
+  {
+   "w": "Bank",
+   "start": 29.566,
+   "end": 29.838
+  },
+  {
+   "w": "card",
+   "start": 29.858,
+   "end": 30.13
+  },
+  {
+   "w": "pe",
+   "start": 30.15,
+   "end": 30.22
+  },
+  {
+   "w": "das",
+   "start": 30.24,
+   "end": 30.36
+  },
+  {
+   "w": "percent",
+   "start": 30.38,
+   "end": 30.5
+  },
+  {
+   "w": "tak",
+   "start": 30.52,
+   "end": 30.92
+  },
+  {
+   "w": "discount.",
+   "start": 30.94,
+   "end": 31.646
+  },
+  {
+   "w": "Pre-booking",
+   "start": 31.666,
+   "end": 32.2
+  },
+  {
+   "w": "aaj",
+   "start": 32.22,
+   "end": 32.48
+  },
+  {
+   "w": "se,",
+   "start": 32.5,
+   "end": 32.901
+  },
+  {
+   "w": "sale",
+   "start": 32.921,
+   "end": 33.46
+  },
+  {
+   "w": "teen",
+   "start": 33.48,
+   "end": 33.64
+  },
+  {
+   "w": "December",
+   "start": 33.66,
+   "end": 34.02
+  },
+  {
+   "w": "se.",
+   "start": 34.04,
+   "end": 34.564
+  },
+  {
+   "w": "Toh",
+   "start": 34.584,
+   "end": 34.68
+  },
+  {
+   "w": "sabse",
+   "start": 34.7,
+   "end": 35.04
+  },
+  {
+   "w": "sasta",
+   "start": 35.06,
+   "end": 35.4
+  },
+  {
+   "w": "bhi",
+   "start": 35.42,
+   "end": 35.54
+  },
+  {
+   "w": "ek",
+   "start": 35.56,
+   "end": 35.8
+  },
+  {
+   "w": "lakh",
+   "start": 35.82,
+   "end": 36.0
+  },
+  {
+   "w": "se",
+   "start": 36.02,
+   "end": 36.12
+  },
+  {
+   "w": "upar.",
+   "start": 36.14,
+   "end": 36.695
+  },
+  {
+   "w": "Aur",
+   "start": 36.715,
+   "end": 37.001
+  },
+  {
+   "w": "poora",
+   "start": 37.021,
+   "end": 37.3
+  },
+  {
+   "w": "kit,",
+   "start": 37.32,
+   "end": 37.48
+  },
+  {
+   "w": "do",
+   "start": 37.5,
+   "end": 37.76
+  },
+  {
+   "w": "lakh",
+   "start": 37.78,
+   "end": 37.98
+  },
+  {
+   "w": "se",
+   "start": 38.0,
+   "end": 38.1
+  },
+  {
+   "w": "upar.",
+   "start": 38.12,
+   "end": 38.721
+  },
+  {
+   "w": "Aap",
+   "start": 38.741,
+   "end": 38.92
+  },
+  {
+   "w": "kaunsa",
+   "start": 38.94,
+   "end": 39.18
+  },
+  {
+   "w": "loge,",
+   "start": 39.2,
+   "end": 39.66
+  },
+  {
+   "w": "vivo",
+   "start": 39.68,
+   "end": 39.92
+  },
+  {
+   "w": "ya",
+   "start": 39.94,
+   "end": 40.04
+  },
+  {
+   "w": "iPhone?",
+   "start": 40.06,
+   "end": 40.805
+  },
+  {
+   "w": "Comment",
+   "start": 40.825,
+   "end": 40.993
+  },
+  {
+   "w": "mein",
+   "start": 41.013,
+   "end": 41.18
+  },
+  {
+   "w": "batao.",
+   "start": 41.2,
+   "end": 41.786
+  }
+ ],
+ "cues": {
+  "hook": 0.0,
+  "base": 5.574,
+  "pro": 10.6,
+  "max": 14.398,
+  "kit": 17.524,
+  "zoom": 24.586,
+  "offer": 29.566,
+  "verdict": 34.584,
+  "cta": 38.741
+ },
+ "numbers": [],
+ "heard": [
+  "वीवो",
+  "एक्स्भाया",
+  "भीवाश्टेडिया",
+  "में",
+  "आजा",
+  "अगी",
+  "तर",
+  "लोग",
+  "वह",
+  "भाँश्टेद",
+  "है।",
+  "है,",
+  "अखा",
+  "कितने",
+  "का।",
+  "वीवो",
+  "एक्स्भायाबाश्टेडिया",
+  "में",
+  "GB,",
+  "1",
+  ".9",
+  "lakh",
+  "उसके",
+  "उपर",
+  "X500",
+  "PRO,",
+  "1",
+  ".49",
+  "lakh",
+  "Rs.",
+  "फिर",
+  "प्रो",
+  "में...",
+  "एक",
+  "लाक",
+  "चासा",
+  "टाटार",
+  "रोपे",
+  "से",
+  "शूरूूूू",
+  "और",
+  "सबसे",
+  "महेंगा",
+  "प्रो",
+  "मैक्स",
+  "फोटोग्रफी",
+  "कित",
+  "तो",
+  "लाक",
+  "उन",
+  "तीस",
+  "हाजार",
+  "रोपे",
+  "यस",
+  "में",
+  "फोंके",
+  "साद",
+  "तो",
+  "जाईस",
+  "लंस",
+  "आतें",
+  "फर्ट",
+  "क्या",
+  "है?",
+  "प्रो",
+  "मैकस",
+  "में",
+  "2",
+  "शो",
+  "मैगप्रिकसल",
+  "का",
+  "तेली",
+  "फोटो",
+  "बाखी",
+  "दोनों",
+  "में",
+  "सर्फ",
+  "चोस",
+  "बैंकाट",
+  "पे",
+  "दस",
+  "पसंटक",
+  "दिसकाूँट",
+  "प्रीबोखिं",
+  "आज",
+  "से",
+  "सेल",
+  "तीन",
+  "दिसमवर",
+  "से",
+  "तो",
+  "सबसे",
+  "सस्ताचता",
+  "भी",
+  "एक",
+  "लाग",
+  "से",
+  "उपर,",
+  "और",
+  "पूरा",
+  "के",
+  "दो",
+  "लाख",
+  "से",
+  "उपर,",
+  "आप",
+  "कुन्सल",
+  "बोगे,",
+  "वीवो",
+  "या",
+  "अईप्वन,",
+  "कोमेंटने",
+  "पताओ."
+ ]
+}

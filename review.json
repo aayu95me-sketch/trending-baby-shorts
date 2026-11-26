@@ -1,0 +1,27 @@
+{
+ "reviewers": {
+  "gemini": {
+   "skipped": "503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent"
+  },
+  "groq": {
+   "number_mismatches": [],
+   "compliance_flags": [
+    "Specific price figures (e.g., “ek lakh unnees hazaar rupaye”, “ek lakh unchaas hazaar rupaye”, “ek lakh chausath hazaar rupaye”, “do lakh untees hazaar rupaye”) are presented without any source or attribution",
+    "Technical specifications such as “do sau megapixel ka telephoto” and storage sizes like “do sau chhappan GB” are stated as facts without citation",
+    "Discount claim “das percent tak discount” and sale dates “sale teen December se” lack source attribution"
+   ],
+   "hook_scores": [],
+   "best_hook": -1,
+   "hinglish_issues": [
+    "Use of “X five hundred” is unnatural for a young Delhi speaker",
+    "Phrase “do sau chhappan GB” (256 GB) sounds forced and unnatural",
+    "“do sau megapixel” is an odd way to express 200 MP and sounds unrealistic",
+    "Mix of Hindi and English numbers (e.g., “ek lakh unnees hazaar”) can be smoother"
+   ],
+   "one_line_verdict": "The script contains several unverified price/tech claims and a few awkward Hinglish expressions, so it needs source attribution and more natural wording."
+  }
+ },
+ "blocked_on": [],
+ "chosen_hook": -1,
+ "chosen_hook_text": null
+}
