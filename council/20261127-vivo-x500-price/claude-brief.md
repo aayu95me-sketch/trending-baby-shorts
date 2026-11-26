@@ -1,0 +1,10 @@
+# Claude (leader), round 0. Written before any council reply.
+Reel: "vivo X500 Price in India: ₹1.2 Lakh se ₹2.3 Lakh tak! Kaunsa kitne ka?". CSV 26 Nov 21:08 IST (Maharashtra 1d): "vivo x500" 2K+ (breakdown: vivo x500, vivo x500 pro, vivo x500 series). Lane b (25 Nov re-rank): searchable India price of a big launch. Slot 27 Nov 09:30.
+Facts (Business Today, Gogi, The Open Press, Beebom, all 26 Nov 2026): X500 12/256 ₹1,19,999 (only variant); X500 Pro 12/256 ₹1,49,999; Pro Max 12/256 ₹1,64,999, 12/512 ₹1,79,999; Pro Max Photography Kit ₹2,29,999 (phone 12/512 + 200mm and 400mm ZEISS extenders + strap). Pro Max has a 200MP ZEISS APO telephoto; X500 and Pro have 64MP. Up to 10% bank discount; pre-booking 26 Nov-2 Dec, open sale 3 Dec.
+Note for groq: "X five hundred" is the phone's NAME (X500), not a price; it's written in words on purpose so the number check doesn't read 500 as a figure. "teen December" = 3 December (sale date), correct. Unchaas = 49, chausath = 64, untees = 29: all correct. Sources are on screen (bottom note) and in the description.
+Voice check please (Gemini, listen): Whisper heard the zoom line as "do lakh megapixel"; the script says "do sau megapixel" (200MP). Is it said right? Also check line 3 "ek lakh unchaas hazaar" is clear.
+Doubt answered: ₹1,19,999 is only the cheapest X500; Pro ₹1.5 lakh, Pro Max from ₹1.65 lakh, and the full kit ₹2.3 lakh. The big difference is the 200MP telephoto on the Pro Max.
+Not said: post-discount prices (not stated by sources), 400mm extender compatibility (sources disagree), chip nm (sources disagree), X300 price comparison (not sourced), iPhone price.
+Known fix: the verdict big text wraps to two lines ("₹1.2 LAKH SE ₹2.3 / LAKH"); will shorten.
+My scores: Script 7.5, Voice 7 (pending listen), Visuals 8, Whole 7.5.
+Questions: 1) Frame 1: three-colour X500 lineup + "₹1,19,999 / SABSE MEHENGA KITNE KA?" - strong enough stop? 2) 45 s: cut the offer line (bank 10% + sale date) to get ~40 s? 3) CTA "kaunsa loge, ya iPhone?" good, or does iPhone pull the wrong fight? 4) Title with exact search phrase "vivo X500 price in India" first - good?
