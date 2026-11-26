@@ -5,9 +5,9 @@
  "scenes": [
   {
    "at": 0,
-   "big": "317 BANAKE HAARE",
+   "big": "317 BANAKE BHI HAARE",
    "color": "red",
-   "tag": "KAISE?",
+   "tag": "8 WICKET SE · KAISE?",
    "img": "20261127-ind-a-vs-sl-a-semi/real/news-0.jpg",
    "credit": "PHOTO: FREE PRESS JOURNAL",
    "fit": "blur"
@@ -23,7 +23,7 @@
   },
   {
    "at": "chase",
-   "big": "2 OPENERS, 2 CENTURY",
+   "big": "DONO OPENERS: 100+",
    "color": "white",
    "tag": "SRI LANKA A KA CHASE",
    "img": "20261127-ind-a-vs-sl-a-semi/real/news-3.jpg",
@@ -32,18 +32,18 @@
   },
   {
    "at": "jaya",
-   "big": "JAYAWARDENA 105",
+   "big": "105 (70 GEND)",
    "color": "gold",
-   "tag": "SIRF 70 GEND",
+   "tag": "SINETH JAYAWARDENA",
    "img": "20261127-ind-a-vs-sl-a-semi/real/news-2.jpg",
    "credit": "PHOTO: MYKHEL",
    "fit": "blur"
   },
   {
    "at": "lasith",
-   "big": "CROOSPULLE 116",
+   "big": "116 (107 GEND)",
    "color": "gold",
-   "tag": "107 GEND",
+   "tag": "LASITH CROOSPULLE",
    "img": "20261127-ind-a-vs-sl-a-semi/real/news-0.jpg",
    "credit": "PHOTO: FREE PRESS JOURNAL",
    "fit": "blur"
@@ -77,18 +77,18 @@
   },
   {
    "at": "cta",
-   "big": "BATTING YA BOWLING",
+   "big": "317 KAM YA BOWLING?",
    "color": "gold",
-   "tag": "GALTI KISKI · COMMENT",
+   "tag": "COMMENT KARO",
    "img": "20261127-ind-a-vs-sl-a-semi/real/news-1.jpg",
    "credit": "PHOTO: OUTLOOK INDIA",
    "fit": "blur"
   },
   {
    "at": "end",
-   "big": "317 BANAKE HAARE",
+   "big": "317 BANAKE BHI HAARE",
    "color": "red",
-   "tag": "KAISE?",
+   "tag": "8 WICKET SE · KAISE?",
    "img": "20261127-ind-a-vs-sl-a-semi/real/news-0.jpg",
    "credit": "PHOTO: FREE PRESS JOURNAL",
    "fit": "blur"

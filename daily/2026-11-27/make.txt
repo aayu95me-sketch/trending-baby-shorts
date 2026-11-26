@@ -2,3 +2,4 @@
 # vivo done and scheduled (UCuA2HOgt0k); only the India A reel renders from here
 # remake 1 (Whisper heard 'bab bab bab' over the Croospulle/target lines: likely a TTS glitch; new take)
 # remake 2 (new tts lines 5-6 to force a fresh take; shorter on-screen text)
+# remake 3 (council: hyped commentary style.txt, CTA '317 kam pade ya bowling kamzor', bolder stat text)

@@ -9,7 +9,9 @@ if os.path.exists(f"{d}/tts.txt"):
 ACCENT = ("Accent: a young Indian from Delhi speaking everyday Hinglish, with a natural Indian accent all the way through, including English words "
           "and numbers (say them the way Indians say them). Never an American or British accent. Read the transcript word for word: add, drop or change nothing. "
           "All money is Indian rupees.")
-style = ACCENT + " " + (os.environ.get("STYLE") or ("Fast, young, witty Delhi explainer, Hinglish, real emotion, never a newsreader. Vary pace and pitch. "
+# style.txt (optional, per reel): director's notes for this reel only, e.g. hyped cricket commentary (council, 26 Nov).
+STYLE_FILE = open(f"{d}/style.txt", encoding="utf-8").read().strip() if os.path.exists(f"{d}/style.txt") else ""
+style = ACCENT + " " + (os.environ.get("STYLE") or STYLE_FILE or ("Fast, young, witty Delhi explainer, Hinglish, real emotion, never a newsreader. Vary pace and pitch. "
          "Short pauses at '...'. Serious on facts, playful on jokes. Never sound like a newsreader or a dictation."))
 prompt = f"### DIRECTOR'S NOTES\n{style}\n\n### TRANSCRIPT (speak only this, do not read the notes)\n{text}"
 body = {"contents": [{"parts": [{"text": prompt}]}],
