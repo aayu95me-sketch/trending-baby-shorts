@@ -1,0 +1,97 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: FREE PRESS JOURNAL, OUTLOOK, CRICKETSKY · 26 NOV",
+ "loopTail": 0.5,
+ "scenes": [
+  {
+   "at": 0,
+   "big": "317 BANAYE, PHIR BHI HAARE",
+   "color": "red",
+   "tag": "KAISE?",
+   "img": "20261127-ind-a-vs-sl-a-semi/real/news-0.jpg",
+   "credit": "PHOTO: FREE PRESS JOURNAL",
+   "fit": "blur"
+  },
+  {
+   "at": "bat",
+   "big": "INDIA A 317/8",
+   "color": "gold",
+   "tag": "ABHISHEK 78 · TILAK 53 · SHAHBAZ 54*",
+   "img": "20261127-ind-a-vs-sl-a-semi/real/news-4.jpg",
+   "credit": "PHOTO: THE STATESMAN",
+   "fit": "blur"
+  },
+  {
+   "at": "chase",
+   "big": "DONO OPENERS KI CENTURY",
+   "color": "white",
+   "tag": "SRI LANKA A CHASE",
+   "img": "20261127-ind-a-vs-sl-a-semi/real/news-3.jpg",
+   "credit": "PHOTO: DAILY JAGRAN",
+   "fit": "blur"
+  },
+  {
+   "at": "jaya",
+   "big": "JAYAWARDENA 105",
+   "color": "gold",
+   "tag": "SIRF 70 GEND",
+   "img": "20261127-ind-a-vs-sl-a-semi/real/news-2.jpg",
+   "credit": "PHOTO: MYKHEL",
+   "fit": "blur"
+  },
+  {
+   "at": "lasith",
+   "big": "CROOSPULLE 116",
+   "color": "gold",
+   "tag": "107 GEND",
+   "img": "20261127-ind-a-vs-sl-a-semi/real/news-0.jpg",
+   "credit": "PHOTO: FREE PRESS JOURNAL",
+   "fit": "blur"
+  },
+  {
+   "at": "done",
+   "big": "318/2 · 41.3 OVER",
+   "color": "red",
+   "tag": "8 OVER SE ZYADA BAAKI",
+   "img": "20261127-ind-a-vs-sl-a-semi/real/news-3.jpg",
+   "credit": "PHOTO: DAILY JAGRAN",
+   "fit": "blur"
+  },
+  {
+   "at": "why",
+   "big": "SIRF 2 WICKET",
+   "color": "red",
+   "tag": "INDIA A BOWLING",
+   "img": "20261127-ind-a-vs-sl-a-semi/real/news-1.jpg",
+   "credit": "PHOTO: OUTLOOK INDIA",
+   "fit": "blur"
+  },
+  {
+   "at": "final",
+   "big": "FINAL · 29 NOV",
+   "color": "white",
+   "tag": "SL A vs PAK / BAN",
+   "img": "20261127-ind-a-vs-sl-a-semi/real/news-2.jpg",
+   "credit": "PHOTO: MYKHEL",
+   "fit": "blur"
+  },
+  {
+   "at": "cta",
+   "big": "BATTING YA BOWLING?",
+   "color": "gold",
+   "tag": "GALTI KISKI · COMMENT",
+   "img": "20261127-ind-a-vs-sl-a-semi/real/news-1.jpg",
+   "credit": "PHOTO: OUTLOOK INDIA",
+   "fit": "blur"
+  },
+  {
+   "at": "end",
+   "big": "317 BANAYE, PHIR BHI HAARE",
+   "color": "red",
+   "tag": "KAISE?",
+   "img": "20261127-ind-a-vs-sl-a-semi/real/news-0.jpg",
+   "credit": "PHOTO: FREE PRESS JOURNAL",
+   "fit": "blur"
+  }
+ ]
+}

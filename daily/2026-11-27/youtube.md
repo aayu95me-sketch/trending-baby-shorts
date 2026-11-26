@@ -15,3 +15,15 @@ Photos: Newsbricks, Beebom, Sakshi Post, Business Today, Gogi.
 Tags: vivo x500, vivo x500 price in india, vivo x500 pro, vivo x500 pro max, vivo x500 pro price, vivo x500 series, vivo x500 pro max price in india, vivo x500 photography kit, vivo new phone, zeiss telephoto
 Pinned comment: Aap kaunsa loge: X500, Pro, Pro Max ya iPhone? 👇
 Related video: Hycross facelift price (26 Nov).
+
+## 2. India A vs Sri Lanka A semi-final, 27 Nov 12:30 (lane d: India cricket result)
+File: 20261127-ind-a-vs-sl-a-semi
+Title: India A 317 banake bhi kaise HAARA? Sri Lanka A ne 8 wicket se semi-final jeeta 🏏 #shorts
+Description:
+Asia Cup Rising Stars 2026, 1st semi-final, Doha, 26 Nov. India A 317/8 (50 ov): Abhishek Sharma 78 (63), Shahbaz Ahmed 54*, Tilak Varma 53. Sri Lanka A 318/2 in 41.3 overs: Lasith Croospulle 116 (107), Sineth Jayawardena 105 (70), Nishan Madushka 58*. Sri Lanka A won by 8 wickets; India A knocked out. Wickets: Harshit Rana, Shahbaz Ahmed. Final 29 Nov: Sri Lanka A vs winner of Bangladesh A / Pakistan (2nd semi, 27 Nov).
+Sources: Free Press Journal, Outlook India, CricketSky (26 Nov 2026).
+Photos: Free Press Journal, The Statesman, Daily Jagran, MyKhel, Outlook India.
+#indiaa #indavssl #asiacuprisingstars
+Tags: india a vs sri lanka a, ind a vs sl a, india a vs sri lanka a semi final, asia cup rising stars 2026, india a lost, sri lanka a final, lasith croospulle, sineth jayawardena, tilak varma, abhishek sharma
+Pinned comment: Galti kiski thi: BATTING ya BOWLING? 👇
+Related video: Sooryavanshi 204 (25 Nov, zO0hFKy5K94).
