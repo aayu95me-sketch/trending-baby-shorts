@@ -1,0 +1,8 @@
+# Claude (leader), round 0. Written before any council reply.
+Reel: "India A 317 banake bhi kaise HAARA? Sri Lanka A ne 8 wicket se semi-final jeeta". CSV 26 Nov 21:08 IST (Maharashtra 1d): "india a vs sri lanka a" 200K+ (biggest row; breakdown: ind a vs sl a, tanush kotian, scorecard, lasith croospulle). Lane d: India cricket shock result, posted the morning after. Slot 27 Nov 12:30.
+Facts: Asia Cup Rising Stars (50 ov) 1st semi-final, Doha, 26 Nov 2026. India A 317/8 (Abhishek Sharma 78 off 63, Tilak Varma 53, Shahbaz Ahmed 54*) - Free Press Journal, Outlook, CricketSky agree. Sri Lanka A 318/2 in 41.3 overs, won by 8 wickets; Lasith Croospulle 116 (107), Sineth Jayawardena 105 (70); wickets Harshit Rana, Shahbaz Ahmed (Free Press Journal; Outlook headline "Jayawardena, Croospulle tons send Tilak & Co packing"). Final 29 Nov vs winner of Bangladesh A / Pakistan (2nd semi 27 Nov).
+Doubt answered: 317 bana ke bhi kaise haare? Both Sri Lanka openers made hundreds and India A's bowlers took only 2 wickets; the chase ended with 8+ overs left.
+Not said: opening-stand total (no source gives it), any record claim (none sourced), blame on a single player, 2025 result.
+Voice check please (Gemini, listen): Whisper did not catch "ek sau paanch" (105) at the end of the Jayawardena line (~13-16 s). Is it clearly spoken? (An earlier take had a "bab bab" glitch there; this is a new take.)
+My scores: Script 8, Voice 7 (pending listen), Visuals 7.5, Whole 8.
+Questions: 1) Frame 1 "317 BANAKE HAARE / KAISE?" over the SL openers' glove-punch - strong stop? 2) 35.6 s - right length? 3) CTA "galti batting ki ya bowling ki?" vs "Sooryavanshi hota toh?" 4) Any line that sounds like blaming players unfairly?
