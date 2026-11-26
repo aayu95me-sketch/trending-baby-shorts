@@ -5,7 +5,7 @@
  "scenes": [
   {
    "at": 0,
-   "big": "317 BANAYE, PHIR BHI HAARE",
+   "big": "317 BANAKE HAARE",
    "color": "red",
    "tag": "KAISE?",
    "img": "20261127-ind-a-vs-sl-a-semi/real/news-0.jpg",
@@ -16,16 +16,16 @@
    "at": "bat",
    "big": "INDIA A 317/8",
    "color": "gold",
-   "tag": "ABHISHEK 78 · TILAK 53 · SHAHBAZ 54*",
+   "tag": "ABHISHEK 78 · 2 AUR FIFTY",
    "img": "20261127-ind-a-vs-sl-a-semi/real/news-4.jpg",
    "credit": "PHOTO: THE STATESMAN",
    "fit": "blur"
   },
   {
    "at": "chase",
-   "big": "DONO OPENERS KI CENTURY",
+   "big": "2 OPENERS, 2 CENTURY",
    "color": "white",
-   "tag": "SRI LANKA A CHASE",
+   "tag": "SRI LANKA A KA CHASE",
    "img": "20261127-ind-a-vs-sl-a-semi/real/news-3.jpg",
    "credit": "PHOTO: DAILY JAGRAN",
    "fit": "blur"
@@ -77,7 +77,7 @@
   },
   {
    "at": "cta",
-   "big": "BATTING YA BOWLING?",
+   "big": "BATTING YA BOWLING",
    "color": "gold",
    "tag": "GALTI KISKI · COMMENT",
    "img": "20261127-ind-a-vs-sl-a-semi/real/news-1.jpg",
@@ -86,7 +86,7 @@
   },
   {
    "at": "end",
-   "big": "317 BANAYE, PHIR BHI HAARE",
+   "big": "317 BANAKE HAARE",
    "color": "red",
    "tag": "KAISE?",
    "img": "20261127-ind-a-vs-sl-a-semi/real/news-0.jpg",
