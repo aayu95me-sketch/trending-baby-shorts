@@ -1,0 +1,97 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: BUSINESS TODAY, BEEBOM, GOGI, OPEN PRESS · 26 NOV",
+ "loopTail": 0.5,
+ "scenes": [
+  {
+   "at": 0,
+   "big": "₹1,19,999",
+   "color": "gold",
+   "tag": "SABSE MEHENGA KITNE KA?",
+   "img": "20261127-vivo-x500-price/real/news-4.jpg",
+   "credit": "PHOTO: NEWSBRICKS",
+   "fit": "blur"
+  },
+  {
+   "at": "base",
+   "big": "X500 · ₹1,19,999",
+   "color": "white",
+   "tag": "12GB + 256GB · SABSE SASTA",
+   "img": "20261127-vivo-x500-price/real/news-1.jpg",
+   "credit": "PHOTO: BEEBOM",
+   "fit": "blur"
+  },
+  {
+   "at": "pro",
+   "big": "PRO · ₹1,49,999",
+   "color": "gold",
+   "tag": "12GB + 256GB",
+   "img": "20261127-vivo-x500-price/real/news-5.jpg",
+   "credit": "PHOTO: SAKSHI POST",
+   "fit": "blur"
+  },
+  {
+   "at": "max",
+   "big": "PRO MAX · ₹1,64,999",
+   "color": "gold",
+   "tag": "512GB WALA ₹1,79,999",
+   "img": "20261127-vivo-x500-price/real/news-4.jpg",
+   "credit": "PHOTO: NEWSBRICKS",
+   "fit": "blur"
+  },
+  {
+   "at": "kit",
+   "big": "KIT · ₹2,29,999",
+   "color": "red",
+   "tag": "PRO MAX + 2 ZEISS LENS",
+   "img": "20261127-vivo-x500-price/real/news-0.jpg",
+   "credit": "PHOTO: BUSINESS TODAY",
+   "fit": "blur"
+  },
+  {
+   "at": "zoom",
+   "big": "200MP vs 64MP",
+   "color": "white",
+   "tag": "TELEPHOTO: PRO MAX vs BAAKI",
+   "img": "20261127-vivo-x500-price/real/news-2.jpg",
+   "credit": "PHOTO: GOGI",
+   "fit": "blur"
+  },
+  {
+   "at": "offer",
+   "big": "10% TAK OFF",
+   "color": "gold",
+   "tag": "PRE-BOOK AAJ SE · SALE 3 DEC",
+   "img": "20261127-vivo-x500-price/real/news-1.jpg",
+   "credit": "PHOTO: BEEBOM",
+   "fit": "blur"
+  },
+  {
+   "at": "verdict",
+   "big": "₹1.2 LAKH SE ₹2.3 LAKH",
+   "color": "gold",
+   "tag": "SABSE SASTA BHI 1 LAKH+",
+   "img": "20261127-vivo-x500-price/real/news-0.jpg",
+   "credit": "PHOTO: BUSINESS TODAY",
+   "fit": "blur"
+  },
+  {
+   "at": "cta",
+   "big": "KAUNSA LOGE?",
+   "color": "gold",
+   "tag": "YA iPHONE · COMMENT",
+   "img": "20261127-vivo-x500-price/real/news-5.jpg",
+   "credit": "PHOTO: SAKSHI POST",
+   "fit": "blur"
+  },
+  {
+   "at": "end",
+   "big": "₹1,19,999",
+   "color": "gold",
+   "tag": "SABSE MEHENGA KITNE KA?",
+   "img": "20261127-vivo-x500-price/real/news-4.jpg",
+   "credit": "PHOTO: NEWSBRICKS",
+   "fit": "blur"
+  }
+ ]
+}
