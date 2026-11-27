@@ -1,0 +1,529 @@
+{
+ "total": 27.029,
+ "voice": "20261128-drishyam-3-ott/voice.wav",
+ "lines": [
+  {
+   "start": 0.0,
+   "text": "Drishyam teen ab Netflix pe aa gayi. Par yeh film hit thi ya flop?",
+   "end": 3.986
+  },
+  {
+   "start": 4.317,
+   "text": "Sattaais November se streaming shuru. Netflix subscription se dekh sakte ho.",
+   "end": 7.669
+  },
+  {
+   "start": 7.86,
+   "text": "Ab paisa. India mein teen sau ikyaasi crore net kamaai.",
+   "end": 11.195
+  },
+  {
+   "start": 11.306,
+   "text": "Duniya bhar mein lagbhag paanch sau navaasi crore.",
+   "end": 14.034
+  },
+  {
+   "start": 14.395,
+   "text": "Ajay Devgn ki lead role mein ab tak ki sabse badi kamaai wali film.",
+   "end": 17.744
+  },
+  {
+   "start": 18.106,
+   "text": "Toh flop? Bilkul nahi. Is saal ki teesri sabse badi Hindi film.",
+   "end": 22.167
+  },
+  {
+   "start": 22.212,
+   "text": "Aap ne theatre mein dekhi ya ab Netflix pe dekhoge? Comment karo.",
+   "end": 25.535
+  }
+ ],
+ "words": [
+  {
+   "w": "Drishyam",
+   "start": 0.0,
+   "end": 0.5
+  },
+  {
+   "w": "teen",
+   "start": 0.52,
+   "end": 0.78
+  },
+  {
+   "w": "ab",
+   "start": 0.8,
+   "end": 0.92
+  },
+  {
+   "w": "Netflix",
+   "start": 0.94,
+   "end": 1.34
+  },
+  {
+   "w": "pe",
+   "start": 1.36,
+   "end": 1.597
+  },
+  {
+   "w": "aa",
+   "start": 1.617,
+   "end": 1.853
+  },
+  {
+   "w": "gayi.",
+   "start": 1.873,
+   "end": 2.11
+  },
+  {
+   "w": "Par",
+   "start": 2.13,
+   "end": 2.26
+  },
+  {
+   "w": "yeh",
+   "start": 2.28,
+   "end": 2.54
+  },
+  {
+   "w": "film",
+   "start": 2.56,
+   "end": 2.86
+  },
+  {
+   "w": "hit",
+   "start": 2.88,
+   "end": 3.221
+  },
+  {
+   "w": "thi",
+   "start": 3.241,
+   "end": 3.38
+  },
+  {
+   "w": "ya",
+   "start": 3.4,
+   "end": 3.56
+  },
+  {
+   "w": "flop?",
+   "start": 3.58,
+   "end": 4.297
+  },
+  {
+   "w": "Sattaais",
+   "start": 4.317,
+   "end": 4.76
+  },
+  {
+   "w": "November",
+   "start": 4.78,
+   "end": 5.1
+  },
+  {
+   "w": "se",
+   "start": 5.12,
+   "end": 5.26
+  },
+  {
+   "w": "streaming",
+   "start": 5.28,
+   "end": 5.58
+  },
+  {
+   "w": "shuru.",
+   "start": 5.6,
+   "end": 6.163
+  },
+  {
+   "w": "Netflix",
+   "start": 6.183,
+   "end": 6.58
+  },
+  {
+   "w": "subscription",
+   "start": 6.6,
+   "end": 7.0
+  },
+  {
+   "w": "se",
+   "start": 7.02,
+   "end": 7.14
+  },
+  {
+   "w": "dekh",
+   "start": 7.16,
+   "end": 7.34
+  },
+  {
+   "w": "sakte",
+   "start": 7.36,
+   "end": 7.58
+  },
+  {
+   "w": "ho.",
+   "start": 7.6,
+   "end": 7.84
+  },
+  {
+   "w": "Ab",
+   "start": 7.86,
+   "end": 8.1
+  },
+  {
+   "w": "paisa.",
+   "start": 8.12,
+   "end": 8.869
+  },
+  {
+   "w": "India",
+   "start": 8.889,
+   "end": 8.869
+  },
+  {
+   "w": "mein",
+   "start": 8.889,
+   "end": 8.869
+  },
+  {
+   "w": "teen",
+   "start": 8.889,
+   "end": 8.869
+  },
+  {
+   "w": "sau",
+   "start": 8.889,
+   "end": 8.869
+  },
+  {
+   "w": "ikyaasi",
+   "start": 8.889,
+   "end": 9.22
+  },
+  {
+   "w": "crore",
+   "start": 9.24,
+   "end": 10.04
+  },
+  {
+   "w": "net",
+   "start": 10.68,
+   "end": 10.9
+  },
+  {
+   "w": "kamaai.",
+   "start": 10.92,
+   "end": 11.286
+  },
+  {
+   "w": "Duniya",
+   "start": 11.306,
+   "end": 11.672
+  },
+  {
+   "w": "bhar",
+   "start": 11.692,
+   "end": 12.058
+  },
+  {
+   "w": "mein",
+   "start": 12.078,
+   "end": 12.444
+  },
+  {
+   "w": "lagbhag",
+   "start": 12.464,
+   "end": 12.83
+  },
+  {
+   "w": "paanch",
+   "start": 12.85,
+   "end": 13.217
+  },
+  {
+   "w": "sau",
+   "start": 13.237,
+   "end": 13.603
+  },
+  {
+   "w": "navaasi",
+   "start": 13.623,
+   "end": 13.989
+  },
+  {
+   "w": "crore.",
+   "start": 14.009,
+   "end": 14.375
+  },
+  {
+   "w": "Ajay",
+   "start": 14.395,
+   "end": 14.58
+  },
+  {
+   "w": "Devgn",
+   "start": 14.6,
+   "end": 14.96
+  },
+  {
+   "w": "ki",
+   "start": 14.98,
+   "end": 15.14
+  },
+  {
+   "w": "lead",
+   "start": 15.16,
+   "end": 15.48
+  },
+  {
+   "w": "role",
+   "start": 15.5,
+   "end": 15.68
+  },
+  {
+   "w": "mein",
+   "start": 15.7,
+   "end": 15.85
+  },
+  {
+   "w": "ab",
+   "start": 15.87,
+   "end": 16.02
+  },
+  {
+   "w": "tak",
+   "start": 16.04,
+   "end": 16.14
+  },
+  {
+   "w": "ki",
+   "start": 16.16,
+   "end": 16.38
+  },
+  {
+   "w": "sabse",
+   "start": 16.4,
+   "end": 16.82
+  },
+  {
+   "w": "badi",
+   "start": 16.84,
+   "end": 17.04
+  },
+  {
+   "w": "kamaai",
+   "start": 17.06,
+   "end": 17.44
+  },
+  {
+   "w": "wali",
+   "start": 17.46,
+   "end": 17.52
+  },
+  {
+   "w": "film.",
+   "start": 17.54,
+   "end": 18.086
+  },
+  {
+   "w": "Toh",
+   "start": 18.106,
+   "end": 18.18
+  },
+  {
+   "w": "flop?",
+   "start": 18.2,
+   "end": 18.56
+  },
+  {
+   "w": "Bilkul",
+   "start": 18.58,
+   "end": 19.38
+  },
+  {
+   "w": "nahi.",
+   "start": 19.56,
+   "end": 20.16
+  },
+  {
+   "w": "Is",
+   "start": 20.18,
+   "end": 20.34
+  },
+  {
+   "w": "saal",
+   "start": 20.36,
+   "end": 20.56
+  },
+  {
+   "w": "ki",
+   "start": 20.58,
+   "end": 20.78
+  },
+  {
+   "w": "teesri",
+   "start": 20.8,
+   "end": 21.14
+  },
+  {
+   "w": "sabse",
+   "start": 21.16,
+   "end": 21.5
+  },
+  {
+   "w": "badi",
+   "start": 21.52,
+   "end": 21.68
+  },
+  {
+   "w": "Hindi",
+   "start": 21.7,
+   "end": 21.88
+  },
+  {
+   "w": "film.",
+   "start": 21.9,
+   "end": 22.192
+  },
+  {
+   "w": "Aap",
+   "start": 22.212,
+   "end": 22.505
+  },
+  {
+   "w": "ne",
+   "start": 22.525,
+   "end": 22.82
+  },
+  {
+   "w": "theatre",
+   "start": 22.84,
+   "end": 23.14
+  },
+  {
+   "w": "mein",
+   "start": 23.16,
+   "end": 23.26
+  },
+  {
+   "w": "dekhi",
+   "start": 23.28,
+   "end": 23.5
+  },
+  {
+   "w": "ya",
+   "start": 23.52,
+   "end": 23.7
+  },
+  {
+   "w": "ab",
+   "start": 23.72,
+   "end": 23.9
+  },
+  {
+   "w": "Netflix",
+   "start": 23.92,
+   "end": 24.13
+  },
+  {
+   "w": "pe",
+   "start": 24.15,
+   "end": 24.36
+  },
+  {
+   "w": "dekhoge?",
+   "start": 24.38,
+   "end": 25.082
+  },
+  {
+   "w": "Comment",
+   "start": 25.102,
+   "end": 25.34
+  },
+  {
+   "w": "karo.",
+   "start": 25.36,
+   "end": 26.029
+  }
+ ],
+ "cues": {
+  "hook": 0.0,
+  "date": 4.317,
+  "money": 7.86,
+  "world": 11.306,
+  "ajay": 14.395,
+  "verdict": 18.106,
+  "cta": 22.212
+ },
+ "numbers": [],
+ "heard": [
+  "द्रिश्यम",
+  "तीन",
+  "अब",
+  "नेट्फ्लिक्स",
+  "प्यागाई",
+  "पर",
+  "ये",
+  "फिल्म",
+  "हेट",
+  "ती",
+  "या",
+  "फ्लोप",
+  "सत्टीस",
+  "नवम्मर",
+  "से",
+  "श्वीमिंग",
+  "शिरो",
+  "नेट्फ्लिक्स",
+  "सबस्क्ट्शन",
+  "से",
+  "देख",
+  "सकते",
+  "हो",
+  "पैसा",
+  "अप",
+  "यहँद",
+  "करोड",
+  "नेद",
+  "कमाई",
+  "नहींगागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागागा",
+  "आजै",
+  "देवकन",
+  "की",
+  "लीड",
+  "रोल",
+  "में",
+  "अप",
+  "दक",
+  "की",
+  "सबसे",
+  "बडी",
+  "कमाई",
+  "वाई",
+  "वाली",
+  "फिल्म.",
+  "तो",
+  "फ्लोप",
+  "बिल्ल",
+  "कुल",
+  "नहीं.",
+  "इस",
+  "साल",
+  "की",
+  "तीसरी",
+  "सबसे",
+  "बडी",
+  "हंदी",
+  "फिल्म.",
+  "अपने",
+  "थीटर",
+  "में",
+  "देकी",
+  "या",
+  "अब",
+  "नेट्फिक्स",
+  "में",
+  "देखोगे",
+  "कमेंट",
+  "करो"
+ ]
+}
