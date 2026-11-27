@@ -72,3 +72,9 @@ traffic. Feed-only Shorts top out around 1-2K.
 New lane order from 26 Nov: (a) viral real/AI, (b) **searchable India price question on a big launch** (title = the exact search
 phrase + "price in India" / "kitne ka"), (c) Bollywood money, (d) India men's cricket shock result, (e) civic scare only if national
 and AQI/Vande-Bharat size. Gaming/auto/phone launches are no longer auto-skip when the doubt is the India price. Re-check 2 Dec.
+
+## 27 Nov read (45 Shorts, Data API + Analytics 22:07 IST), used for the 28 Nov picks
+- **Length:** 25-29 s cuts hold 77-80% avg viewed (Ramayana 27 s, India 89 26 s, Toxic 25 s); 41-47 s cuts sit at 48-58%
+  (Ananya, Gold, Tilak, Dhoni). Batches had drifted to ~40 s; target 25-30 s again from 28 Nov.
+- **Lane (b) weakening outside mass items:** Hycross 141 (~37 h), vivo X500 26 (~13 h). GTA/PS5/Gold had mass audiences. Pause phone/car price picks until one clears 1K.
+- **Every pick now ships with an evidence table** (daily/<date>/picks.md: comparable past Shorts, views, % viewed, source, slot reason).
