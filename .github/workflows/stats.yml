@@ -8,7 +8,7 @@ on:
     - cron: "17 * * * *"
   push:
     branches: ["claude/**", "main"]
-    paths: ["analysis/videos.csv", "analysis/run.txt"]
+    paths: ["analysis/videos.csv", "analysis/run.txt", "analysis/long_videos.csv"]
   workflow_dispatch:
 
 permissions:
@@ -38,6 +38,9 @@ jobs:
       - name: Studio numbers (owner OAuth, optional)
         continue-on-error: true
         run: python pipeline/yt_analytics.py
+      - name: Long videos (owner OAuth, optional)
+        continue-on-error: true
+        run: python pipeline/long_stats.py
       - name: Save to the branch
         run: |
           git config user.name "stats-bot" && git config user.email "stats-bot@users.noreply.github.com"
