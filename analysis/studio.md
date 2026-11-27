@@ -1,6 +1,6 @@
 # Doubt Clear: Studio numbers
 
-Updated 27 Nov 2026 22:07 IST from the YouTube Analytics API (2026-11-10 to 2026-11-27). Analytics lags 1-2 days, so the newest reels may show nothing yet.
+Updated 27 Nov 2026 22:44 IST from the YouTube Analytics API (2026-11-10 to 2026-11-27). Analytics lags 1-2 days, so the newest reels may show nothing yet.
 
 | Video | Views | Avg % viewed | Avg s viewed | Subs gained | Shares | Likes | Comments | Top traffic sources |
 |---|---|---|---|---|---|---|---|---|
@@ -49,6 +49,8 @@ Updated 27 Nov 2026 22:07 IST from the YouTube Analytics API (2026-11-10 to 2026
 | Hycross facelift price | - | - | - | - | - | - | - | - |
 | vivo X500 price | - | - | - | - | - | - | - | - |
 | India A vs Sri Lanka A semi | - | - | - | - | - | - | - | - |
+| Rohit MI captain 2027 | - | - | - | - | - | - | - | - |
+| Drishyam 3 OTT | - | - | - | - | - | - | - | - |
 
 ## Retention (share of viewers still watching at each point of the reel; above 100% = rewatches)
 
@@ -99,5 +101,7 @@ Updated 27 Nov 2026 22:07 IST from the YouTube Analytics API (2026-11-10 to 2026
 | Hycross facelift price | - | - | - | - | - | - | - | - | - | - | - |
 | vivo X500 price | - | - | - | - | - | - | - | - | - | - | - |
 | India A vs Sri Lanka A semi | - | - | - | - | - | - | - | - | - | - | - |
+| Rohit MI captain 2027 | - | - | - | - | - | - | - | - | - | - | - |
+| Drishyam 3 OTT | - | - | - | - | - | - | - | - | - | - | - |
 
 Viewed vs swiped away is only shown in YouTube Studio (not in the API).
