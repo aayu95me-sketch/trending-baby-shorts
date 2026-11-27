@@ -1,0 +1,11 @@
+{
+ "mixkit": {"gaming": ["video-game", "gamer"], "calc": ["calculator", "accounting"], "money": ["money", "counting-money"], "wifi": ["wifi", "router"], "phone": ["smartphone", "mobile-phone"], "friends": ["friends", "playing-games"], "city": ["city-night", "neon"]},
+ "ai": {
+  "boxcode": "an opened video game box on a dark wooden table, inside only a small printed paper card with a download code, no disc, dramatic warm spotlight, cinematic, no logos, no text",
+  "notes": "a modern white game console beside neat stacks of Indian 500 rupee banknotes on a dark table, dramatic spotlight, cinematic, no logos",
+  "storage": "a glowing translucent hard drive split into segments with one large segment highlighted orange, dark background, cinematic tech illustration, no text",
+  "calendar": "desk calendar pages flying through the air in a dim room, warm light, motion blur, cinematic, no readable text",
+  "chai": "a small glass of Indian masala chai next to a black game controller on a wooden table, cozy warm light, shallow depth of field, no logos",
+  "neoncity": "a neon-lit tropical Florida-style city at night with palm trees and sports cars, cinematic wide shot, purple and orange sky, no people, no text"
+ }
+}
