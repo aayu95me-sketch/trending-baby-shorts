@@ -2,7 +2,7 @@
 
 Daily Shorts / Reels from Google Trends. For every trending topic we answer the **doubt** people have about it
 (is it true? why is it happening? what does it mean?) with the true answer and the source on screen.
-Channel name idea: **Doubt Clear**. Language: Hinglish. Voice: AI (Gemini TTS, Orus), labelled "AI VOICE".
+Channel name idea: **Doubt Clear**. Language: Hinglish. Voice: AI (Gemini TTS, Charon), labelled "AI VOICE".
 
 **How we work:** [PLAYBOOK.md](PLAYBOOK.md) (rules, council, 4 gates, viewer card). Results: [analysis/scorecard.md](analysis/scorecard.md), lessons: [LESSONS.md](LESSONS.md), mistakes: [ERRORS.md](ERRORS.md).
 
@@ -26,7 +26,7 @@ Channel name idea: **Doubt Clear**. Language: Hinglish. Voice: AI (Gemini TTS, O
 | Path | What |
 |---|---|
 | `pipeline/trends.py` | CSV -> topic jobs |
-| `pipeline/tts.py`, `align.py` | voice (Gemini Orus) and Whisper word timing + spoken-number check |
+| `pipeline/tts.py`, `align.py` | voice (Gemini Charon) and Whisper word timing + spoken-number check |
 | `pipeline/review.py`, `llm.py` | auto-review by Gemini + Groq (free) |
 | `pipeline/broll.py` | phone-size screenshots of the source headlines (`studio/public/broll/shots.json`) |
 | `studio/src/TrendShort.tsx` | the video template (composition `Trend`, `--props='{"dir":"<folder>"}'`) |

@@ -24,7 +24,7 @@ Hard rules, unchanged from the playbook:
 - **No deleting** posts, files or videos unless Ayush says so.
 - **No copy-paste steps for Ayush.** Automate it (GitHub Actions, the Mac session) or Claude does it.
 - **Label AI content.** AI voice disclosed in the description footer; sources in the description and photo credits on screen.
-- **No faces of Ayush and not his own voice.** AI voice (Gemini TTS, Orus). Real photos and news clips of the topic's subject are fine.
+- **No faces of Ayush and not his own voice.** AI voice (Gemini TTS, Charon). Real photos and news clips of the topic's subject are fine.
 - **Claude leads** positioning, content, tests, format, timing and production. Short plain messages, one recommendation, one click at a time.
 - **Ayush's creative feedback is one viewer's review.** Weigh it against data. Where evidence disagrees, say so or A/B test it,
   and note it in the plan. Exception: where Ayush made a standing decision (section 1b), follow it until he changes it.
@@ -147,7 +147,7 @@ No blog stats like "X% swipe in 3 seconds": no peer-reviewed source.
   article lead photos of the subject, (2) Wikimedia Commons, (3) screenshots of official pages with a highlight, (4) code-drawn graphics
   (count-ups, charts). No generic stock.
 - **Effects, calm:** slow zoom/pan, 0.4 s crossfades, count-ups, soft glow. No shake, flash, glitch or fast zoom.
-- **Voice:** Gemini TTS Orus with Devanagari TTS text for the Indian accent; numbers written as spoken words; every spoken number checked against the screen.
+- **Voice:** Gemini TTS Charon with Devanagari TTS text for the Indian accent; numbers written as spoken words; every spoken number checked against the screen.
 - **Sync:** time visuals from Whisper word timestamps of the final audio, never estimates.
 - **Readable on a phone:** any text holds at least 1.2-1.5 s.
 

@@ -28,7 +28,7 @@ PACK = f"""REEL: {NAME}
 TOPIC AND LABELS: {read(src / 'labels.json')}
 SCRIPT ([shown|spoken] pairs, @cue = scene change):
 {read(src / 'script.txt')}
-VOICE TEXT SENT TO TTS (Devanagari, Gemini TTS voice Orus):
+VOICE TEXT SENT TO TTS (Devanagari, Gemini TTS voice Charon):
 {read(src / 'tts.txt')}
 SCENES (what is on screen per beat):
 {read(src / 'scenes.json')}

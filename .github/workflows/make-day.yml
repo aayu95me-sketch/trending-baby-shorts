@@ -1,6 +1,6 @@
 # Make the day's Shorts: one job per topic folder, all in parallel, on GitHub's free Linux minutes.
 # Trigger: push daily/<date>/make.txt (one studio/public folder name per line) on a claude/ branch, or run it from the Actions tab.
-# Each topic: headline screenshots -> auto-review -> Gemini voice (Orus) -> Whisper timing + number check -> render.
+# Each topic: headline screenshots -> auto-review -> Gemini voice (Charon) -> Whisper timing + number check -> render.
 # Output: Actions artifact + branch render-<folder> holding the mp4, so Claude can fetch and check it.
 # Secrets (Settings > Secrets and variables > Actions): GEMINI_API_KEY (or GOOGLE_API_KEY), GROQ_API_KEY.
 name: Make the day's Shorts
@@ -117,7 +117,7 @@ jobs:
           git show FETCH_HEAD:timeline.json > "studio/public/$NAME/timeline.json"
           echo "reuse=1" >> "$GITHUB_OUTPUT"; echo "reusing voice and timing from render-$NAME"
 
-      - name: Voice (Gemini, Orus)
+      - name: Voice (Gemini, Charon)
         if: steps.reuse.outputs.reuse != '1'
         run: python pipeline/tts.py "$NAME"
 
