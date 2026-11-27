@@ -117,9 +117,12 @@ def hear(lang):
     heard = []
     real = re.compile(r"[A-Za-z0-9\u0900-\u0963\u0966-\u097F]")
     def words(chunk, off, **kw):
-        segs, _ = model.transcribe(chunk, language=lang, word_timestamps=True, beam_size=5, condition_on_previous_text=False,
-                                   temperature=[0.0, 0.2, 0.4, 0.6], **kw)
-        return [(w.word.strip(), w.start + off, w.end + off) for sg in segs for w in sg.words if real.search(w.word)]
+        try:  # faster-whisper can crash in find_alignment on a near-empty segment (27 Nov, long-gta6-hisaab ch3): treat as heard nothing
+            segs, _ = model.transcribe(chunk, language=lang, word_timestamps=True, beam_size=5, condition_on_previous_text=False,
+                                       temperature=[0.0, 0.2, 0.4, 0.6], **kw)
+            return [(w.word.strip(), w.start + off, w.end + off) for sg in segs for w in sg.words if real.search(w.word)]
+        except (IndexError, ValueError) as e:
+            print(f"  whisper {lang}: window at {off:.0f}s crashed ({e.__class__.__name__}), skipped"); return []
     for off in np.arange(0, dur, 7.0):  # short windows: Whisper drops words on long Hinglish takes
         chunk = audio[int(off * 16000):int((off + 8.0) * 16000)]
         got = words(chunk, off, vad_filter=False)
