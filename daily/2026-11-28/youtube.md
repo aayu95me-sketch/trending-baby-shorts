@@ -4,7 +4,7 @@ Picks (evidence table in picks.md, 27 Nov rule "every pick backed by past stats"
 Skipped (reasons in picks.md): Bangladesh A vs Pakistan A, CTET, Jaydev Unadkat, Billy Stanlake, delimitation bill, Yeh Prem Mol Liya, Sankashti Chaturthi, weather, swarn bhandar, Gunmaaster G9, Black Friday, smaller rows.
 Every description ends with the channel footer from the upload defaults (AI voice disclosure). "Altered content" answer: No (AI narration only).
 
-## 1. Rohit Sharma MI captain 2027, 28 Nov 08:00 (lane d: India cricket big moment, morning after)
+## 1. Rohit Sharma MI captain 2027, 28 Nov 08:00 (lane d: India cricket big moment, morning after) (udpIG5BJm3Q)
 File: 20261128-rohit-mi-captain
 Title: MI Captain 2027: Rohit Sharma WAPAS! Hardik kahan gaye? 🏏 #shorts
 Description:
@@ -16,7 +16,7 @@ Tags: mi captain 2027, mumbai indians captain 2027, rohit sharma captain, rohit 
 Pinned comment: Rohit wapas captain: SAHI faisla ya BAHUT DER se? 👇
 Related video: India 89 all out (A1svyXN193o).
 
-## 2. Drishyam 3 OTT + box office, 28 Nov 12:00 (lane c: Bollywood money number)
+## 2. Drishyam 3 OTT + box office, 28 Nov 12:00 (lane c: Bollywood money number) (UNXQn4nAUJg)
 File: 20261128-drishyam-3-ott
 Title: Drishyam 3 OTT pe aa gayi! Hit thi ya flop? Kamaai ka sach 🎬 #shorts
 Description:
