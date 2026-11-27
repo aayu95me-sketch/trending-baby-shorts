@@ -1,0 +1,15 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: MUMBAI INDIANS, REUTERS, INDIA TV · 27 NOV",
+ "loopTail": 0.5,
+ "scenes": [
+  {"at": 0, "big": "ROHIT PHIR CAPTAIN", "color": "gold", "tag": "MI · IPL 2027 · HARDIK KAHAN?", "img": "20261128-rohit-mi-captain/real/news-0.jpg", "credit": "PHOTO: MUMBAI INDIANS", "fit": "blur"},
+  {"at": "hardik", "big": "HARDIK → PUNJAB KINGS", "color": "red", "tag": "BADLE MEIN ARSHDEEP MI MEIN", "img": "20261128-rohit-mi-captain/real/news-4.jpg", "credit": "PHOTO: BDNEWS24", "fit": "blur"},
+  {"at": "why", "big": "2024: MI #10", "color": "red", "tag": "HARDIK KA PEHLA SEASON · SABSE NEECHE", "img": "20261128-rohit-mi-captain/real/wk-0.jpg", "credit": "PHOTO: WIKIMEDIA COMMONS", "fit": "blur"},
+  {"at": "three", "big": "3 SEASON · 1 PLAYOFF", "color": "white", "tag": "2024 · 2025 · 2026", "img": "20261128-rohit-mi-captain/real/news-3.jpg", "credit": "PHOTO: BDNEWS24", "fit": "blur"},
+  {"at": "rohit", "big": "5 IPL TROPHY", "color": "gold", "tag": "2013 · 15 · 17 · 19 · 20 · DHONI JITNI", "img": "20261128-rohit-mi-captain/real/news-2.jpg", "credit": "PHOTO: KHEL NOW", "fit": "blur"},
+  {"at": "now", "big": "39 SAAL · 20th SEASON", "color": "white", "tag": "IPL 2027 · ROHIT CAPTAIN", "img": "20261128-rohit-mi-captain/real/news-1.jpg", "credit": "PHOTO: OUTLOOK INDIA", "fit": "blur"},
+  {"at": "cta", "big": "SAHI YA DER SE?", "color": "gold", "tag": "COMMENT KARO", "img": "20261128-rohit-mi-captain/real/news-0.jpg", "credit": "PHOTO: MUMBAI INDIANS", "fit": "blur"},
+  {"at": "end", "big": "ROHIT PHIR CAPTAIN", "color": "gold", "tag": "MI · IPL 2027 · HARDIK KAHAN?", "img": "20261128-rohit-mi-captain/real/news-0.jpg", "credit": "PHOTO: MUMBAI INDIANS", "fit": "blur"}
+ ]
+}

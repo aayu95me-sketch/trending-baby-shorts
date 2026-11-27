@@ -1,0 +1,79 @@
+{
+ "banner": "DOUBT CLEAR",
+ "note": "SOURCES: SACNILK, INDIA TV · 26-27 NOV",
+ "loopTail": 0.5,
+ "scenes": [
+  {
+   "at": 0,
+   "big": "NETFLIX PE AA GAYI",
+   "color": "red",
+   "tag": "DRISHYAM 3 · HIT YA FLOP?",
+   "img": "20261128-drishyam-3-ott/real/news-1.jpg",
+   "credit": "PHOTO: ESQUIRE INDIA",
+   "fit": "blur"
+  },
+  {
+   "at": "date",
+   "big": "27 NOV SE NETFLIX",
+   "color": "white",
+   "tag": "SUBSCRIPTION SE DEKHO",
+   "img": "20261128-drishyam-3-ott/real/news-5.jpg",
+   "credit": "PHOTO: SIASAT",
+   "fit": "blur"
+  },
+  {
+   "at": "money",
+   "big": "₹381 CR",
+   "color": "gold",
+   "tag": "INDIA NET · SACNILK",
+   "img": "20261128-drishyam-3-ott/real/news-4.jpg",
+   "credit": "PHOTO: ONEINDIA",
+   "fit": "blur"
+  },
+  {
+   "at": "world",
+   "big": "₹589 CR",
+   "color": "gold",
+   "tag": "WORLDWIDE GROSS",
+   "img": "20261128-drishyam-3-ott/real/news-2.jpg",
+   "credit": "PHOTO: DECCAN CHRONICLE",
+   "fit": "blur"
+  },
+  {
+   "at": "ajay",
+   "big": "AJAY KI NO. 1",
+   "color": "gold",
+   "tag": "LEAD ROLE MEIN SABSE BADI KAMAAI",
+   "img": "20261128-drishyam-3-ott/real/news-1.jpg",
+   "credit": "PHOTO: ESQUIRE INDIA",
+   "fit": "blur"
+  },
+  {
+   "at": "verdict",
+   "big": "FLOP? BILKUL NAHI",
+   "color": "red",
+   "tag": "2026 KI NO. 3 HINDI FILM",
+   "img": "20261128-drishyam-3-ott/real/news-4.jpg",
+   "credit": "PHOTO: ONEINDIA",
+   "fit": "blur"
+  },
+  {
+   "at": "cta",
+   "big": "THEATRE YA NETFLIX?",
+   "color": "gold",
+   "tag": "COMMENT KARO",
+   "img": "20261128-drishyam-3-ott/real/news-5.jpg",
+   "credit": "PHOTO: SIASAT",
+   "fit": "blur"
+  },
+  {
+   "at": "end",
+   "big": "NETFLIX PE AA GAYI",
+   "color": "red",
+   "tag": "DRISHYAM 3 · HIT YA FLOP?",
+   "img": "20261128-drishyam-3-ott/real/news-1.jpg",
+   "credit": "PHOTO: ESQUIRE INDIA",
+   "fit": "blur"
+  }
+ ]
+}
