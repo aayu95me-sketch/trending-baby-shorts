@@ -47,7 +47,7 @@ for v in csv.DictReader((A / "long_videos.csv").open(encoding="utf-8")):
     f = f"video=={vid}"
     out += [f"## {v['title']} ({vid}, posted {v['posted_ist']} IST)", ""]
     tot = q(start, filters=f, metrics="views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,"
-            "likes,dislikes,comments,shares,subscribersGained,subscribersLost,playlistStarts")
+            "likes,comments,shares,subscribersGained")
     out += ["views, minutes, avg s, avg %, likes, dislikes, comments, shares, subs+, subs-, playlist starts:", f"{tot}", ""]
     try:
         cards = q(start, filters=f, metrics="cardImpressions,cardClicks,annotationImpressions,annotationClicks")
@@ -84,5 +84,12 @@ for v in csv.DictReader((A / "long_videos.csv").open(encoding="utf-8")):
         st = requests.get("https://www.googleapis.com/youtube/v3/videos", params={"part": "statistics,contentDetails", "id": vid, "key": KEY}, timeout=60).json()
         out += ["", f"Public stats: {st.get('items', [{}])[0].get('statistics')} duration {st.get('items', [{}])[0].get('contentDetails', {}).get('duration')}"]
     out.append("")
+out += ["## Search terms behind the search-driven Shorts", ""]
+for vid, name in [("5yPFfXIUo28", "GTA 6 India price"), ("QQ5mUOKvQY0", "Mexico pterodactyl"), ("Fp7cRSWnBeI", "Toxic"),
+                  ("argEAZpmXY8", "PS5 + GTA 6"), ("gLQFF1Y72o8", "Diwali Bumper"), ("GGCvptk1WoE", "Gold")]:
+    det = q("2026-11-10", dimensions="insightTrafficSourceDetail", filters=f"video=={vid};insightTrafficSourceType==YT_SEARCH",
+            metrics="views", sort="-views", maxResults=25)
+    daily = q("2026-11-10", dimensions="day", filters=f"video=={vid}", metrics="views", sort="day")
+    out += [f"### {name}", f"terms: {det}", f"daily: {daily}", ""]
 (A / "long.md").write_text("\n".join(out), encoding="utf-8")
 print("\n".join(out))
