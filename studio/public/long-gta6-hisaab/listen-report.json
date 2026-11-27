@@ -1,0 +1,63 @@
+{
+ "ch1": {
+  "model": "gemini-3.5-flash",
+  "ok": false,
+  "issues": [
+   {
+    "approx_time_s": 13,
+    "expected": "सत्तर हज़ार नौ सौ नवासी",
+    "heard": "सत्तर हज़ार नौ सौ",
+    "severity": "high"
+   }
+  ]
+ },
+ "ch2": {
+  "model": "gemini-3.5-flash",
+  "ok": true,
+  "issues": []
+ },
+ "ch3": {
+  "model": "gemini-3.5-flash",
+  "ok": false,
+  "issues": [
+   {
+    "approx_time_s": 21.0,
+    "expected": "उनहत्तर हज़ार नौ सौ पचासी",
+    "heard": "उनहत्तर हज़ार नौ सौ पच्चीस",
+    "severity": "high"
+   }
+  ]
+ },
+ "ch4": {
+  "model": "gemini-3.5-flash",
+  "ok": true,
+  "issues": []
+ },
+ "ch5": {
+  "model": "gemini-3.5-flash",
+  "ok": true,
+  "issues": []
+ },
+ "ch6": {
+  "model": "gemini-3.5-flash",
+  "ok": false,
+  "issues": [
+   {
+    "approx_time_s": 30.0,
+    "expected": "पहले से है, तो",
+    "heard": "पहले से तो",
+    "severity": "low"
+   }
+  ]
+ },
+ "ch7": {
+  "model": "gemini-3.5-flash",
+  "ok": true,
+  "issues": []
+ },
+ "ch8": {
+  "model": "gemini-3.5-flash",
+  "ok": true,
+  "issues": []
+ }
+}
