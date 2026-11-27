@@ -1,0 +1,728 @@
+{
+ "chapters": [
+  {
+   "at": 0,
+   "title": "Sawaal"
+  },
+  {
+   "at": "c1",
+   "title": "Game ka daam"
+  },
+  {
+   "at": "c2",
+   "title": "Console"
+  },
+  {
+   "at": "c3",
+   "title": "212 GB"
+  },
+  {
+   "at": "c4",
+   "title": "PC ka wait"
+  },
+  {
+   "at": "c5",
+   "title": "EMI + ghanta"
+  },
+  {
+   "at": "c6",
+   "title": "Duniya"
+  },
+  {
+   "at": "c7",
+   "title": "Faisla"
+  }
+ ],
+ "scenes": [
+  {
+   "at": 0,
+   "big": "GTA 6 PRICE IN INDIA?",
+   "color": "gold",
+   "img": "long-gta6-hisaab/real/gta-0.jpg",
+   "tag": "POORA HISAAB",
+   "credit": "STILL: GTA VI (ROCKSTAR GAMES) · VIA YOURSTORY.COM"
+  },
+  {
+   "at": "ans",
+   "big": "₹5,999",
+   "tag": "GAME",
+   "color": "gold",
+   "img": "long-gta6-hisaab/real/gta-2.jpg",
+   "credit": "STILL: GTA VI (ROCKSTAR GAMES) · VIA 91MOBILES.COM"
+  },
+  {
+   "at": "w:setup",
+   "big": "₹70,989",
+   "tag": "PS5 + GAME",
+   "color": "gold",
+   "img": "long-gta6-hisaab/real/ps5-1.jpg",
+   "credit": "PHOTO: OSH33M, CC BY-SA 4.0 · WIKIMEDIA COMMONS"
+  },
+  {
+   "at": "twist",
+   "big": "₹5,000 ZYADA?",
+   "color": "red",
+   "img": "long-gta6-hisaab/ai/boxcode.jpg",
+   "stamp": "dabbe mein nahi"
+  },
+  {
+   "at": "plan",
+   "chart": {
+    "type": "steps",
+    "title": "Aaj ka hisaab",
+    "items": [
+     "Game ka daam",
+     "Console ka kharcha",
+     "212 GB download",
+     "PC ka wait",
+     "EMI + per ghanta",
+     "Sabse sasta tareeka"
+    ]
+   },
+   "video": "long-gta6-hisaab/ft/calc.mp4",
+   "say": [
+    "game",
+    "console",
+    "internet",
+    "EMI",
+    "PC",
+    "sasta"
+   ]
+  },
+  {
+   "at": "c1",
+   "chapter": "Game ka daam",
+   "img": "long-gta6-hisaab/real/gta-2.jpg",
+   "credit": "STILL: GTA VI (ROCKSTAR GAMES) · VIA 91MOBILES.COM"
+  },
+  {
+   "at": "eds",
+   "chart": {
+    "type": "compare",
+    "title": "PlayStation India pe GTA 6 (₹)",
+    "rows": [
+     [
+      "Standard",
+      5999,
+      "white"
+     ],
+     [
+      "Ultimate",
+      7499,
+      "gold"
+     ]
+    ],
+    "max": 8000
+   },
+   "say": [
+    "Standard",
+    "Ultimate"
+   ],
+   "img": "long-gta6-hisaab/real/gta-3.jpg",
+   "credit": "STILL: GTA VI (ROCKSTAR GAMES) · VIA 91MOBILES.COM"
+  },
+  {
+   "at": "diff",
+   "chart": {
+    "type": "steps",
+    "title": "Ultimate ke ₹1,500 mein",
+    "items": [
+     "Extra gaadiyan",
+     "Hathiyaar + kapde",
+     "Safehouse business",
+     "Extra story: NAHI"
+    ]
+   },
+   "say": [
+    "gaadiyan",
+    "hathiyaar",
+    "safehouse",
+    "Kahani"
+   ],
+   "img": "long-gta6-hisaab/real/gta-3.jpg",
+   "credit": "STILL: GTA VI (ROCKSTAR GAMES) · VIA 91MOBILES.COM"
+  },
+  {
+   "at": "both",
+   "big": "1 MAHINA GTA+ FREE",
+   "tag": "PHIR AUTO-RENEW",
+   "color": "white",
+   "img": "long-gta6-hisaab/real/gta-6.jpg",
+   "credit": "STILL: GTA VI (ROCKSTAR GAMES) · VIA ESPORTNOW.GG"
+  },
+  {
+   "at": "box",
+   "big": "DABBE MEIN DISC NAHI",
+   "tag": "SIRF DOWNLOAD CODE",
+   "color": "red",
+   "img": "long-gta6-hisaab/ai/boxcode.jpg"
+  },
+  {
+   "at": "keep",
+   "big": "YAAD RAKHO",
+   "color": "gold",
+   "img": "long-gta6-hisaab/ai/boxcode.jpg",
+   "stamp": "chapter 2"
+  },
+  {
+   "at": "c2",
+   "chapter": "Console ka kharcha",
+   "img": "long-gta6-hisaab/real/ps5-1.jpg",
+   "credit": "PHOTO: OSH33M, CC BY-SA 4.0 · WIKIMEDIA COMMONS"
+  },
+  {
+   "at": "plat",
+   "chart": {
+    "type": "steps",
+    "title": "GTA 6 kahan chalega",
+    "items": [
+     "PS5: haan",
+     "Xbox Series X|S: haan",
+     "PS4 / Xbox One: nahi",
+     "PC: abhi announce nahi"
+    ]
+   },
+   "say": [
+    "PS5",
+    "Xbox",
+    "PS4",
+    "PC"
+   ],
+   "img": "long-gta6-hisaab/real/ps5-1.jpg",
+   "credit": "PHOTO: OSH33M, CC BY-SA 4.0 · WIKIMEDIA COMMONS"
+  },
+  {
+   "at": "ps5",
+   "chart": {
+    "type": "compare",
+    "title": "PS5 Slim 1TB, Amazon India (28 Oct)",
+    "rows": [
+     [
+      "Digital",
+      64990,
+      "white"
+     ],
+     [
+      "Disc",
+      69985,
+      "gold"
+     ]
+    ],
+    "max": 75000,
+    "unit": ""
+   },
+   "say": [
+    "digital",
+    "disc"
+   ],
+   "img": "long-gta6-hisaab/real/ps5-2.jpg",
+   "credit": "PHOTO: JDC808, CC BY-SA 4.0 · WIKIMEDIA COMMONS"
+  },
+  {
+   "at": "hike",
+   "chart": {
+    "type": "bars",
+    "title": "PS5 disc ka daam (₹)",
+    "unit": "Cashify 4 Nov / Amazon 28 Oct",
+    "bars": [
+     [
+      "Pehle",
+      54990
+     ],
+     [
+      "Ab",
+      69985
+     ]
+    ],
+    "hi": [
+     1
+    ]
+   },
+   "say": [
+    "54,990",
+    "27"
+   ],
+   "img": "long-gta6-hisaab/real/ps5-2.jpg",
+   "stamp": "+27%",
+   "credit": "PHOTO: JDC808, CC BY-SA 4.0 · WIKIMEDIA COMMONS"
+  },
+  {
+   "at": "sum",
+   "chart": {
+    "type": "numbers",
+    "title": "PS5 + Standard game",
+    "items": [
+     [
+      "Digital PS5 + game",
+      "₹70,989",
+      "gold"
+     ],
+     [
+      "Disc PS5 + game",
+      "₹75,984",
+      "white"
+     ]
+    ]
+   },
+   "say": [
+    "70,989",
+    "75,984"
+   ],
+   "img": "long-gta6-hisaab/real/ps5-1.jpg",
+   "credit": "PHOTO: OSH33M, CC BY-SA 4.0 · WIKIMEDIA COMMONS"
+  },
+  {
+   "at": "twist2",
+   "chart": {
+    "type": "scale",
+    "title": "Disc drive ka extra vs game ka daam",
+    "left": [
+     "Disc drive ka extra",
+     4995
+    ],
+    "right": [
+     "Poora GTA 6",
+     5999
+    ]
+   },
+   "img": "long-gta6-hisaab/ai/boxcode.jpg"
+  },
+  {
+   "at": "disc",
+   "big": "PURANI DISCS? RESALE?",
+   "tag": "TAB DISC WALA",
+   "color": "white",
+   "img": "long-gta6-hisaab/real/pad-0.jpg",
+   "credit": "PHOTO: ALEX COCHRANE, CC BY-SA 4.0 · WIKIMEDIA COMMONS"
+  },
+  {
+   "at": "xbox",
+   "big": "SERIES S: $500+",
+   "tag": "AMERICA · INDIA PRICE PAKKA NAHI",
+   "color": "white",
+   "img": "long-gta6-hisaab/real/xbox-0.jpg",
+   "credit": "PHOTO: ASMODEANUNDERSCORE, CC BY-SA 4.0 · WIKIMEDIA COMMONS"
+  },
+  {
+   "at": "c3",
+   "chapter": "212 GB ka hisaab",
+   "video": "long-gta6-hisaab/ft/gaming.mp4"
+  },
+  {
+   "at": "gb",
+   "big": "212 GB",
+   "tag": "KAM SE KAM KHAALI JAGAH",
+   "color": "gold",
+   "img": "long-gta6-hisaab/real/sales-4.jpg",
+   "credit": "STILL: GTA VI (ROCKSTAR GAMES) · VIA GAMESRADAR.COM"
+  },
+  {
+   "at": "share",
+   "chart": {
+    "type": "stack",
+    "title": "PS5 ka 1 TB",
+    "unit": " GB",
+    "parts": [
+     [
+      "GTA 6",
+      212
+     ],
+     [
+      "Baaki sab",
+      788
+     ]
+    ]
+   },
+   "say": [
+    "paanchva",
+    "delete"
+   ]
+  },
+  {
+   "at": "seriess",
+   "chart": {
+    "type": "stack",
+    "title": "Xbox Series S ka 512 GB",
+    "unit": " GB",
+    "parts": [
+     [
+      "GTA 6",
+      212
+     ],
+     [
+      "Baaki",
+      300
+     ]
+    ]
+   },
+   "say": [
+    "512",
+    "41"
+   ],
+   "img": "long-gta6-hisaab/real/xbox-2.jpg",
+   "credit": "PHOTO: DER. BELLEMER, CC BY-SA 4.0 · WIKIMEDIA COMMONS"
+  },
+  {
+   "at": "net",
+   "big": "DOWNLOAD KITNI DER?",
+   "color": "white",
+   "video": "long-gta6-hisaab/ft/phone.mp4"
+  },
+  {
+   "at": "fast",
+   "chart": {
+    "type": "bars",
+    "title": "212 GB download time (ghante, poori speed pe)",
+    "unit": "Hamara hisaab",
+    "bars": [
+     [
+      "100 Mbps",
+      4.7
+     ],
+     [
+      "40 Mbps",
+      11.8
+     ]
+    ],
+    "hi": [
+     0
+    ]
+   },
+   "say": [
+    "sau",
+    "Chaalees"
+   ],
+   "video": "long-gta6-hisaab/ft/phone.mp4"
+  },
+  {
+   "at": "phone",
+   "big": "106 DIN",
+   "tag": "2 GB/DIN HOTSPOT SE",
+   "color": "red",
+   "video": "long-gta6-hisaab/ft/phone.mp4"
+  },
+  {
+   "at": "wifi",
+   "big": "WIFI BHI BUDGET MEIN",
+   "color": "gold",
+   "video": "long-gta6-hisaab/ft/phone.mp4"
+  },
+  {
+   "at": "tease",
+   "big": "PC KA WAIT: SAHI YA GALAT?",
+   "tag": "AGLE CHAPTER MEIN",
+   "color": "gold",
+   "img": "long-gta6-hisaab/real/pc-1.jpg",
+   "credit": "PHOTO: PANTHERALEO1359531, CC BY 4.0 · WIKIMEDIA COMMONS",
+   "stamp": "next"
+  },
+  {
+   "at": "c4",
+   "chapter": "PC ka wait",
+   "img": "long-gta6-hisaab/real/pc-0.jpg",
+   "credit": "PHOTO: PANTHERALEO1359531, CC BY 4.0 · WIKIMEDIA COMMONS"
+  },
+  {
+   "at": "pc",
+   "big": "PC DATE: KOI NAHI",
+   "tag": "2027 WALI BAAT = AFWAAH",
+   "color": "red",
+   "img": "long-gta6-hisaab/real/pc-1.jpg",
+   "credit": "PHOTO: PANTHERALEO1359531, CC BY 4.0 · WIKIMEDIA COMMONS"
+  },
+  {
+   "at": "history",
+   "chart": {
+    "type": "numbers",
+    "title": "GTA 5 ka pattern",
+    "items": [
+     [
+      "Console",
+      "Sep 2013",
+      "white"
+     ],
+     [
+      "PC",
+      "Apr 2015",
+      "white"
+     ],
+     [
+      "Gap",
+      "~19 mahine",
+      "gold"
+     ]
+    ]
+   },
+   "say": [
+    "2013",
+    "2015",
+    "19"
+   ],
+   "img": "long-gta6-hisaab/real/pc-0.jpg",
+   "credit": "PHOTO: PANTHERALEO1359531, CC BY 4.0 · WIKIMEDIA COMMONS"
+  },
+  {
+   "at": "gap",
+   "chart": {
+    "type": "numbers",
+    "title": "Agar wahi gap dohraya",
+    "items": [
+     [
+      "GTA 6 console",
+      "Nov 2026",
+      "white"
+     ],
+     [
+      "PC (pattern)",
+      "~Jun 2028",
+      "gold"
+     ]
+    ]
+   },
+   "say": [
+    "2028"
+   ],
+   "img": "long-gta6-hisaab/real/pc-0.jpg",
+   "stamp": "prediction nahi",
+   "credit": "PHOTO: PANTHERALEO1359531, CC BY 4.0 · WIKIMEDIA COMMONS"
+  },
+  {
+   "at": "spec",
+   "big": "PC SPECS: OFFICIAL NAHI",
+   "tag": "PURANE LEAK",
+   "color": "white",
+   "img": "long-gta6-hisaab/real/pc-2.jpg",
+   "credit": "PHOTO: PANTHERALEO1359531, CC BY 4.0 · WIKIMEDIA COMMONS"
+  },
+  {
+   "at": "pcans",
+   "big": "WAIT = SPOILER",
+   "color": "gold",
+   "video": "long-gta6-hisaab/ft/gaming.mp4"
+  },
+  {
+   "at": "c5",
+   "chapter": "Mahina aur ghanta",
+   "video": "long-gta6-hisaab/ft/calc.mp4"
+  },
+  {
+   "at": "emi",
+   "big": "₹5,916 / MAHINA",
+   "tag": "12 MAHINE NO-COST EMI (HISAAB)",
+   "color": "gold",
+   "video": "long-gta6-hisaab/ft/calc.mp4"
+  },
+  {
+   "at": "hour",
+   "chart": {
+    "type": "bars",
+    "title": "₹ per ghanta (saal bhar)",
+    "unit": "Hamara hisaab",
+    "bars": [
+     [
+      "Setup, roz 1 ghanta",
+      194
+     ],
+     [
+      "Sirf game, roz 1 ghanta",
+      16
+     ]
+    ],
+    "hi": [
+     1
+    ]
+   },
+   "say": [
+    "194",
+    "16"
+   ],
+   "video": "long-gta6-hisaab/ft/gaming.mp4"
+  },
+  {
+   "at": "gameonly",
+   "big": "₹16 / GHANTA",
+   "tag": "EK CHAI SE KAM",
+   "color": "gold",
+   "img": "long-gta6-hisaab/real/pad-0.jpg",
+   "credit": "PHOTO: ALEX COCHRANE, CC BY-SA 4.0 · WIKIMEDIA COMMONS"
+  },
+  {
+   "at": "weekend",
+   "chart": {
+    "type": "bars",
+    "title": "Weekend gamer (208 ghante/saal), ₹ per ghanta",
+    "unit": "Hamara hisaab",
+    "bars": [
+     [
+      "Setup",
+      341
+     ],
+     [
+      "Sirf game",
+      29
+     ]
+    ],
+    "hi": [
+     1
+    ]
+   },
+   "say": [
+    "341",
+    "29"
+   ],
+   "video": "long-gta6-hisaab/ft/gaming.mp4"
+  },
+  {
+   "at": "more",
+   "big": "AUR GAMES = AUR SASTA",
+   "color": "white",
+   "img": "long-gta6-hisaab/real/pad-0.jpg",
+   "credit": "PHOTO: ALEX COCHRANE, CC BY-SA 4.0 · WIKIMEDIA COMMONS"
+  },
+  {
+   "at": "c6",
+   "chapter": "Duniya mein kya hua",
+   "img": "long-gta6-hisaab/real/gta-0.jpg",
+   "credit": "STILL: GTA VI (ROCKSTAR GAMES) · VIA YOURSTORY.COM"
+  },
+  {
+   "at": "story",
+   "big": "JASON + LUCIA",
+   "tag": "LEONIDA · VICE CITY",
+   "color": "white",
+   "img": "long-gta6-hisaab/real/box-2.jpg",
+   "credit": "STILL: GTA VI (ROCKSTAR GAMES) · VIA DIGIT.IN"
+  },
+  {
+   "at": "meta",
+   "chart": {
+    "type": "numbers",
+    "title": "Critics",
+    "items": [
+     [
+      "Metacritic",
+      "99",
+      "gold"
+     ],
+     [
+      "Reviews",
+      "150+",
+      "white"
+     ],
+     [
+      "Barabari",
+      "Ocarina of Time (1998)",
+      "white"
+     ]
+    ]
+   },
+   "say": [
+    "99",
+    "pachaas",
+    "1998"
+   ],
+   "img": "long-gta6-hisaab/real/review-0.jpg",
+   "credit": "STILL: GTA VI (ROCKSTAR GAMES) · VIA LATINTIMES.COM"
+  },
+  {
+   "at": "money",
+   "chart": {
+    "type": "numbers",
+    "title": "Pre-order (Sensor Tower ka andaaza)",
+    "items": [
+     [
+      "Digital pre-order",
+      "17.07 million",
+      "gold"
+     ],
+     [
+      "Kamai",
+      "$1.65 billion",
+      "gold"
+     ]
+    ]
+   },
+   "say": [
+    "17.07",
+    "1.65"
+   ],
+   "img": "long-gta6-hisaab/real/sales-3.jpg",
+   "credit": "STILL: GTA VI (ROCKSTAR GAMES) · VIA GAMESRADAR.COM"
+  },
+  {
+   "at": "bugs",
+   "chart": {
+    "type": "steps",
+    "title": "Launch ki dikkatein",
+    "items": [
+     "PSN down (18 Nov)",
+     "Prologue crash",
+     "Lucia mission mein atakna",
+     "Gaadiyon ki physics"
+    ]
+   },
+   "say": [
+    "PSN",
+    "crash",
+    "Lucia",
+    "gaadiyon"
+   ],
+   "img": "long-gta6-hisaab/real/review-1.jpg",
+   "credit": "STILL: GTA VI (ROCKSTAR GAMES) · VIA LATINTIMES.COM"
+  },
+  {
+   "at": "fps",
+   "big": "30 FPS LOCK",
+   "tag": "SABSE BADI SHIKAAYAT",
+   "color": "red",
+   "img": "long-gta6-hisaab/real/review-3.jpg",
+   "credit": "STILL: GTA VI (ROCKSTAR GAMES) · VIA ROOT-NATION.COM"
+  },
+  {
+   "at": "c7",
+   "chapter": "Faisla",
+   "img": "long-gta6-hisaab/real/gta-0.jpg",
+   "credit": "STILL: GTA VI (ROCKSTAR GAMES) · VIA YOURSTORY.COM"
+  },
+  {
+   "at": "verdict",
+   "chart": {
+    "type": "numbers",
+    "title": "Bahas ke 3 number",
+    "items": [
+     [
+      "PS5 hai",
+      "₹5,999",
+      "gold"
+     ],
+     [
+      "Naya setup (digital)",
+      "₹70,989",
+      "gold"
+     ],
+     [
+      "PC wait (pattern)",
+      "~19 mahine",
+      "white"
+     ]
+    ]
+   },
+   "say": [
+    "Ek",
+    "Do",
+    "Teen"
+   ],
+   "img": "long-gta6-hisaab/real/gta-2.jpg",
+   "credit": "STILL: GTA VI (ROCKSTAR GAMES) · VIA 91MOBILES.COM"
+  },
+  {
+   "at": "ask",
+   "big": "A YA B?",
+   "tag": "A = ABHI PS5 · B = PC KA WAIT",
+   "color": "gold",
+   "img": "long-gta6-hisaab/real/gta-6.jpg",
+   "credit": "STILL: GTA VI (ROCKSTAR GAMES) · VIA ESPORTNOW.GG"
+  }
+ ],
+ "sources": "Sources: YourStory, 91mobiles, Business Today, Cashify, Latin Times, Hollywood Reporter India, Digit. Calculations: Doubt Clear."
+}
