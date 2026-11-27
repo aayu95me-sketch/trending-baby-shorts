@@ -1,0 +1,26 @@
+# A/B voice test (Gemini TTS): push voicetest/<name>/run.txt -> voicetest/<name>/<Voice>.wav committed back. No apt, ~1 min.
+name: Voice test
+on:
+  push:
+    branches: ["claude/**"]
+    paths: ["voicetest/*/run.txt"]
+permissions:
+  contents: write
+jobs:
+  voice:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY || secrets.GOOGLE_API_KEY }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 2
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: "3.11"
+      - run: |
+          pip install -q requests
+          for n in $(git diff --name-only HEAD~1 HEAD | grep -E '^voicetest/[^/]+/run.txt$' | cut -d/ -f2 | sort -u); do python pipeline/voice_test.py "$n"; done
+          git config user.name "voice-bot" && git config user.email "voice-bot@users.noreply.github.com"
+          git add voicetest && { git diff --cached --quiet || { git commit -qm "Voice test"; git pull -q --rebase origin "${GITHUB_REF_NAME}" && git push -q origin "HEAD:${GITHUB_REF_NAME}"; }; }
