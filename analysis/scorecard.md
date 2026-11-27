@@ -1,6 +1,6 @@
 # Doubt Clear scorecard
 
-Updated 27 Nov 2026 22:45 IST from the YouTube Data API (public counts). Median latest views: 253. A hit is about 5x the median (playbook rule; re-test).
+Updated 27 Nov 2026 22:46 IST from the YouTube Data API (public counts). Median latest views: 253. A hit is about 5x the median (playbook rule; re-test).
 
 | Posted (IST) | Video | 1 h | 4 h | 24 h | 72 h | Latest views | Likes | Comments | Hit? |
 |---|---|---|---|---|---|---|---|---|---|
