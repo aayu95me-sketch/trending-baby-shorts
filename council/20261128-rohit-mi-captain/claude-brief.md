@@ -1,0 +1,8 @@
+# Claude (leader), round 0. Written before any council reply.
+Reel: "MI Captain 2027: Rohit Sharma WAPAS! Hardik kahan gaye?" CSV 27 Nov 22:01 IST (Maharashtra 1d): "mumbai indians" 5K+ (breakdown: mi captain 2027, mumbai indians captain, ipl 2027) + "jasprit bumrah" 1K+ same hour. Slot 28 Nov 08:00 (morning after). 27.3 s.
+Why picked (Ayush's 27 Nov rule, evidence in daily/2026-11-28/picks.md): India cricket lane median ~1,105; winners = number + fan argument (India 89 1,926 / 78% viewed, Sooryavanshi 1,632 / 74%). Risk: only IPL franchise-news Short (Dhoni CSK mentor) got 115 / 51% at the dead 19:00 slot, 41 s, no number. This one: 08:00, ~27 s (our 25-29 s cuts hold 77-80%), number vs number.
+Facts: MI announced Rohit as IPL 2027 captain on 27 Nov 2026, ahead of the 20th season (MI site; Reuters via bdnews24). Hardik traded to Punjab Kings for Arshdeep Singh earlier in Nov (Reuters, India TV). Rohit: 5 IPL titles as captain (2013/15/17/19/20), only Dhoni also has 5 (Reuters). Rohit is 39 (Reuters). MI finished 10th (last) in 2024, Hardik's first season. Playoffs once in the last 3 seasons (India TV).
+Not said: why MI changed (no official reason), Bumrah role, auction date, rift gossip.
+Voice check please (Gemini, listen): Whisper dropped the first word "Rohit" at ~14.6 s ("Rohit ki captaincy mein..."). Is it spoken clearly? Any stutter or glitch anywhere?
+My scores: Script 8, Voice 7.5 (pending listen), Visuals 8, Whole 8.
+Questions: 1) Frame 1 = official "CAPTAIN RO" MI image + "ROHIT PHIR CAPTAIN / HARDIK KAHAN?" - strong stop? 2) Does "sabse neeche, dasve number pe" read as fair, not a Hardik-bashing take? 3) CTA "sahi faisla ya bahut der se?" vs "Rohit ya Hardik?" 4) Is 27 s right or cut more?
