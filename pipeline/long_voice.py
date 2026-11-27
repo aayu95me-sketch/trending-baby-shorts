@@ -2,7 +2,7 @@
 Usage: GEMINI_API_KEY=... python pipeline/long_voice.py <folder>
 studio/public/<folder>/script.txt and tts.txt are split into chapters by lines starting with '## ' (the text after '## ' in tts.txt is that
 chapter's director's note: pace/energy). script.txt uses align.py's format ([shown|spoken], @cue). Each chapter goes to <folder>/chN/,
-is voiced (Orus) and aligned with pipeline/align.py (strict number check, medium Whisper on a retry), then all chapters are joined with
+is voiced (Charon; Ayush 27 Nov: Charon for all content) and aligned with pipeline/align.py (strict number check, medium Whisper on a retry), then all chapters are joined with
 a short pause into <folder>/voice.wav + timeline.json (cues shifted to the joined time). A chapter whose tts text did not change keeps its voice."""
 import base64, json, os, subprocess, sys, time
 from pathlib import Path
@@ -32,7 +32,7 @@ def tts(text, note, out):
     key = os.environ["GEMINI_API_KEY"]
     prompt = f"### DIRECTOR'S NOTES\n{ACCENT} {note}\n\n### TRANSCRIPT (speak only this, do not read the notes)\n{text}"
     body = {"contents": [{"parts": [{"text": prompt}]}], "generationConfig": {"responseModalities": ["AUDIO"],
-            "speechConfig": {"voiceConfig": {"prebuiltVoiceConfig": {"voiceName": os.environ.get("TTS_VOICE") or "Orus"}}}}}
+            "speechConfig": {"voiceConfig": {"prebuiltVoiceConfig": {"voiceName": os.environ.get("TTS_VOICE") or "Charon"}}}}}
     try:
         listed = [m["name"].split("/")[-1] for m in requests.get("https://generativelanguage.googleapis.com/v1beta/models?pageSize=200", headers={"x-goog-api-key": key}, timeout=60).json().get("models", []) if "tts" in m["name"]]
     except Exception:  # noqa: BLE001

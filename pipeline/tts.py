@@ -1,4 +1,4 @@
-"""Voice one script with Gemini TTS (free tier), voice Orus (Indian accent, blind test 9.5/10). Usage: STYLE="..." python pipeline/tts.py <name>  (needs GEMINI_API_KEY in the environment; writes studio/public/<name>/voice_raw.wav)."""
+"""Voice one script with Gemini TTS (free tier), voice Charon (Ayush 27 Nov: Charon for all content; was Orus). Usage: STYLE="..." python pipeline/tts.py <name>  (needs GEMINI_API_KEY in the environment; writes studio/public/<name>/voice_raw.wav)."""
 import base64, json, os, subprocess, sys, requests
 PY = ".venv/bin/python" if os.path.exists(".venv/bin/python") else sys.executable
 name = sys.argv[1]; d = f"studio/public/{name}"
@@ -16,7 +16,7 @@ style = ACCENT + " " + (os.environ.get("STYLE") or STYLE_FILE or ("Fast, young, 
 prompt = f"### DIRECTOR'S NOTES\n{style}\n\n### TRANSCRIPT (speak only this, do not read the notes)\n{text}"
 body = {"contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {"responseModalities": ["AUDIO"],
-                             "speechConfig": {"voiceConfig": {"prebuiltVoiceConfig": {"voiceName": os.environ.get("TTS_VOICE") or "Orus"}}}}}
+                             "speechConfig": {"voiceConfig": {"prebuiltVoiceConfig": {"voiceName": os.environ.get("TTS_VOICE") or "Charon"}}}}}
 # Each free Gemini TTS model has its own daily quota, so when the first one is used up try the other TTS models (all speak Puck).
 key = os.environ["GEMINI_API_KEY"]
 first = os.environ.get("GEMINI_TTS_MODEL", "gemini-3.8-flash-tts")

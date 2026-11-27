@@ -28,7 +28,7 @@ PACK = f"""REEL: {NAME}
 TOPIC AND LABELS: {read(src / 'labels.json')}
 SCRIPT ([shown|spoken] pairs, @cue = scene change):
 {read(src / 'script.txt')}
-VOICE TEXT SENT TO TTS (Devanagari, Gemini TTS voice Orus):
+VOICE TEXT SENT TO TTS (Devanagari, Gemini TTS voice Charon):
 {read(src / 'tts.txt')}
 SCENES (what is on screen per beat):
 {read(src / 'scenes.json')}
@@ -70,7 +70,7 @@ from monetization for "inauthentic" (generic, template, mass-produced) content, 
 sourced facts, a fresh script. Never reuse other people's footage (no trailer, no posters, no news clips). Judge 4 parts, each 0-10:
 1 SCRIPT: first 30 s (does the viewer stay past the hook? the promise), chapter flow and open loops that hold to 10 min, any flat middle,
   accuracy (flag any number or claim that is wrong, unsourced or overstated; estimates must be labelled), Hinglish naturalness, the ending.
-2 VOICE PLAN: one AI voice (Gemini TTS Orus, Indian Delhi accent) for 10 min. Is that enough, what pace/energy changes per chapter, number reading.
+2 VOICE PLAN: one AI voice (Gemini TTS Charon, Indian Delhi accent) for 10 min. Is that enough, what pace/energy changes per chapter, number reading.
 3 VISUAL PLAN: realistic visuals of the topic synced to each line, own animated charts, Wikimedia/free stock, AI images with no actor faces.
   Should a long video have on-screen captions/subtitles? (Shorts have none by Ayush's rule; argue only if long-form needs them.)
 4 WHOLE VIDEO: title + thumbnail click-through, average view duration, would a stranger subscribe; monetization-policy risk.
