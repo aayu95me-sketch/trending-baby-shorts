@@ -1,0 +1,558 @@
+{
+ "total": 27.575,
+ "voice": "20261128-rohit-mi-captain/voice.wav",
+ "lines": [
+  {
+   "start": 0.0,
+   "text": "Rohit Sharma phir se Mumbai Indians ke captain. Toh Hardik kahan gaye?",
+   "end": 3.387
+  },
+  {
+   "start": 3.66,
+   "text": "Hardik Pandya ab Punjab Kings mein. Badle mein MI ko mile Arshdeep Singh.",
+   "end": 7.238
+  },
+  {
+   "start": 7.616,
+   "text": "Kyun badla? Hardik ke pehle hi season mein MI sabse neeche, dasve number pe.",
+   "end": 12.005
+  },
+  {
+   "start": 12.165,
+   "text": "Aur teen season mein playoffs sirf ek baar.",
+   "end": 14.403
+  },
+  {
+   "start": 14.62,
+   "text": "Rohit ki captaincy mein MI ne paanch IPL trophy jeeti. Dhoni ke barabar.",
+   "end": 18.32
+  },
+  {
+   "start": 18.513,
+   "text": "Ab unchaalees saal ki umar mein, MI ke beesve season mein, Rohit phir captain.",
+   "end": 22.66
+  },
+  {
+   "start": 22.73,
+   "text": "Aap batao, sahi faisla ya bahut der se? Comment karo.",
+   "end": 26.151
+  }
+ ],
+ "words": [
+  {
+   "w": "Rohit",
+   "start": 0.0,
+   "end": 0.34
+  },
+  {
+   "w": "Sharma",
+   "start": 0.36,
+   "end": 0.7
+  },
+  {
+   "w": "phir",
+   "start": 0.72,
+   "end": 0.88
+  },
+  {
+   "w": "se",
+   "start": 0.9,
+   "end": 1.1
+  },
+  {
+   "w": "Mumbai",
+   "start": 1.12,
+   "end": 1.38
+  },
+  {
+   "w": "Indians",
+   "start": 1.4,
+   "end": 1.72
+  },
+  {
+   "w": "ke",
+   "start": 1.74,
+   "end": 1.84
+  },
+  {
+   "w": "captain.",
+   "start": 1.86,
+   "end": 2.504
+  },
+  {
+   "w": "Toh",
+   "start": 2.524,
+   "end": 2.66
+  },
+  {
+   "w": "Hardik",
+   "start": 2.68,
+   "end": 2.96
+  },
+  {
+   "w": "kahan",
+   "start": 2.98,
+   "end": 3.24
+  },
+  {
+   "w": "gaye?",
+   "start": 3.26,
+   "end": 3.64
+  },
+  {
+   "w": "Hardik",
+   "start": 3.66,
+   "end": 4.04
+  },
+  {
+   "w": "Pandya",
+   "start": 4.06,
+   "end": 4.3
+  },
+  {
+   "w": "ab",
+   "start": 4.32,
+   "end": 4.56
+  },
+  {
+   "w": "Punjab",
+   "start": 4.58,
+   "end": 4.94
+  },
+  {
+   "w": "Kings",
+   "start": 4.96,
+   "end": 5.327
+  },
+  {
+   "w": "mein.",
+   "start": 5.347,
+   "end": 5.715
+  },
+  {
+   "w": "Badle",
+   "start": 5.735,
+   "end": 6.0
+  },
+  {
+   "w": "mein",
+   "start": 6.02,
+   "end": 6.15
+  },
+  {
+   "w": "MI",
+   "start": 6.17,
+   "end": 6.3
+  },
+  {
+   "w": "ko",
+   "start": 6.32,
+   "end": 6.42
+  },
+  {
+   "w": "mile",
+   "start": 6.44,
+   "end": 6.6
+  },
+  {
+   "w": "Arshdeep",
+   "start": 6.62,
+   "end": 7.02
+  },
+  {
+   "w": "Singh.",
+   "start": 7.04,
+   "end": 7.596
+  },
+  {
+   "w": "Kyun",
+   "start": 7.616,
+   "end": 7.88
+  },
+  {
+   "w": "badla?",
+   "start": 7.9,
+   "end": 8.527
+  },
+  {
+   "w": "Hardik",
+   "start": 8.547,
+   "end": 8.82
+  },
+  {
+   "w": "ke",
+   "start": 8.84,
+   "end": 9.0
+  },
+  {
+   "w": "pehle",
+   "start": 9.02,
+   "end": 9.34
+  },
+  {
+   "w": "hi",
+   "start": 9.36,
+   "end": 9.4
+  },
+  {
+   "w": "season",
+   "start": 9.42,
+   "end": 9.72
+  },
+  {
+   "w": "mein",
+   "start": 9.74,
+   "end": 9.9
+  },
+  {
+   "w": "MI",
+   "start": 9.92,
+   "end": 10.2
+  },
+  {
+   "w": "sabse",
+   "start": 10.22,
+   "end": 10.58
+  },
+  {
+   "w": "neeche,",
+   "start": 10.6,
+   "end": 11.163
+  },
+  {
+   "w": "dasve",
+   "start": 11.183,
+   "end": 11.58
+  },
+  {
+   "w": "number",
+   "start": 11.6,
+   "end": 11.84
+  },
+  {
+   "w": "pe.",
+   "start": 11.86,
+   "end": 12.145
+  },
+  {
+   "w": "Aur",
+   "start": 12.165,
+   "end": 12.44
+  },
+  {
+   "w": "teen",
+   "start": 12.46,
+   "end": 12.68
+  },
+  {
+   "w": "season",
+   "start": 12.7,
+   "end": 13.0
+  },
+  {
+   "w": "mein",
+   "start": 13.02,
+   "end": 13.216
+  },
+  {
+   "w": "playoffs",
+   "start": 13.236,
+   "end": 13.62
+  },
+  {
+   "w": "sirf",
+   "start": 13.64,
+   "end": 14.02
+  },
+  {
+   "w": "ek",
+   "start": 14.04,
+   "end": 14.18
+  },
+  {
+   "w": "baar.",
+   "start": 14.2,
+   "end": 14.6
+  },
+  {
+   "w": "Rohit",
+   "start": 14.62,
+   "end": 15.02
+  },
+  {
+   "w": "ki",
+   "start": 15.04,
+   "end": 15.14
+  },
+  {
+   "w": "captaincy",
+   "start": 15.16,
+   "end": 15.54
+  },
+  {
+   "w": "mein",
+   "start": 15.56,
+   "end": 15.68
+  },
+  {
+   "w": "MI",
+   "start": 15.7,
+   "end": 15.88
+  },
+  {
+   "w": "ne",
+   "start": 15.9,
+   "end": 16.097
+  },
+  {
+   "w": "paanch",
+   "start": 16.117,
+   "end": 16.34
+  },
+  {
+   "w": "IPL",
+   "start": 16.36,
+   "end": 16.62
+  },
+  {
+   "w": "trophy",
+   "start": 16.64,
+   "end": 16.98
+  },
+  {
+   "w": "jeeti.",
+   "start": 17.0,
+   "end": 17.561
+  },
+  {
+   "w": "Dhoni",
+   "start": 17.581,
+   "end": 17.84
+  },
+  {
+   "w": "ke",
+   "start": 17.86,
+   "end": 17.96
+  },
+  {
+   "w": "barabar.",
+   "start": 17.98,
+   "end": 18.493
+  },
+  {
+   "w": "Ab",
+   "start": 18.513,
+   "end": 18.98
+  },
+  {
+   "w": "unchaalees",
+   "start": 19.0,
+   "end": 19.38
+  },
+  {
+   "w": "saal",
+   "start": 19.4,
+   "end": 19.64
+  },
+  {
+   "w": "ki",
+   "start": 19.66,
+   "end": 19.76
+  },
+  {
+   "w": "umar",
+   "start": 19.78,
+   "end": 19.96
+  },
+  {
+   "w": "mein,",
+   "start": 19.98,
+   "end": 20.38
+  },
+  {
+   "w": "MI",
+   "start": 20.4,
+   "end": 20.64
+  },
+  {
+   "w": "ke",
+   "start": 20.66,
+   "end": 20.82
+  },
+  {
+   "w": "beesve",
+   "start": 20.84,
+   "end": 21.2
+  },
+  {
+   "w": "season",
+   "start": 21.22,
+   "end": 21.5
+  },
+  {
+   "w": "mein,",
+   "start": 21.52,
+   "end": 21.66
+  },
+  {
+   "w": "Rohit",
+   "start": 21.68,
+   "end": 22.069
+  },
+  {
+   "w": "phir",
+   "start": 22.089,
+   "end": 22.22
+  },
+  {
+   "w": "captain.",
+   "start": 22.24,
+   "end": 22.71
+  },
+  {
+   "w": "Aap",
+   "start": 22.73,
+   "end": 23.2
+  },
+  {
+   "w": "batao,",
+   "start": 23.22,
+   "end": 23.76
+  },
+  {
+   "w": "sahi",
+   "start": 23.78,
+   "end": 24.04
+  },
+  {
+   "w": "faisla",
+   "start": 24.06,
+   "end": 24.71
+  },
+  {
+   "w": "ya",
+   "start": 24.73,
+   "end": 24.8
+  },
+  {
+   "w": "bahut",
+   "start": 24.82,
+   "end": 25.06
+  },
+  {
+   "w": "der",
+   "start": 25.08,
+   "end": 25.2
+  },
+  {
+   "w": "se?",
+   "start": 25.22,
+   "end": 25.474
+  },
+  {
+   "w": "Comment",
+   "start": 25.494,
+   "end": 25.748
+  },
+  {
+   "w": "karo.",
+   "start": 25.768,
+   "end": 26.575
+  }
+ ],
+ "cues": {
+  "hook": 0.0,
+  "hardik": 3.66,
+  "why": 7.616,
+  "three": 12.165,
+  "rohit": 14.62,
+  "now": 18.513,
+  "cta": 22.73
+ },
+ "numbers": [],
+ "heard": [
+  "रोहिज",
+  "शर्मा",
+  "फिर",
+  "से",
+  "मुमबा",
+  "इंटियन्स",
+  "के",
+  "कैक्टिन",
+  "तो",
+  "हार्दिक",
+  "कहां",
+  "गय?",
+  "हार्दिक",
+  "पन्देया",
+  "अप",
+  "पन्जाब",
+  "किंच्बैं",
+  "बदले",
+  "मैंमाई",
+  "को",
+  "मिले",
+  "आर्ज्दीप",
+  "सिंग",
+  "क्यों",
+  "बद...",
+  "हार्दे",
+  "के",
+  "पहले",
+  "ही",
+  "सीजन",
+  "में",
+  "मैं",
+  "सब",
+  "से",
+  "नीजे",
+  "दस",
+  "वे",
+  "नमबर",
+  "पे",
+  "और",
+  "तीन",
+  "सीजन",
+  "में",
+  "प्लेयोफ्स",
+  "सर्फ",
+  "एक",
+  "बार.",
+  "की",
+  "कबतानी",
+  "में",
+  "आमाई",
+  "ने",
+  "पाच",
+  "आईप्यल",
+  "त्राफीज",
+  "दीतीं",
+  "दोनी",
+  "के",
+  "बराभर",
+  "अब",
+  "उन",
+  "चालिस",
+  "साल",
+  "की",
+  "उमर",
+  "में",
+  "आमाई",
+  "की",
+  "बीसवे",
+  "सीजन",
+  "में",
+  "रोहित",
+  "फिर",
+  "कैप्टन,",
+  "आब",
+  "बताओ,",
+  "सही",
+  "फैसला,",
+  "या",
+  "बहुत",
+  "देर",
+  "से,",
+  "कमेंकरो."
+ ]
+}
