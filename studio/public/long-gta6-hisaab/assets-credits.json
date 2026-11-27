@@ -1,0 +1,46 @@
+{
+ "ft/gaming.mp4": {
+  "src": "https://assets.mixkit.co/videos/43532/43532-1080.mp4",
+  "lic": "Mixkit free licence (no attribution required)"
+ },
+ "ft/calc.mp4": {
+  "src": "https://assets.mixkit.co/videos/34126/34126-720.mp4",
+  "lic": "Mixkit free licence (no attribution required)"
+ },
+ "ft/money.mp4": {
+  "src": "https://assets.mixkit.co/videos/18296/18296-1080.mp4",
+  "lic": "Mixkit free licence (no attribution required)"
+ },
+ "ft/wifi.mp4": {
+  "src": "https://assets.mixkit.co/videos/1813/1813-1080.mp4",
+  "lic": "Mixkit free licence (no attribution required)"
+ },
+ "ft/phone.mp4": {
+  "src": "https://assets.mixkit.co/videos/4915/4915-1080.mp4",
+  "lic": "Mixkit free licence (no attribution required)"
+ },
+ "ft/friends.mp4": {
+  "src": "https://assets.mixkit.co/videos/4567/4567-1080.mp4",
+  "lic": "Mixkit free licence (no attribution required)"
+ },
+ "ft/city.mp4": {
+  "src": "https://assets.mixkit.co/videos/49878/49878-1080.mp4",
+  "lic": "Mixkit free licence (no attribution required)"
+ },
+ "ai/boxcode.jpg": {
+  "src": "AI image (Pollinations, Flux)",
+  "prompt": "an opened video game box on a dark wooden table, inside only a small printed paper card with a download code, no disc, dramatic warm spotlight, cinematic, no logos, no text"
+ },
+ "ai/notes.jpg": {
+  "src": "AI image (Pollinations, Flux)",
+  "prompt": "a modern white game console beside neat stacks of Indian 500 rupee banknotes on a dark table, dramatic spotlight, cinematic, no logos"
+ },
+ "ai/calendar.jpg": {
+  "src": "AI image (Pollinations, Flux)",
+  "prompt": "desk calendar pages flying through the air in a dim room, warm light, motion blur, cinematic, no readable text"
+ },
+ "ai/chai.jpg": {
+  "src": "AI image (Pollinations, Flux)",
+  "prompt": "a small glass of Indian masala chai next to a black game controller on a wooden table, cozy warm light, shallow depth of field, no logos"
+ }
+}
