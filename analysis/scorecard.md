@@ -1,6 +1,6 @@
 # Doubt Clear scorecard
 
-Updated 25 Nov 2026 20:06 IST from the YouTube Data API (public counts). Median latest views: 255. A hit is about 5x the median (playbook rule; re-test).
+Updated 27 Nov 2026 22:07 IST from the YouTube Data API (public counts). Median latest views: 253. A hit is about 5x the median (playbook rule; re-test).
 
 | Posted (IST) | Video | 1 h | 4 h | 24 h | 72 h | Latest views | Likes | Comments | Hit? |
 |---|---|---|---|---|---|---|---|---|---|
@@ -27,24 +27,27 @@ Updated 25 Nov 2026 20:06 IST from the YouTube Data API (public counts). Median 
 | 2026-11-16 08:00 | [IND vs NZ series win](https://youtube.com/shorts/Y4nzY_Z9V8c) | - | - | - | - | 1105 | 13 | 0 |  |
 | 2026-11-16 12:00 | [Sharjeel Imam vs USCIRF](https://youtube.com/shorts/Ebi0n3w3qTI) | - | - | - | - | 147 | 0 | 0 |  |
 | 2026-11-16 19:00 | [Starship tower catch](https://youtube.com/shorts/DC3poMXoCbI) | - | - | - | - | 51 | 2 | 0 |  |
-| 2026-11-17 08:00 | [Diwali Bumper odds](https://youtube.com/shorts/gLQFF1Y72o8) | - | - | - | - | 223 | 0 | 0 |  |
-| 2026-11-17 12:00 | [Census self-form](https://youtube.com/shorts/8K1Mh8ipl30) | - | - | - | - | 129 | 0 | 0 |  |
+| 2026-11-17 08:00 | [Diwali Bumper odds](https://youtube.com/shorts/gLQFF1Y72o8) | - | - | - | - | 226 | 0 | 0 |  |
+| 2026-11-17 12:00 | [Census self-form](https://youtube.com/shorts/8K1Mh8ipl30) | - | - | - | - | 136 | 0 | 0 |  |
 | 2026-11-17 19:00 | [Robert Pattinson as James Bond](https://youtube.com/shorts/l0VR46JunoA) | - | - | - | - | 103 | 0 | 0 |  |
 | 2026-11-18 08:00 | [India vs Pakistan SAFF final](https://youtube.com/shorts/4-ig0iKmD_M) | - | - | - | - | 1205 | 28 | 0 |  |
-| 2026-11-18 12:00 | [Mexico pterodactyl real or AI](https://youtube.com/shorts/QQ5mUOKvQY0) | - | - | - | - | 11878 | 131 | 2 | yes |
-| 2026-11-18 19:00 | [Dhoni retires CSK mentor](https://youtube.com/shorts/2a2L7hBvLVU) | - | - | - | - | 114 | 1 | 0 |  |
-| 2026-11-19 12:00 | [Vande Bharat 36000 fine](https://youtube.com/shorts/54XFyTdPbrI) | - | - | - | - | 1252 | 17 | 1 |  |
-| 2026-11-19 15:00 | [GTA 6 India price](https://youtube.com/shorts/5yPFfXIUo28) | - | - | - | - | 12299 | 182 | 3 | yes |
-| 2026-11-20 08:00 | [Phone loans warning](https://youtube.com/shorts/kDSXPNq8IUs) | - | - | - | - | 180 | 0 | 1 |  |
-| 2026-11-20 12:00 | [Ananya Birla kaun hai](https://youtube.com/shorts/Z-sDvDlHaTY) | - | - | - | - | 1371 | 12 | 3 | yes |
-| 2026-11-20 15:00 | [PS5 + GTA 6](https://youtube.com/shorts/argEAZpmXY8) | - | - | - | - | 1476 | 26 | 1 | yes |
+| 2026-11-18 12:00 | [Mexico pterodactyl real or AI](https://youtube.com/shorts/QQ5mUOKvQY0) | - | - | - | - | 12017 | 131 | 2 | yes |
+| 2026-11-18 19:00 | [Dhoni retires CSK mentor](https://youtube.com/shorts/2a2L7hBvLVU) | - | - | - | - | 115 | 1 | 0 |  |
+| 2026-11-19 12:00 | [Vande Bharat 36000 fine](https://youtube.com/shorts/54XFyTdPbrI) | - | - | - | - | 1254 | 17 | 1 |  |
+| 2026-11-19 15:00 | [GTA 6 India price](https://youtube.com/shorts/5yPFfXIUo28) | - | - | - | - | 12452 | 184 | 3 | yes |
+| 2026-11-20 08:00 | [Phone loans warning](https://youtube.com/shorts/kDSXPNq8IUs) | - | - | - | - | 188 | 0 | 1 |  |
+| 2026-11-20 12:00 | [Ananya Birla kaun hai](https://youtube.com/shorts/Z-sDvDlHaTY) | - | - | - | - | 1372 | 12 | 3 | yes |
+| 2026-11-20 15:00 | [PS5 + GTA 6](https://youtube.com/shorts/argEAZpmXY8) | - | - | - | - | 1478 | 26 | 1 | yes |
 | 2026-11-21 09:30 | [India A 332 vs Nepal 26](https://youtube.com/shorts/CSo03EKtQ7U) | - | - | - | - | 640 | 16 | 0 |  |
-| 2026-11-21 12:00 | [Gold 11000 sasta](https://youtube.com/shorts/GGCvptk1WoE) | - | - | - | - | 2124 | 16 | 0 | yes |
+| 2026-11-21 12:00 | [Gold 11000 sasta](https://youtube.com/shorts/GGCvptk1WoE) | - | - | - | - | 2128 | 16 | 0 | yes |
 | 2026-11-21 15:00 | [Voyager 1 light-day](https://youtube.com/shorts/b1FETka_dRw) | - | - | - | - | 92 | 0 | 0 |  |
-| 2026-11-23 14:00 | [India A vs Pakistan A Tilak 100](https://youtube.com/shorts/reEGffpKle4) | - | - | - | 1244 | 1244 | 38 | 0 |  |
-| 2026-11-23 17:00 | [Gratuity 1 saal ya 5 saal](https://youtube.com/shorts/zTKaOn2_QC0) | - | - | - | - | 184 | 3 | 0 |  |
-| 2026-11-24 13:00 | [Bisleri unsafe](https://youtube.com/shorts/QIkDxfkG8Lk) | - | - | - | - | 244 | 3 | 0 |  |
-| 2026-11-24 16:00 | [WTC final India](https://youtube.com/shorts/FreOsmPuZEQ) | - | - | 558 | - | 558 | 4 | 0 |  |
-| 2026-11-25 09:30 | [Sooryavanshi 204](https://youtube.com/shorts/zO0hFKy5K94) | - | - | - | - | 1431 | 30 | 1 | yes |
+| 2026-11-23 14:00 | [India A vs Pakistan A Tilak 100](https://youtube.com/shorts/reEGffpKle4) | - | - | - | 1244 | 1261 | 39 | 0 |  |
+| 2026-11-23 17:00 | [Gratuity 1 saal ya 5 saal](https://youtube.com/shorts/zTKaOn2_QC0) | - | - | - | - | 193 | 3 | 0 |  |
+| 2026-11-24 13:00 | [Bisleri unsafe](https://youtube.com/shorts/QIkDxfkG8Lk) | - | - | - | 253 | 253 | 3 | 0 |  |
+| 2026-11-24 16:00 | [WTC final India](https://youtube.com/shorts/FreOsmPuZEQ) | - | - | 558 | 594 | 594 | 6 | 0 |  |
+| 2026-11-25 09:30 | [Sooryavanshi 204](https://youtube.com/shorts/zO0hFKy5K94) | - | - | - | 1632 | 1632 | 34 | 2 | yes |
+| 2026-11-26 09:30 | [Hycross facelift price](https://youtube.com/shorts/AXZrxK6PCVQ) | - | - | - | - | 141 | 1 | 0 |  |
+| 2026-11-27 09:30 | [vivo X500 price](https://youtube.com/shorts/UCuA2HOgt0k) | - | - | - | - | 26 | 0 | 0 |  |
+| 2026-11-27 12:30 | [India A vs Sri Lanka A semi](https://youtube.com/shorts/I3gSDYAohYM) | - | - | - | - | 410 | 8 | 0 |  |
 
 Viewed-vs-swiped, retention and traffic source are only in YouTube Studio; the Mac session reads those at 72 h.

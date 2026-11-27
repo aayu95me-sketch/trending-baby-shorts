@@ -1,6 +1,6 @@
 # Doubt Clear: Studio numbers
 
-Updated 25 Nov 2026 20:07 IST from the YouTube Analytics API (2026-11-10 to 2026-11-25). Analytics lags 1-2 days, so the newest reels may show nothing yet.
+Updated 27 Nov 2026 22:07 IST from the YouTube Analytics API (2026-11-10 to 2026-11-27). Analytics lags 1-2 days, so the newest reels may show nothing yet.
 
 | Video | Views | Avg % viewed | Avg s viewed | Subs gained | Shares | Likes | Comments | Top traffic sources |
 |---|---|---|---|---|---|---|---|---|
@@ -27,25 +27,28 @@ Updated 25 Nov 2026 20:07 IST from the YouTube Analytics API (2026-11-10 to 2026
 | IND vs NZ series win | 1105 | 71% | 21.0 | 3 | 0 | 13 | 0 | SHORTS 1080, YT_SEARCH 16, YT_CHANNEL 5 |
 | Sharjeel Imam vs USCIRF | 147 | 49% | 19.0 | 0 | 0 | 0 | 0 | SHORTS 135, YT_SEARCH 7, YT_OTHER_PAGE 3 |
 | Starship tower catch | 51 | 39% | 12.0 | 0 | 0 | 2 | 0 | SHORTS 39, YT_SEARCH 5, SHORTS_CONTENT_LINKS 5 |
-| Diwali Bumper odds | 209 | 90% | 36.0 | 1 | 0 | 0 | 0 | YT_SEARCH 186, SHORTS 20, YT_CHANNEL 2 |
-| Census self-form | 124 | 59% | 24.0 | 0 | 0 | 0 | 0 | YT_SEARCH 83, SHORTS 38, YT_CHANNEL 2 |
-| Robert Pattinson as James Bond | 102 | 41% | 15.0 | 0 | 0 | 0 | 0 | SHORTS 90, YT_SEARCH 6, SHORTS_CONTENT_LINKS 3 |
+| Diwali Bumper odds | 220 | 88% | 36.0 | 1 | 0 | 0 | 0 | YT_SEARCH 197, SHORTS 20, YT_CHANNEL 2 |
+| Census self-form | 129 | 66% | 27.0 | 0 | 0 | 0 | 0 | YT_SEARCH 88, SHORTS 38, YT_CHANNEL 2 |
+| Robert Pattinson as James Bond | 103 | 41% | 15.0 | 0 | 0 | 0 | 0 | SHORTS 90, YT_SEARCH 7, SHORTS_CONTENT_LINKS 3 |
 | India vs Pakistan SAFF final | 1205 | 77% | 21.0 | 2 | 0 | 28 | 0 | SHORTS 1142, YT_SEARCH 54, SUBSCRIBER 4 |
-| Mexico pterodactyl real or AI | 11544 | 64% | 18.0 | 6 | 12 | 131 | 1 | YT_SEARCH 9885, SHORTS 1587, YT_CHANNEL 32 |
-| Dhoni retires CSK mentor | 113 | 51% | 21.0 | 0 | 0 | 1 | 0 | SHORTS 104, YT_SEARCH 6, YT_CHANNEL 3 |
-| Vande Bharat 36000 fine | 1252 | 64% | 21.0 | 0 | 0 | 17 | 1 | SHORTS 1161, YT_SEARCH 79, YT_CHANNEL 6 |
-| GTA 6 India price | 11692 | 75% | 28.0 | 8 | 13 | 174 | 2 | YT_SEARCH 8939, SHORTS 2697, YT_CHANNEL 25 |
-| Phone loans warning | 174 | 45% | 20.0 | 0 | 0 | 0 | 1 | SHORTS 143, YT_SEARCH 24, YT_CHANNEL 3 |
-| Ananya Birla kaun hai | 1292 | 48% | 23.0 | 0 | 0 | 11 | 2 | SHORTS 1202, YT_SEARCH 78, YT_CHANNEL 5 |
-| PS5 + GTA 6 | 1467 | 47% | 18.0 | 1 | 0 | 26 | 1 | SHORTS 1249, YT_SEARCH 215, YT_CHANNEL 3 |
-| India A 332 vs Nepal 26 | 633 | 73% | 27.0 | 1 | 0 | 15 | 0 | SHORTS 607, YT_SEARCH 25, YT_CHANNEL 1 |
-| Gold 11000 sasta | 1966 | 53% | 23.0 | 1 | 1 | 14 | 0 | SHORTS 1869, YT_SEARCH 89, YT_OTHER_PAGE 5 |
-| Voyager 1 light-day | 90 | 54% | 22.0 | 0 | 0 | 0 | 0 | SHORTS 90, YT_CHANNEL 0 |
-| India A vs Pakistan A Tilak 100 | 1 | 73% | 30.0 | 0 | 0 | 0 | 0 | YT_CHANNEL 1 |
-| Gratuity 1 saal ya 5 saal | 0 | 0% | 0.0 | 0 | 0 | 0 | 0 | YT_CHANNEL 0 |
-| Bisleri unsafe | - | - | - | - | - | - | - | - |
-| WTC final India | - | - | - | - | - | - | - | - |
-| Sooryavanshi 204 | - | - | - | - | - | - | - | - |
+| Mexico pterodactyl real or AI | 11868 | 64% | 18.0 | 6 | 12 | 131 | 1 | YT_SEARCH 10193, SHORTS 1601, YT_CHANNEL 33 |
+| Dhoni retires CSK mentor | 114 | 51% | 21.0 | 0 | 0 | 1 | 0 | SHORTS 104, YT_SEARCH 7, YT_CHANNEL 3 |
+| Vande Bharat 36000 fine | 1252 | 64% | 21.0 | 0 | 0 | 17 | 1 | SHORTS 1161, YT_SEARCH 80, YT_CHANNEL 6 |
+| GTA 6 India price | 12250 | 74% | 28.0 | 8 | 13 | 180 | 2 | YT_SEARCH 9468, SHORTS 2724, YT_CHANNEL 27 |
+| Phone loans warning | 180 | 46% | 20.0 | 0 | 0 | 0 | 1 | SHORTS 143, YT_SEARCH 30, YT_CHANNEL 3 |
+| Ananya Birla kaun hai | 1372 | 48% | 23.0 | 0 | 0 | 12 | 2 | SHORTS 1276, YT_SEARCH 80, SUBSCRIBER 5 |
+| PS5 + GTA 6 | 1476 | 47% | 18.0 | 1 | 0 | 26 | 1 | SHORTS 1251, YT_SEARCH 221, YT_CHANNEL 4 |
+| India A 332 vs Nepal 26 | 640 | 73% | 27.0 | 1 | 0 | 16 | 0 | SHORTS 614, YT_SEARCH 25, YT_CHANNEL 1 |
+| Gold 11000 sasta | 2123 | 53% | 23.0 | 1 | 1 | 16 | 0 | SHORTS 2014, YT_SEARCH 99, YT_OTHER_PAGE 7 |
+| Voyager 1 light-day | 92 | 55% | 22.0 | 0 | 0 | 0 | 0 | SHORTS 90, YT_SEARCH 2, YT_CHANNEL 0 |
+| India A vs Pakistan A Tilak 100 | 1242 | 58% | 24.0 | 2 | 0 | 38 | 0 | SHORTS 1209, YT_SEARCH 28, YT_CHANNEL 3 |
+| Gratuity 1 saal ya 5 saal | 165 | 52% | 18.0 | 0 | 0 | 3 | 0 | SHORTS 130, YT_SEARCH 35, NO_LINK_OTHER 0 |
+| Bisleri unsafe | 239 | 39% | 14.0 | 0 | 0 | 3 | 0 | SHORTS 212, YT_SEARCH 25, YT_CHANNEL 2 |
+| WTC final India | 549 | 55% | 20.0 | 0 | 0 | 4 | 0 | SHORTS 526, YT_SEARCH 23, NO_LINK_OTHER 0 |
+| Sooryavanshi 204 | 1335 | 74% | 33.0 | 2 | 0 | 27 | 1 | SHORTS 1286, YT_SEARCH 45, YT_CHANNEL 2 |
+| Hycross facelift price | - | - | - | - | - | - | - | - |
+| vivo X500 price | - | - | - | - | - | - | - | - |
+| India A vs Sri Lanka A semi | - | - | - | - | - | - | - | - |
 
 ## Retention (share of viewers still watching at each point of the reel; above 100% = rewatches)
 
@@ -74,24 +77,27 @@ Updated 25 Nov 2026 20:07 IST from the YouTube Analytics API (2026-11-10 to 2026
 | IND vs NZ series win | 127 | 115 | 97 | 77 | 70 | 64 | 60 | 56 | 53 | 49 | 38 |
 | Sharjeel Imam vs USCIRF | 109 | 105 | 76 | 61 | 46 | 45 | 39 | 36 | 36 | 30 | 16 |
 | Starship tower catch | 100 | 100 | 80 | 50 | 30 | 25 | 20 | 20 | 20 | 20 | 10 |
-| Diwali Bumper odds | 136 | 113 | 109 | 101 | 94 | 90 | 87 | 87 | 81 | 71 | 47 |
-| Census self-form | 123 | 106 | 84 | 71 | 55 | 52 | 52 | 42 | 42 | 42 | 35 |
+| Diwali Bumper odds | 135 | 113 | 109 | 100 | 92 | 89 | 86 | 86 | 80 | 70 | 47 |
+| Census self-form | 129 | 112 | 91 | 76 | 65 | 59 | 59 | 50 | 50 | 47 | 41 |
 | Robert Pattinson as James Bond | 112 | 105 | 51 | 39 | 37 | 34 | 29 | 22 | 22 | 20 | 12 |
 | India vs Pakistan SAFF final | 131 | 124 | 106 | 90 | 75 | 68 | 65 | 62 | 57 | 56 | 47 |
-| Mexico pterodactyl real or AI | 114 | 97 | 83 | 75 | 71 | 66 | 57 | 53 | 50 | 45 | 27 |
+| Mexico pterodactyl real or AI | 114 | 97 | 83 | 75 | 71 | 65 | 57 | 53 | 50 | 45 | 27 |
 | Dhoni retires CSK mentor | 100 | 100 | 80 | 70 | 50 | 47 | 43 | 33 | 27 | 23 | 3 |
 | Vande Bharat 36000 fine | 112 | 107 | 84 | 69 | 65 | 62 | 60 | 56 | 53 | 36 | 16 |
-| GTA 6 India price | 119 | 109 | 95 | 88 | 83 | 78 | 74 | 70 | 65 | 43 | 26 |
-| Phone loans warning | 102 | 97 | 72 | 58 | 48 | 43 | 32 | 29 | 28 | 9 | 3 |
-| Ananya Birla kaun hai | 106 | 98 | 64 | 54 | 49 | 46 | 40 | 37 | 35 | 23 | 7 |
+| GTA 6 India price | 118 | 108 | 94 | 87 | 82 | 77 | 73 | 69 | 63 | 42 | 25 |
+| Phone loans warning | 101 | 97 | 72 | 58 | 48 | 43 | 33 | 30 | 28 | 10 | 3 |
+| Ananya Birla kaun hai | 106 | 98 | 63 | 53 | 49 | 46 | 40 | 37 | 35 | 23 | 7 |
 | PS5 + GTA 6 | 108 | 103 | 78 | 56 | 47 | 40 | 35 | 29 | 26 | 15 | 11 |
-| India A 332 vs Nepal 26 | 124 | 116 | 98 | 80 | 73 | 70 | 67 | 59 | 56 | 49 | 30 |
-| Gold 11000 sasta | 112 | 105 | 78 | 66 | 51 | 44 | 39 | 36 | 34 | 27 | 18 |
-| Voyager 1 light-day | 106 | 103 | 72 | 59 | 59 | 50 | 38 | 38 | 38 | 34 | 9 |
-| India A vs Pakistan A Tilak 100 | - | - | - | - | - | - | - | - | - | - | - |
-| Gratuity 1 saal ya 5 saal | - | - | - | - | - | - | - | - | - | - | - |
-| Bisleri unsafe | - | - | - | - | - | - | - | - | - | - | - |
-| WTC final India | - | - | - | - | - | - | - | - | - | - | - |
-| Sooryavanshi 204 | - | - | - | - | - | - | - | - | - | - | - |
+| India A 332 vs Nepal 26 | 124 | 116 | 98 | 80 | 73 | 70 | 67 | 59 | 56 | 50 | 30 |
+| Gold 11000 sasta | 112 | 105 | 78 | 65 | 51 | 43 | 38 | 35 | 33 | 27 | 18 |
+| Voyager 1 light-day | 109 | 103 | 73 | 61 | 61 | 52 | 39 | 39 | 39 | 36 | 9 |
+| India A vs Pakistan A Tilak 100 | 106 | 104 | 80 | 66 | 61 | 55 | 51 | 47 | 43 | 37 | 12 |
+| Gratuity 1 saal ya 5 saal | 114 | 108 | 66 | 55 | 47 | 44 | 47 | 42 | 33 | 27 | 20 |
+| Bisleri unsafe | 101 | 99 | 63 | 43 | 38 | 33 | 22 | 22 | 17 | 13 | 2 |
+| WTC final India | 111 | 104 | 70 | 59 | 53 | 49 | 46 | 42 | 37 | 34 | 25 |
+| Sooryavanshi 204 | 123 | 109 | 91 | 81 | 73 | 70 | 67 | 64 | 61 | 57 | 40 |
+| Hycross facelift price | - | - | - | - | - | - | - | - | - | - | - |
+| vivo X500 price | - | - | - | - | - | - | - | - | - | - | - |
+| India A vs Sri Lanka A semi | - | - | - | - | - | - | - | - | - | - | - |
 
 Viewed vs swiped away is only shown in YouTube Studio (not in the API).
