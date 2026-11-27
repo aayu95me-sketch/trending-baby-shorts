@@ -1,0 +1,9 @@
+{
+ "mixkit": {"calc": ["calculator", "accounting"], "office": ["commuters", "traffic-jam"], "crowd": ["cinema", "movie-theater"], "popcorn": ["popcorn"], "money": ["money", "counting-money"]},
+ "ai": {
+  "notes": "huge neat stacks of Indian 500 rupee banknotes on a dark wooden table, dramatic warm spotlight, cinematic",
+  "bow": "an ornate golden bow and arrow resting on ancient carved temple stone, glowing diya oil lamps around, dusk, epic mood",
+  "hallwide": "a packed Indian movie theatre seen from the back row, glowing screen light, silhouettes of seats only",
+  "scale": "an antique brass weighing balance with stacks of coins on one pan, dark background, dramatic light"
+ }
+}
