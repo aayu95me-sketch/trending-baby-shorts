@@ -65,9 +65,10 @@ PARTS = """Judge 4 parts, each 0-10 (10 = best possible for going viral) with th
 4 WHOLE REEL (would a stranger watch to the end, comment, share, follow?). Give a FIRST-SECOND STOP score 0-10.
 PASS BARS (playbook gates): script 7+ with zero fact issues and viewer card 8+; visuals 7+; stop score 8+. Say PASS or FAIL per gate."""
 if LONG:
-    PARTS = """This is the channel's FIRST long video (Ayush, 18 Nov: 1 long video a week, 8-12 min; Shorts are feeders). YouTube removes channels
+    PARTS = """Weekly long video (Ayush, 18 + 27 Nov: 1 long video a week, 8-12 min, goal = maximum engagement; Shorts are feeders; the first one,
+Ramayana, got 10 views because nothing searchable and no Short pointed at it, so long videos are now picked from proven YouTube search demand). YouTube removes channels
 from monetization for "inauthentic" (generic, template, mass-produced) content, so the video must show clear human value: own calculations,
-sourced facts, a fresh script. Never reuse other people's footage (no trailer, no posters, no news clips). Judge 4 parts, each 0-10:
+sourced facts, a fresh script. Never reuse other people's footage (no trailer video, no news clips); official stills/key art from articles are allowed with an on-screen credit (Ayush, 19 Nov). Judge 4 parts, each 0-10:
 1 SCRIPT: first 30 s (does the viewer stay past the hook? the promise), chapter flow and open loops that hold to 10 min, any flat middle,
   accuracy (flag any number or claim that is wrong, unsourced or overstated; estimates must be labelled), Hinglish naturalness, the ending.
 2 VOICE PLAN: one AI voice (Gemini TTS Charon, Indian Delhi accent) for 10 min. Is that enough, what pace/energy changes per chapter, number reading.
