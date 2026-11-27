@@ -194,26 +194,24 @@
   {
    "at": "ps5",
    "chart": {
-    "type": "compare",
+    "type": "numbers",
     "title": "PS5 Slim 1TB, Amazon India (28 Oct)",
-    "rows": [
+    "items": [
      [
       "Digital",
-      64990,
+      "₹64,990",
       "white"
      ],
      [
       "Disc",
-      69985,
+      "₹69,985",
       "gold"
      ]
-    ],
-    "max": 75000,
-    "unit": ""
+    ]
    },
    "say": [
-    "digital",
-    "disc"
+    "64,990",
+    "69,985"
    ],
    "img": "long-gta6-hisaab/real/ps5-2.jpg",
    "credit": "PHOTO: JDC808, CC BY-SA 4.0 · WIKIMEDIA COMMONS"
