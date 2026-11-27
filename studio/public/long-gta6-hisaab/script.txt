@@ -7,7 +7,7 @@ Aaj@plan hum game, console, internet, EMI aur PC ka wait, sab ka hisaab khud lag
 Chapter@c1 ek. Game ka daam.
 PlayStation@eds India pe do edition hain. Standard [₹5,999|paanch hazaar nau sau ninyaanve], aur Ultimate [₹7,499|saat hazaar chaar sau ninyaanve].
 Farak@diff [₹1,500|pandrah sau] ka. Aur us pandrah sau mein kya milta hai? Extra gaadiyan, hathiyaar, kapde aur safehouse business. Kahani wahi hai. Ek bhi extra mission wali story nahi.
-Dono@both edition ke saath Vintage Vice City pack aur ek mahine ka GTA plus aata hai. Dhyaan rakhna: wo ek mahina khatam hote hi GTA plus apne aap renew hota hai, jab tak aap cancel na karo.
+Dono@both edition ke saath Vintage Vice City pack aata hai. Aur jinhone [20|bees] November se pehle digital pre-order kiya, unhe ek mahine ka GTA plus free mila. Ab khareedoge to wo free mahina nahi milega. Aur jinke paas hai, dhyaan rakhna: mahina khatam hote hi GTA plus apne aap renew hota hai, jab tak aap cancel na karo.
 Ab@box sabse mazedaar baat. Dukaan pe jo GTA six ka dabba milta hai, uske andar disc nahi hai. Sirf ek download code hai. Blinkit gyaarah shehron ke kuch ilaakon mein ye dabba minuton mein de raha hai, lekin khol ke milega code hi.
 Yaad@keep rakhna, ye baat chapter do mein paise bachayegi.
 ## ch2
@@ -27,6 +27,7 @@ Xbox@seriess Series S wale aur dhyaan dein. Uski storage [512 GB|paanch sau baar
 Ab@net internet. Do sau baarah GB download karne mein kitna time lagega?
 Agar@fast aapka net sau Mbps ka hai, aur poori speed milti hai, to lagbhag [4 ghante 43 minute|chaar ghante taintaalees minute].
 Chaalees@slow Mbps ka net hai, to lagbhag [11 ghante 47 minute|gyaarah ghante saintaalees minute]. Raat bhar chhod do.
+Chhota@rest sa tip: PS5 ko rest mode mein chhod do. Rest mode mein bhi download chalta rehta hai, aur subah game ready milega.
 Aur@phone agar aap socho ki phone ke do GB roz wale plan se hotspot karke download kar loge, to [106 din|ek sau chhe din] lagenge. Sach mein. Teen mahine se zyada.
 Toh@wifi GTA six se pehle ek achha WiFi plan bhi budget mein jodo.
 Lekin@tease kya PC ke liye dedh saal rukna samajhdaari hai? Uska asli sach, agle chapter mein.
@@ -35,6 +36,8 @@ Chapter@c4 chaar. PC ka wait karein?
 Bahut@pc log keh rahe hain, main PC pe khelunga. Problem ye hai ki Rockstar ne PC version ki koi date nahi di. Agle saal ki shuruaat wali baat sirf afwaah hai.
 Itihaas@history dekho. GTA five console pe September [2013|do hazaar terah] mein aaya tha. PC pe April [2015|do hazaar pandrah] mein. Yaani lagbhag [19|unnees] mahine baad.
 Agar@gap Rockstar wahi gap dohraye, to GTA six PC pe lagbhag June [2028|do hazaar atthaais] ke aas paas aayega. Ye prediction nahi, sirf pichhla pattern hai.
+Rockstar@rdr ka doosra bada game dekho, Red Dead Redemption two. Console pe October [2018|do hazaar atthaarah], PC pe November [2019|do hazaar unnees]. Yaani lagbhag [13|terah] mahine.
+Toh@range dono pattern milaao, to GTA six PC pe kahin December [2027|do hazaar sattaais] se June [2028|do hazaar atthaais] ke beech aa sakta hai. Phir se, ye sirf pattern hai, Rockstar ki date nahi.
 Aur@spec PC ke liye graphics card kitna chahiye, ye bhi abhi official nahi hai. Internet pe jo specs ghoom rahe hain, wo purane leak hain.
 Toh@pcans seedhi baat: agar aapke paas pehle se strong gaming PC hai aur aap dedh-do saal ruk sakte ho, to wait theek hai. Warna wait ka matlab hai, sab dost khelenge aur aap spoiler dekhoge.
 ## ch5
@@ -45,6 +48,7 @@ Poora@perhr setup, [₹70,989|sattar hazaar nau sau navaasi], ka matlab lagbhag 
 Aur@gameonly agar PS5 pehle se hai, to sirf game ka kharcha [₹16|solah] rupaye ghanta. Ek chai se bhi kam.
 Aur@weekend agar aap sirf weekend gamer ho? Saturday aur Sunday do-do ghante. Matlab hafte mein chaar ghante, saal mein [208|do sau aath] ghante. Tab poora setup lagbhag [₹341|teen sau iktaalees] rupaye ghanta padta hai, aur sirf game lagbhag [₹29|untees] rupaye ghanta.
 Aur@more PS5 pe aap baaki games bhi kheloge, to asli per ghanta kharcha isse bhi kam hoga.
+Aur@split ek desi jugaad. Teen dost milke ek PS5 aur ek game lo, aur baari baari se khelo. Har ek ka hissa [₹23,663|teis hazaar chhe sau tirsath]. Bas ye pehle tay kar lena ki Saturday raat kiski baari hai.
 ## ch6
 Chapter@c6 chhe. Duniya mein kya hua.
 Pehle@story kahani. GTA six mein do lead hain, Jason Duval aur Lucia Caminos. Ye pehla numbered GTA hai jisme female lead hai. Game Leonida mein set hai, jo Florida ka nakli roop hai, aur saath mein naya Vice City. Reports ke mutabik map GTA five se lagbhag do guna bada hai, lekin Rockstar ne official number nahi diya.
@@ -57,6 +61,6 @@ Chapter@c7 saat. Faisla.
 To@verdict bahas mein ye teen number bolo.
 Ek:@n1 PS5 pehle se hai, to GTA six [₹5,999|paanch hazaar nau sau ninyaanve] ka. Ultimate ke pandrah sau extra sirf saamaan ke liye hain, kahani ke liye nahi.
 Do:@n2 naya lena hai, to sabse sasta tareeka hai digital PS5 plus Standard game, [₹70,989|sattar hazaar nau sau navaasi]. Dabbe mein disc hai hi nahi, toh sirf GTA ke liye disc drive pe paanch hazaar mat lagao.
-Teen:@n3 PC ka wait karna hai, to pichhle pattern se dedh saal tak ka wait ho sakta hai.
+Teen:@n3 PC ka wait karna hai, to Rockstar ke pichhle pattern se ek se dedh saal ka wait ho sakta hai.
 Ab@ask aapki baari. PS5 abhi loge, ya PC ka wait karoge? Comment mein A ya B likho. A matlab abhi PS5, B matlab PC ka wait.
 Aise hi har trending sawaal ka poora hisaab chahiye, to Doubt Clear subscribe kar lo.

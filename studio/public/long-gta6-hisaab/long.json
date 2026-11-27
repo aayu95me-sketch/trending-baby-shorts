@@ -144,8 +144,8 @@
   },
   {
    "at": "both",
-   "big": "1 MAHINA GTA+ FREE",
-   "tag": "PHIR AUTO-RENEW",
+   "big": "FREE GTA+ SIRF PRE-ORDER PE",
+   "tag": "20 NOV SE PEHLE · PHIR AUTO-RENEW",
    "color": "white",
    "img": "long-gta6-hisaab/real/gta-6.jpg",
    "credit": "STILL: GTA VI (ROCKSTAR GAMES) · VIA ESPORTNOW.GG"
@@ -487,6 +487,45 @@
    "credit": "PHOTO: PANTHERALEO1359531, CC BY 4.0 · WIKIMEDIA COMMONS"
   },
   {
+   "at": "rdr",
+   "chart": {
+    "type": "numbers",
+    "title": "Red Dead Redemption 2",
+    "items": [
+     [
+      "Console",
+      "Oct 2018",
+      "white"
+     ],
+     [
+      "PC",
+      "Nov 2019",
+      "white"
+     ],
+     [
+      "Gap",
+      "~13 mahine",
+      "gold"
+     ]
+    ]
+   },
+   "say": [
+    "2018",
+    "2019",
+    "13"
+   ],
+   "img": "long-gta6-hisaab/real/pc-1.jpg",
+   "credit": "PHOTO: PANTHERALEO1359531, CC BY 4.0 · WIKIMEDIA COMMONS"
+  },
+  {
+   "at": "range",
+   "big": "DEC 2027 – JUN 2028?",
+   "tag": "SIRF PATTERN · ROCKSTAR KI DATE NAHI",
+   "color": "gold",
+   "img": "long-gta6-hisaab/real/pc-2.jpg",
+   "credit": "PHOTO: PANTHERALEO1359531, CC BY 4.0 · WIKIMEDIA COMMONS"
+  },
+  {
    "at": "spec",
    "big": "PC SPECS: OFFICIAL NAHI",
    "tag": "PURANE LEAK",
@@ -578,6 +617,13 @@
    "color": "white",
    "img": "long-gta6-hisaab/real/pad-0.jpg",
    "credit": "PHOTO: ALEX COCHRANE, CC BY-SA 4.0 · WIKIMEDIA COMMONS"
+  },
+  {
+   "at": "split",
+   "big": "₹23,663 / DOST",
+   "tag": "3 DOST · 1 PS5 · 1 GAME",
+   "color": "gold",
+   "video": "long-gta6-hisaab/ft/gaming.mp4"
   },
   {
    "at": "c6",
@@ -702,7 +748,7 @@
      ],
      [
       "PC wait (pattern)",
-      "~19 mahine",
+      "~13-19 mahine",
       "white"
      ]
     ]
