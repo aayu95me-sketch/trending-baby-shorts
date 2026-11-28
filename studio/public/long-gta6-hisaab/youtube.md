@@ -1,6 +1,6 @@
 # YouTube upload: GTA 6 price in India, poora hisaab (long video 2)
 
-File: /mnt/project-files/trending-baby/long/long-gta6-hisaab.mp4 (LENGTH, 1920x1080). Too big for Chrome's file tool: drag it in or use the normal file picker.
+File: /mnt/project-files/trending-baby/long/long-gta6-hisaab.mp4 (8:12, 1920x1080, 235 MB). Too big for Chrome's file tool: drag it in or use the normal file picker.
 Channel: Doubt Clear. Not made for kids. Altered/synthetic content: NO (AI narration only, no photoreal AI people or events; AI box still is an object).
 Category: Gaming. Language: Hindi. Thumbnail: thumbnail.jpg (same folder; "₹70,989?" + "DABBE MEIN DISC NAHI!").
 Schedule: Sun 29 Nov 2026, 12:00 IST (public). Playlist: new "Poora Hisaab" (add Ramayana long too).
@@ -14,7 +14,14 @@ GTA 6 price in India kitna hai, aur GTA 6 khelne ka asli kharcha kitna? Game ₹
 PS5 abhi loge ya PC ka wait karoge? Comment mein A ya B likho.
 
 Chapters
-CHAPTERS
+0:00 Sawaal
+0:34 Game ka daam
+1:26 Console ka kharcha
+2:47 212 GB ka hisaab
+3:57 PC ka wait: kab aayega?
+5:10 EMI aur per ghanta kharcha
+6:16 Duniya mein kya hua
+7:25 Faisla: 3 number
 
 Prices: PlayStation India (editions), Amazon India listings of 28 Oct 2026 (PS5 Slim, via Business Today). EMI, per-hour, download-time, friend-split and PC-date figures are our own calculations; the PC date is only the GTA V / Red Dead 2 pattern, not a Rockstar date. Sales figures are Sensor Tower estimates.
 
