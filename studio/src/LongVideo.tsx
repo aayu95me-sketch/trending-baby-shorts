@@ -17,7 +17,7 @@ type Chart =
   | { type: "board"; rows: [string, number, string?][]; unit?: string; title?: string; markers?: [string, number, string][] }
   | { type: "fan"; actual: number[]; cases: [string, number[], string][]; unit?: string; title?: string; lines?: [string, number][] }
   | { type: "ticket"; parts: [string, number, string][]; title?: string }
-  | { type: "scale"; left: [string, number]; right: [string, number]; title?: string }
+  | { type: "scale"; left: [string, number]; right: [string, number]; title?: string; unit?: string }
   | { type: "numbers"; items: [string, string, string?][]; title?: string }
   | { type: "steps"; items: string[]; title?: string };
 type Scene = { at: string | number; say?: string[]; img?: string; video?: string; credit?: string; chapter?: string; big?: string; tag?: string; color?: string; chart?: Chart; focus?: string; stamp?: string };
@@ -210,7 +210,7 @@ const Scale: React.FC<{ c: Extract<Chart, { type: "scale" }>; at: number }> = ({
   const tilt = (c.left[1] < c.right[1] ? 1 : -1) * 9 * p;
   const pan = (label: string, v: number, colr: string) => (
     <div style={{ width: 560, textAlign: "center" }}>
-      <div style={{ fontFamily: DISPLAY, fontSize: 96, color: colr, ...stroke }}>₹{inr(v)} Cr</div>
+      <div style={{ fontFamily: DISPLAY, fontSize: 96, color: colr, ...stroke }}>₹{inr(v)}{c.unit ?? " Cr"}</div>
       <div style={{ fontFamily: BODY, fontSize: 36, color: "#fff" }}>{label}</div>
     </div>
   );

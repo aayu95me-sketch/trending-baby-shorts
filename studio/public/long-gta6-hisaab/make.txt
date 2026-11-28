@@ -1,3 +1,4 @@
 first render, 27 Nov (Charon)
 second render, align crash fix
 third render 28 Nov: re-voice ch1-6 + ch8 (listen fixes, longer script)
+fourth render 28 Nov: re-voice ch4 (TTS added lines), scale unit fix
