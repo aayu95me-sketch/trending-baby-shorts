@@ -315,7 +315,7 @@ const LongVideo: React.FC<Props> = ({ dir, tl, spec }) => {
         const dark = !!s.chart || !!s.chapter;
         return <Shot key={`${b}-${dark}`} s={scenes[b]} from={scenes[b].t0} to={to} i={b} dark={dark} />;
       })}
-      {cur.chapter && <ChapterCard n={chapters.findIndex((c) => c.title === cur.chapter)} title={cur.chapter} at={cur.t0} />}
+      {cur.chapter && <ChapterCard n={scenes.slice(0, idx + 1).filter((x) => x.chapter).length} title={cur.chapter} at={cur.t0} />}
       {cur.chart && <ChartView key={idx} c={cur.chart} at={cur.t0} times={cur.times} />}
       {!cur.chart && !cur.chapter && (cur.big || cur.tag) && <BigText key={idx} s={cur} at={cur.t0} />}
       {cur.stamp && <div style={{ position: "absolute", right: 120, top: 120, fontFamily: DISPLAY, fontSize: 44, color: RED, border: `5px solid ${RED}`, borderRadius: 12, padding: "4px 20px", transform: "rotate(6deg)" }}>{cur.stamp.toUpperCase()}</div>}
