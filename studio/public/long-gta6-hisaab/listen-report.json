@@ -16,20 +16,20 @@
  },
  "ch4": {
   "model": "gemini-3.5-flash",
-  "ok": false,
-  "issues": [
-   {
-    "approx_time_s": 34,
-    "expected": "कितना टाइम लगेगा? अगर आपका नेट",
-    "heard": "कितना टाइम लगेगा? अब अगर आपके पास फोन हॉटस्पॉट है तो भाई भूल जाओ। सच में। हा? लगा लो। 50 या 60 GB का पैक डलवाओगे तो उतने में GTA 5 आ जाएगा। अगर आपका नेट",
-    "severity": "high"
-   }
-  ]
+  "ok": true,
+  "issues": []
  },
  "ch5": {
   "model": "gemini-3.5-flash",
-  "ok": true,
-  "issues": []
+  "ok": false,
+  "issues": [
+   {
+    "approx_time_s": 0,
+    "expected": "चैप्टर चार",
+    "heard": "chapter four",
+    "severity": "low"
+   }
+  ]
  },
  "ch6": {
   "model": "gemini-3.5-flash",
