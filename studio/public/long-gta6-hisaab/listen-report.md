@@ -1,13 +1,11 @@
 # Voice check (Gemini listens to each chapter)
 
-## ch1: CHECK (gemini-3.5-flash)
-- ~13s [high] expected "सत्तर हज़ार नौ सौ नवासी", heard "सत्तर हज़ार नौ सौ"
+## ch1: OK (gemini-3.5-flash)
 ## ch2: OK (gemini-3.5-flash)
-## ch3: CHECK (gemini-3.5-flash)
-- ~21.0s [high] expected "उनहत्तर हज़ार नौ सौ पचासी", heard "उनहत्तर हज़ार नौ सौ पच्चीस"
-## ch4: OK (gemini-3.5-flash)
+## ch3: OK (gemini-3.5-flash)
+## ch4: CHECK (gemini-3.5-flash)
+- ~34s [high] expected "कितना टाइम लगेगा? अगर आपका नेट", heard "कितना टाइम लगेगा? अब अगर आपके पास फोन हॉटस्पॉट है तो भाई भूल जाओ। सच में। हा? लगा लो। 50 या 60 GB का पैक डलवाओगे तो उतने में GTA 5 आ जाएगा। अगर आपका नेट"
 ## ch5: OK (gemini-3.5-flash)
-## ch6: CHECK (gemini-3.5-flash)
-- ~30.0s [low] expected "पहले से है, तो", heard "पहले से तो"
+## ch6: OK (gemini-3.5-flash)
 ## ch7: OK (gemini-3.5-flash)
 ## ch8: OK (gemini-3.5-flash)

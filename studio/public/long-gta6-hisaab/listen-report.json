@@ -1,15 +1,8 @@
 {
  "ch1": {
   "model": "gemini-3.5-flash",
-  "ok": false,
-  "issues": [
-   {
-    "approx_time_s": 13,
-    "expected": "सत्तर हज़ार नौ सौ नवासी",
-    "heard": "सत्तर हज़ार नौ सौ",
-    "severity": "high"
-   }
-  ]
+  "ok": true,
+  "issues": []
  },
  "ch2": {
   "model": "gemini-3.5-flash",
@@ -18,20 +11,20 @@
  },
  "ch3": {
   "model": "gemini-3.5-flash",
-  "ok": false,
-  "issues": [
-   {
-    "approx_time_s": 21.0,
-    "expected": "उनहत्तर हज़ार नौ सौ पचासी",
-    "heard": "उनहत्तर हज़ार नौ सौ पच्चीस",
-    "severity": "high"
-   }
-  ]
+  "ok": true,
+  "issues": []
  },
  "ch4": {
   "model": "gemini-3.5-flash",
-  "ok": true,
-  "issues": []
+  "ok": false,
+  "issues": [
+   {
+    "approx_time_s": 34,
+    "expected": "कितना टाइम लगेगा? अगर आपका नेट",
+    "heard": "कितना टाइम लगेगा? अब अगर आपके पास फोन हॉटस्पॉट है तो भाई भूल जाओ। सच में। हा? लगा लो। 50 या 60 GB का पैक डलवाओगे तो उतने में GTA 5 आ जाएगा। अगर आपका नेट",
+    "severity": "high"
+   }
+  ]
  },
  "ch5": {
   "model": "gemini-3.5-flash",
@@ -40,15 +33,8 @@
  },
  "ch6": {
   "model": "gemini-3.5-flash",
-  "ok": false,
-  "issues": [
-   {
-    "approx_time_s": 30.0,
-    "expected": "पहले से है, तो",
-    "heard": "पहले से तो",
-    "severity": "low"
-   }
-  ]
+  "ok": true,
+  "issues": []
  },
  "ch7": {
   "model": "gemini-3.5-flash",
