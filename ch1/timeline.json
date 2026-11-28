@@ -1,0 +1,597 @@
+{
+ "total": 34.747,
+ "voice": "long-gta6-hisaab/ch1/voice.wav",
+ "lines": [
+  {
+   "start": 0.0,
+   "text": "GTA six aa gaya. Aur internet pe sabse zyada ek hi sawaal search ho raha hai: GTA six price in India.",
+   "end": 7.3
+  },
+  {
+   "start": 7.3,
+   "text": "Seedha jawab pehle: game ₹5,999 ka. Aur agar PS5 bhi lena hai, to poora setup ₹70,989 se shuru.",
+   "end": 16.399
+  },
+  {
+   "start": 16.399,
+   "text": "Lekin ruko. Zyaadatar log isse paanch hazaar rupaye zyada de rahe hain, ek aisi cheez ke liye jo GTA ke dabbe mein hai hi nahi.",
+   "end": 23.716
+  },
+  {
+   "start": 23.716,
+   "text": "Aaj hum game, console, internet, EMI aur PC ka wait, sab ka hisaab khud lagayenge. Aur end mein bataayenge GTA six khelne ka sabse sasta tareeka.",
+   "end": 33.747
+  }
+ ],
+ "words": [
+  {
+   "w": "GTA",
+   "start": 0.0,
+   "end": 0.52
+  },
+  {
+   "w": "six",
+   "start": 0.54,
+   "end": 1.06
+  },
+  {
+   "w": "aa",
+   "start": 1.08,
+   "end": 1.353
+  },
+  {
+   "w": "gaya.",
+   "start": 1.373,
+   "end": 1.645
+  },
+  {
+   "w": "Aur",
+   "start": 1.665,
+   "end": 1.88
+  },
+  {
+   "w": "internet",
+   "start": 1.9,
+   "end": 2.22
+  },
+  {
+   "w": "pe",
+   "start": 2.24,
+   "end": 2.36
+  },
+  {
+   "w": "sabse",
+   "start": 2.38,
+   "end": 2.88
+  },
+  {
+   "w": "zyada",
+   "start": 2.9,
+   "end": 3.14
+  },
+  {
+   "w": "ek",
+   "start": 3.16,
+   "end": 3.32
+  },
+  {
+   "w": "hi",
+   "start": 3.34,
+   "end": 3.5
+  },
+  {
+   "w": "sawaal",
+   "start": 3.52,
+   "end": 3.76
+  },
+  {
+   "w": "search",
+   "start": 3.78,
+   "end": 3.96
+  },
+  {
+   "w": "ho",
+   "start": 3.98,
+   "end": 4.06
+  },
+  {
+   "w": "raha",
+   "start": 4.08,
+   "end": 4.707
+  },
+  {
+   "w": "hai:",
+   "start": 4.727,
+   "end": 4.707
+  },
+  {
+   "w": "GTA",
+   "start": 4.727,
+   "end": 5.063
+  },
+  {
+   "w": "six",
+   "start": 5.083,
+   "end": 5.42
+  },
+  {
+   "w": "price",
+   "start": 5.44,
+   "end": 5.98
+  },
+  {
+   "w": "in",
+   "start": 6.0,
+   "end": 6.22
+  },
+  {
+   "w": "India.",
+   "start": 6.24,
+   "end": 7.04
+  },
+  {
+   "w": "Seedha",
+   "start": 7.3,
+   "end": 7.48
+  },
+  {
+   "w": "jawab",
+   "start": 7.5,
+   "end": 7.7
+  },
+  {
+   "w": "pehle:",
+   "start": 7.72,
+   "end": 8.182
+  },
+  {
+   "w": "game",
+   "start": 8.202,
+   "end": 9.002
+  },
+  {
+   "w": "₹5,999",
+   "start": 9.06,
+   "end": 9.86
+  },
+  {
+   "w": "ka.",
+   "start": 10.791,
+   "end": 11.342
+  },
+  {
+   "w": "Aur",
+   "start": 11.362,
+   "end": 11.58
+  },
+  {
+   "w": "agar",
+   "start": 11.6,
+   "end": 11.74
+  },
+  {
+   "w": "PS5",
+   "start": 11.76,
+   "end": 12.28
+  },
+  {
+   "w": "bhi",
+   "start": 12.3,
+   "end": 12.4
+  },
+  {
+   "w": "lena",
+   "start": 12.42,
+   "end": 12.58
+  },
+  {
+   "w": "hai,",
+   "start": 12.6,
+   "end": 12.9
+  },
+  {
+   "w": "to",
+   "start": 12.92,
+   "end": 13.315
+  },
+  {
+   "w": "poora",
+   "start": 13.335,
+   "end": 13.6
+  },
+  {
+   "w": "setup",
+   "start": 13.62,
+   "end": 14.02
+  },
+  {
+   "w": "₹70,989",
+   "start": 14.04,
+   "end": 14.84
+  },
+  {
+   "w": "se",
+   "start": 15.4,
+   "end": 15.48
+  },
+  {
+   "w": "shuru.",
+   "start": 15.5,
+   "end": 16.3
+  },
+  {
+   "w": "Lekin",
+   "start": 16.399,
+   "end": 16.62
+  },
+  {
+   "w": "ruko.",
+   "start": 16.64,
+   "end": 17.44
+  },
+  {
+   "w": "Zyaadatar",
+   "start": 17.64,
+   "end": 18.08
+  },
+  {
+   "w": "log",
+   "start": 18.1,
+   "end": 18.32
+  },
+  {
+   "w": "isse",
+   "start": 18.34,
+   "end": 18.684
+  },
+  {
+   "w": "paanch",
+   "start": 18.704,
+   "end": 18.98
+  },
+  {
+   "w": "hazaar",
+   "start": 19.0,
+   "end": 19.2
+  },
+  {
+   "w": "rupaye",
+   "start": 19.22,
+   "end": 19.4
+  },
+  {
+   "w": "zyada",
+   "start": 19.42,
+   "end": 19.48
+  },
+  {
+   "w": "de",
+   "start": 19.5,
+   "end": 19.56
+  },
+  {
+   "w": "rahe",
+   "start": 19.58,
+   "end": 19.64
+  },
+  {
+   "w": "hain,",
+   "start": 19.66,
+   "end": 20.46
+  },
+  {
+   "w": "ek",
+   "start": 20.573,
+   "end": 20.76
+  },
+  {
+   "w": "aisi",
+   "start": 20.78,
+   "end": 20.96
+  },
+  {
+   "w": "cheez",
+   "start": 20.98,
+   "end": 21.18
+  },
+  {
+   "w": "ke",
+   "start": 21.2,
+   "end": 21.34
+  },
+  {
+   "w": "liye",
+   "start": 21.36,
+   "end": 21.46
+  },
+  {
+   "w": "jo",
+   "start": 21.48,
+   "end": 21.6
+  },
+  {
+   "w": "GTA",
+   "start": 21.62,
+   "end": 21.98
+  },
+  {
+   "w": "ke",
+   "start": 22.0,
+   "end": 22.1
+  },
+  {
+   "w": "dabbe",
+   "start": 22.12,
+   "end": 22.36
+  },
+  {
+   "w": "mein",
+   "start": 22.38,
+   "end": 22.5
+  },
+  {
+   "w": "hai",
+   "start": 22.52,
+   "end": 22.7
+  },
+  {
+   "w": "hi",
+   "start": 22.72,
+   "end": 22.82
+  },
+  {
+   "w": "nahi.",
+   "start": 22.84,
+   "end": 23.64
+  },
+  {
+   "w": "Aaj",
+   "start": 23.716,
+   "end": 23.818
+  },
+  {
+   "w": "hum",
+   "start": 23.838,
+   "end": 23.94
+  },
+  {
+   "w": "game,",
+   "start": 23.96,
+   "end": 24.76
+  },
+  {
+   "w": "console,",
+   "start": 24.78,
+   "end": 25.58
+  },
+  {
+   "w": "internet,",
+   "start": 25.76,
+   "end": 26.56
+  },
+  {
+   "w": "EMI",
+   "start": 26.592,
+   "end": 26.92
+  },
+  {
+   "w": "aur",
+   "start": 26.94,
+   "end": 27.2
+  },
+  {
+   "w": "PC",
+   "start": 27.22,
+   "end": 27.36
+  },
+  {
+   "w": "ka",
+   "start": 27.38,
+   "end": 27.52
+  },
+  {
+   "w": "wait,",
+   "start": 27.54,
+   "end": 28.12
+  },
+  {
+   "w": "sab",
+   "start": 28.14,
+   "end": 28.54
+  },
+  {
+   "w": "ka",
+   "start": 28.56,
+   "end": 28.76
+  },
+  {
+   "w": "hisaab",
+   "start": 28.78,
+   "end": 29.1
+  },
+  {
+   "w": "khud",
+   "start": 29.12,
+   "end": 29.38
+  },
+  {
+   "w": "lagayenge.",
+   "start": 29.4,
+   "end": 30.121
+  },
+  {
+   "w": "Aur",
+   "start": 30.141,
+   "end": 30.34
+  },
+  {
+   "w": "end",
+   "start": 30.36,
+   "end": 30.62
+  },
+  {
+   "w": "mein",
+   "start": 30.64,
+   "end": 30.7
+  },
+  {
+   "w": "bataayenge",
+   "start": 30.72,
+   "end": 30.91
+  },
+  {
+   "w": "GTA",
+   "start": 30.93,
+   "end": 31.12
+  },
+  {
+   "w": "six",
+   "start": 31.14,
+   "end": 31.64
+  },
+  {
+   "w": "khelne",
+   "start": 31.66,
+   "end": 31.96
+  },
+  {
+   "w": "ka",
+   "start": 31.98,
+   "end": 32.08
+  },
+  {
+   "w": "sabse",
+   "start": 32.1,
+   "end": 32.44
+  },
+  {
+   "w": "sasta",
+   "start": 32.46,
+   "end": 32.7
+  },
+  {
+   "w": "tareeka.",
+   "start": 32.72,
+   "end": 33.747
+  }
+ ],
+ "cues": {
+  "open": 0.54,
+  "ans": 7.3,
+  "twist": 16.399,
+  "plan": 23.716
+ },
+ "numbers": [
+  {
+   "show": "₹5,999",
+   "spoken": "paanch hazaar nau sau ninyaanve",
+   "heard": 0.8,
+   "digit_diff": null
+  },
+  {
+   "show": "PS5",
+   "spoken": "PS5",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "₹70,989",
+   "spoken": "sattar hazaar nau sau navaasi",
+   "heard": 0.8,
+   "digit_diff": null
+  }
+ ],
+ "heard": [
+  "GTA6",
+  "आगे",
+  "है,",
+  "और",
+  "अंटरनेद",
+  "पे",
+  "सब",
+  "से",
+  "जादा",
+  "एकी",
+  "सवाल",
+  "सार",
+  "चो",
+  "रहा",
+  "है,",
+  "GTA6",
+  "प्राइस",
+  "इन",
+  "इन्टिया,",
+  "सीता",
+  "जबा",
+  "पहले.",
+  "गेम",
+  "पाच",
+  "ज़ाजार",
+  "नोसो",
+  "निन्यान्वेका",
+  "और",
+  "अगर",
+  "पीएस",
+  "फाइव",
+  "भी",
+  "लेना",
+  "है",
+  "तो",
+  "पूरा",
+  "सेट",
+  "अप",
+  "सथटर",
+  "हाजार",
+  "नोसो",
+  "नावासी",
+  "से",
+  "शुरू",
+  "लेकिन",
+  "रुको",
+  "जादतर",
+  "लोग",
+  "इस",
+  "से",
+  "पाँच",
+  "हाँसार",
+  "रुपे",
+  "जादा",
+  "लेरें",
+  "एक",
+  "आसे",
+  "चीस",
+  "के",
+  "लिए",
+  "जो",
+  "GTA",
+  "के",
+  "दबबे",
+  "में",
+  "है",
+  "ही",
+  "नहीं",
+  "आजम",
+  "गेम,",
+  "कुनसोल,",
+  "इंटनेट,",
+  "EMI",
+  "और",
+  "Pc",
+  "कवेट,",
+  "सब",
+  "का",
+  "हिसा,",
+  "खुद",
+  "लगाएंगे",
+  "और",
+  "अन्द",
+  "में",
+  "पताएंगे",
+  "GTSX",
+  "खेलने",
+  "का",
+  "सबसे",
+  "सस्था",
+  "तरीका"
+ ]
+}

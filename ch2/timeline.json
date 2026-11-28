@@ -1,0 +1,1008 @@
+{
+ "total": 52.649,
+ "voice": "long-gta6-hisaab/ch2/voice.wav",
+ "lines": [
+  {
+   "start": 0.0,
+   "text": "Chapter ek. Game ka daam.",
+   "end": 2.38
+  },
+  {
+   "start": 2.38,
+   "text": "PlayStation India pe do edition hain. Standard ₹5,999 , aur Ultimate ₹7,499 .",
+   "end": 8.487
+  },
+  {
+   "start": 9.053,
+   "text": "Farak ₹1,500 ka. Aur us pandrah sau mein kya milta hai? Extra gaadiyan, hathiyaar, kapde aur safehouse business. Kahani wahi hai. Ek bhi extra mission wali story nahi.",
+   "end": 19.7
+  },
+  {
+   "start": 19.7,
+   "text": "Dono edition ke saath Vintage Vice City pack aata hai. Aur jinhone 20 November se pehle digital pre-order kiya, unhe ek mahine ka GTA plus free mila. Ab khareedoge to wo free mahina nahi milega. Aur jinke paas hai, dhyaan rakhna: mahina khatam hote hi GTA plus apne aap renew hota hai, jab tak aap cancel na karo.",
+   "end": 36.219
+  },
+  {
+   "start": 36.49,
+   "text": "Ab sabse mazedaar baat. Dukaan pe jo GTA six ka dabba milta hai, uske andar disc nahi hai. Sirf ek download code hai. Blinkit gyaarah shehron ke kuch ilaakon mein ye dabba minuton mein de raha hai, lekin khol ke milega code hi.",
+   "end": 48.524
+  },
+  {
+   "start": 48.855,
+   "text": "Yaad rakhna, ye baat chapter do mein paise bachayegi.",
+   "end": 51.222
+  }
+ ],
+ "words": [
+  {
+   "w": "Chapter",
+   "start": 0.0,
+   "end": 0.32
+  },
+  {
+   "w": "ek.",
+   "start": 0.34,
+   "end": 0.87
+  },
+  {
+   "w": "Game",
+   "start": 0.89,
+   "end": 1.16
+  },
+  {
+   "w": "ka",
+   "start": 1.18,
+   "end": 1.76
+  },
+  {
+   "w": "daam.",
+   "start": 1.78,
+   "end": 2.36
+  },
+  {
+   "w": "PlayStation",
+   "start": 2.38,
+   "end": 2.64
+  },
+  {
+   "w": "India",
+   "start": 2.66,
+   "end": 2.86
+  },
+  {
+   "w": "pe",
+   "start": 2.88,
+   "end": 3.08
+  },
+  {
+   "w": "do",
+   "start": 3.1,
+   "end": 3.28
+  },
+  {
+   "w": "edition",
+   "start": 3.3,
+   "end": 3.68
+  },
+  {
+   "w": "hain.",
+   "start": 3.7,
+   "end": 4.08
+  },
+  {
+   "w": "Standard",
+   "start": 4.1,
+   "end": 4.648
+  },
+  {
+   "w": "₹5,999",
+   "start": 4.668,
+   "end": 5.468
+  },
+  {
+   "w": ",",
+   "start": 5.803,
+   "end": 6.186
+  },
+  {
+   "w": "aur",
+   "start": 6.206,
+   "end": 6.521
+  },
+  {
+   "w": "Ultimate",
+   "start": 6.541,
+   "end": 7.129
+  },
+  {
+   "w": "₹7,499",
+   "start": 7.149,
+   "end": 7.949
+  },
+  {
+   "w": ".",
+   "start": 8.73,
+   "end": 9.033
+  },
+  {
+   "w": "Farak",
+   "start": 9.053,
+   "end": 9.357
+  },
+  {
+   "w": "₹1,500",
+   "start": 9.377,
+   "end": 9.84
+  },
+  {
+   "w": "ka.",
+   "start": 9.86,
+   "end": 10.431
+  },
+  {
+   "w": "Aur",
+   "start": 10.451,
+   "end": 10.68
+  },
+  {
+   "w": "us",
+   "start": 10.7,
+   "end": 10.76
+  },
+  {
+   "w": "pandrah",
+   "start": 10.78,
+   "end": 11.0
+  },
+  {
+   "w": "sau",
+   "start": 11.02,
+   "end": 11.14
+  },
+  {
+   "w": "mein",
+   "start": 11.16,
+   "end": 11.3
+  },
+  {
+   "w": "kya",
+   "start": 11.32,
+   "end": 11.4
+  },
+  {
+   "w": "milta",
+   "start": 11.42,
+   "end": 11.64
+  },
+  {
+   "w": "hai?",
+   "start": 11.66,
+   "end": 12.04
+  },
+  {
+   "w": "Extra",
+   "start": 12.06,
+   "end": 12.44
+  },
+  {
+   "w": "gaadiyan,",
+   "start": 12.46,
+   "end": 13.1
+  },
+  {
+   "w": "hathiyaar,",
+   "start": 13.12,
+   "end": 13.92
+  },
+  {
+   "w": "kapde",
+   "start": 14.02,
+   "end": 14.36
+  },
+  {
+   "w": "aur",
+   "start": 14.38,
+   "end": 14.7
+  },
+  {
+   "w": "safehouse",
+   "start": 14.72,
+   "end": 15.14
+  },
+  {
+   "w": "business.",
+   "start": 15.16,
+   "end": 15.96
+  },
+  {
+   "w": "Kahani",
+   "start": 16.032,
+   "end": 16.4
+  },
+  {
+   "w": "wahi",
+   "start": 16.42,
+   "end": 16.64
+  },
+  {
+   "w": "hai.",
+   "start": 16.66,
+   "end": 17.27
+  },
+  {
+   "w": "Ek",
+   "start": 17.29,
+   "end": 17.5
+  },
+  {
+   "w": "bhi",
+   "start": 17.52,
+   "end": 17.62
+  },
+  {
+   "w": "extra",
+   "start": 17.64,
+   "end": 17.98
+  },
+  {
+   "w": "mission",
+   "start": 18.0,
+   "end": 18.2
+  },
+  {
+   "w": "wali",
+   "start": 18.22,
+   "end": 18.46
+  },
+  {
+   "w": "story",
+   "start": 18.48,
+   "end": 18.7
+  },
+  {
+   "w": "nahi.",
+   "start": 18.72,
+   "end": 19.52
+  },
+  {
+   "w": "Dono",
+   "start": 19.7,
+   "end": 19.82
+  },
+  {
+   "w": "edition",
+   "start": 19.84,
+   "end": 20.04
+  },
+  {
+   "w": "ke",
+   "start": 20.06,
+   "end": 20.2
+  },
+  {
+   "w": "saath",
+   "start": 20.22,
+   "end": 20.46
+  },
+  {
+   "w": "Vintage",
+   "start": 20.48,
+   "end": 20.86
+  },
+  {
+   "w": "Vice",
+   "start": 20.88,
+   "end": 21.08
+  },
+  {
+   "w": "City",
+   "start": 21.1,
+   "end": 21.28
+  },
+  {
+   "w": "pack",
+   "start": 21.3,
+   "end": 21.48
+  },
+  {
+   "w": "aata",
+   "start": 21.5,
+   "end": 21.68
+  },
+  {
+   "w": "hai.",
+   "start": 21.7,
+   "end": 22.007
+  },
+  {
+   "w": "Aur",
+   "start": 22.027,
+   "end": 22.333
+  },
+  {
+   "w": "jinhone",
+   "start": 22.353,
+   "end": 22.66
+  },
+  {
+   "w": "20",
+   "start": 22.68,
+   "end": 22.96
+  },
+  {
+   "w": "November",
+   "start": 22.98,
+   "end": 23.3
+  },
+  {
+   "w": "se",
+   "start": 23.32,
+   "end": 23.42
+  },
+  {
+   "w": "pehle",
+   "start": 23.44,
+   "end": 23.66
+  },
+  {
+   "w": "digital",
+   "start": 23.68,
+   "end": 24.24
+  },
+  {
+   "w": "pre-order",
+   "start": 24.26,
+   "end": 24.46
+  },
+  {
+   "w": "kiya,",
+   "start": 24.48,
+   "end": 24.9
+  },
+  {
+   "w": "unhe",
+   "start": 24.92,
+   "end": 25.2
+  },
+  {
+   "w": "ek",
+   "start": 25.22,
+   "end": 25.46
+  },
+  {
+   "w": "mahine",
+   "start": 25.48,
+   "end": 25.74
+  },
+  {
+   "w": "ka",
+   "start": 25.76,
+   "end": 25.9
+  },
+  {
+   "w": "GTA",
+   "start": 25.92,
+   "end": 26.06
+  },
+  {
+   "w": "plus",
+   "start": 26.08,
+   "end": 26.22
+  },
+  {
+   "w": "free",
+   "start": 26.24,
+   "end": 26.7
+  },
+  {
+   "w": "mila.",
+   "start": 26.72,
+   "end": 27.24
+  },
+  {
+   "w": "Ab",
+   "start": 27.26,
+   "end": 27.78
+  },
+  {
+   "w": "khareedoge",
+   "start": 27.8,
+   "end": 28.2
+  },
+  {
+   "w": "to",
+   "start": 28.22,
+   "end": 28.3
+  },
+  {
+   "w": "wo",
+   "start": 28.32,
+   "end": 28.38
+  },
+  {
+   "w": "free",
+   "start": 28.4,
+   "end": 28.5
+  },
+  {
+   "w": "mahina",
+   "start": 28.52,
+   "end": 28.78
+  },
+  {
+   "w": "nahi",
+   "start": 28.8,
+   "end": 28.88
+  },
+  {
+   "w": "milega.",
+   "start": 28.9,
+   "end": 29.7
+  },
+  {
+   "w": "Aur",
+   "start": 29.909,
+   "end": 29.889
+  },
+  {
+   "w": "jinke",
+   "start": 29.909,
+   "end": 30.32
+  },
+  {
+   "w": "paas",
+   "start": 30.34,
+   "end": 30.6
+  },
+  {
+   "w": "hai,",
+   "start": 30.62,
+   "end": 31.204
+  },
+  {
+   "w": "dhyaan",
+   "start": 31.224,
+   "end": 31.5
+  },
+  {
+   "w": "rakhna:",
+   "start": 31.52,
+   "end": 32.185
+  },
+  {
+   "w": "mahina",
+   "start": 32.205,
+   "end": 32.52
+  },
+  {
+   "w": "khatam",
+   "start": 32.54,
+   "end": 32.693
+  },
+  {
+   "w": "hote",
+   "start": 32.713,
+   "end": 32.867
+  },
+  {
+   "w": "hi",
+   "start": 32.887,
+   "end": 33.04
+  },
+  {
+   "w": "GTA",
+   "start": 33.06,
+   "end": 33.4
+  },
+  {
+   "w": "plus",
+   "start": 33.42,
+   "end": 33.58
+  },
+  {
+   "w": "apne",
+   "start": 33.6,
+   "end": 34.0
+  },
+  {
+   "w": "aap",
+   "start": 34.02,
+   "end": 34.2
+  },
+  {
+   "w": "renew",
+   "start": 34.22,
+   "end": 34.44
+  },
+  {
+   "w": "hota",
+   "start": 34.46,
+   "end": 34.68
+  },
+  {
+   "w": "hai,",
+   "start": 34.7,
+   "end": 35.003
+  },
+  {
+   "w": "jab",
+   "start": 35.023,
+   "end": 35.16
+  },
+  {
+   "w": "tak",
+   "start": 35.18,
+   "end": 35.34
+  },
+  {
+   "w": "aap",
+   "start": 35.36,
+   "end": 35.48
+  },
+  {
+   "w": "cancel",
+   "start": 35.5,
+   "end": 35.82
+  },
+  {
+   "w": "na",
+   "start": 35.84,
+   "end": 35.96
+  },
+  {
+   "w": "karo.",
+   "start": 35.98,
+   "end": 36.47
+  },
+  {
+   "w": "Ab",
+   "start": 36.49,
+   "end": 36.98
+  },
+  {
+   "w": "sabse",
+   "start": 37.0,
+   "end": 37.34
+  },
+  {
+   "w": "mazedaar",
+   "start": 37.36,
+   "end": 37.72
+  },
+  {
+   "w": "baat.",
+   "start": 37.74,
+   "end": 38.499
+  },
+  {
+   "w": "Dukaan",
+   "start": 38.519,
+   "end": 38.82
+  },
+  {
+   "w": "pe",
+   "start": 38.84,
+   "end": 38.94
+  },
+  {
+   "w": "jo",
+   "start": 38.96,
+   "end": 39.04
+  },
+  {
+   "w": "GTA",
+   "start": 39.06,
+   "end": 39.29
+  },
+  {
+   "w": "six",
+   "start": 39.31,
+   "end": 39.54
+  },
+  {
+   "w": "ka",
+   "start": 39.56,
+   "end": 39.68
+  },
+  {
+   "w": "dabba",
+   "start": 39.7,
+   "end": 39.96
+  },
+  {
+   "w": "milta",
+   "start": 39.98,
+   "end": 40.22
+  },
+  {
+   "w": "hai,",
+   "start": 40.24,
+   "end": 40.7
+  },
+  {
+   "w": "uske",
+   "start": 40.72,
+   "end": 41.0
+  },
+  {
+   "w": "andar",
+   "start": 41.02,
+   "end": 41.22
+  },
+  {
+   "w": "disc",
+   "start": 41.24,
+   "end": 41.46
+  },
+  {
+   "w": "nahi",
+   "start": 41.48,
+   "end": 41.66
+  },
+  {
+   "w": "hai.",
+   "start": 41.68,
+   "end": 42.087
+  },
+  {
+   "w": "Sirf",
+   "start": 42.107,
+   "end": 42.4
+  },
+  {
+   "w": "ek",
+   "start": 42.42,
+   "end": 42.71
+  },
+  {
+   "w": "download",
+   "start": 42.73,
+   "end": 43.02
+  },
+  {
+   "w": "code",
+   "start": 43.04,
+   "end": 43.32
+  },
+  {
+   "w": "hai.",
+   "start": 43.34,
+   "end": 43.98
+  },
+  {
+   "w": "Blinkit",
+   "start": 44.0,
+   "end": 44.42
+  },
+  {
+   "w": "gyaarah",
+   "start": 44.44,
+   "end": 44.66
+  },
+  {
+   "w": "shehron",
+   "start": 44.68,
+   "end": 44.96
+  },
+  {
+   "w": "ke",
+   "start": 44.98,
+   "end": 45.04
+  },
+  {
+   "w": "kuch",
+   "start": 45.06,
+   "end": 45.22
+  },
+  {
+   "w": "ilaakon",
+   "start": 45.24,
+   "end": 45.48
+  },
+  {
+   "w": "mein",
+   "start": 45.5,
+   "end": 45.9
+  },
+  {
+   "w": "ye",
+   "start": 45.92,
+   "end": 45.98
+  },
+  {
+   "w": "dabba",
+   "start": 46.0,
+   "end": 46.26
+  },
+  {
+   "w": "minuton",
+   "start": 46.28,
+   "end": 46.54
+  },
+  {
+   "w": "mein",
+   "start": 46.56,
+   "end": 46.66
+  },
+  {
+   "w": "de",
+   "start": 46.68,
+   "end": 46.75
+  },
+  {
+   "w": "raha",
+   "start": 46.77,
+   "end": 46.84
+  },
+  {
+   "w": "hai,",
+   "start": 46.86,
+   "end": 47.222
+  },
+  {
+   "w": "lekin",
+   "start": 47.242,
+   "end": 47.46
+  },
+  {
+   "w": "khol",
+   "start": 47.48,
+   "end": 47.7
+  },
+  {
+   "w": "ke",
+   "start": 47.72,
+   "end": 47.82
+  },
+  {
+   "w": "milega",
+   "start": 47.84,
+   "end": 48.12
+  },
+  {
+   "w": "code",
+   "start": 48.14,
+   "end": 48.36
+  },
+  {
+   "w": "hi.",
+   "start": 48.38,
+   "end": 48.835
+  },
+  {
+   "w": "Yaad",
+   "start": 48.855,
+   "end": 49.12
+  },
+  {
+   "w": "rakhna,",
+   "start": 49.14,
+   "end": 49.601
+  },
+  {
+   "w": "ye",
+   "start": 49.621,
+   "end": 49.8
+  },
+  {
+   "w": "baat",
+   "start": 49.82,
+   "end": 50.0
+  },
+  {
+   "w": "chapter",
+   "start": 50.02,
+   "end": 50.34
+  },
+  {
+   "w": "do",
+   "start": 50.36,
+   "end": 50.46
+  },
+  {
+   "w": "mein",
+   "start": 50.48,
+   "end": 50.6
+  },
+  {
+   "w": "paise",
+   "start": 50.62,
+   "end": 50.8
+  },
+  {
+   "w": "bachayegi.",
+   "start": 50.82,
+   "end": 51.649
+  }
+ ],
+ "cues": {
+  "c1": 0.0,
+  "eds": 2.38,
+  "diff": 9.053,
+  "both": 19.7,
+  "box": 36.49,
+  "keep": 48.855
+ },
+ "numbers": [
+  {
+   "show": "₹5,999",
+   "spoken": "paanch hazaar nau sau ninyaanve",
+   "heard": 0.6,
+   "digit_diff": null
+  },
+  {
+   "show": "₹7,499",
+   "spoken": "saat hazaar chaar sau ninyaanve",
+   "heard": 0.4,
+   "digit_diff": null
+  },
+  {
+   "show": "₹1,500",
+   "spoken": "pandrah sau",
+   "heard": 0.5,
+   "digit_diff": null
+  },
+  {
+   "show": "20",
+   "spoken": "bees",
+   "heard": 1.0,
+   "digit_diff": null
+  }
+ ],
+ "heard": [
+  "याप्तर",
+  "एक",
+  "गेम",
+  "कदाम",
+  "प्ली",
+  "स्टीशन",
+  "लिन्द्यापे",
+  "दो",
+  "अदिशने",
+  "स्टान्टर्ट",
+  "पाच्दार",
+  "नास्वो",
+  "निन्यानवे",
+  "और",
+  "अल्टुमित",
+  "साथादार",
+  "चार्स्वो",
+  "सो",
+  "का?",
+  "और",
+  "उस",
+  "पन्दा",
+  "सो",
+  "में",
+  "कै",
+  "मिलता",
+  "है?",
+  "ऐकस्रागाडिया,",
+  "हत्यार,",
+  "कष्डे",
+  "और",
+  "सेफ",
+  "कराँवाइ।",
+  "बिस्निस",
+  "कहानी",
+  "वही",
+  "है",
+  "एक",
+  "भी",
+  "एकस्ट्रा",
+  "मेशन",
+  "वाली",
+  "स्टोरी",
+  "नहीं",
+  "तो",
+  "तो",
+  "लोगा",
+  "दिशन",
+  "के",
+  "साथ,",
+  "विंटेज",
+  "वाई",
+  "सेटी",
+  "पाख",
+  "आता",
+  "है",
+  "अरजनो",
+  "ने",
+  "बीस",
+  "नवमपर",
+  "से",
+  "पहले",
+  "दिजिटल",
+  "प्री",
+  "अडर",
+  "किया",
+  "उने",
+  "एक",
+  "मेहने",
+  "का",
+  "GTA",
+  "प्री",
+  "मिला",
+  "अप",
+  "ख़िएदोगे",
+  "तो",
+  "वो",
+  "फ्री",
+  "महना",
+  "ने",
+  "मिला",
+  "अर",
+  "जिन",
+  "के",
+  "पास",
+  "हैं,",
+  "दियान",
+  "रखना,",
+  "मैंना",
+  "खत्मोतेई",
+  "GTA",
+  "Plus",
+  "अपने",
+  "आप",
+  "रेनियो",
+  "होता",
+  "है,",
+  "जब",
+  "तक",
+  "आप",
+  "खैंसल",
+  "नख़ुए।",
+  "करो.",
+  "अप",
+  "सब",
+  "से",
+  "मजदार",
+  "बाध.",
+  "दुकान",
+  "के",
+  "जो",
+  "GTS6",
+  "का",
+  "तबबा",
+  "मिलता",
+  "है,",
+  "उसके",
+  "अंदर",
+  "दिसक",
+  "नहीं",
+  "है.",
+  "सर्फ",
+  "एक",
+  "डाईटूटुर.",
+  "कोड",
+  "एह.",
+  "ब्लिकेट",
+  "गेरा",
+  "शेभरो",
+  "के",
+  "कुछ",
+  "लाको",
+  "में",
+  "ये",
+  "दबबा",
+  "मिंटो",
+  "में",
+  "देरा",
+  "है",
+  "लेकिं",
+  "कोल",
+  "के",
+  "मिलेगा",
+  "कोड",
+  "ही.",
+  "याज",
+  "रकना,",
+  "ये",
+  "बाच...",
+  "चाप्टर",
+  "दो",
+  "में",
+  "पैसे",
+  "बचाएगी"
+ ]
+}

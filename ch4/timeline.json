@@ -1,0 +1,1298 @@
+{
+ "total": 70.582,
+ "voice": "long-gta6-hisaab/ch4/voice.wav",
+ "lines": [
+  {
+   "start": 0.0,
+   "text": "Chapter teen. Do sau baarah GB ka hisaab.",
+   "end": 2.604
+  },
+  {
+   "start": 3.142,
+   "text": "PlayStation store ke mutabik GTA six ke liye kam se kam 212 GB khaali jagah chahiye.",
+   "end": 7.68
+  },
+  {
+   "start": 7.68,
+   "text": "Aapke PS5 mein ek TB storage hai. Matlab akela GTA poori storage ka paanchva hissa kha jaata hai. Purane games delete karne padenge.",
+   "end": 16.175
+  },
+  {
+   "start": 16.47,
+   "text": "Xbox Series S wale aur dhyaan dein. Uski storage 512 GB hai. GTA akela lagbhag 41% le lega. Pehle jagah khaali karo, phir download shuru karo.",
+   "end": 26.258
+  },
+  {
+   "start": 26.78,
+   "text": "Ab internet ki baat. Do sau baarah GB download karne mein kitna time lagega?",
+   "end": 31.049
+  },
+  {
+   "start": 31.622,
+   "text": "Agar aapka net sau Mbps ka hai, aur poori speed milti hai, to lagbhag 4 ghante 43 minute .",
+   "end": 37.557
+  },
+  {
+   "start": 37.798,
+   "text": "Chaalees Mbps ka net hai, to lagbhag 11 ghante 47 minute . Raat bhar chhod do.",
+   "end": 43.778
+  },
+  {
+   "start": 43.778,
+   "text": "Chhota sa tip: PS5 ko rest mode mein chhod do. Rest mode mein bhi download chalta rehta hai, aur subah game ready milega.",
+   "end": 50.41
+  },
+  {
+   "start": 50.851,
+   "text": "Aur agar aap socho ki phone ke do GB roz wale plan se hotspot karke download kar loge, to 106 din lagenge. Sach mein. Teen mahine se zyada.",
+   "end": 59.81
+  },
+  {
+   "start": 60.391,
+   "text": "Toh GTA six se pehle ek achha WiFi plan bhi budget mein jodo.",
+   "end": 63.472
+  },
+  {
+   "start": 63.964,
+   "text": "Lekin kya PC ke liye dedh saal rukna samajhdaari hai? Uska asli sach, agle chapter mein.",
+   "end": 69.157
+  }
+ ],
+ "words": [
+  {
+   "w": "Chapter",
+   "start": 0.0,
+   "end": 0.488
+  },
+  {
+   "w": "teen.",
+   "start": 0.508,
+   "end": 0.996
+  },
+  {
+   "w": "Do",
+   "start": 1.016,
+   "end": 1.3
+  },
+  {
+   "w": "sau",
+   "start": 1.32,
+   "end": 1.48
+  },
+  {
+   "w": "baarah",
+   "start": 1.5,
+   "end": 1.8
+  },
+  {
+   "w": "GB",
+   "start": 1.82,
+   "end": 2.12
+  },
+  {
+   "w": "ka",
+   "start": 2.14,
+   "end": 2.36
+  },
+  {
+   "w": "hisaab.",
+   "start": 2.38,
+   "end": 3.122
+  },
+  {
+   "w": "PlayStation",
+   "start": 3.142,
+   "end": 3.56
+  },
+  {
+   "w": "store",
+   "start": 3.58,
+   "end": 3.82
+  },
+  {
+   "w": "ke",
+   "start": 3.84,
+   "end": 3.92
+  },
+  {
+   "w": "mutabik",
+   "start": 3.94,
+   "end": 4.52
+  },
+  {
+   "w": "GTA",
+   "start": 4.54,
+   "end": 4.88
+  },
+  {
+   "w": "six",
+   "start": 4.9,
+   "end": 5.24
+  },
+  {
+   "w": "ke",
+   "start": 5.26,
+   "end": 5.44
+  },
+  {
+   "w": "liye",
+   "start": 5.46,
+   "end": 5.7
+  },
+  {
+   "w": "kam",
+   "start": 5.72,
+   "end": 5.84
+  },
+  {
+   "w": "se",
+   "start": 5.86,
+   "end": 6.0
+  },
+  {
+   "w": "kam",
+   "start": 6.02,
+   "end": 6.14
+  },
+  {
+   "w": "212 GB",
+   "start": 6.16,
+   "end": 6.96
+  },
+  {
+   "w": "khaali",
+   "start": 7.16,
+   "end": 7.38
+  },
+  {
+   "w": "jagah",
+   "start": 7.4,
+   "end": 7.58
+  },
+  {
+   "w": "chahiye.",
+   "start": 7.6,
+   "end": 7.66
+  },
+  {
+   "w": "Aapke",
+   "start": 7.68,
+   "end": 7.883
+  },
+  {
+   "w": "PS5",
+   "start": 7.903,
+   "end": 8.106
+  },
+  {
+   "w": "mein",
+   "start": 8.126,
+   "end": 8.329
+  },
+  {
+   "w": "ek",
+   "start": 8.349,
+   "end": 8.412
+  },
+  {
+   "w": "TB",
+   "start": 8.432,
+   "end": 8.495
+  },
+  {
+   "w": "storage",
+   "start": 8.515,
+   "end": 8.577
+  },
+  {
+   "w": "hai.",
+   "start": 8.597,
+   "end": 8.66
+  },
+  {
+   "w": "Matlab",
+   "start": 8.68,
+   "end": 9.15
+  },
+  {
+   "w": "akela",
+   "start": 9.17,
+   "end": 9.64
+  },
+  {
+   "w": "GTA",
+   "start": 9.66,
+   "end": 10.46
+  },
+  {
+   "w": "poori",
+   "start": 11.76,
+   "end": 12.26
+  },
+  {
+   "w": "storage",
+   "start": 12.28,
+   "end": 12.66
+  },
+  {
+   "w": "ka",
+   "start": 12.68,
+   "end": 13.076
+  },
+  {
+   "w": "paanchva",
+   "start": 13.096,
+   "end": 13.44
+  },
+  {
+   "w": "hissa",
+   "start": 13.46,
+   "end": 13.68
+  },
+  {
+   "w": "kha",
+   "start": 13.7,
+   "end": 13.84
+  },
+  {
+   "w": "jaata",
+   "start": 13.86,
+   "end": 14.1
+  },
+  {
+   "w": "hai.",
+   "start": 14.12,
+   "end": 14.825
+  },
+  {
+   "w": "Purane",
+   "start": 14.845,
+   "end": 15.16
+  },
+  {
+   "w": "games",
+   "start": 15.18,
+   "end": 15.3
+  },
+  {
+   "w": "delete",
+   "start": 15.32,
+   "end": 15.54
+  },
+  {
+   "w": "karne",
+   "start": 15.56,
+   "end": 15.78
+  },
+  {
+   "w": "padenge.",
+   "start": 15.8,
+   "end": 16.45
+  },
+  {
+   "w": "Xbox",
+   "start": 16.47,
+   "end": 17.12
+  },
+  {
+   "w": "Series",
+   "start": 17.14,
+   "end": 17.35
+  },
+  {
+   "w": "S",
+   "start": 17.37,
+   "end": 17.58
+  },
+  {
+   "w": "wale",
+   "start": 17.6,
+   "end": 17.84
+  },
+  {
+   "w": "aur",
+   "start": 17.86,
+   "end": 18.08
+  },
+  {
+   "w": "dhyaan",
+   "start": 18.1,
+   "end": 18.3
+  },
+  {
+   "w": "dein.",
+   "start": 18.32,
+   "end": 18.4
+  },
+  {
+   "w": "Uski",
+   "start": 18.42,
+   "end": 19.16
+  },
+  {
+   "w": "storage",
+   "start": 19.18,
+   "end": 19.52
+  },
+  {
+   "w": "512 GB",
+   "start": 19.54,
+   "end": 20.34
+  },
+  {
+   "w": "hai.",
+   "start": 20.76,
+   "end": 21.56
+  },
+  {
+   "w": "GTA",
+   "start": 21.6,
+   "end": 21.7
+  },
+  {
+   "w": "akela",
+   "start": 21.72,
+   "end": 22.04
+  },
+  {
+   "w": "lagbhag",
+   "start": 22.06,
+   "end": 22.38
+  },
+  {
+   "w": "41%",
+   "start": 22.4,
+   "end": 23.059
+  },
+  {
+   "w": "le",
+   "start": 23.079,
+   "end": 23.4
+  },
+  {
+   "w": "lega.",
+   "start": 23.42,
+   "end": 24.21
+  },
+  {
+   "w": "Pehle",
+   "start": 24.23,
+   "end": 24.44
+  },
+  {
+   "w": "jagah",
+   "start": 24.46,
+   "end": 24.76
+  },
+  {
+   "w": "khaali",
+   "start": 24.78,
+   "end": 24.96
+  },
+  {
+   "w": "karo,",
+   "start": 24.98,
+   "end": 25.311
+  },
+  {
+   "w": "phir",
+   "start": 25.331,
+   "end": 25.5
+  },
+  {
+   "w": "download",
+   "start": 25.52,
+   "end": 25.82
+  },
+  {
+   "w": "shuru",
+   "start": 25.84,
+   "end": 25.98
+  },
+  {
+   "w": "karo.",
+   "start": 26.0,
+   "end": 26.76
+  },
+  {
+   "w": "Ab",
+   "start": 26.78,
+   "end": 27.06
+  },
+  {
+   "w": "internet",
+   "start": 27.08,
+   "end": 27.34
+  },
+  {
+   "w": "ki",
+   "start": 27.36,
+   "end": 27.46
+  },
+  {
+   "w": "baat.",
+   "start": 27.48,
+   "end": 27.73
+  },
+  {
+   "w": "Do",
+   "start": 27.75,
+   "end": 28.0
+  },
+  {
+   "w": "sau",
+   "start": 28.02,
+   "end": 28.27
+  },
+  {
+   "w": "baarah",
+   "start": 28.29,
+   "end": 28.54
+  },
+  {
+   "w": "GB",
+   "start": 28.56,
+   "end": 29.1
+  },
+  {
+   "w": "download",
+   "start": 29.12,
+   "end": 29.5
+  },
+  {
+   "w": "karne",
+   "start": 29.52,
+   "end": 29.78
+  },
+  {
+   "w": "mein",
+   "start": 29.8,
+   "end": 30.077
+  },
+  {
+   "w": "kitna",
+   "start": 30.097,
+   "end": 30.42
+  },
+  {
+   "w": "time",
+   "start": 30.44,
+   "end": 30.66
+  },
+  {
+   "w": "lagega?",
+   "start": 30.68,
+   "end": 31.48
+  },
+  {
+   "w": "Agar",
+   "start": 31.622,
+   "end": 31.82
+  },
+  {
+   "w": "aapka",
+   "start": 31.84,
+   "end": 32.1
+  },
+  {
+   "w": "net",
+   "start": 32.12,
+   "end": 32.32
+  },
+  {
+   "w": "sau",
+   "start": 32.34,
+   "end": 32.98
+  },
+  {
+   "w": "Mbps",
+   "start": 33.0,
+   "end": 33.2
+  },
+  {
+   "w": "ka",
+   "start": 33.22,
+   "end": 33.38
+  },
+  {
+   "w": "hai,",
+   "start": 33.4,
+   "end": 33.86
+  },
+  {
+   "w": "aur",
+   "start": 33.88,
+   "end": 34.128
+  },
+  {
+   "w": "poori",
+   "start": 34.148,
+   "end": 34.36
+  },
+  {
+   "w": "speed",
+   "start": 34.38,
+   "end": 34.7
+  },
+  {
+   "w": "milti",
+   "start": 34.72,
+   "end": 34.98
+  },
+  {
+   "w": "hai,",
+   "start": 35.0,
+   "end": 35.4
+  },
+  {
+   "w": "to",
+   "start": 35.42,
+   "end": 35.62
+  },
+  {
+   "w": "lagbhag",
+   "start": 35.64,
+   "end": 35.94
+  },
+  {
+   "w": "4 ghante 43 minute",
+   "start": 35.96,
+   "end": 36.76
+  },
+  {
+   "w": ".",
+   "start": 37.539,
+   "end": 37.778
+  },
+  {
+   "w": "Chaalees",
+   "start": 37.798,
+   "end": 38.5
+  },
+  {
+   "w": "Mbps",
+   "start": 38.52,
+   "end": 38.73
+  },
+  {
+   "w": "ka",
+   "start": 38.75,
+   "end": 38.96
+  },
+  {
+   "w": "net",
+   "start": 38.98,
+   "end": 39.22
+  },
+  {
+   "w": "hai,",
+   "start": 39.24,
+   "end": 39.478
+  },
+  {
+   "w": "to",
+   "start": 39.498,
+   "end": 39.84
+  },
+  {
+   "w": "lagbhag",
+   "start": 39.86,
+   "end": 40.24
+  },
+  {
+   "w": "11 ghante 47 minute",
+   "start": 40.26,
+   "end": 41.06
+  },
+  {
+   "w": ".",
+   "start": 41.838,
+   "end": 42.077
+  },
+  {
+   "w": "Raat",
+   "start": 42.097,
+   "end": 42.56
+  },
+  {
+   "w": "bhar",
+   "start": 42.58,
+   "end": 42.68
+  },
+  {
+   "w": "chhod",
+   "start": 42.7,
+   "end": 42.92
+  },
+  {
+   "w": "do.",
+   "start": 42.94,
+   "end": 43.74
+  },
+  {
+   "w": "Chhota",
+   "start": 43.778,
+   "end": 43.98
+  },
+  {
+   "w": "sa",
+   "start": 44.0,
+   "end": 44.12
+  },
+  {
+   "w": "tip:",
+   "start": 44.14,
+   "end": 44.74
+  },
+  {
+   "w": "PS5",
+   "start": 44.76,
+   "end": 45.36
+  },
+  {
+   "w": "ko",
+   "start": 45.38,
+   "end": 45.52
+  },
+  {
+   "w": "rest",
+   "start": 45.54,
+   "end": 45.84
+  },
+  {
+   "w": "mode",
+   "start": 45.86,
+   "end": 46.06
+  },
+  {
+   "w": "mein",
+   "start": 46.08,
+   "end": 46.18
+  },
+  {
+   "w": "chhod",
+   "start": 46.2,
+   "end": 46.421
+  },
+  {
+   "w": "do.",
+   "start": 46.441,
+   "end": 46.661
+  },
+  {
+   "w": "Rest",
+   "start": 46.681,
+   "end": 47.32
+  },
+  {
+   "w": "mode",
+   "start": 47.34,
+   "end": 47.54
+  },
+  {
+   "w": "mein",
+   "start": 47.56,
+   "end": 47.64
+  },
+  {
+   "w": "bhi",
+   "start": 47.66,
+   "end": 47.74
+  },
+  {
+   "w": "download",
+   "start": 47.76,
+   "end": 48.08
+  },
+  {
+   "w": "chalta",
+   "start": 48.1,
+   "end": 48.38
+  },
+  {
+   "w": "rehta",
+   "start": 48.4,
+   "end": 48.62
+  },
+  {
+   "w": "hai,",
+   "start": 48.64,
+   "end": 48.998
+  },
+  {
+   "w": "aur",
+   "start": 49.018,
+   "end": 49.26
+  },
+  {
+   "w": "subah",
+   "start": 49.28,
+   "end": 49.52
+  },
+  {
+   "w": "game",
+   "start": 49.54,
+   "end": 49.79
+  },
+  {
+   "w": "ready",
+   "start": 49.81,
+   "end": 50.06
+  },
+  {
+   "w": "milega.",
+   "start": 50.08,
+   "end": 50.831
+  },
+  {
+   "w": "Aur",
+   "start": 50.851,
+   "end": 51.02
+  },
+  {
+   "w": "agar",
+   "start": 51.04,
+   "end": 51.2
+  },
+  {
+   "w": "aap",
+   "start": 51.22,
+   "end": 51.32
+  },
+  {
+   "w": "socho",
+   "start": 51.34,
+   "end": 51.74
+  },
+  {
+   "w": "ki",
+   "start": 51.76,
+   "end": 52.0
+  },
+  {
+   "w": "phone",
+   "start": 52.02,
+   "end": 52.3
+  },
+  {
+   "w": "ke",
+   "start": 52.32,
+   "end": 52.48
+  },
+  {
+   "w": "do",
+   "start": 52.5,
+   "end": 52.7
+  },
+  {
+   "w": "GB",
+   "start": 52.72,
+   "end": 52.92
+  },
+  {
+   "w": "roz",
+   "start": 52.94,
+   "end": 53.22
+  },
+  {
+   "w": "wale",
+   "start": 53.24,
+   "end": 53.46
+  },
+  {
+   "w": "plan",
+   "start": 53.48,
+   "end": 53.78
+  },
+  {
+   "w": "se",
+   "start": 53.8,
+   "end": 53.9
+  },
+  {
+   "w": "hotspot",
+   "start": 53.92,
+   "end": 54.4
+  },
+  {
+   "w": "karke",
+   "start": 54.42,
+   "end": 54.66
+  },
+  {
+   "w": "download",
+   "start": 54.68,
+   "end": 54.98
+  },
+  {
+   "w": "kar",
+   "start": 55.0,
+   "end": 55.16
+  },
+  {
+   "w": "loge,",
+   "start": 55.18,
+   "end": 55.42
+  },
+  {
+   "w": "to",
+   "start": 55.44,
+   "end": 55.94
+  },
+  {
+   "w": "106 din",
+   "start": 55.96,
+   "end": 56.76
+  },
+  {
+   "w": "lagenge.",
+   "start": 56.88,
+   "end": 57.68
+  },
+  {
+   "w": "Sach",
+   "start": 57.82,
+   "end": 58.24
+  },
+  {
+   "w": "mein.",
+   "start": 58.26,
+   "end": 58.941
+  },
+  {
+   "w": "Teen",
+   "start": 58.961,
+   "end": 59.18
+  },
+  {
+   "w": "mahine",
+   "start": 59.2,
+   "end": 59.44
+  },
+  {
+   "w": "se",
+   "start": 59.46,
+   "end": 59.56
+  },
+  {
+   "w": "zyada.",
+   "start": 59.58,
+   "end": 60.371
+  },
+  {
+   "w": "Toh",
+   "start": 60.391,
+   "end": 60.46
+  },
+  {
+   "w": "GTA",
+   "start": 60.48,
+   "end": 60.76
+  },
+  {
+   "w": "six",
+   "start": 60.78,
+   "end": 61.06
+  },
+  {
+   "w": "se",
+   "start": 61.08,
+   "end": 61.28
+  },
+  {
+   "w": "pehle",
+   "start": 61.3,
+   "end": 61.52
+  },
+  {
+   "w": "ek",
+   "start": 61.54,
+   "end": 61.64
+  },
+  {
+   "w": "achha",
+   "start": 61.66,
+   "end": 61.92
+  },
+  {
+   "w": "WiFi",
+   "start": 61.94,
+   "end": 62.38
+  },
+  {
+   "w": "plan",
+   "start": 62.4,
+   "end": 62.62
+  },
+  {
+   "w": "bhi",
+   "start": 62.64,
+   "end": 62.78
+  },
+  {
+   "w": "budget",
+   "start": 62.8,
+   "end": 63.06
+  },
+  {
+   "w": "mein",
+   "start": 63.08,
+   "end": 63.22
+  },
+  {
+   "w": "jodo.",
+   "start": 63.24,
+   "end": 63.944
+  },
+  {
+   "w": "Lekin",
+   "start": 63.964,
+   "end": 64.4
+  },
+  {
+   "w": "kya",
+   "start": 64.42,
+   "end": 64.64
+  },
+  {
+   "w": "PC",
+   "start": 64.66,
+   "end": 64.88
+  },
+  {
+   "w": "ke",
+   "start": 64.9,
+   "end": 65.08
+  },
+  {
+   "w": "liye",
+   "start": 65.1,
+   "end": 65.22
+  },
+  {
+   "w": "dedh",
+   "start": 65.24,
+   "end": 65.44
+  },
+  {
+   "w": "saal",
+   "start": 65.46,
+   "end": 65.7
+  },
+  {
+   "w": "rukna",
+   "start": 65.72,
+   "end": 65.94
+  },
+  {
+   "w": "samajhdaari",
+   "start": 65.96,
+   "end": 66.42
+  },
+  {
+   "w": "hai?",
+   "start": 66.44,
+   "end": 67.217
+  },
+  {
+   "w": "Uska",
+   "start": 67.237,
+   "end": 67.511
+  },
+  {
+   "w": "asli",
+   "start": 67.531,
+   "end": 67.751
+  },
+  {
+   "w": "sach,",
+   "start": 67.771,
+   "end": 67.991
+  },
+  {
+   "w": "agle",
+   "start": 68.011,
+   "end": 68.731
+  },
+  {
+   "w": "chapter",
+   "start": 68.751,
+   "end": 69.011
+  },
+  {
+   "w": "mein.",
+   "start": 69.031,
+   "end": 69.582
+  }
+ ],
+ "cues": {
+  "c3": 0.0,
+  "gb": 3.142,
+  "share": 7.68,
+  "seriess": 16.47,
+  "net": 26.78,
+  "fast": 31.622,
+  "slow": 37.798,
+  "rest": 43.778,
+  "phone": 50.851,
+  "wifi": 60.391,
+  "tease": 63.964
+ },
+ "numbers": [
+  {
+   "show": "212 GB",
+   "spoken": "do sau baarah GB",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "PS5",
+   "spoken": "PS5",
+   "heard": 0.0,
+   "digit_diff": null
+  },
+  {
+   "show": "512 GB",
+   "spoken": "paanch sau baarah GB",
+   "heard": 0.25,
+   "digit_diff": null
+  },
+  {
+   "show": "41%",
+   "spoken": "ikttaalees pratishat",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "4 ghante 43 minute",
+   "spoken": "chaar ghante taintaalees minute",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "11 ghante 47 minute",
+   "spoken": "gyaarah ghante saintaalees minute",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "PS5",
+   "spoken": "PS5",
+   "heard": 0.0,
+   "digit_diff": null
+  },
+  {
+   "show": "106 din",
+   "spoken": "ek sau chhe din",
+   "heard": 1.0,
+   "digit_diff": null
+  }
+ ],
+ "heard": [
+  "चाँप्तर",
+  "3,",
+  "तो",
+  "सो",
+  "बारा",
+  "जीवी",
+  "काहे",
+  "साब",
+  "प्लेज्टेशन",
+  "स्टोर",
+  "के",
+  "मुताबिक,",
+  "GTA",
+  "6",
+  "के",
+  "लिए,",
+  "कम",
+  "से",
+  "कम",
+  "तो",
+  "सो",
+  "बारा",
+  "जीवी",
+  "खाली",
+  "जगे",
+  "चाहिया",
+  "आप",
+  "आप",
+  "अपके",
+  "फाँठा",
+  "चिता",
+  "पुरी",
+  "श्टोरेज",
+  "का",
+  "पाजवा",
+  "हिस्सा",
+  "का",
+  "जाता",
+  "है।",
+  "पुरा",
+  "यहाउ",
+  "गेंज",
+  "जिलिट",
+  "करने",
+  "पडेंगे",
+  "अग्स्बोक",
+  "सीरी",
+  "जेस",
+  "वाले",
+  "और",
+  "जान",
+  "दे",
+  "उसकी",
+  "स्टोरेज",
+  "पाजसो",
+  "बारा",
+  "जी",
+  "भी",
+  "है",
+  "जी",
+  "टी",
+  "अखेला",
+  "लगबग",
+  "एक",
+  "तालीस",
+  "प्रतीषद",
+  "लेलेगा",
+  "पहले",
+  "जगाखा",
+  "खाली",
+  "करो,",
+  "फिर",
+  "डाँडलोट",
+  "शुम",
+  "करो",
+  "अब",
+  "न्टनेट",
+  "की",
+  "बात,",
+  "212",
+  "GB",
+  "TOWLOAD",
+  "करने",
+  "में",
+  "कितना",
+  "ताई",
+  "लागेगा?",
+  "अगर",
+  "आपका",
+  "नेट",
+  "सो",
+  "मबी",
+  "पीस",
+  "का",
+  "है,",
+  "और",
+  "पूरी",
+  "स्पीड",
+  "मिलती",
+  "है.",
+  "तो",
+  "लग",
+  "भग...",
+  "चार",
+  "गंते",
+  "तैटालिस",
+  "मिनेट",
+  "चालिस",
+  "मभी",
+  "पियस",
+  "कनेट",
+  "है",
+  "तु",
+  "लग",
+  "बख",
+  "चारा",
+  "गंते",
+  "सैटालिस",
+  "मिनेट",
+  "राद",
+  "बर",
+  "चोर",
+  "दो",
+  "चोता",
+  "से",
+  "टिप",
+  "पीस्वाइव",
+  "को",
+  "रेस्ट",
+  "मोड",
+  "में",
+  "चोर्दो",
+  "रेस्ट",
+  "मोड",
+  "में",
+  "भी",
+  "डाईलोट",
+  "चलता",
+  "रहता",
+  "है",
+  "और",
+  "सुभब",
+  "गेम",
+  "रेट्टिट",
+  "मिलेगा",
+  "और",
+  "अगर",
+  "आप",
+  "सोचो",
+  "की",
+  "फोन",
+  "के",
+  "दो",
+  "जीभी",
+  "रोज",
+  "वाले",
+  "पलान्त",
+  "से",
+  "होट्स्पोट",
+  "कर",
+  "के",
+  "डाओलोड",
+  "कर",
+  "लोगे",
+  "तो",
+  "एक",
+  "सो",
+  "चे",
+  "दिन",
+  "लगे",
+  "सच्छ",
+  "में,",
+  "तीन",
+  "महीने",
+  "से",
+  "जादा,",
+  "तो",
+  "GTA",
+  "6",
+  "से",
+  "पहले",
+  "एक",
+  "अच्छा",
+  "वाईफाई",
+  "प्लान",
+  "भी",
+  "बजेट",
+  "में",
+  "जोडो.",
+  "लिकिन",
+  "क्या",
+  "पीसी",
+  "के",
+  "लिए",
+  "देड",
+  "साल",
+  "रुकना",
+  "समच्दारी",
+  "है?",
+  "उसका",
+  "आस्ली",
+  "सच",
+  "आगले",
+  "चाप्टर",
+  "में"
+ ]
+}

@@ -1,0 +1,1180 @@
+{
+ "total": 68.706,
+ "voice": "long-gta6-hisaab/ch7/voice.wav",
+ "lines": [
+  {
+   "start": 0.0,
+   "text": "Chapter chhe. Duniya mein kya hua.",
+   "end": 1.611
+  },
+  {
+   "start": 1.611,
+   "text": "Pehle kahani. GTA six mein do lead hain, Jason Duval aur Lucia Caminos. Ye pehla numbered GTA hai jisme female lead hai. Game Leonida mein set hai, jo Florida ka nakli roop hai, aur saath mein naya Vice City. Reports ke mutabik map GTA five se lagbhag do guna bada hai, lekin Rockstar ne official number nahi diya.",
+   "end": 22.778
+  },
+  {
+   "start": 22.778,
+   "text": "Kya game paise layak hai? Critics ka jawab: haan. Metacritic pe 99 , ek sau pachaas se zyada reviews se. Ye Zelda Ocarina of Time ke 1998 wale record ki barabari hai. IGN aur GameSpot ne das mein se das diye.",
+   "end": 38.736
+  },
+  {
+   "start": 38.736,
+   "text": "Paisa bhi barsa. Sensor Tower ke andaaze se launch se pehle hi lagbhag 17.07 million digital pre-order, aur $1.65 billion ki kamai. Ye andaaze hain, Rockstar ne official number abhi nahi diye.",
+   "end": 51.645
+  },
+  {
+   "start": 51.645,
+   "text": "Lekin sab kuch perfect nahi. Launch se ek din pehle PSN down hua. Kuch players ne prologue mein crash, Lucia ke shuruaati mission mein game atakna, aur gaadiyon ki ajeeb physics ki shikaayat ki.",
+   "end": 62.776
+  },
+  {
+   "start": 62.776,
+   "text": "Aur console pe game tees frame per second pe locked hai. Reviewers ki sabse badi shikaayat yahi rahi.",
+   "end": 67.357
+  }
+ ],
+ "words": [
+  {
+   "w": "Chapter",
+   "start": 0.0,
+   "end": 0.24
+  },
+  {
+   "w": "chhe.",
+   "start": 0.26,
+   "end": 0.5
+  },
+  {
+   "w": "Duniya",
+   "start": 0.52,
+   "end": 1.32
+  },
+  {
+   "w": "mein",
+   "start": 1.42,
+   "end": 1.56
+  },
+  {
+   "w": "kya",
+   "start": 1.58,
+   "end": 1.576
+  },
+  {
+   "w": "hua.",
+   "start": 1.596,
+   "end": 1.591
+  },
+  {
+   "w": "Pehle",
+   "start": 1.611,
+   "end": 1.607
+  },
+  {
+   "w": "kahani.",
+   "start": 1.627,
+   "end": 1.622
+  },
+  {
+   "w": "GTA",
+   "start": 1.642,
+   "end": 1.638
+  },
+  {
+   "w": "six",
+   "start": 1.658,
+   "end": 1.653
+  },
+  {
+   "w": "mein",
+   "start": 1.673,
+   "end": 1.669
+  },
+  {
+   "w": "do",
+   "start": 1.689,
+   "end": 1.684
+  },
+  {
+   "w": "lead",
+   "start": 1.704,
+   "end": 1.7
+  },
+  {
+   "w": "hain,",
+   "start": 1.72,
+   "end": 2.52
+  },
+  {
+   "w": "Jason",
+   "start": 2.748,
+   "end": 3.548
+  },
+  {
+   "w": "Duval",
+   "start": 3.776,
+   "end": 4.576
+  },
+  {
+   "w": "aur",
+   "start": 4.803,
+   "end": 5.603
+  },
+  {
+   "w": "Lucia",
+   "start": 5.831,
+   "end": 6.631
+  },
+  {
+   "w": "Caminos.",
+   "start": 6.859,
+   "end": 7.659
+  },
+  {
+   "w": "Ye",
+   "start": 7.887,
+   "end": 8.328
+  },
+  {
+   "w": "pehla",
+   "start": 8.348,
+   "end": 8.72
+  },
+  {
+   "w": "numbered",
+   "start": 8.74,
+   "end": 9.16
+  },
+  {
+   "w": "GTA",
+   "start": 9.18,
+   "end": 9.6
+  },
+  {
+   "w": "hai",
+   "start": 9.62,
+   "end": 9.74
+  },
+  {
+   "w": "jisme",
+   "start": 9.76,
+   "end": 10.14
+  },
+  {
+   "w": "female",
+   "start": 10.16,
+   "end": 10.56
+  },
+  {
+   "w": "lead",
+   "start": 10.58,
+   "end": 10.78
+  },
+  {
+   "w": "hai.",
+   "start": 10.8,
+   "end": 11.46
+  },
+  {
+   "w": "Game",
+   "start": 11.48,
+   "end": 11.8
+  },
+  {
+   "w": "Leonida",
+   "start": 11.82,
+   "end": 12.2
+  },
+  {
+   "w": "mein",
+   "start": 12.22,
+   "end": 12.32
+  },
+  {
+   "w": "set",
+   "start": 12.34,
+   "end": 12.52
+  },
+  {
+   "w": "hai,",
+   "start": 12.54,
+   "end": 12.813
+  },
+  {
+   "w": "jo",
+   "start": 12.833,
+   "end": 12.98
+  },
+  {
+   "w": "Florida",
+   "start": 13.0,
+   "end": 13.4
+  },
+  {
+   "w": "ka",
+   "start": 13.42,
+   "end": 13.54
+  },
+  {
+   "w": "nakli",
+   "start": 13.56,
+   "end": 13.8
+  },
+  {
+   "w": "roop",
+   "start": 13.82,
+   "end": 14.02
+  },
+  {
+   "w": "hai,",
+   "start": 14.04,
+   "end": 14.38
+  },
+  {
+   "w": "aur",
+   "start": 14.4,
+   "end": 14.54
+  },
+  {
+   "w": "saath",
+   "start": 14.56,
+   "end": 14.88
+  },
+  {
+   "w": "mein",
+   "start": 14.9,
+   "end": 15.08
+  },
+  {
+   "w": "naya",
+   "start": 15.1,
+   "end": 15.34
+  },
+  {
+   "w": "Vice",
+   "start": 15.36,
+   "end": 15.52
+  },
+  {
+   "w": "City.",
+   "start": 15.54,
+   "end": 16.336
+  },
+  {
+   "w": "Reports",
+   "start": 16.356,
+   "end": 16.68
+  },
+  {
+   "w": "ke",
+   "start": 16.7,
+   "end": 16.78
+  },
+  {
+   "w": "mutabik",
+   "start": 16.8,
+   "end": 17.26
+  },
+  {
+   "w": "map",
+   "start": 17.28,
+   "end": 17.72
+  },
+  {
+   "w": "GTA",
+   "start": 17.74,
+   "end": 18.18
+  },
+  {
+   "w": "five",
+   "start": 18.2,
+   "end": 18.54
+  },
+  {
+   "w": "se",
+   "start": 18.56,
+   "end": 18.68
+  },
+  {
+   "w": "lagbhag",
+   "start": 18.7,
+   "end": 19.02
+  },
+  {
+   "w": "do",
+   "start": 19.04,
+   "end": 19.42
+  },
+  {
+   "w": "guna",
+   "start": 19.44,
+   "end": 19.8
+  },
+  {
+   "w": "bada",
+   "start": 19.82,
+   "end": 20.08
+  },
+  {
+   "w": "hai,",
+   "start": 20.1,
+   "end": 20.36
+  },
+  {
+   "w": "lekin",
+   "start": 20.38,
+   "end": 20.66
+  },
+  {
+   "w": "Rockstar",
+   "start": 20.68,
+   "end": 21.08
+  },
+  {
+   "w": "ne",
+   "start": 21.1,
+   "end": 21.18
+  },
+  {
+   "w": "official",
+   "start": 21.2,
+   "end": 21.56
+  },
+  {
+   "w": "number",
+   "start": 21.58,
+   "end": 21.8
+  },
+  {
+   "w": "nahi",
+   "start": 21.82,
+   "end": 22.279
+  },
+  {
+   "w": "diya.",
+   "start": 22.299,
+   "end": 22.758
+  },
+  {
+   "w": "Kya",
+   "start": 22.778,
+   "end": 22.98
+  },
+  {
+   "w": "game",
+   "start": 23.0,
+   "end": 23.3
+  },
+  {
+   "w": "paise",
+   "start": 23.32,
+   "end": 23.68
+  },
+  {
+   "w": "layak",
+   "start": 23.7,
+   "end": 23.88
+  },
+  {
+   "w": "hai?",
+   "start": 23.9,
+   "end": 24.7
+  },
+  {
+   "w": "Critics",
+   "start": 24.735,
+   "end": 25.1
+  },
+  {
+   "w": "ka",
+   "start": 25.12,
+   "end": 25.2
+  },
+  {
+   "w": "jawab:",
+   "start": 25.22,
+   "end": 25.58
+  },
+  {
+   "w": "haan.",
+   "start": 25.6,
+   "end": 26.4
+  },
+  {
+   "w": "Metacritic",
+   "start": 26.78,
+   "end": 27.58
+  },
+  {
+   "w": "pe",
+   "start": 27.6,
+   "end": 27.72
+  },
+  {
+   "w": "99",
+   "start": 27.74,
+   "end": 28.418
+  },
+  {
+   "w": ",",
+   "start": 28.438,
+   "end": 29.116
+  },
+  {
+   "w": "ek",
+   "start": 29.136,
+   "end": 29.32
+  },
+  {
+   "w": "sau",
+   "start": 29.34,
+   "end": 29.5
+  },
+  {
+   "w": "pachaas",
+   "start": 29.52,
+   "end": 30.06
+  },
+  {
+   "w": "se",
+   "start": 30.08,
+   "end": 30.22
+  },
+  {
+   "w": "zyada",
+   "start": 30.24,
+   "end": 30.5
+  },
+  {
+   "w": "reviews",
+   "start": 30.52,
+   "end": 30.82
+  },
+  {
+   "w": "se.",
+   "start": 30.84,
+   "end": 31.56
+  },
+  {
+   "w": "Ye",
+   "start": 31.58,
+   "end": 31.86
+  },
+  {
+   "w": "Zelda",
+   "start": 31.88,
+   "end": 32.34
+  },
+  {
+   "w": "Ocarina",
+   "start": 32.36,
+   "end": 32.67
+  },
+  {
+   "w": "of",
+   "start": 32.69,
+   "end": 33.0
+  },
+  {
+   "w": "Time",
+   "start": 33.02,
+   "end": 33.25
+  },
+  {
+   "w": "ke",
+   "start": 33.27,
+   "end": 33.5
+  },
+  {
+   "w": "1998",
+   "start": 33.52,
+   "end": 34.32
+  },
+  {
+   "w": "wale",
+   "start": 34.34,
+   "end": 34.5
+  },
+  {
+   "w": "record",
+   "start": 34.52,
+   "end": 34.76
+  },
+  {
+   "w": "ki",
+   "start": 34.78,
+   "end": 34.9
+  },
+  {
+   "w": "barabari",
+   "start": 34.92,
+   "end": 35.26
+  },
+  {
+   "w": "hai.",
+   "start": 35.28,
+   "end": 35.937
+  },
+  {
+   "w": "IGN",
+   "start": 35.957,
+   "end": 36.318
+  },
+  {
+   "w": "aur",
+   "start": 36.338,
+   "end": 36.7
+  },
+  {
+   "w": "GameSpot",
+   "start": 36.72,
+   "end": 36.94
+  },
+  {
+   "w": "ne",
+   "start": 36.96,
+   "end": 37.2
+  },
+  {
+   "w": "das",
+   "start": 37.22,
+   "end": 37.36
+  },
+  {
+   "w": "mein",
+   "start": 37.38,
+   "end": 37.52
+  },
+  {
+   "w": "se",
+   "start": 37.54,
+   "end": 37.72
+  },
+  {
+   "w": "das",
+   "start": 37.74,
+   "end": 37.8
+  },
+  {
+   "w": "diye.",
+   "start": 37.82,
+   "end": 38.62
+  },
+  {
+   "w": "Paisa",
+   "start": 38.736,
+   "end": 38.96
+  },
+  {
+   "w": "bhi",
+   "start": 38.98,
+   "end": 39.06
+  },
+  {
+   "w": "barsa.",
+   "start": 39.08,
+   "end": 39.88
+  },
+  {
+   "w": "Sensor",
+   "start": 39.98,
+   "end": 40.36
+  },
+  {
+   "w": "Tower",
+   "start": 40.38,
+   "end": 40.62
+  },
+  {
+   "w": "ke",
+   "start": 40.64,
+   "end": 40.76
+  },
+  {
+   "w": "andaaze",
+   "start": 40.78,
+   "end": 41.08
+  },
+  {
+   "w": "se",
+   "start": 41.1,
+   "end": 41.24
+  },
+  {
+   "w": "launch",
+   "start": 41.26,
+   "end": 41.6
+  },
+  {
+   "w": "se",
+   "start": 41.62,
+   "end": 41.76
+  },
+  {
+   "w": "pehle",
+   "start": 41.78,
+   "end": 41.98
+  },
+  {
+   "w": "hi",
+   "start": 42.0,
+   "end": 42.08
+  },
+  {
+   "w": "lagbhag",
+   "start": 42.1,
+   "end": 42.44
+  },
+  {
+   "w": "17.07 million",
+   "start": 42.46,
+   "end": 43.26
+  },
+  {
+   "w": "digital",
+   "start": 46.35,
+   "end": 47.15
+  },
+  {
+   "w": "pre-order,",
+   "start": 47.227,
+   "end": 48.027
+  },
+  {
+   "w": "aur",
+   "start": 48.105,
+   "end": 48.905
+  },
+  {
+   "w": "$1.65 billion",
+   "start": 48.983,
+   "end": 49.783
+  },
+  {
+   "w": "ki",
+   "start": 50.036,
+   "end": 50.042
+  },
+  {
+   "w": "kamai.",
+   "start": 50.062,
+   "end": 50.067
+  },
+  {
+   "w": "Ye",
+   "start": 50.087,
+   "end": 50.093
+  },
+  {
+   "w": "andaaze",
+   "start": 50.113,
+   "end": 50.118
+  },
+  {
+   "w": "hain,",
+   "start": 50.138,
+   "end": 50.144
+  },
+  {
+   "w": "Rockstar",
+   "start": 50.164,
+   "end": 50.169
+  },
+  {
+   "w": "ne",
+   "start": 50.189,
+   "end": 50.195
+  },
+  {
+   "w": "official",
+   "start": 50.215,
+   "end": 50.22
+  },
+  {
+   "w": "number",
+   "start": 50.24,
+   "end": 50.46
+  },
+  {
+   "w": "abhi",
+   "start": 50.48,
+   "end": 50.62
+  },
+  {
+   "w": "nahi",
+   "start": 50.64,
+   "end": 50.76
+  },
+  {
+   "w": "diye.",
+   "start": 50.78,
+   "end": 51.58
+  },
+  {
+   "w": "Lekin",
+   "start": 51.645,
+   "end": 51.82
+  },
+  {
+   "w": "sab",
+   "start": 51.84,
+   "end": 52.02
+  },
+  {
+   "w": "kuch",
+   "start": 52.04,
+   "end": 52.12
+  },
+  {
+   "w": "perfect",
+   "start": 52.14,
+   "end": 52.46
+  },
+  {
+   "w": "nahi.",
+   "start": 52.48,
+   "end": 53.28
+  },
+  {
+   "w": "Launch",
+   "start": 53.309,
+   "end": 53.64
+  },
+  {
+   "w": "se",
+   "start": 53.66,
+   "end": 53.78
+  },
+  {
+   "w": "ek",
+   "start": 53.8,
+   "end": 53.86
+  },
+  {
+   "w": "din",
+   "start": 53.88,
+   "end": 53.98
+  },
+  {
+   "w": "pehle",
+   "start": 54.0,
+   "end": 54.27
+  },
+  {
+   "w": "PSN",
+   "start": 54.29,
+   "end": 54.56
+  },
+  {
+   "w": "down",
+   "start": 54.58,
+   "end": 54.78
+  },
+  {
+   "w": "hua.",
+   "start": 54.8,
+   "end": 55.6
+  },
+  {
+   "w": "Kuch",
+   "start": 55.681,
+   "end": 55.8
+  },
+  {
+   "w": "players",
+   "start": 55.82,
+   "end": 56.06
+  },
+  {
+   "w": "ne",
+   "start": 56.08,
+   "end": 56.66
+  },
+  {
+   "w": "prologue",
+   "start": 56.68,
+   "end": 56.82
+  },
+  {
+   "w": "mein",
+   "start": 56.84,
+   "end": 57.0
+  },
+  {
+   "w": "crash,",
+   "start": 57.02,
+   "end": 57.32
+  },
+  {
+   "w": "Lucia",
+   "start": 57.34,
+   "end": 58.14
+  },
+  {
+   "w": "ke",
+   "start": 58.24,
+   "end": 58.3
+  },
+  {
+   "w": "shuruaati",
+   "start": 58.32,
+   "end": 58.76
+  },
+  {
+   "w": "mission",
+   "start": 58.78,
+   "end": 59.0
+  },
+  {
+   "w": "mein",
+   "start": 59.02,
+   "end": 59.16
+  },
+  {
+   "w": "game",
+   "start": 59.18,
+   "end": 59.36
+  },
+  {
+   "w": "atakna,",
+   "start": 59.38,
+   "end": 60.079
+  },
+  {
+   "w": "aur",
+   "start": 60.099,
+   "end": 60.414
+  },
+  {
+   "w": "gaadiyon",
+   "start": 60.434,
+   "end": 60.82
+  },
+  {
+   "w": "ki",
+   "start": 60.84,
+   "end": 60.92
+  },
+  {
+   "w": "ajeeb",
+   "start": 60.94,
+   "end": 61.12
+  },
+  {
+   "w": "physics",
+   "start": 61.14,
+   "end": 61.48
+  },
+  {
+   "w": "ki",
+   "start": 61.5,
+   "end": 61.56
+  },
+  {
+   "w": "shikaayat",
+   "start": 61.58,
+   "end": 61.92
+  },
+  {
+   "w": "ki.",
+   "start": 61.94,
+   "end": 62.74
+  },
+  {
+   "w": "Aur",
+   "start": 62.776,
+   "end": 62.88
+  },
+  {
+   "w": "console",
+   "start": 62.9,
+   "end": 63.22
+  },
+  {
+   "w": "pe",
+   "start": 63.24,
+   "end": 63.4
+  },
+  {
+   "w": "game",
+   "start": 63.42,
+   "end": 63.701
+  },
+  {
+   "w": "tees",
+   "start": 63.721,
+   "end": 63.9
+  },
+  {
+   "w": "frame",
+   "start": 63.92,
+   "end": 64.12
+  },
+  {
+   "w": "per",
+   "start": 64.14,
+   "end": 64.32
+  },
+  {
+   "w": "second",
+   "start": 64.34,
+   "end": 64.58
+  },
+  {
+   "w": "pe",
+   "start": 64.6,
+   "end": 64.64
+  },
+  {
+   "w": "locked",
+   "start": 64.66,
+   "end": 64.88
+  },
+  {
+   "w": "hai.",
+   "start": 64.9,
+   "end": 65.639
+  },
+  {
+   "w": "Reviewers",
+   "start": 65.659,
+   "end": 66.02
+  },
+  {
+   "w": "ki",
+   "start": 66.04,
+   "end": 66.14
+  },
+  {
+   "w": "sabse",
+   "start": 66.16,
+   "end": 66.46
+  },
+  {
+   "w": "badi",
+   "start": 66.48,
+   "end": 66.6
+  },
+  {
+   "w": "shikaayat",
+   "start": 66.62,
+   "end": 66.94
+  },
+  {
+   "w": "yahi",
+   "start": 66.96,
+   "end": 67.12
+  },
+  {
+   "w": "rahi.",
+   "start": 67.14,
+   "end": 67.706
+  }
+ ],
+ "cues": {
+  "c6": 0.0,
+  "story": 1.611,
+  "meta": 22.778,
+  "money": 38.736,
+  "bugs": 51.645,
+  "fps": 62.776
+ },
+ "numbers": [
+  {
+   "show": "99",
+   "spoken": "ninyaanve",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "1998",
+   "spoken": "unnees sau atthaanve",
+   "heard": 0.67,
+   "digit_diff": null
+  },
+  {
+   "show": "17.07 million",
+   "spoken": "satrah point zero saat million",
+   "heard": 0.4,
+   "digit_diff": null
+  },
+  {
+   "show": "$1.65 billion",
+   "spoken": "ek point painsath billion dollar",
+   "heard": 0.4,
+   "digit_diff": null
+  }
+ ],
+ "heard": [
+  "चाँप्टर",
+  "6",
+  "दूनिया",
+  "में",
+  "क्या",
+  "हूँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँ�",
+  "ये",
+  "पहला",
+  "नमबर",
+  "जीटीए",
+  "है",
+  "जिस",
+  "में",
+  "फीमें",
+  "लीड",
+  "है.",
+  "गेम",
+  "लियोनेडा",
+  "में",
+  "सेट",
+  "है,",
+  "जो",
+  "फ्लोरेडा",
+  "का",
+  "नकली",
+  "रूप",
+  "है,",
+  "और",
+  "साथ",
+  "में...",
+  "नया",
+  "वाई",
+  "सेटी.",
+  "रेपोर्स",
+  "के",
+  "मुताब",
+  "एक",
+  "मैप",
+  "जीटीए",
+  "फीव",
+  "से",
+  "लगबग",
+  "दो",
+  "गुना",
+  "बड़ा",
+  "है,",
+  "लेकिन",
+  "रोकस्टार",
+  "ने",
+  "अफिश्यल",
+  "नमबर",
+  "नहीं.",
+  "क्या",
+  "गेम",
+  "पैसे",
+  "लाएक",
+  "है?",
+  "क्रिटिक्स",
+  "का",
+  "जबाब",
+  "हाँ",
+  "मेता",
+  "क्रिटिक",
+  "पे",
+  "निन्यानवे",
+  "नियानवे,",
+  "एक",
+  "सो",
+  "पचाज",
+  "से",
+  "जादा",
+  "रिवू",
+  "से,",
+  "ये",
+  "जेल्दा",
+  "अखरीना",
+  "अप",
+  "तामके,",
+  "उन्नीस्वाट",
+  "ठानवे",
+  "वाले",
+  "रिकोड",
+  "की",
+  "ब्राभरी",
+  "है।",
+  "ign",
+  "and",
+  "game",
+  "spot",
+  "नहीं",
+  "दस",
+  "में",
+  "से",
+  "दस",
+  "दास",
+  "दिये,",
+  "पैसा",
+  "भी",
+  "बरसा,",
+  "सेंसर",
+  "तावर",
+  "के",
+  "अंदाजे",
+  "से",
+  "लाँंच",
+  "से",
+  "पहले",
+  "ही",
+  "लगबाग",
+  "सत्रा",
+  "पुएँ।",
+  "अपने",
+  "अपने",
+  "नंबर",
+  "अभी",
+  "नहीं",
+  "दिये.",
+  "लेकिन",
+  "सब",
+  "कुछ",
+  "प्रफेख",
+  "नहीं.",
+  "लाँन",
+  "से",
+  "एक",
+  "दिन",
+  "पहले",
+  "पीए",
+  "से",
+  "डाँन",
+  "वह.",
+  "कुछ",
+  "प्लियाँस",
+  "ने",
+  "प्रो",
+  "लोग",
+  "मेख.",
+  "ख्राश",
+  "लूसीड़",
+  "के",
+  "श्रुवाती",
+  "मशन",
+  "में",
+  "गें",
+  "आटकना",
+  "और",
+  "गाडीयों",
+  "के",
+  "आजी",
+  "फिसिकस",
+  "की",
+  "शिकाइत",
+  "की",
+  "और",
+  "कुँस्वल",
+  "पे",
+  "गेम",
+  "तीस",
+  "फ्रुँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँँ�",
+  "पर",
+  "सेकंठ",
+  "पे",
+  "लोगत",
+  "है.",
+  "रीविवोस",
+  "की",
+  "सबसे",
+  "बढ़ी",
+  "शिकायत",
+  "यही",
+  "रही."
+ ]
+}

@@ -1,0 +1,1204 @@
+{
+ "total": 66.068,
+ "voice": "long-gta6-hisaab/ch6/voice.wav",
+ "lines": [
+  {
+   "start": 0.317,
+   "text": "Chapter paanch. Mahine aur ghante ka hisaab.",
+   "end": 2.539
+  },
+  {
+   "start": 2.539,
+   "text": "Sattar hazaar ek saath bhaari lagte hain. Agar aap baarah mahine ki no cost EMI pe lo, to ₹5,916 mahina. EMI offer bank aur dukaan ke hisaab se badalte hain, isliye ye sirf hisaab hai.",
+   "end": 14.325
+  },
+  {
+   "start": 14.828,
+   "text": "Ab ek aur tareeka. Maan lo aap saal bhar roz ek ghanta khelte ho. Matlab 365 ghante.",
+   "end": 21.06
+  },
+  {
+   "start": 21.154,
+   "text": "Poora setup, ₹70,989 , ka matlab lagbhag ₹194 rupaye ghanta.",
+   "end": 25.734
+  },
+  {
+   "start": 25.956,
+   "text": "Aur agar PS5 pehle se hai, to sirf game ka kharcha ₹16 rupaye ghanta. Ek chai se bhi kam.",
+   "end": 32.266
+  },
+  {
+   "start": 32.72,
+   "text": "Aur agar aap sirf weekend gamer ho? Saturday aur Sunday do-do ghante. Matlab hafte mein chaar ghante, saal mein 208 ghante. Tab poora setup lagbhag ₹341 rupaye ghanta padta hai, aur sirf game lagbhag ₹29 rupaye ghanta.",
+   "end": 47.23
+  },
+  {
+   "start": 47.829,
+   "text": "Aur PS5 pe aap baaki games bhi kheloge, to asli per ghanta kharcha isse bhi kam hoga.",
+   "end": 53.464
+  },
+  {
+   "start": 53.464,
+   "text": "Aur ek desi jugaad. Teen dost milke ek PS5 aur ek game lo, aur baari baari se khelo. Har ek ka hissa ₹23,663 . Bas ye pehle tay kar lena ki Saturday raat kiski baari hai.",
+   "end": 64.716
+  }
+ ],
+ "words": [
+  {
+   "w": "Chapter",
+   "start": 0.317,
+   "end": 0.615
+  },
+  {
+   "w": "paanch.",
+   "start": 0.635,
+   "end": 0.932
+  },
+  {
+   "w": "Mahine",
+   "start": 0.952,
+   "end": 1.249
+  },
+  {
+   "w": "aur",
+   "start": 1.269,
+   "end": 1.567
+  },
+  {
+   "w": "ghante",
+   "start": 1.587,
+   "end": 1.884
+  },
+  {
+   "w": "ka",
+   "start": 1.904,
+   "end": 2.201
+  },
+  {
+   "w": "hisaab.",
+   "start": 2.221,
+   "end": 2.519
+  },
+  {
+   "w": "Sattar",
+   "start": 2.539,
+   "end": 2.836
+  },
+  {
+   "w": "hazaar",
+   "start": 2.856,
+   "end": 3.153
+  },
+  {
+   "w": "ek",
+   "start": 3.173,
+   "end": 3.471
+  },
+  {
+   "w": "saath",
+   "start": 3.491,
+   "end": 3.788
+  },
+  {
+   "w": "bhaari",
+   "start": 3.808,
+   "end": 4.105
+  },
+  {
+   "w": "lagte",
+   "start": 4.125,
+   "end": 4.423
+  },
+  {
+   "w": "hain.",
+   "start": 4.443,
+   "end": 4.74
+  },
+  {
+   "w": "Agar",
+   "start": 4.76,
+   "end": 5.08
+  },
+  {
+   "w": "aap",
+   "start": 5.1,
+   "end": 5.42
+  },
+  {
+   "w": "baarah",
+   "start": 5.44,
+   "end": 5.86
+  },
+  {
+   "w": "mahine",
+   "start": 5.88,
+   "end": 6.18
+  },
+  {
+   "w": "ki",
+   "start": 6.2,
+   "end": 6.28
+  },
+  {
+   "w": "no",
+   "start": 6.3,
+   "end": 6.38
+  },
+  {
+   "w": "cost",
+   "start": 6.4,
+   "end": 6.9
+  },
+  {
+   "w": "EMI",
+   "start": 6.92,
+   "end": 7.07
+  },
+  {
+   "w": "pe",
+   "start": 7.09,
+   "end": 7.24
+  },
+  {
+   "w": "lo,",
+   "start": 7.26,
+   "end": 7.5
+  },
+  {
+   "w": "to",
+   "start": 7.52,
+   "end": 7.964
+  },
+  {
+   "w": "₹5,916",
+   "start": 7.984,
+   "end": 8.784
+  },
+  {
+   "w": "mahina.",
+   "start": 9.8,
+   "end": 10.6
+  },
+  {
+   "w": "EMI",
+   "start": 10.78,
+   "end": 10.92
+  },
+  {
+   "w": "offer",
+   "start": 10.94,
+   "end": 11.16
+  },
+  {
+   "w": "bank",
+   "start": 11.18,
+   "end": 11.46
+  },
+  {
+   "w": "aur",
+   "start": 11.48,
+   "end": 11.58
+  },
+  {
+   "w": "dukaan",
+   "start": 11.6,
+   "end": 11.86
+  },
+  {
+   "w": "ke",
+   "start": 11.88,
+   "end": 11.98
+  },
+  {
+   "w": "hisaab",
+   "start": 12.0,
+   "end": 12.16
+  },
+  {
+   "w": "se",
+   "start": 12.18,
+   "end": 12.24
+  },
+  {
+   "w": "badalte",
+   "start": 12.26,
+   "end": 12.6
+  },
+  {
+   "w": "hain,",
+   "start": 12.62,
+   "end": 12.7
+  },
+  {
+   "w": "isliye",
+   "start": 12.72,
+   "end": 13.52
+  },
+  {
+   "w": "ye",
+   "start": 13.641,
+   "end": 13.76
+  },
+  {
+   "w": "sirf",
+   "start": 13.78,
+   "end": 14.04
+  },
+  {
+   "w": "hisaab",
+   "start": 14.06,
+   "end": 14.22
+  },
+  {
+   "w": "hai.",
+   "start": 14.24,
+   "end": 14.808
+  },
+  {
+   "w": "Ab",
+   "start": 14.828,
+   "end": 15.252
+  },
+  {
+   "w": "ek",
+   "start": 15.272,
+   "end": 15.42
+  },
+  {
+   "w": "aur",
+   "start": 15.44,
+   "end": 15.54
+  },
+  {
+   "w": "tareeka.",
+   "start": 15.56,
+   "end": 16.36
+  },
+  {
+   "w": "Maan",
+   "start": 16.389,
+   "end": 16.64
+  },
+  {
+   "w": "lo",
+   "start": 16.66,
+   "end": 16.8
+  },
+  {
+   "w": "aap",
+   "start": 16.82,
+   "end": 16.94
+  },
+  {
+   "w": "saal",
+   "start": 16.96,
+   "end": 17.26
+  },
+  {
+   "w": "bhar",
+   "start": 17.28,
+   "end": 17.46
+  },
+  {
+   "w": "roz",
+   "start": 17.48,
+   "end": 17.827
+  },
+  {
+   "w": "ek",
+   "start": 17.847,
+   "end": 17.98
+  },
+  {
+   "w": "ghanta",
+   "start": 18.0,
+   "end": 18.22
+  },
+  {
+   "w": "khelte",
+   "start": 18.24,
+   "end": 18.5
+  },
+  {
+   "w": "ho.",
+   "start": 18.52,
+   "end": 18.82
+  },
+  {
+   "w": "Matlab",
+   "start": 18.84,
+   "end": 19.48
+  },
+  {
+   "w": "365",
+   "start": 19.5,
+   "end": 20.2
+  },
+  {
+   "w": "ghante.",
+   "start": 20.22,
+   "end": 21.02
+  },
+  {
+   "w": "Poora",
+   "start": 21.154,
+   "end": 21.36
+  },
+  {
+   "w": "setup,",
+   "start": 21.38,
+   "end": 21.58
+  },
+  {
+   "w": "₹70,989",
+   "start": 21.6,
+   "end": 22.4
+  },
+  {
+   "w": ",",
+   "start": 22.95,
+   "end": 23.1
+  },
+  {
+   "w": "ka",
+   "start": 23.12,
+   "end": 23.26
+  },
+  {
+   "w": "matlab",
+   "start": 23.28,
+   "end": 23.905
+  },
+  {
+   "w": "lagbhag",
+   "start": 23.925,
+   "end": 24.38
+  },
+  {
+   "w": "₹194",
+   "start": 24.4,
+   "end": 25.2
+  },
+  {
+   "w": "rupaye",
+   "start": 25.3,
+   "end": 25.4
+  },
+  {
+   "w": "ghanta.",
+   "start": 25.42,
+   "end": 25.936
+  },
+  {
+   "w": "Aur",
+   "start": 25.956,
+   "end": 26.614
+  },
+  {
+   "w": "agar",
+   "start": 26.634,
+   "end": 27.24
+  },
+  {
+   "w": "PS5",
+   "start": 27.26,
+   "end": 27.44
+  },
+  {
+   "w": "pehle",
+   "start": 27.46,
+   "end": 27.82
+  },
+  {
+   "w": "se",
+   "start": 27.84,
+   "end": 27.98
+  },
+  {
+   "w": "hai,",
+   "start": 28.0,
+   "end": 28.431
+  },
+  {
+   "w": "to",
+   "start": 28.451,
+   "end": 28.54
+  },
+  {
+   "w": "sirf",
+   "start": 28.56,
+   "end": 28.78
+  },
+  {
+   "w": "game",
+   "start": 28.8,
+   "end": 28.96
+  },
+  {
+   "w": "ka",
+   "start": 28.98,
+   "end": 29.1
+  },
+  {
+   "w": "kharcha",
+   "start": 29.12,
+   "end": 29.42
+  },
+  {
+   "w": "₹16",
+   "start": 29.44,
+   "end": 30.22
+  },
+  {
+   "w": "rupaye",
+   "start": 30.24,
+   "end": 30.38
+  },
+  {
+   "w": "ghanta.",
+   "start": 30.4,
+   "end": 31.2
+  },
+  {
+   "w": "Ek",
+   "start": 31.28,
+   "end": 31.66
+  },
+  {
+   "w": "chai",
+   "start": 31.68,
+   "end": 31.86
+  },
+  {
+   "w": "se",
+   "start": 31.88,
+   "end": 32.02
+  },
+  {
+   "w": "bhi",
+   "start": 32.04,
+   "end": 32.1
+  },
+  {
+   "w": "kam.",
+   "start": 32.12,
+   "end": 32.7
+  },
+  {
+   "w": "Aur",
+   "start": 32.72,
+   "end": 33.341
+  },
+  {
+   "w": "agar",
+   "start": 33.361,
+   "end": 33.561
+  },
+  {
+   "w": "aap",
+   "start": 33.581,
+   "end": 33.78
+  },
+  {
+   "w": "sirf",
+   "start": 33.8,
+   "end": 34.04
+  },
+  {
+   "w": "weekend",
+   "start": 34.06,
+   "end": 34.4
+  },
+  {
+   "w": "gamer",
+   "start": 34.42,
+   "end": 34.673
+  },
+  {
+   "w": "ho?",
+   "start": 34.693,
+   "end": 34.947
+  },
+  {
+   "w": "Saturday",
+   "start": 34.967,
+   "end": 35.36
+  },
+  {
+   "w": "aur",
+   "start": 35.38,
+   "end": 35.5
+  },
+  {
+   "w": "Sunday",
+   "start": 35.52,
+   "end": 35.78
+  },
+  {
+   "w": "do-do",
+   "start": 35.8,
+   "end": 36.08
+  },
+  {
+   "w": "ghante.",
+   "start": 36.1,
+   "end": 36.36
+  },
+  {
+   "w": "Matlab",
+   "start": 36.38,
+   "end": 37.1
+  },
+  {
+   "w": "hafte",
+   "start": 37.12,
+   "end": 37.38
+  },
+  {
+   "w": "mein",
+   "start": 37.4,
+   "end": 37.5
+  },
+  {
+   "w": "chaar",
+   "start": 37.52,
+   "end": 37.78
+  },
+  {
+   "w": "ghante,",
+   "start": 37.8,
+   "end": 38.16
+  },
+  {
+   "w": "saal",
+   "start": 38.18,
+   "end": 38.66
+  },
+  {
+   "w": "mein",
+   "start": 38.68,
+   "end": 38.98
+  },
+  {
+   "w": "208",
+   "start": 39.0,
+   "end": 39.8
+  },
+  {
+   "w": "ghante.",
+   "start": 39.84,
+   "end": 40.64
+  },
+  {
+   "w": "Tab",
+   "start": 40.727,
+   "end": 41.137
+  },
+  {
+   "w": "poora",
+   "start": 41.157,
+   "end": 41.44
+  },
+  {
+   "w": "setup",
+   "start": 41.46,
+   "end": 41.8
+  },
+  {
+   "w": "lagbhag",
+   "start": 41.82,
+   "end": 42.336
+  },
+  {
+   "w": "₹341",
+   "start": 42.356,
+   "end": 43.156
+  },
+  {
+   "w": "rupaye",
+   "start": 43.32,
+   "end": 43.54
+  },
+  {
+   "w": "ghanta",
+   "start": 43.56,
+   "end": 43.82
+  },
+  {
+   "w": "padta",
+   "start": 43.84,
+   "end": 44.64
+  },
+  {
+   "w": "hai,",
+   "start": 44.694,
+   "end": 44.674
+  },
+  {
+   "w": "aur",
+   "start": 44.694,
+   "end": 44.86
+  },
+  {
+   "w": "sirf",
+   "start": 44.88,
+   "end": 45.06
+  },
+  {
+   "w": "game",
+   "start": 45.08,
+   "end": 45.3
+  },
+  {
+   "w": "lagbhag",
+   "start": 45.32,
+   "end": 45.84
+  },
+  {
+   "w": "₹29",
+   "start": 45.86,
+   "end": 46.62
+  },
+  {
+   "w": "rupaye",
+   "start": 46.64,
+   "end": 46.88
+  },
+  {
+   "w": "ghanta.",
+   "start": 46.9,
+   "end": 47.7
+  },
+  {
+   "w": "Aur",
+   "start": 47.829,
+   "end": 48.205
+  },
+  {
+   "w": "PS5",
+   "start": 48.225,
+   "end": 48.6
+  },
+  {
+   "w": "pe",
+   "start": 48.62,
+   "end": 48.74
+  },
+  {
+   "w": "aap",
+   "start": 48.76,
+   "end": 48.88
+  },
+  {
+   "w": "baaki",
+   "start": 48.9,
+   "end": 49.12
+  },
+  {
+   "w": "games",
+   "start": 49.14,
+   "end": 49.36
+  },
+  {
+   "w": "bhi",
+   "start": 49.38,
+   "end": 49.46
+  },
+  {
+   "w": "kheloge,",
+   "start": 49.48,
+   "end": 50.2
+  },
+  {
+   "w": "to",
+   "start": 50.22,
+   "end": 50.482
+  },
+  {
+   "w": "asli",
+   "start": 50.502,
+   "end": 51.034
+  },
+  {
+   "w": "per",
+   "start": 51.054,
+   "end": 51.2
+  },
+  {
+   "w": "ghanta",
+   "start": 51.22,
+   "end": 51.56
+  },
+  {
+   "w": "kharcha",
+   "start": 51.58,
+   "end": 51.92
+  },
+  {
+   "w": "isse",
+   "start": 51.94,
+   "end": 52.26
+  },
+  {
+   "w": "bhi",
+   "start": 52.28,
+   "end": 52.4
+  },
+  {
+   "w": "kam",
+   "start": 52.42,
+   "end": 52.56
+  },
+  {
+   "w": "hoga.",
+   "start": 52.58,
+   "end": 53.38
+  },
+  {
+   "w": "Aur",
+   "start": 53.464,
+   "end": 53.66
+  },
+  {
+   "w": "ek",
+   "start": 53.68,
+   "end": 53.74
+  },
+  {
+   "w": "desi",
+   "start": 53.76,
+   "end": 53.96
+  },
+  {
+   "w": "jugaad.",
+   "start": 53.98,
+   "end": 54.772
+  },
+  {
+   "w": "Teen",
+   "start": 54.792,
+   "end": 55.2
+  },
+  {
+   "w": "dost",
+   "start": 55.22,
+   "end": 55.48
+  },
+  {
+   "w": "milke",
+   "start": 55.5,
+   "end": 55.9
+  },
+  {
+   "w": "ek",
+   "start": 55.92,
+   "end": 56.32
+  },
+  {
+   "w": "PS5",
+   "start": 56.34,
+   "end": 56.74
+  },
+  {
+   "w": "aur",
+   "start": 56.76,
+   "end": 56.86
+  },
+  {
+   "w": "ek",
+   "start": 56.88,
+   "end": 56.96
+  },
+  {
+   "w": "game",
+   "start": 56.98,
+   "end": 57.22
+  },
+  {
+   "w": "lo,",
+   "start": 57.24,
+   "end": 57.764
+  },
+  {
+   "w": "aur",
+   "start": 57.784,
+   "end": 57.9
+  },
+  {
+   "w": "baari",
+   "start": 57.92,
+   "end": 58.2
+  },
+  {
+   "w": "baari",
+   "start": 58.22,
+   "end": 58.4
+  },
+  {
+   "w": "se",
+   "start": 58.42,
+   "end": 58.56
+  },
+  {
+   "w": "khelo.",
+   "start": 58.58,
+   "end": 59.36
+  },
+  {
+   "w": "Har",
+   "start": 59.38,
+   "end": 59.47
+  },
+  {
+   "w": "ek",
+   "start": 59.49,
+   "end": 59.58
+  },
+  {
+   "w": "ka",
+   "start": 59.6,
+   "end": 59.68
+  },
+  {
+   "w": "hissa",
+   "start": 59.7,
+   "end": 60.118
+  },
+  {
+   "w": "₹23,663",
+   "start": 60.138,
+   "end": 60.938
+  },
+  {
+   "w": ".",
+   "start": 61.732,
+   "end": 62.165
+  },
+  {
+   "w": "Bas",
+   "start": 62.185,
+   "end": 62.548
+  },
+  {
+   "w": "ye",
+   "start": 62.568,
+   "end": 62.78
+  },
+  {
+   "w": "pehle",
+   "start": 62.8,
+   "end": 63.0
+  },
+  {
+   "w": "tay",
+   "start": 63.02,
+   "end": 63.18
+  },
+  {
+   "w": "kar",
+   "start": 63.2,
+   "end": 63.24
+  },
+  {
+   "w": "lena",
+   "start": 63.26,
+   "end": 63.42
+  },
+  {
+   "w": "ki",
+   "start": 63.44,
+   "end": 63.56
+  },
+  {
+   "w": "Saturday",
+   "start": 63.58,
+   "end": 63.85
+  },
+  {
+   "w": "raat",
+   "start": 63.87,
+   "end": 64.14
+  },
+  {
+   "w": "kiski",
+   "start": 64.16,
+   "end": 64.38
+  },
+  {
+   "w": "baari",
+   "start": 64.4,
+   "end": 64.58
+  },
+  {
+   "w": "hai.",
+   "start": 64.6,
+   "end": 65.068
+  }
+ ],
+ "cues": {
+  "c5": 0.317,
+  "emi": 2.539,
+  "hour": 14.828,
+  "perhr": 21.154,
+  "gameonly": 25.956,
+  "weekend": 32.72,
+  "more": 47.829,
+  "split": 53.464
+ },
+ "numbers": [
+  {
+   "show": "₹5,916",
+   "spoken": "paanch hazaar nau sau solah",
+   "heard": 0.6,
+   "digit_diff": null
+  },
+  {
+   "show": "365",
+   "spoken": "teen sau painsath",
+   "heard": 0.67,
+   "digit_diff": null
+  },
+  {
+   "show": "₹70,989",
+   "spoken": "sattar hazaar nau sau navaasi",
+   "heard": 0.6,
+   "digit_diff": null
+  },
+  {
+   "show": "₹194",
+   "spoken": "ek sau chauraanve",
+   "heard": 0.67,
+   "digit_diff": null
+  },
+  {
+   "show": "PS5",
+   "spoken": "PS5",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "₹16",
+   "spoken": "solah",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "208",
+   "spoken": "do sau aath",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "₹341",
+   "spoken": "teen sau iktaalees",
+   "heard": 0.67,
+   "digit_diff": null
+  },
+  {
+   "show": "₹29",
+   "spoken": "untees",
+   "heard": 1.0,
+   "digit_diff": null
+  },
+  {
+   "show": "PS5",
+   "spoken": "PS5",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "PS5",
+   "spoken": "PS5",
+   "heard": 1.0,
+   "digit_diff": 0
+  },
+  {
+   "show": "₹23,663",
+   "spoken": "teis hazaar chhe sau tirsath",
+   "heard": 0.8,
+   "digit_diff": null
+  }
+ ],
+ "heard": [
+  "अगर",
+  "बारा",
+  "महने",
+  "की",
+  "नोखोस्ट",
+  "एमाई",
+  "पिलो",
+  "तो",
+  "पाचाजार",
+  "नोसो",
+  "सोला",
+  "महीना",
+  "ये",
+  "माई",
+  "अफर",
+  "बैंख",
+  "और",
+  "दुकान",
+  "के",
+  "साभ",
+  "से",
+  "बडलते",
+  "है",
+  "इसलिए",
+  "ये",
+  "सर्फि",
+  "साभ",
+  "है",
+  "अब",
+  "एक",
+  "और",
+  "तरीका,",
+  "मान",
+  "लो",
+  "आप",
+  "साल",
+  "बहर",
+  "रोज",
+  "एक",
+  "गन्ता",
+  "खेलते",
+  "हो.",
+  "मतलब,",
+  "तींसो",
+  "पैंसर्ट",
+  "गन्ते,",
+  "पूरा",
+  "सेट",
+  "अप",
+  "सद्टरदार",
+  "नोसु",
+  "नवासी",
+  "का",
+  "मतलब",
+  "लग्ब",
+  "हग",
+  "एक",
+  "सो",
+  "चो",
+  "चोड़ाणवर",
+  "पे",
+  "खंटा",
+  "और",
+  "अगर",
+  "P",
+  ".S",
+  ".5",
+  "पहले",
+  "से",
+  "है,",
+  "तो",
+  "सच्वर",
+  "गेंगे",
+  "भी",
+  "खर्चा",
+  "सोला",
+  "रोपे",
+  "गान्टा,",
+  "एक",
+  "चाय",
+  "से",
+  "भी",
+  "कम.",
+  "और",
+  "अगर",
+  "आगर",
+  "सेर्व",
+  "वीकेंगी",
+  "मरो,",
+  "साटेडे",
+  "और",
+  "सुन्दे",
+  "दोड़,",
+  "दो",
+  "कंटे",
+  "मतलब",
+  "हफते",
+  "में",
+  "चार",
+  "कंटे",
+  "साल",
+  "में",
+  "दो",
+  "सो",
+  "आट",
+  "कंटे",
+  "तब",
+  "पूरा",
+  "सेट",
+  "अप",
+  "लगभक",
+  "तींसो",
+  "एक",
+  "ताले",
+  "सुर्पे",
+  "कहन्ता",
+  "परता",
+  "है",
+  "और",
+  "सुर्फ",
+  "गेम",
+  "लक्बग",
+  "उन्ती",
+  "सुर्पे",
+  "कहन्ता",
+  "और",
+  "पीस्वाइव",
+  "पे",
+  "आब",
+  "बाकी",
+  "गेम्स",
+  "भी",
+  "खेलोगे",
+  "तो",
+  "आस्ली",
+  "पर",
+  "गन्ता",
+  "करचा",
+  "इसे",
+  "भी",
+  "कम",
+  "होगा.",
+  "और",
+  "एक",
+  "दीसी",
+  "जुगाड.",
+  "तीन",
+  "दोस्त",
+  "मिलके",
+  "एक",
+  "पीस्पाइव",
+  "और",
+  "एक",
+  "जुगाड.",
+  "लो",
+  "और",
+  "बारी",
+  "बारी",
+  "से",
+  "खेलो",
+  "हरेक",
+  "का",
+  "हिस्था",
+  "खेइस",
+  "हजार",
+  "चेसो",
+  "तीरे",
+  "सेत",
+  "बस",
+  "ये",
+  "पाले",
+  "तैया",
+  "कर",
+  "लेना",
+  "कि",
+  "साथदेर",
+  "च्गाँ",
+  "किसकी",
+  "बारी",
+  "है"
+ ]
+}
